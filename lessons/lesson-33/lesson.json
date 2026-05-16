@@ -1,0 +1,250 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "gerundio",
+    "progressive-patterns",
+    "simultaneous-actions",
+    "adult-learners"
+  ],
+  "difficulty": "B1",
+  "pattern_id": "GERUNDIO_FUNCTIONAL_PATTERNS_33",
+  "source_files": [
+    "lessons/lesson-33/Summary 33.pdf",
+    "lessons/lesson-33/ejercicio gerundio.pdf"
+  ],
+  "target_pattern": "Use gerundio forms only for verbal action patterns (not noun uses), including estar, seguir, llevar, terminar/acabar, andar, method expressions, perception verbs, and simultaneous action frames.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Using Spanish gerundio where English uses ing as a noun.",
+      "spanish_logic": "Spanish infinitives express noun-like actions, while gerundio forms mark actions in progress or linked action framing.",
+      "target_pattern_formula": [
+        "estar + gerundio",
+        "seguir + gerundio",
+        "llevar + duration + gerundio",
+        "terminar or acabar + gerundio",
+        "method/perception/simultaneity uses with gerundio"
+      ],
+      "natural_examples": [
+        "Estoy leyendo un informe.",
+        "Sigo estudiando cada noche.",
+        "Llevo dos anos trabajando aqui.",
+        "Terminamos comiendo en casa.",
+        "Vi a Juan corriendo."
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each in Spanish using the target gerundio pattern.",
+      "prompts_en": [
+        "I am eating.",
+        "She is studying.",
+        "We are watching a movie.",
+        "They are sleeping.",
+        "He is writing an email.",
+        "I was sleeping when you arrived.",
+        "She was reading all afternoon.",
+        "They were talking when I arrived.",
+        "We were working all day.",
+        "He was cooking when it started to rain.",
+        "Maria has been living in Spain for two years.",
+        "I have been working here for five months.",
+        "We have been studying Spanish for a long time.",
+        "He has been waiting for the bus for thirty minutes.",
+        "I keep studying every night.",
+        "She keeps calling me.",
+        "We keep asking the same thing.",
+        "Why do you keep complaining?",
+        "They keep working even when it is late.",
+        "I saw my boss buying something."
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as instructed.",
+      "drills": [
+        "Base: Estoy hablando con mi amigo. -> change subject to nosotros.",
+        "Base: Estamos comiendo tacos. -> change object to ensalada.",
+        "Base: Ella esta viendo la pelicula. -> change to ellos.",
+        "Base: Ellos estan leyendo un libro. -> change noun to plural libros.",
+        "Base: El esta oyendo un ruido. -> change verb to escuchar keeping progressive.",
+        "Base: Estoy estudiando espanol ahora mismo. -> make it negative.",
+        "Base: Estas escribiendo una carta. -> make it question form with usted.",
+        "Base: El esta bebiendo cafe. -> change object to te.",
+        "Base: Estamos limpiando la casa. -> change subject to ella.",
+        "Base: Ellos estan durmiendo en la sala. -> change location to el dormitorio.",
+        "Base: Estoy diciendo algo importante. -> change subject to nosotros.",
+        "Base: El esta pidiendo ayuda. -> change to plural subject ellos.",
+        "Base: Ella esta explicando el problema. -> change object to la solucion.",
+        "Base: Ellos estan construyendo una casa. -> change to singular subject el.",
+        "Base: Ellos estan siguiendo las instrucciones. -> change to singular yo."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the correct Spanish form.",
+      "prompts": [
+        "Running is good for you. (Correr es bueno para ti. vs Corriendo es bueno para ti.)",
+        "I am hearing a noise. (Estoy oyendo un ruido. vs Estoy oiendo un ruido.)",
+        "She is asking for help. (Ella esta pidiendo ayuda. vs Ella esta pediendo ayuda.)",
+        "They are saying the truth. (Ellos estan diciendo la verdad. vs Ellos estan deciendo la verdad.)",
+        "We keep working. (Seguimos trabajando. vs Seguimos trabajar.)",
+        "I have been living here for three years. (Llevo tres anos viviendo aqui. vs Llevo tres anos vivir aqui.)",
+        "We ended up eating at home. (Terminamos comiendo en casa. vs Terminamos comer en casa.)",
+        "I cut the bread using a knife. (Corte el pan usando un cuchillo. vs Corte el pan por usar un cuchillo.)",
+        "I saw Maria dancing. (Vi a Maria bailando. vs Vi Maria bailando.)",
+        "He left crying. (Se fue llorando. vs Se fue llorar.)"
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific meaning.",
+      "prompts": [
+        "Write that you are reading a report right now.",
+        "Write that your team is preparing lunch.",
+        "Write that you have been working from home for six months.",
+        "Write that you keep practicing Spanish every day.",
+        "Write that your friend keeps complaining about traffic.",
+        "Write that you ended up staying home tonight.",
+        "Write that your coworkers ended up finishing late.",
+        "Write that you spent the morning answering emails.",
+        "Write that your manager goes around asking questions.",
+        "Write that you learned by watching experts.",
+        "Write that you saw your colleague writing notes.",
+        "Write that you woke up thinking about work.",
+        "Write that your partner left laughing.",
+        "Write that your neighbors are building a house.",
+        "Write that you are trying to improve your Spanish."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish, not literal English.",
+      "prompts_en": [
+        "I am saying this clearly.",
+        "We are hearing something strange.",
+        "She has been waiting for an hour.",
+        "Why do they keep calling?",
+        "He ended up buying the expensive one.",
+        "We spent the night talking.",
+        "I go around looking for my keys.",
+        "They improved by practicing every day.",
+        "I saw him crying.",
+        "We entered singing."
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "Corriendo es divertido.",
+        "why_it_happens": "English gerund noun transfer.",
+        "correct_spanish": "Correr es divertido."
+      },
+      {
+        "mistake": "estoy oiendo",
+        "why_it_happens": "Missing spelling change in oir gerund.",
+        "correct_spanish": "estoy oyendo"
+      },
+      {
+        "mistake": "esta pediendo",
+        "why_it_happens": "Regularized form for pedir.",
+        "correct_spanish": "esta pidiendo"
+      },
+      {
+        "mistake": "esta deciendo",
+        "why_it_happens": "Irregular form not memorized.",
+        "correct_spanish": "esta diciendo"
+      },
+      {
+        "mistake": "sigo estudiar",
+        "why_it_happens": "Infinitive used after seguir frame.",
+        "correct_spanish": "sigo estudiando"
+      },
+      {
+        "mistake": "llevo dos anos vivir aqui",
+        "why_it_happens": "Infinitive instead of gerund after llevar + time.",
+        "correct_spanish": "llevo dos anos viviendo aqui"
+      },
+      {
+        "mistake": "terminamos comer",
+        "why_it_happens": "Missing gerund after terminar/acabar in this pattern.",
+        "correct_spanish": "terminamos comiendo"
+      },
+      {
+        "mistake": "Using por + infinitive in method expressions",
+        "why_it_happens": "Literal translation of by.",
+        "correct_spanish": "Use gerund directly, observando/usando."
+      },
+      {
+        "mistake": "vi Maria bailando",
+        "why_it_happens": "Missing personal a with person object.",
+        "correct_spanish": "vi a Maria bailando"
+      },
+      {
+        "mistake": "se fue llorar",
+        "why_it_happens": "Infinitive used for simultaneous action.",
+        "correct_spanish": "se fue llorando"
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "Estoy comiendo.",
+        "Ella esta estudiando.",
+        "Estamos viendo una pelicula.",
+        "Ellos estan durmiendo.",
+        "El esta escribiendo un correo.",
+        "Yo estaba durmiendo cuando llegaste.",
+        "Ella estuvo leyendo toda la tarde.",
+        "Ellos estaban hablando cuando llegue.",
+        "Estuvimos trabajando todo el dia.",
+        "El estaba cocinando cuando empezo a llover.",
+        "Maria lleva dos anos viviendo en Espana.",
+        "Llevo cinco meses trabajando aqui.",
+        "Llevamos mucho tiempo estudiando espanol.",
+        "El lleva treinta minutos esperando el autobus.",
+        "Sigo estudiando cada noche.",
+        "Ella sigue llamandome.",
+        "Seguimos preguntando lo mismo.",
+        "Por que sigues quejandote?",
+        "Ellos siguen trabajando incluso cuando es tarde.",
+        "Vi a mi jefe comprando algo."
+      ],
+      "pattern_mutation": [
+        "Estamos hablando con mi amigo.",
+        "Estamos comiendo ensalada.",
+        "Ellos estan viendo la pelicula.",
+        "Ellos estan leyendo libros.",
+        "El esta escuchando un ruido.",
+        "No estoy estudiando espanol ahora mismo.",
+        "Esta escribiendo una carta?",
+        "El esta bebiendo te.",
+        "Ella esta limpiando la casa.",
+        "Ellos estan durmiendo en el dormitorio.",
+        "Estamos diciendo algo importante.",
+        "Ellos estan pidiendo ayuda.",
+        "Ella esta explicando la solucion.",
+        "El esta construyendo una casa.",
+        "Estoy siguiendo las instrucciones."
+      ],
+      "contrastive_discrimination": [
+        "Correr es bueno para ti.",
+        "Estoy oyendo un ruido.",
+        "Ella esta pidiendo ayuda.",
+        "Ellos estan diciendo la verdad.",
+        "Seguimos trabajando.",
+        "Llevo tres anos viviendo aqui.",
+        "Terminamos comiendo en casa.",
+        "Corte el pan usando un cuchillo.",
+        "Vi a Maria bailando.",
+        "Se fue llorando."
+      ],
+      "reverse_conceptual_expression": [
+        "Estoy diciendo esto claramente.",
+        "Estamos oyendo algo raro.",
+        "Ella lleva una hora esperando.",
+        "Por que siguen llamando?",
+        "El termino comprando el caro.",
+        "Pasamos la noche hablando.",
+        "Ando buscando mis llaves.",
+        "Mejoraron practicando todos los dias.",
+        "Lo vi llorando.",
+        "Entramos cantando."
+      ]
+    }
+  }
+}

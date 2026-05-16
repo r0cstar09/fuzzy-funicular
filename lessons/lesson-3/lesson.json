@@ -1,0 +1,247 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "preterite-vs-imperfect",
+    "past-narration",
+    "adult-learners"
+  ],
+  "difficulty": "A2-B1",
+  "pattern_id": "PAST_NARRATION_PRET_IMP_03",
+  "source_files": [
+    "lessons/lesson-3/Deep 3 Summary (1).pdf",
+    "lessons/lesson-3/DD exercise 3 rev492026.pdf"
+  ],
+  "target_pattern": "Narrate past events by combining imperfect for background/habit and preterite for completed events, including meaning shifts in verbs like poder, querer, saber, and conocer.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Using one generic past tense for every situation.",
+      "spanish_logic": "Spanish past narration usually combines two layers: imperfect for context or ongoing action, and preterite for completed events that move the story forward.",
+      "target_pattern_formula": [
+        "Imperfecto (contexto) + cuando/mientras + Pretérito (evento puntual)",
+        "Imperfecto for repeated or habitual past (siempre, de niño, todos los días)",
+        "Pretérito for finished actions with clear endpoint (ayer, anoche, de repente)"
+      ],
+      "natural_examples": [
+        "Estaba en casa cuando sonó el teléfono.",
+        "Cuando era niño, iba al parque todos los sábados.",
+        "Mientras trabajaba, recibí un mensaje urgente.",
+        "Había mucho tráfico cuando salí de casa.",
+        "Quería llamarte, pero no pude."
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each in Spanish using preterite/imperfect naturally. No answer key until the end.",
+      "prompts_en": [
+        "I was cooking when my boss called.",
+        "When I was a child, I always visited my grandparents in summer.",
+        "Last night, I finished the report at home.",
+        "While we were talking, the lights went out.",
+        "There was a lot of traffic when I left the office.",
+        "I wanted to go, but I could not.",
+        "Yesterday I met a new client.",
+        "She said that she knew my manager.",
+        "We were watching a movie when the internet failed.",
+        "I found out the truth yesterday.",
+        "I did not know you wanted to change jobs.",
+        "They got home late and ate quickly.",
+        "While I was driving, I heard strange noise.",
+        "When we were kids, we played outside every day.",
+        "He refused to sign the contract.",
+        "I could open the door after three tries (and succeeded).",
+        "It was cold and it looked like it was going to rain.",
+        "I was reading for two hours.",
+        "We were in a meeting when the director arrived.",
+        "For years, my father worked in that company."
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as directed.",
+      "drills": [
+        "Base: Estaba en casa cuando sonó el teléfono. -> change casa to oficina.",
+        "Base: Cuando era niño, iba al parque. -> change to plural nosotros.",
+        "Base: Quería salir, pero no podía. -> change to successful completion with preterite.",
+        "Base: Conocía a Marta desde 2018. -> change to I met Marta in 2018.",
+        "Base: Sabía la respuesta. -> change to I found out the answer yesterday.",
+        "Base: Mientras trabajaba, escuché un ruido. -> make it a question.",
+        "Base: Había mucho tráfico cuando salí. -> change salí to salimos.",
+        "Base: Jugábamos tenis los domingos. -> make it negative.",
+        "Base: Estuve leyendo dos horas. -> change to I was reading when you called me.",
+        "Base: No quise responder. -> change to ongoing desire (imperfect).",
+        "Base: Podía levantar la caja. -> change to I managed to lift the box.",
+        "Base: El cielo parecía gris. -> add and it started to rain.",
+        "Base: Dijo que conocía a Juan. -> change to She said she met Juan.",
+        "Base: Cuando llegué, todos bailaban. -> change bailaban to completed action.",
+        "Base: Íbamos al gimnasio los lunes. -> change time frame to el lunes pasado."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the best option in Spanish based on meaning.",
+      "prompts": [
+        "I could finish it (and I did). (podía vs pude)",
+        "I was able to finish it in general, but maybe I did not. (podía vs pude)",
+        "I met Ana in 2020. (conocía vs conocí)",
+        "I knew Ana when we worked together. (conocía vs conocí)",
+        "I found out yesterday. (sabía vs supe)",
+        "I did not know your number. (no sabía vs no supe)",
+        "I refused to go. (no quería vs no quise)",
+        "I wanted to go (ongoing feeling). (quería vs quise)",
+        "We were talking when he arrived. (hablamos vs hablábamos)",
+        "Yesterday we talked for ten minutes. (hablamos vs hablábamos)"
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific meaning.",
+      "prompts": [
+        "You were working when someone important called you.",
+        "When you were younger, you used to study at night.",
+        "You wanted to rest yesterday, but you could not.",
+        "You found out important news this morning.",
+        "You met a new person at work last month.",
+        "You already knew that person from before.",
+        "There was a lot of noise while you were in a meeting.",
+        "You were reading when your phone rang.",
+        "Your team used to meet every Friday.",
+        "Yesterday your team met only once.",
+        "It looked like it was going to rain, and then it rained.",
+        "You refused to sign something because it was unclear.",
+        "You could complete a difficult task after several attempts.",
+        "When you arrived home, everyone was already eating.",
+        "For many years you worked in a specific field."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish (not literal English).",
+      "prompts_en": [
+        "I was in the middle of cooking when he showed up.",
+        "I found out too late.",
+        "I wanted to explain it, but he refused to listen.",
+        "Back then, we used to see each other every week.",
+        "I could do it yesterday, and I did it.",
+        "At that moment, it looked like a bad idea.",
+        "When I got there, they were already leaving.",
+        "I met her at a conference, but I already knew her company.",
+        "There was traffic, so I arrived late.",
+        "I was reading for three hours before deciding."
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "Using only preterite for all past narration",
+        "why_it_happens": "English simple past covers many uses that Spanish splits into two tenses.",
+        "correct_spanish": "Trabajaba cuando me llamaste."
+      },
+      {
+        "mistake": "Using imperfect for one-time completed actions",
+        "why_it_happens": "Learners over-associate past description with imperfect.",
+        "correct_spanish": "Ayer terminé el informe."
+      },
+      {
+        "mistake": "Podía for successful one-time result",
+        "why_it_happens": "Direct translation of could.",
+        "correct_spanish": "Pude abrir la puerta."
+      },
+      {
+        "mistake": "Quería when meaning is refused",
+        "why_it_happens": "Ignoring special preterite meaning of no quise.",
+        "correct_spanish": "No quise firmar."
+      },
+      {
+        "mistake": "Conocía for first meeting",
+        "why_it_happens": "Confusion between meet and know.",
+        "correct_spanish": "Conocí a Laura en 2022."
+      },
+      {
+        "mistake": "Sabía for discovered information",
+        "why_it_happens": "English uses knew in broader ways.",
+        "correct_spanish": "Supe la verdad ayer."
+      },
+      {
+        "mistake": "Weak sequencing with cuando clauses",
+        "why_it_happens": "Word-for-word transfer from English timing logic.",
+        "correct_spanish": "Estábamos cenando cuando llegó."
+      },
+      {
+        "mistake": "Missing preterite accent marks",
+        "why_it_happens": "Accent marks are often dropped in fast writing.",
+        "correct_spanish": "llegué, escuchó, salió"
+      },
+      {
+        "mistake": "Estaba leyendo dos horas for completed duration",
+        "why_it_happens": "Overusing imperfect continuous in duration contexts.",
+        "correct_spanish": "Estuve leyendo dos horas."
+      },
+      {
+        "mistake": "Mixed person endings in same sentence",
+        "why_it_happens": "Focus on tense but not subject agreement.",
+        "correct_spanish": "Cuando llegamos, vimos a Marta."
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "Estaba cocinando cuando me llamó mi jefe.",
+        "Cuando era niño, siempre visitaba a mis abuelos en verano.",
+        "Anoche terminé el informe en casa.",
+        "Mientras hablábamos, se fueron las luces.",
+        "Había mucho tráfico cuando salí de la oficina.",
+        "Quería ir, pero no pude.",
+        "Ayer conocí a un cliente nuevo.",
+        "Ella dijo que conocía a mi gerente.",
+        "Estábamos viendo una película cuando falló el internet.",
+        "Ayer supe la verdad.",
+        "No sabía que querías cambiar de trabajo.",
+        "Llegaron tarde a casa y comieron rápido.",
+        "Mientras manejaba, escuché un ruido extraño.",
+        "Cuando éramos niños, jugábamos afuera todos los días.",
+        "No quiso firmar el contrato.",
+        "Pude abrir la puerta después de tres intentos.",
+        "Hacía frío y parecía que iba a llover.",
+        "Estuve leyendo dos horas.",
+        "Estábamos en una reunión cuando llegó el director.",
+        "Durante años, mi padre trabajó en esa empresa."
+      ],
+      "pattern_mutation": [
+        "Estaba en la oficina cuando sonó el teléfono.",
+        "Cuando éramos niños, íbamos al parque.",
+        "Quise salir, pero no pude.",
+        "Conocí a Marta en 2018.",
+        "Supe la respuesta ayer.",
+        "¿Mientras trabajabas, escuchaste un ruido?",
+        "Había mucho tráfico cuando salimos.",
+        "No jugábamos tenis los domingos.",
+        "Estaba leyendo cuando me llamaste.",
+        "No quería responder.",
+        "Pude levantar la caja.",
+        "El cielo parecía gris y empezó a llover.",
+        "Dijo que conoció a Juan.",
+        "Cuando llegué, todos bailaron.",
+        "Fuimos al gimnasio el lunes pasado."
+      ],
+      "contrastive_discrimination": [
+        "Pude terminarlo.",
+        "Podía terminarlo.",
+        "Conocí a Ana en 2020.",
+        "Conocía a Ana cuando trabajábamos juntos.",
+        "Supe ayer.",
+        "No sabía tu número.",
+        "No quise ir.",
+        "Quería ir.",
+        "Hablábamos cuando él llegó.",
+        "Ayer hablamos diez minutos."
+      ],
+      "reverse_conceptual_expression": [
+        "Estaba cocinando cuando apareció.",
+        "Lo supe demasiado tarde.",
+        "Quise explicarlo, pero se negó a escuchar.",
+        "En esa época, nos veíamos cada semana.",
+        "Ayer pude hacerlo y lo hice.",
+        "En ese momento, parecía una mala idea.",
+        "Cuando llegué, ya se estaban yendo.",
+        "La conocí en una conferencia, pero ya conocía su empresa.",
+        "Había tráfico, así que llegué tarde.",
+        "Estuve leyendo tres horas antes de decidir."
+      ]
+    }
+  }
+}

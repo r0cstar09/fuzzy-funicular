@@ -1,0 +1,248 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "ir",
+    "ir-a-place",
+    "purpose-structure",
+    "adult-learners"
+  ],
+  "difficulty": "A1-A2",
+  "pattern_id": "IR_DESTINATION_PURPOSE_06",
+  "source_files": [
+    "lessons/lesson-6/master 6 summary.pdf",
+    "lessons/lesson-6/Lesson 6 Exercise.pdf"
+  ],
+  "target_pattern": "Use ir a + place and ir a + place + a + infinitive to express movement and purpose, and combine it with querer, poder, and tener que.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Translating to one-to-one and getting stuck when a sentence has two to ideas (go to X / to do Y).",
+      "spanish_logic": "Spanish motion uses ir a + place, and purpose uses a second a + infinitive.",
+      "target_pattern_formula": [
+        "Voy/Vas + a + lugar",
+        "Quiero/Puedo/Tengo que + ir a + lugar",
+        "... ir a + lugar + a + infinitivo (purpose)"
+      ],
+      "natural_examples": [
+        "Voy al supermercado.",
+        "Quiero ir a la biblioteca.",
+        "Tengo que ir al banco hoy.",
+        "¿Puedes ir a la farmacia conmigo?",
+        "Voy a la tienda a comprar pan."
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each in Spanish using the target pattern. No answer key until the end.",
+      "prompts_en": [
+        "I am going to the store.",
+        "Do you have to go to the pharmacy today?",
+        "I have to go to the park now.",
+        "I want to go to the library after work.",
+        "Can you go to the supermarket with me?",
+        "I can go to the bank tomorrow.",
+        "I am going to the cinema tonight.",
+        "Do you want to go to the gym on Monday?",
+        "I have to go to the hospital this morning.",
+        "I want to go to the office early.",
+        "I have to go to the store to buy milk.",
+        "Do you have to go to the store to buy eggs?",
+        "I am going to the store to buy cheese.",
+        "Do you want to go to the store to buy apples?",
+        "I can go to the store to buy tomatoes.",
+        "Can you go to the store to buy bread?",
+        "I want to go to the store to buy oranges.",
+        "I have to go to the store to buy onions.",
+        "I can go to the store to buy garlic.",
+        "I am going to the store to buy lettuce."
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as instructed.",
+      "drills": [
+        "Base: Voy a la tienda. -> make it a question (tú).",
+        "Base: Quiero ir al banco. -> make it negative.",
+        "Base: Tengo que ir al supermercado. -> change yo to nosotros.",
+        "Base: ¿Puedes ir a la farmacia? -> answer no in full sentence.",
+        "Base: Voy a la tienda a comprar pan. -> change product to leche.",
+        "Base: Quiero ir al parque. -> add purpose: to run.",
+        "Base: Puedo ir al cine hoy. -> move to tomorrow.",
+        "Base: Tengo que ir a la oficina. -> turn into question.",
+        "Base: ¿Quieres ir al gimnasio conmigo? -> answer yes in full sentence.",
+        "Base: Voy a la biblioteca. -> change destination to plural people (ellos) and place escuela.",
+        "Base: Tengo que ir a la tienda a comprar huevos. -> make it negative.",
+        "Base: ¿Puedes ir al banco ahora? -> change ahora to después.",
+        "Base: Quiero ir al hospital. -> change to past (I went).",
+        "Base: Puedo ir a la playa el sábado. -> change to inability.",
+        "Base: Voy al supermercado. -> expand with purpose to buy vegetables."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the most natural pattern and write in Spanish.",
+      "prompts": [
+        "I am going to the store. (voy vs quiero ir)",
+        "I want to go to the store. (voy vs quiero ir)",
+        "I can go to the store. (puedo ir vs voy)",
+        "I have to go to the store. (tengo que ir vs puedo ir)",
+        "Can you go to the bank? (¿puedes ir...? vs ¿quieres ir...?)",
+        "Do you want to go to the beach? (¿quieres ir...? vs ¿tienes que ir...?)",
+        "I am going to the store to buy bread. (ir a + lugar + a + infinitivo vs para)",
+        "I have to go to the pharmacy to buy medicine. (tengo que ir a ... a comprar ...)",
+        "I cannot go to the office today. (no puedo ir vs no quiero ir) meaning = ability problem.",
+        "I do not want to go to the office today. (no quiero ir vs no puedo ir) meaning = desire problem."
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific meaning.",
+      "prompts": [
+        "You are going to the bank this afternoon.",
+        "You want to go to the gym tomorrow morning.",
+        "You have to go to the office now.",
+        "You can go to the supermarket after work.",
+        "You are going to the pharmacy to buy medicine.",
+        "You have to go to the store to buy bread and milk.",
+        "You want to go to the park to walk.",
+        "You can go to the library on Friday.",
+        "You do not want to go to the hospital alone.",
+        "You have to go to the airport early tomorrow.",
+        "You are going to the cinema with a friend tonight.",
+        "You cannot go to the beach this weekend.",
+        "You want to go to the restaurant to eat with coworkers.",
+        "You have to go to the office to finish one task.",
+        "You are going to the store to buy vegetables for dinner."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish (not literal English).",
+      "prompts_en": [
+        "I am heading to the store now.",
+        "I need to go to the bank real quick.",
+        "Do you want to come with me to the pharmacy?",
+        "I can swing by the supermarket later.",
+        "I have to go to the office before noon.",
+        "I am going to the library to study for an hour.",
+        "I cannot make it to the gym today.",
+        "I want to stop by the park first.",
+        "We have to go to the airport early.",
+        "I am going to the store to pick up a few things."
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "Forgetting a after ir",
+        "why_it_happens": "Fast translation drops prepositions.",
+        "correct_spanish": "Voy a la tienda."
+      },
+      {
+        "mistake": "Using only one a in purpose sentences",
+        "why_it_happens": "Double to feels redundant to English speakers.",
+        "correct_spanish": "Voy a la tienda a comprar pan."
+      },
+      {
+        "mistake": "Wrong contraction with masculine place nouns",
+        "why_it_happens": "Contractions are not automatic yet.",
+        "correct_spanish": "Voy al banco."
+      },
+      {
+        "mistake": "Missing article before place noun",
+        "why_it_happens": "Literal noun transfer from English.",
+        "correct_spanish": "Voy al supermercado."
+      },
+      {
+        "mistake": "Overusing para with movement + purpose",
+        "why_it_happens": "Generalized translation of to/for.",
+        "correct_spanish": "Voy a la farmacia a comprar medicina."
+      },
+      {
+        "mistake": "Mixing voy and quiero ir meanings",
+        "why_it_happens": "Movement vs intention not separated.",
+        "correct_spanish": "Voy... / Quiero ir..."
+      },
+      {
+        "mistake": "Using puedo when obligation is intended",
+        "why_it_happens": "Modal verbs feel interchangeable.",
+        "correct_spanish": "Tengo que ir a la oficina."
+      },
+      {
+        "mistake": "English question order copied directly",
+        "why_it_happens": "Interrogative patterns transfer from English.",
+        "correct_spanish": "¿Puedes ir al banco?"
+      },
+      {
+        "mistake": "Avoiding conmigo/contigo chunks",
+        "why_it_happens": "Pronoun clusters feel unstable.",
+        "correct_spanish": "¿Quieres ir conmigo a la playa?"
+      },
+      {
+        "mistake": "Using infinitive as a full statement",
+        "why_it_happens": "Pattern overload with many infinitives.",
+        "correct_spanish": "Voy a la tienda."
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "Voy a la tienda.",
+        "¿Tienes que ir a la farmacia hoy?",
+        "Tengo que ir al parque ahora.",
+        "Quiero ir a la biblioteca después del trabajo.",
+        "¿Puedes ir al supermercado conmigo?",
+        "Puedo ir al banco mañana.",
+        "Voy al cine esta noche.",
+        "¿Quieres ir al gimnasio el lunes?",
+        "Tengo que ir al hospital esta mañana.",
+        "Quiero ir a la oficina temprano.",
+        "Tengo que ir a la tienda a comprar leche.",
+        "¿Tienes que ir a la tienda a comprar huevos?",
+        "Voy a la tienda a comprar queso.",
+        "¿Quieres ir a la tienda a comprar manzanas?",
+        "Puedo ir a la tienda a comprar tomates.",
+        "¿Puedes ir a la tienda a comprar pan?",
+        "Quiero ir a la tienda a comprar naranjas.",
+        "Tengo que ir a la tienda a comprar cebollas.",
+        "Puedo ir a la tienda a comprar ajo.",
+        "Voy a la tienda a comprar lechuga."
+      ],
+      "pattern_mutation": [
+        "¿Vas a la tienda?",
+        "No quiero ir al banco.",
+        "Tenemos que ir al supermercado.",
+        "No, no puedo ir a la farmacia.",
+        "Voy a la tienda a comprar leche.",
+        "Quiero ir al parque a correr.",
+        "Puedo ir al cine mañana.",
+        "¿Tengo que ir a la oficina?",
+        "Sí, quiero ir al gimnasio contigo.",
+        "Ellos van a la escuela.",
+        "No tengo que ir a la tienda a comprar huevos.",
+        "¿Puedes ir al banco después?",
+        "Fui al hospital.",
+        "No puedo ir a la playa el sábado.",
+        "Voy al supermercado a comprar verduras."
+      ],
+      "contrastive_discrimination": [
+        "Voy a la tienda.",
+        "Quiero ir a la tienda.",
+        "Puedo ir a la tienda.",
+        "Tengo que ir a la tienda.",
+        "¿Puedes ir al banco?",
+        "¿Quieres ir a la playa?",
+        "Voy a la tienda a comprar pan.",
+        "Tengo que ir a la farmacia a comprar medicina.",
+        "No puedo ir a la oficina hoy.",
+        "No quiero ir a la oficina hoy."
+      ],
+      "reverse_conceptual_expression": [
+        "Voy a la tienda ahora.",
+        "Tengo que ir al banco rapidito.",
+        "¿Quieres venir conmigo a la farmacia?",
+        "Puedo pasar por el supermercado más tarde.",
+        "Tengo que ir a la oficina antes del mediodía.",
+        "Voy a la biblioteca a estudiar una hora.",
+        "No puedo ir al gimnasio hoy.",
+        "Quiero pasar por el parque primero.",
+        "Tenemos que ir al aeropuerto temprano.",
+        "Voy a la tienda a comprar unas cosas."
+      ]
+    }
+  }
+}

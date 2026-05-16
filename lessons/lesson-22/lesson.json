@@ -1,0 +1,250 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "time-expressions",
+    "dates-and-hours",
+    "calendar-patterns",
+    "adult-learners"
+  ],
+  "difficulty": "A2-B1",
+  "pattern_id": "TIME_AND_DATE_PATTERNS_22",
+  "source_files": [
+    "lessons/lesson-22/summary 22.pdf",
+    "lessons/lesson-22/22 exercise.pdf"
+  ],
+  "target_pattern": "Use fixed Spanish time chunks naturally: weekdays with article except after ser, months with en, dates with el + day + de + month, event times with a la/a las, and relative time blocks like proximo/pasado and por la manana/tarde/noche.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Mixing day, month, date, and clock patterns by translating from English.",
+      "spanish_logic": "Spanish time is built with stable chunks that must be memorized and reused as full frames.",
+      "target_pattern_formula": [
+        "Day reference: el lunes; after ser: Hoy es lunes",
+        "Month reference: en diciembre",
+        "Date: el 22 de septiembre",
+        "Event time: a la una / a las ocho y media",
+        "Relative time: la proxima semana / el mes pasado / por la manana"
+      ],
+      "natural_examples": [
+        "Tengo reunion el martes por la manana.",
+        "Nos mudamos en enero.",
+        "Mi cita es el 14 de junio.",
+        "La clase empieza a las ocho y media.",
+        "A que hora sales hoy?"
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each in Spanish using the target time patterns.",
+      "prompts_en": [
+        "I work on Monday mornings.",
+        "We have a meeting on Thursday.",
+        "Today is Thursday.",
+        "I travel in December.",
+        "My appointment is on September 22nd.",
+        "The event is at one in the afternoon.",
+        "The class starts at 8:30 in the morning.",
+        "What time do you leave work?",
+        "I study at night.",
+        "We are going to the beach next weekend.",
+        "I went to the bank last week.",
+        "They moved last month.",
+        "Can you call me at six?",
+        "I have to work tomorrow night.",
+        "We eat dinner at 9:00 at night.",
+        "I was born in 1991.",
+        "Our vacation is in January.",
+        "The workshop is on June 10th.",
+        "What time is the party?",
+        "The party is at ten at night."
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as instructed.",
+      "drills": [
+        "Base: Tengo reunion el lunes. -> change day to miercoles.",
+        "Base: Hoy es lunes. -> change day to viernes.",
+        "Base: Viajamos en enero. -> change month to agosto.",
+        "Base: La cita es el 10 de junio. -> change date to el 22 de septiembre.",
+        "Base: La clase es a la una. -> change to plural hour tres y cuarto.",
+        "Base: Salgo a las ocho. -> add time-of-day de la manana.",
+        "Base: Estudio por la noche. -> change to por la tarde.",
+        "Base: Vamos a la playa el proximo fin de semana. -> change to last weekend.",
+        "Base: Fui al medico la semana pasada. -> change to next week future plan.",
+        "Base: El evento es a las seis de la tarde. -> make it a question asking time.",
+        "Base: Nos vemos el sabado. -> make it yes/no question with ustedes.",
+        "Base: Tengo que trabajar manana por la noche. -> change to hoy por la tarde.",
+        "Base: Naci en 2000. -> change year to 1987.",
+        "Base: La fiesta es el 5 de mayo. -> change month to diciembre.",
+        "Base: Cenamos a las nueve de la noche. -> change to singular hour la una de la tarde."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the correct Spanish form.",
+      "prompts": [
+        "I work on Monday. (Trabajo el lunes. vs Trabajo lunes.)",
+        "Today is Monday. (Hoy es lunes. vs Hoy es el lunes.)",
+        "I travel in January. (Viajo en enero. vs Viajo el enero.)",
+        "The meeting is on September 22nd. (La reunion es el 22 de septiembre. vs La reunion es en 22 de septiembre.)",
+        "What time is the class? (A que hora es la clase? vs Que hora es la clase?)",
+        "The class is at one. (La clase es a la una. vs La clase es a las una.)",
+        "The movie starts at eight. (La pelicula empieza a las ocho. vs La pelicula empieza las ocho.)",
+        "We study at night. (Estudiamos por la noche. vs Estudiamos en la noche as neutral standard.)",
+        "Next month we move. (Nos mudamos el proximo mes. vs Nos mudamos proximo mes.)",
+        "Last weekend I worked. (Trabaje el fin de semana pasado. vs Trabaje el pasado fin de semana as default taught pattern.)"
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific meaning.",
+      "prompts": [
+        "Write that you have a client call on Tuesday morning.",
+        "Write that your team meeting is on Thursday at 3:00 p.m.",
+        "Write that today is Wednesday and you finish late.",
+        "Write that your birthday is on August 8th.",
+        "Write that you were born in 1990.",
+        "Write that you are traveling in December.",
+        "Write that you studied Spanish last year.",
+        "Write that you are going to start a new job next month.",
+        "Write that you visited your family last weekend.",
+        "Write that you need to send an email tonight.",
+        "Write that your class starts at 8:30 a.m.",
+        "Write that you have lunch at 1:00 p.m.",
+        "Write that you ask a coworker what time the presentation is.",
+        "Write that your dentist appointment is on June 10th.",
+        "Write that you cannot meet on Friday but can meet on Saturday."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish, not literal English.",
+      "prompts_en": [
+        "See you Monday.",
+        "We are moving in January.",
+        "My interview is on the 22nd of September.",
+        "What time do you get up?",
+        "I wake up at 6:15 in the morning.",
+        "I work in the afternoon and study at night.",
+        "Last month was very busy.",
+        "Next week is better for me.",
+        "The meeting is at 10:00 p.m.",
+        "I went to the supermarket yesterday."
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "Trabajo lunes.",
+        "why_it_happens": "English omits article with weekdays.",
+        "correct_spanish": "Trabajo el lunes."
+      },
+      {
+        "mistake": "Hoy es el lunes.",
+        "why_it_happens": "Overusing weekday article after ser.",
+        "correct_spanish": "Hoy es lunes."
+      },
+      {
+        "mistake": "Viajo el enero.",
+        "why_it_happens": "Applying weekday pattern to months.",
+        "correct_spanish": "Viajo en enero."
+      },
+      {
+        "mistake": "La reunion es en 22 de septiembre.",
+        "why_it_happens": "Using en for exact date.",
+        "correct_spanish": "La reunion es el 22 de septiembre."
+      },
+      {
+        "mistake": "Que hora es la clase?",
+        "why_it_happens": "Dropping preposition in time question frame.",
+        "correct_spanish": "A que hora es la clase?"
+      },
+      {
+        "mistake": "a las una",
+        "why_it_happens": "Forgetting singular-hour rule.",
+        "correct_spanish": "a la una"
+      },
+      {
+        "mistake": "La clase empieza las ocho.",
+        "why_it_happens": "Omitting a before time.",
+        "correct_spanish": "La clase empieza a las ocho."
+      },
+      {
+        "mistake": "el pasado fin de semana",
+        "why_it_happens": "Wrong adjective placement for taught chunk.",
+        "correct_spanish": "el fin de semana pasado"
+      },
+      {
+        "mistake": "proximo mes without article",
+        "why_it_happens": "Missing article in fixed time phrase.",
+        "correct_spanish": "el proximo mes"
+      },
+      {
+        "mistake": "Mixing por la noche with literal direct translations",
+        "why_it_happens": "Translating in/at night word-by-word.",
+        "correct_spanish": "Use chunk por la noche in this pattern set."
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "Trabajo el lunes por la manana.",
+        "Tenemos una reunion el jueves.",
+        "Hoy es jueves.",
+        "Viajo en diciembre.",
+        "Mi cita es el 22 de septiembre.",
+        "El evento es a la una de la tarde.",
+        "La clase empieza a las ocho y media de la manana.",
+        "A que hora sales del trabajo?",
+        "Estudio por la noche.",
+        "Vamos a la playa el proximo fin de semana.",
+        "Fui al banco la semana pasada.",
+        "Se mudaron el mes pasado.",
+        "Puedes llamarme a las seis?",
+        "Tengo que trabajar manana por la noche.",
+        "Cenamos a las nueve de la noche.",
+        "Naci en 1991.",
+        "Nuestras vacaciones son en enero.",
+        "El taller es el 10 de junio.",
+        "A que hora es la fiesta?",
+        "La fiesta es a las diez de la noche."
+      ],
+      "pattern_mutation": [
+        "Tengo reunion el miercoles.",
+        "Hoy es viernes.",
+        "Viajamos en agosto.",
+        "La cita es el 22 de septiembre.",
+        "La clase es a las tres y cuarto.",
+        "Salgo a las ocho de la manana.",
+        "Estudio por la tarde.",
+        "Vamos a la playa el fin de semana pasado.",
+        "Voy al medico la proxima semana.",
+        "A que hora es el evento?",
+        "Ustedes se ven el sabado?",
+        "Tengo que trabajar hoy por la tarde.",
+        "Naci en 1987.",
+        "La fiesta es el 5 de diciembre.",
+        "Cenamos a la una de la tarde."
+      ],
+      "contrastive_discrimination": [
+        "Trabajo el lunes.",
+        "Hoy es lunes.",
+        "Viajo en enero.",
+        "La reunion es el 22 de septiembre.",
+        "A que hora es la clase?",
+        "La clase es a la una.",
+        "La pelicula empieza a las ocho.",
+        "Estudiamos por la noche.",
+        "Nos mudamos el proximo mes.",
+        "Trabaje el fin de semana pasado."
+      ],
+      "reverse_conceptual_expression": [
+        "Nos vemos el lunes.",
+        "Nos mudamos en enero.",
+        "Mi entrevista es el 22 de septiembre.",
+        "A que hora te levantas?",
+        "Me levanto a las seis y cuarto de la manana.",
+        "Trabajo por la tarde y estudio por la noche.",
+        "El mes pasado fue muy ocupado.",
+        "La proxima semana es mejor para mi.",
+        "La reunion es a las diez de la noche.",
+        "Fui al supermercado ayer."
+      ]
+    }
+  }
+}

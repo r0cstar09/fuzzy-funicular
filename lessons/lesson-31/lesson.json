@@ -1,0 +1,251 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "present-tense",
+    "near-future",
+    "polite-requests",
+    "adult-learners"
+  ],
+  "difficulty": "A2-B1",
+  "pattern_id": "PRESENT_TENSE_USAGE_31",
+  "source_files": [
+    "lessons/lesson-31/Summary 31.pdf",
+    "lessons/lesson-31/Lesson 31.pdf",
+    "lessons/lesson-31/present tense guide.pdf"
+  ],
+  "target_pattern": "Use simple present as default for current actions, habits, near-future plans with time markers, and polite requests, while limiting unnecessary progressive constructions.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Overusing progressive and future forms where Spanish prefers simple present.",
+      "spanish_logic": "Spanish present tense covers now, routine, near-future with markers, and polite request frames naturally.",
+      "target_pattern_formula": [
+        "simple present for now and general current action",
+        "present plus frequency marker for habits",
+        "present plus future time marker for near future",
+        "me plus present verb for polite request",
+        "present with motion verbs, voy/viene, for immediate action"
+      ],
+      "natural_examples": [
+        "Trabajo desde casa hoy.",
+        "Maria limpia la casa los sabados.",
+        "Manana salgo temprano.",
+        "Me pasas la sal, por favor?",
+        "Voy al banco ahora."
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each in Spanish using the simple present pattern.",
+      "prompts_en": [
+        "I walk to work every day.",
+        "Now I understand the answer.",
+        "We leave for the airport tomorrow.",
+        "Can you help me with this, please?",
+        "I am going to the bank now.",
+        "Can you tell me the time, please?",
+        "He always drinks tea at night.",
+        "Are you visiting your grandparents this weekend?",
+        "Could you pass me the ketchup, please?",
+        "My friends come to my house after class.",
+        "They eat breakfast together every morning.",
+        "We eat dinner at seven every night.",
+        "I will call you tomorrow.",
+        "Can you open the window for me, please? formal",
+        "Eduardo always drinks tea in the afternoon.",
+        "I leave for vacation tomorrow.",
+        "What do you want?",
+        "Do you start your new job tomorrow?",
+        "Could you lend me a pencil, please?",
+        "We have to leave early tomorrow."
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as instructed.",
+      "drills": [
+        "Base: Yo camino a la escuela todos los dias. -> change subject to nosotros.",
+        "Base: Ahora entiendo la respuesta. -> change subject to ella.",
+        "Base: Manana salimos para el aeropuerto. -> change time marker to hoy.",
+        "Base: Me ayudas con esto? -> change to formal usted.",
+        "Base: Voy al banco. -> make it negative.",
+        "Base: Me dices la hora, por favor? -> change to plural polite request, ustedes.",
+        "Base: El siempre toma te por la noche. -> change adverb to nunca and keep present tense.",
+        "Base: Visitas a tus abuelos este fin de semana? -> change to statement with yo.",
+        "Base: Me pasas el cuaderno, por favor? -> change object to la sal.",
+        "Base: Mis amigos vienen a mi casa despues de la escuela. -> change subject to singular mi amigo.",
+        "Base: Nosotros cenamos a las siete todas las noches. -> change to question.",
+        "Base: Te llamo manana. -> change direct object pronoun to le formal.",
+        "Base: Empiezas manana tu nuevo trabajo? -> change to statement with nosotros.",
+        "Base: Ella se levanta a las seis todos los dias. -> change to plural ellas.",
+        "Base: Tenemos que salir temprano manana. -> change to yo."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the correct Spanish form.",
+      "prompts": [
+        "I walk every day. (Camino todos los dias. vs Estoy caminando todos los dias.)",
+        "Tomorrow we leave early. (Manana salimos temprano. vs Manana saldremos temprano in this lesson target style.)",
+        "Can you help me? (Me ayudas? vs Me estas ayudando?)",
+        "I am going to the store. (Voy a la tienda. vs Estoy yendo a la tienda, default conversational preference.)",
+        "What are you doing? (Que haces? vs Que estas haciendo? where simple present is preferred in this lesson.)",
+        "He comes to my house every Friday. (Viene a mi casa cada viernes. vs Esta viniendo a mi casa cada viernes.)",
+        "Could you pass me the salt? (Me pasas la sal? vs Me pasaras la sal?)",
+        "We eat at seven. (Comemos a las siete. vs Estamos comiendo a las siete, habitual meaning.)",
+        "Do you start tomorrow? (Empiezas manana? vs Empezaras manana? in this lesson target style.)",
+        "Can you lend me a pen? (Me prestas una pluma? vs Me prestaras una pluma?)"
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific meaning.",
+      "prompts": [
+        "Write that you check your email every morning at 8.",
+        "Write that today you work from home.",
+        "Write that tomorrow you leave early for a meeting.",
+        "Write that your team meets on Mondays.",
+        "Write that you ask a coworker to pass you a notebook politely.",
+        "Write that you ask a server to bring you water politely, formal.",
+        "Write that your manager always arrives early.",
+        "Write that your friend comes to your house after work.",
+        "Write that you call your parents tomorrow.",
+        "Write that you ask what someone wants.",
+        "Write that you start a new project tomorrow.",
+        "Write that you and your partner eat dinner at seven.",
+        "Write that you get up at six every day.",
+        "Write that you need to leave early tomorrow.",
+        "Write that you ask for help with homework politely."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish, not literal English.",
+      "prompts_en": [
+        "I call you tomorrow.",
+        "We fly out on Sunday.",
+        "Can you close the door for me?",
+        "What are you waiting for?",
+        "He comes in five minutes.",
+        "Do you work tomorrow?",
+        "We go to the gym every afternoon.",
+        "Could you bring me a glass of water, please? formal",
+        "She always gets up early.",
+        "I leave for vacation tomorrow."
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "Overusing progressive for habits",
+        "why_it_happens": "English present continuous transfer.",
+        "correct_spanish": "Use simple present for routines."
+      },
+      {
+        "mistake": "Forcing future tense with tomorrow every time",
+        "why_it_happens": "English future form expectation.",
+        "correct_spanish": "Present plus time marker is natural in Spanish."
+      },
+      {
+        "mistake": "Avoiding present tense requests",
+        "why_it_happens": "Literal could/would translation strategy.",
+        "correct_spanish": "Natural polite requests often use simple present."
+      },
+      {
+        "mistake": "Estoy yendo for common motion context",
+        "why_it_happens": "Direct mapping from I am going.",
+        "correct_spanish": "Prefer voy in basic conversation."
+      },
+      {
+        "mistake": "Missing weekday article",
+        "why_it_happens": "English day reference transfer.",
+        "correct_spanish": "Use el domingo, los sabados."
+      },
+      {
+        "mistake": "Wrong formality in requests",
+        "why_it_happens": "Not adjusting tu vs usted verbs.",
+        "correct_spanish": "Match request form to relationship."
+      },
+      {
+        "mistake": "Mixing timelines in one sentence",
+        "why_it_happens": "Unclear intent now vs routine vs near future.",
+        "correct_spanish": "Anchor sentence with proper time marker."
+      },
+      {
+        "mistake": "Using progressive in every what are you doing question",
+        "why_it_happens": "Word-for-word translation habit.",
+        "correct_spanish": "Simple present often sounds more natural."
+      },
+      {
+        "mistake": "Dropping me in request chunks",
+        "why_it_happens": "Focusing only on main verb.",
+        "correct_spanish": "Use me plus present verb patterns."
+      },
+      {
+        "mistake": "Memorizing only endings without usage context",
+        "why_it_happens": "Conjugation-only study approach.",
+        "correct_spanish": "Practice present tense by function category."
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "Camino al trabajo todos los dias.",
+        "Ahora entiendo la respuesta.",
+        "Manana salimos para el aeropuerto.",
+        "Me ayudas con esto, por favor?",
+        "Voy al banco ahora.",
+        "Me dices la hora, por favor?",
+        "El siempre toma te por la noche.",
+        "Visitas a tus abuelos este fin de semana?",
+        "Me pasas el ketchup, por favor?",
+        "Mis amigos vienen a mi casa despues de clase.",
+        "Ellos desayunan juntos todas las mananas.",
+        "Nosotros cenamos a las siete todas las noches.",
+        "Te llamo manana.",
+        "Me abre la ventana, por favor?",
+        "Eduardo siempre toma te por la tarde.",
+        "Salgo de vacaciones manana.",
+        "Que quieres?",
+        "Empiezas manana tu nuevo trabajo?",
+        "Me prestas un lapiz, por favor?",
+        "Tenemos que salir temprano manana."
+      ],
+      "pattern_mutation": [
+        "Nosotros caminamos a la escuela todos los dias.",
+        "Ahora ella entiende la respuesta.",
+        "Hoy salimos para el aeropuerto.",
+        "Me ayuda con esto?",
+        "No voy al banco.",
+        "Me dicen la hora, por favor?",
+        "El nunca toma te por la noche.",
+        "Visito a mis abuelos este fin de semana.",
+        "Me pasas la sal, por favor?",
+        "Mi amigo viene a mi casa despues de la escuela.",
+        "Cenamos a las siete todas las noches?",
+        "Le llamo manana.",
+        "Empezamos manana nuestro nuevo trabajo.",
+        "Ellas se levantan a las seis todos los dias.",
+        "Tengo que salir temprano manana."
+      ],
+      "contrastive_discrimination": [
+        "Camino todos los dias.",
+        "Manana salimos temprano.",
+        "Me ayudas?",
+        "Voy a la tienda.",
+        "Que haces?",
+        "Viene a mi casa cada viernes.",
+        "Me pasas la sal?",
+        "Comemos a las siete.",
+        "Empiezas manana?",
+        "Me prestas una pluma?"
+      ],
+      "reverse_conceptual_expression": [
+        "Te llamo manana.",
+        "Salimos el domingo.",
+        "Me cierras la puerta, por favor?",
+        "Que esperas?",
+        "Viene en cinco minutos.",
+        "Trabajas manana?",
+        "Vamos al gimnasio todas las tardes.",
+        "Me trae un vaso de agua, por favor?",
+        "Ella siempre se levanta temprano.",
+        "Salgo de vacaciones manana."
+      ]
+    }
+  }
+}

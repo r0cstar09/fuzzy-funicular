@@ -1,0 +1,249 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "indirect-object-pronouns",
+    "redundant-le",
+    "clitic-doubling",
+    "adult-learners"
+  ],
+  "difficulty": "B1",
+  "pattern_id": "REDUNDANT_INDIRECT_OBJECT_LE_63",
+  "source_files": [
+    "lessons/lesson-63/Redundant LE.pdf"
+  ],
+  "target_pattern": "Use redundant indirect object pronouns le and les with high-frequency indirect-object verbs even when the recipient is explicitly named with a plus person.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Removing le or les when recipient is already mentioned.",
+      "spanish_logic": "Spanish commonly keeps indirect object pronouns with many verbs regardless of whether a plus recipient phrase is present.",
+      "target_pattern_formula": [
+        "core frame: le or les plus verb plus direct object plus a plus person",
+        "recipient can be omitted while pronoun remains",
+        "le marks singular recipient, les marks plural recipients",
+        "high-frequency verbs: dar decir contar comprar traer mandar enviar pedir robar quitar prestar devolver",
+        "pronoun appears before conjugated verb in standard order"
+      ],
+      "natural_examples": [
+        "Le di el libro a Juan.",
+        "Le dije la verdad a Maria.",
+        "Le mande una carta a Pedro.",
+        "Les prestamos el coche a mis vecinos.",
+        "Le quitaron el telefono a Marta."
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each in natural Spanish using redundant le or les.",
+      "prompts_en": [
+        "I gave the keys to Carlos.",
+        "I told Maria the truth.",
+        "We told a story to our son.",
+        "I bought a gift for my wife.",
+        "She brought flowers to her mother.",
+        "I sent a message to Pedro.",
+        "They asked Luisa for a favor.",
+        "Someone stole the wallet from Marta.",
+        "I took the toy away from the child.",
+        "We lent the bike to Ana.",
+        "Did you return the book to your teacher?",
+        "I gave my parents the news.",
+        "We sent the documents to the clients.",
+        "He told his friends a joke.",
+        "I asked the manager for help.",
+        "They brought coffee to the team.",
+        "I bought tickets for my cousins.",
+        "They returned the money to us.",
+        "We took the phones away from the students.",
+        "I told my sister everything."
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as instructed.",
+      "drills": [
+        "Base: Le di el libro a Juan. -> change recipient to plural mis amigos.",
+        "Base: Le dije la verdad a Maria. -> change direct object to una mentira.",
+        "Base: Le conte un cuento a mi hijo. -> change recipient to mi hija.",
+        "Base: Le compre un coche a mi esposa. -> change object to una computadora.",
+        "Base: Le traje flores a mi madre. -> change object to chocolate.",
+        "Base: Le mande una carta a Pedro. -> change verb to enviar.",
+        "Base: Le pedi un favor a Juanita. -> change direct object to dinero.",
+        "Base: Le robaron el bolso a Marta. -> change noun to el telefono.",
+        "Base: Le quite el juguete al nino. -> change recipient to plural los ninos.",
+        "Base: Le preste la bicicleta a Luisa. -> change object to mi coche.",
+        "Base: Le devolviste el libro a tu profesor? -> change recipient to plural tus profesores.",
+        "Base: Les di las noticias a mis padres. -> change verb tense to preterite first plural.",
+        "Base: Les mandamos los documentos a los clientes. -> change direct object to singular el contrato.",
+        "Base: Le conte un chiste a mi amigo. -> change subject to plural nosotros.",
+        "Base: Les quitamos los telefonos a los estudiantes. -> change to singular recipient el estudiante."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the most natural Spanish sentence.",
+      "prompts": [
+        "Le di el libro a Juan. versus Di el libro a Juan.",
+        "Le dije la verdad a Maria. versus Dije la verdad a Maria.",
+        "Le mande un correo a Pedro. versus Mande un correo a Pedro.",
+        "Les dimos la informacion a los clientes. versus Dimos la informacion a los clientes.",
+        "Le pedi ayuda al gerente. versus Pedi ayuda al gerente.",
+        "Le robaron el bolso a Marta. versus Robaron el bolso a Marta.",
+        "Le quite el juguete al nino. versus Quite el juguete al nino.",
+        "Les preste dinero a mis amigos. versus Preste dinero a mis amigos.",
+        "Le devolvi el libro al profesor. versus Devolvi el libro al profesor.",
+        "Le conte un chiste a mi hermana. versus Conte un chiste a mi hermana."
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific meaning.",
+      "prompts": [
+        "Write that you gave your coworker a copy of the report.",
+        "Write that you told your manager the truth.",
+        "Write that you sent your friend a voice note.",
+        "Write that you asked your colleague for help.",
+        "Write that you bought your mother a present.",
+        "Write that you brought coffee to your team.",
+        "Write that you lent your brother your car.",
+        "Write that you returned the keys to your landlord.",
+        "Write that someone stole the phone from your friend.",
+        "Write that you took the tablet away from your child.",
+        "Write that you told your parents a story.",
+        "Write that you gave your clients an update.",
+        "Write that you sent your teacher the assignment.",
+        "Write that you asked your neighbor for a favor.",
+        "Write that you returned the money to your friend."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish, not literal English.",
+      "prompts_en": [
+        "I gave Ana the file this morning.",
+        "We told our clients the update yesterday.",
+        "He asked his boss for permission.",
+        "I brought my dad some medicine.",
+        "They stole the bike from the boy.",
+        "I took the remote away from my brother.",
+        "Did you return the call to your doctor?",
+        "We lent our neighbors two chairs.",
+        "She sent her sister a photo.",
+        "I told my friend that I am leaving."
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "Le or les omitted with named recipient",
+        "why_it_happens": "English does not duplicate indirect object this way.",
+        "correct_spanish": "Keep redundant pronoun with common indirect-object verbs."
+      },
+      {
+        "mistake": "Lo or la used for recipient role",
+        "why_it_happens": "Direct and indirect object functions are confused.",
+        "correct_spanish": "Use le or les for recipient."
+      },
+      {
+        "mistake": "Les used with singular recipient",
+        "why_it_happens": "Pronoun number agreement missed.",
+        "correct_spanish": "Use le for one recipient and les for more than one."
+      },
+      {
+        "mistake": "Pattern overgeneralized to all verbs",
+        "why_it_happens": "Single structure applied universally.",
+        "correct_spanish": "Use with verbs that naturally take indirect objects in this frame."
+      },
+      {
+        "mistake": "Pronoun placement after conjugated verb",
+        "why_it_happens": "English-like linear ordering.",
+        "correct_spanish": "Place clitic pronoun before conjugated verb."
+      },
+      {
+        "mistake": "A plus person omitted when recipient is explicit",
+        "why_it_happens": "Learner expects pronoun to be sufficient.",
+        "correct_spanish": "Keep a plus person phrase when naming recipient."
+      },
+      {
+        "mistake": "Le retained with plural recipients",
+        "why_it_happens": "Chunk memorized only in singular form.",
+        "correct_spanish": "Switch to les for plural recipients."
+      },
+      {
+        "mistake": "Redundancy treated as optional in natural speech",
+        "why_it_happens": "Learner edits out perceived repetition.",
+        "correct_spanish": "This redundancy is expected and fluent in Spanish."
+      },
+      {
+        "mistake": "Comprar interpretation left ambiguous",
+        "why_it_happens": "Recipient and source readings overlap without context.",
+        "correct_spanish": "Use clear context and complete clause."
+      },
+      {
+        "mistake": "Pattern avoided in conversation",
+        "why_it_happens": "Fear of repetitive sounding output.",
+        "correct_spanish": "Use clitic doubling naturally to sound native-like."
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "Le di las llaves a Carlos.",
+        "Le dije la verdad a Maria.",
+        "Le contamos un cuento a nuestro hijo.",
+        "Le compre un regalo a mi esposa.",
+        "Le trajo flores a su madre.",
+        "Le mande un mensaje a Pedro.",
+        "Le pidieron un favor a Luisa.",
+        "Le robaron la cartera a Marta.",
+        "Le quite el juguete al nino.",
+        "Le prestamos la bicicleta a Ana.",
+        "Le devolviste el libro a tu profesor?",
+        "Les di la noticia a mis padres.",
+        "Les mandamos los documentos a los clientes.",
+        "Les conto un chiste a sus amigos.",
+        "Le pedi ayuda al gerente.",
+        "Les trajeron cafe al equipo.",
+        "Les compre boletos a mis primos.",
+        "Nos devolvieron el dinero.",
+        "Les quitamos los telefonos a los estudiantes.",
+        "Le conte todo a mi hermana."
+      ],
+      "pattern_mutation": [
+        "Les di el libro a mis amigos.",
+        "Le dije una mentira a Maria.",
+        "Le conte un cuento a mi hija.",
+        "Le compre una computadora a mi esposa.",
+        "Le traje chocolate a mi madre.",
+        "Le envie una carta a Pedro.",
+        "Le pedi dinero a Juanita.",
+        "Le robaron el telefono a Marta.",
+        "Les quite el juguete a los ninos.",
+        "Le preste mi coche a Luisa.",
+        "Les devolviste el libro a tus profesores?",
+        "Les dimos las noticias a mis padres.",
+        "Les mandamos el contrato a los clientes.",
+        "Les contamos un chiste a mi amigo.",
+        "Le quitamos los telefonos al estudiante."
+      ],
+      "contrastive_discrimination": [
+        "Le di el libro a Juan.",
+        "Le dije la verdad a Maria.",
+        "Le mande un correo a Pedro.",
+        "Les dimos la informacion a los clientes.",
+        "Le pedi ayuda al gerente.",
+        "Le robaron el bolso a Marta.",
+        "Le quite el juguete al nino.",
+        "Les preste dinero a mis amigos.",
+        "Le devolvi el libro al profesor.",
+        "Le conte un chiste a mi hermana."
+      ],
+      "reverse_conceptual_expression": [
+        "Le di el archivo a Ana esta manana.",
+        "Les dijimos la actualizacion a nuestros clientes ayer.",
+        "Le pidio permiso a su jefe.",
+        "Le traje medicina a mi papa.",
+        "Le robaron la bicicleta al nino.",
+        "Le quite el control remoto a mi hermano.",
+        "Le devolviste la llamada a tu doctor?",
+        "Les prestamos dos sillas a nuestros vecinos.",
+        "Le mando una foto a su hermana.",
+        "Le dije a mi amigo que me voy."
+      ]
+    }
+  }
+}

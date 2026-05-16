@@ -1,0 +1,248 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "tener-que",
+    "obligation",
+    "querer-vs-poder-vs-tener-que",
+    "adult-learners"
+  ],
+  "difficulty": "A1-A2",
+  "pattern_id": "TENER_QUE_OBLIGATION_05",
+  "source_files": [
+    "lessons/lesson-5/master 5 summary.pdf",
+    "lessons/lesson-5/master5 exercise.pdf"
+  ],
+  "target_pattern": "Use tener que + infinitive to express obligation, and contrast it with querer (desire) and poder (ability/permission).",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Translating have to word-by-word and treating que as a separate literal meaning.",
+      "spanish_logic": "Tener que is one fixed obligation chunk: conjugated tener + que + infinitive.",
+      "target_pattern_formula": [
+        "Tengo que + infinitivo (I have to...)",
+        "Tienes que + infinitivo (you have to...)",
+        "Contrast frame: Quiero... / Puedo... / Tengo que..."
+      ],
+      "natural_examples": [
+        "Tengo que trabajar mañana.",
+        "¿Tienes que confirmar la reserva hoy?",
+        "Tengo que verificar la información primero.",
+        "Quiero ayudarte, pero tengo que salir.",
+        "No puedo ahora; tengo que terminar este reporte."
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each in Spanish using today's pattern. No answer key until the end.",
+      "prompts_en": [
+        "I have to eat now.",
+        "You have to work tomorrow.",
+        "I have to study Spanish tonight.",
+        "Do you have to confirm the reservation?",
+        "I have to verify the information before the meeting.",
+        "Do you have to work on Wednesday?",
+        "I have to organize the meeting today.",
+        "Do you have to eat now?",
+        "I have to call my manager this afternoon.",
+        "Do you have to study with me tomorrow?",
+        "I have to send the report tonight.",
+        "Do you have to collaborate on this project?",
+        "I have to read this document first.",
+        "Do you have to work this weekend?",
+        "I have to speak with the client now.",
+        "Do you have to help me with the computer?",
+        "I have to make a reservation online.",
+        "Do you have to verify this information today?",
+        "I have to finish this task before lunch.",
+        "Do you have to call me later?"
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as instructed.",
+      "drills": [
+        "Base: Tengo que trabajar mañana. -> make it negative.",
+        "Base: ¿Tienes que estudiar hoy? -> answer yes in full sentence.",
+        "Base: Tengo que confirmar la reserva. -> change object to la información.",
+        "Base: Tienes que trabajar el lunes. -> change day to el jueves.",
+        "Base: Tengo que organizar la reunión. -> turn into question.",
+        "Base: ¿Tienes que comer ahora? -> change tú to ustedes.",
+        "Base: Tengo que hablar contigo. -> change to past obligation (I had to).",
+        "Base: No tengo que salir hoy. -> make it affirmative.",
+        "Base: Tengo que estudiar español. -> add conmigo frame by changing subject to tú.",
+        "Base: Tienes que verificar el archivo. -> change to first person plural.",
+        "Base: Tengo que trabajar el sábado. -> change to habitual Saturdays.",
+        "Base: ¿Tienes que leer este reporte? -> change to statement.",
+        "Base: Tengo que ayudar a Ana. -> replace with help Ana with the project.",
+        "Base: Tienes que confirmar la reservación. -> soften to desire with quieres.",
+        "Base: Tengo que estudiar hoy, pero no puedo. -> invert clauses."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the most natural option and write it in Spanish.",
+      "prompts": [
+        "I have to work tomorrow. (tengo que vs quiero)",
+        "I want to work tomorrow. (quiero vs tengo que)",
+        "I can work tomorrow. (puedo vs tengo que)",
+        "Do you have to study today? (¿tienes que...? vs ¿puedes...?)",
+        "Can you study today? (¿puedes...? vs ¿tienes que...?)",
+        "I want to help you, but I have to leave. (quiero... pero tengo que...)",
+        "I cannot go because I have to work. (no puedo... porque tengo que...)",
+        "Do you have to confirm the reservation, or do you want to? (tener que vs querer)",
+        "I do not have to work on Sunday. (no tengo que vs no puedo)",
+        "I have to verify the information before sending it. (tengo que + infinitivo)"
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific meaning.",
+      "prompts": [
+        "You have to call a client before 10 a.m.",
+        "You have to work tomorrow but you want to rest.",
+        "You have to study Spanish tonight.",
+        "You have to confirm an appointment this afternoon.",
+        "You have to send one important email now.",
+        "You have to verify information before paying.",
+        "You have to organize your week tonight.",
+        "You have to finish a report before lunch.",
+        "You have to speak with your manager today.",
+        "You have to make a reservation for this weekend.",
+        "You have to help someone with a project tomorrow.",
+        "You have to read a document before a meeting.",
+        "You have to work on Thursday, not Wednesday.",
+        "You have to practice Spanish every day this week.",
+        "You have to leave now even though you want to stay."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish (not literal English).",
+      "prompts_en": [
+        "I have to jump on a call now.",
+        "I have to get this done today.",
+        "I want to go, but I have to stay.",
+        "I cannot talk long; I have to work.",
+        "Do you have to be there at 9?",
+        "I have to sort this out first.",
+        "I do not have to go tomorrow.",
+        "We have to move this meeting.",
+        "You have to let me know today.",
+        "I have to work on Saturdays."
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "Translating que literally inside tener que",
+        "why_it_happens": "Learner maps each word separately.",
+        "correct_spanish": "Tengo que estudiar."
+      },
+      {
+        "mistake": "Tengo de trabajar",
+        "why_it_happens": "Confusion with other preposition patterns.",
+        "correct_spanish": "Tengo que trabajar."
+      },
+      {
+        "mistake": "Stopping after tengo que",
+        "why_it_happens": "Obligation chunk is produced but action verb is missing.",
+        "correct_spanish": "Tengo que confirmar la reserva."
+      },
+      {
+        "mistake": "Tengo que estudio",
+        "why_it_happens": "Conjugated verb used instead of infinitive.",
+        "correct_spanish": "Tengo que estudiar."
+      },
+      {
+        "mistake": "Using puedo when obligation is intended",
+        "why_it_happens": "Ability and obligation blur in direct translation.",
+        "correct_spanish": "Tengo que trabajar."
+      },
+      {
+        "mistake": "Using quiero when obligation is intended",
+        "why_it_happens": "Desire and obligation are not separated.",
+        "correct_spanish": "Quiero descansar, pero tengo que trabajar."
+      },
+      {
+        "mistake": "Missing article before day of week in this frame",
+        "why_it_happens": "English weekday phrasing transfer.",
+        "correct_spanish": "Tengo que trabajar el lunes."
+      },
+      {
+        "mistake": "Question punctuation omitted",
+        "why_it_happens": "English punctuation habit.",
+        "correct_spanish": "¿Tienes que estudiar hoy?"
+      },
+      {
+        "mistake": "Missing noun article in object phrase",
+        "why_it_happens": "Word-by-word compression.",
+        "correct_spanish": "Tengo que confirmar la información."
+      },
+      {
+        "mistake": "Using tener without que for obligation",
+        "why_it_happens": "Formula chunk not fully internalized.",
+        "correct_spanish": "Tengo que salir ahora."
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "Tengo que comer ahora.",
+        "Tienes que trabajar mañana.",
+        "Tengo que estudiar español esta noche.",
+        "¿Tienes que confirmar la reserva?",
+        "Tengo que verificar la información antes de la reunión.",
+        "¿Tienes que trabajar el miércoles?",
+        "Tengo que organizar la reunión hoy.",
+        "¿Tienes que comer ahora?",
+        "Tengo que llamar a mi gerente esta tarde.",
+        "¿Tienes que estudiar conmigo mañana?",
+        "Tengo que enviar el informe esta noche.",
+        "¿Tienes que colaborar en este proyecto?",
+        "Tengo que leer este documento primero.",
+        "¿Tienes que trabajar este fin de semana?",
+        "Tengo que hablar con el cliente ahora.",
+        "¿Tienes que ayudarme con la computadora?",
+        "Tengo que hacer una reserva en línea.",
+        "¿Tienes que verificar esta información hoy?",
+        "Tengo que terminar esta tarea antes del almuerzo.",
+        "¿Tienes que llamarme más tarde?"
+      ],
+      "pattern_mutation": [
+        "No tengo que trabajar mañana.",
+        "Sí, tengo que estudiar hoy.",
+        "Tengo que confirmar la información.",
+        "Tienes que trabajar el jueves.",
+        "¿Tengo que organizar la reunión?",
+        "¿Tienen que comer ahora?",
+        "Tuve que hablar contigo.",
+        "Tengo que salir hoy.",
+        "Tienes que estudiar español conmigo.",
+        "Tenemos que verificar el archivo.",
+        "Tengo que trabajar los sábados.",
+        "Tienes que leer este reporte.",
+        "Tengo que ayudar a Ana con el proyecto.",
+        "Quieres confirmar la reservación.",
+        "No puedo estudiar hoy, pero tengo que estudiar."
+      ],
+      "contrastive_discrimination": [
+        "Tengo que trabajar mañana.",
+        "Quiero trabajar mañana.",
+        "Puedo trabajar mañana.",
+        "¿Tienes que estudiar hoy?",
+        "¿Puedes estudiar hoy?",
+        "Quiero ayudarte, pero tengo que salir.",
+        "No puedo ir porque tengo que trabajar.",
+        "¿Tienes que confirmar la reserva o quieres confirmarla?",
+        "No tengo que trabajar el domingo.",
+        "Tengo que verificar la información antes de enviarla."
+      ],
+      "reverse_conceptual_expression": [
+        "Tengo que entrar a una llamada ahora.",
+        "Tengo que terminar esto hoy.",
+        "Quiero ir, pero tengo que quedarme.",
+        "No puedo hablar mucho; tengo que trabajar.",
+        "¿Tienes que estar allí a las nueve?",
+        "Tengo que resolver esto primero.",
+        "No tengo que ir mañana.",
+        "Tenemos que mover esta reunión.",
+        "Tienes que avisarme hoy.",
+        "Tengo que trabajar los sábados."
+      ]
+    }
+  }
+}

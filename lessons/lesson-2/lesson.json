@@ -1,0 +1,248 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "tion-cion",
+    "feminine-nouns",
+    "quiero-plus-infinitive",
+    "adult-learners"
+  ],
+  "difficulty": "A1-A2",
+  "pattern_id": "TION_CION_QUERER_FEM_02",
+  "source_files": [
+    "lessons/lesson-2/master2 summary.pdf",
+    "lessons/lesson-2/tion cognates.pdf"
+  ],
+  "target_pattern": "Use -ción cognate nouns with correct feminine articles (la/una/las/unas) and build action sentences with quiero/no quiero + infinitive + noun phrase.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Translating word-by-word and treating each -tion word as unrelated vocabulary.",
+      "spanish_logic": "Many English -tion words map to Spanish -ción; these nouns are usually feminine, and they become useful quickly inside quiero/no quiero + infinitive frames.",
+      "target_pattern_formula": [
+        "Quiero + infinitivo + la/una + sustantivo en -ción",
+        "No quiero + infinitivo + la/una + sustantivo en -ción",
+        "Las/unas + sustantivos en -ciones (article agreement)"
+      ],
+      "natural_examples": [
+        "Quiero revisar la información antes de la reunión.",
+        "No quiero repetir la conversación de ayer.",
+        "Quiero confirmar la reservación hoy.",
+        "Necesito una invitación formal para entrar.",
+        "Las verificaciones toman tiempo, pero son necesarias."
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each in Spanish using the target pattern. No answer key until the end.",
+      "prompts_en": [
+        "I want to organize the information today.",
+        "I do not want to continue the conversation now.",
+        "I want to verify the documentation before signing.",
+        "I want to prepare the presentation tonight.",
+        "I do not want to repeat the explanation.",
+        "I want to confirm the reservation by phone.",
+        "I want to review the recommendation first.",
+        "I do not want to cancel the collaboration.",
+        "I want to memorize the information for tomorrow.",
+        "I want to identify the problem in this report.",
+        "I do not want to discuss that accusation at work.",
+        "I want to send an invitation this afternoon.",
+        "I want to clarify the situation with my manager.",
+        "I do not want to accept that justification.",
+        "I want to improve communication with clients.",
+        "I want to complete the registration today.",
+        "I do not want to delay the verification.",
+        "I want to finish the preparation before lunch.",
+        "I want to understand the regulation clearly.",
+        "I do not want to ignore the recommendation."
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as directed.",
+      "drills": [
+        "Base: Quiero revisar la información. -> make it negative.",
+        "Base: Quiero confirmar la reservación. -> make it a question.",
+        "Base: Quiero preparar la documentación. -> change to past (I wanted).",
+        "Base: No quiero continuar la conversación. -> change to affirmative.",
+        "Base: Quiero organizar la información. -> change subject to nosotros.",
+        "Base: Quiero una invitación formal. -> change to plural (unas invitaciones formales).",
+        "Base: Quiero revisar la recomendación. -> replace la with indefinite article.",
+        "Base: Quiero confirmar la reservación hoy. -> move to tomorrow.",
+        "Base: Quiero verificar la documentación. -> change to future intention with voy a.",
+        "Base: Quiero identificar la limitación principal. -> make it negative question.",
+        "Base: Quiero la confirmación por correo. -> pluralize noun and article.",
+        "Base: No quiero la conversación ahora. -> switch to sí quiero style affirmative.",
+        "Base: Quiero preparar la presentación. -> change to ella.",
+        "Base: Quiero una solución, no una explicación. -> invert the contrast.",
+        "Base: Quiero revisar la información del cliente. -> change cliente to plural (clientes), keep sentence natural."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the most natural pattern and write in Spanish.",
+      "prompts": [
+        "I want to confirm the reservation. (quiero + infinitivo vs quiero + noun only)",
+        "I want a confirmation. (quiero + noun vs quiero + infinitivo)",
+        "I do not want to continue the conversation. (no quiero + infinitivo vs no quiero que + infinitivo)",
+        "The information is clear. (la información vs el información)",
+        "Some recommendations are useful. (unas recomendaciones vs unos recomendaciones)",
+        "I want to verify the documentation today. (la documentación vs el documentación)",
+        "I want an invitation. (una invitación vs un invitación)",
+        "I want to prepare the report. (preparar vs preparación after quiero)",
+        "I want the regulations now. (las regulaciones vs los regulaciones)",
+        "I do not want the explanation, I want the solution. (la explicación / la solución article contrast)"
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific real-life meaning.",
+      "prompts": [
+        "You want to confirm an appointment this morning.",
+        "You do not want to continue a stressful conversation.",
+        "You want to review important information before a call.",
+        "You want to prepare documentation for work today.",
+        "You need an invitation for an event this week.",
+        "You do not want to accept an unclear explanation.",
+        "You want to improve communication with one person at work.",
+        "You want to verify a payment confirmation.",
+        "You do not want to delay the registration process.",
+        "You want to organize your week with better preparation.",
+        "You want to clarify a situation with a client.",
+        "You do not want to repeat the same discussion again.",
+        "You want to receive recommendations before deciding.",
+        "You want to finish one important verification tonight.",
+        "You want to maintain collaboration with your team."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish (not literal English).",
+      "prompts_en": [
+        "I do not want more explanation; I want action.",
+        "I want this information in writing.",
+        "I want to leave this conversation here.",
+        "I want confirmation before I pay.",
+        "I do not want to make a decision without verification.",
+        "I want clearer communication from now on.",
+        "I do not want excuses; I want solutions.",
+        "I want to organize this better next time.",
+        "I want to avoid confusion in this process.",
+        "I do not want pressure; I want collaboration."
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "el información",
+        "why_it_happens": "English has no noun gender.",
+        "correct_spanish": "la información"
+      },
+      {
+        "mistake": "un invitación",
+        "why_it_happens": "Article agreement confusion.",
+        "correct_spanish": "una invitación"
+      },
+      {
+        "mistake": "quiero confirmación (when action is intended)",
+        "why_it_happens": "Using noun instead of infinitive action pattern.",
+        "correct_spanish": "quiero confirmar ..."
+      },
+      {
+        "mistake": "no quiero que continuar",
+        "why_it_happens": "Mixing two different structures.",
+        "correct_spanish": "no quiero continuar ... / no quiero que continúes ..."
+      },
+      {
+        "mistake": "las informaciónes",
+        "why_it_happens": "Forcing plural on usually uncountable noun.",
+        "correct_spanish": "la información"
+      },
+      {
+        "mistake": "hacer una verificación (in every context)",
+        "why_it_happens": "Literal English collocation transfer.",
+        "correct_spanish": "verificar ..."
+      },
+      {
+        "mistake": "la documentacións",
+        "why_it_happens": "English-style plural ending transfer.",
+        "correct_spanish": "la documentación"
+      },
+      {
+        "mistake": "quiero la confirmar",
+        "why_it_happens": "Article placed before infinitive by interference.",
+        "correct_spanish": "quiero confirmar ..."
+      },
+      {
+        "mistake": "los regulaciones",
+        "why_it_happens": "Wrong gender in plural article.",
+        "correct_spanish": "las regulaciones"
+      },
+      {
+        "mistake": "quiero que revisar",
+        "why_it_happens": "Infinitive and subordinate clause mixed.",
+        "correct_spanish": "quiero revisar ... / quiero que revises ..."
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "Quiero organizar la información hoy.",
+        "No quiero continuar la conversación ahora.",
+        "Quiero verificar la documentación antes de firmar.",
+        "Quiero preparar la presentación esta noche.",
+        "No quiero repetir la explicación.",
+        "Quiero confirmar la reservación por teléfono.",
+        "Quiero revisar la recomendación primero.",
+        "No quiero cancelar la colaboración.",
+        "Quiero memorizar la información para mañana.",
+        "Quiero identificar el problema en este informe.",
+        "No quiero discutir esa acusación en el trabajo.",
+        "Quiero enviar una invitación esta tarde.",
+        "Quiero aclarar la situación con mi gerente.",
+        "No quiero aceptar esa justificación.",
+        "Quiero mejorar la comunicación con los clientes.",
+        "Quiero completar el registro hoy.",
+        "No quiero retrasar la verificación.",
+        "Quiero terminar la preparación antes del almuerzo.",
+        "Quiero entender la regulación claramente.",
+        "No quiero ignorar la recomendación."
+      ],
+      "pattern_mutation": [
+        "No quiero revisar la información.",
+        "¿Quieres confirmar la reservación?",
+        "Quería preparar la documentación.",
+        "Quiero continuar la conversación.",
+        "Queremos organizar la información.",
+        "Quiero unas invitaciones formales.",
+        "Quiero una recomendación.",
+        "Quiero confirmar la reservación mañana.",
+        "Voy a verificar la documentación.",
+        "¿No quiero identificar la limitación principal?",
+        "Quiero las confirmaciones por correo.",
+        "Sí quiero la conversación ahora.",
+        "Ella quiere preparar la presentación.",
+        "Quiero una explicación, no una solución.",
+        "Quiero revisar la información de los clientes."
+      ],
+      "contrastive_discrimination": [
+        "Quiero confirmar la reservación.",
+        "Quiero una confirmación.",
+        "No quiero continuar la conversación.",
+        "La información es clara.",
+        "Unas recomendaciones son útiles.",
+        "Quiero verificar la documentación hoy.",
+        "Quiero una invitación.",
+        "Quiero preparar el informe.",
+        "Quiero las regulaciones ahora.",
+        "No quiero la explicación, quiero la solución."
+      ],
+      "reverse_conceptual_expression": [
+        "No quiero más explicaciones; quiero acción.",
+        "Quiero esta información por escrito.",
+        "Quiero dejar esta conversación aquí.",
+        "Quiero confirmación antes de pagar.",
+        "No quiero tomar una decisión sin verificación.",
+        "Quiero una comunicación más clara desde ahora.",
+        "No quiero excusas; quiero soluciones.",
+        "Quiero organizar esto mejor la próxima vez.",
+        "Quiero evitar confusión en este proceso.",
+        "No quiero presión; quiero colaboración."
+      ]
+    }
+  }
+}

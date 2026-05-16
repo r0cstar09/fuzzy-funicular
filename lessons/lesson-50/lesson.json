@@ -1,0 +1,248 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "subjunctive-triggers",
+    "relative-clauses",
+    "specificity-contrast",
+    "adult-learners"
+  ],
+  "difficulty": "B1",
+  "pattern_id": "NONSPECIFIC_RELATIVE_SUBJUNCTIVE_50",
+  "source_files": [
+    "lessons/lesson-50/Summary 50.pdf"
+  ],
+  "target_pattern": "Use subjunctive in relative clauses with que when the referent is non-specific, and use indicative when the referent is specific and identified.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Using the same relative-clause mood regardless of whether the referent is known or unknown.",
+      "spanish_logic": "Spanish marks non-specific desired or searched referents with subjunctive, while known identified referents take indicative.",
+      "target_pattern_formula": [
+        "non-specific referent: indefinite article plus que plus subjunctive",
+        "specific referent: definite article plus que plus indicative",
+        "common triggers include querer buscar necesitar preferir with non-specific targets",
+        "non-specific person templates: busco a alguien que sepa or pueda"
+      ],
+      "natural_examples": [
+        "Quiero una silla que sea comoda.",
+        "Quiero la silla que es comoda.",
+        "Busco una casa que de al parque.",
+        "Busco la casa que da al parque.",
+        "Busco a alguien que pueda ayudarme."
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each in Spanish using subjunctive or indicative correctly.",
+      "prompts_en": [
+        "I want a chair that is comfortable.",
+        "I want the chair that is comfortable.",
+        "I am looking for a house that faces the park.",
+        "I am looking for the house that faces the park.",
+        "I need a laptop that has more memory.",
+        "I need the laptop that has more memory.",
+        "We are looking for an apartment that has three bedrooms.",
+        "We are looking for the apartment that has three bedrooms.",
+        "I prefer a job that pays better.",
+        "I prefer the job that pays better.",
+        "I am looking for someone who knows how to play guitar.",
+        "I am looking for someone who can work weekends.",
+        "I am looking for the carpenter who knows how to make furniture.",
+        "I need a person who can translate this today.",
+        "I need the person who can translate this today.",
+        "We want a restaurant that serves late.",
+        "We want the restaurant that serves late.",
+        "She is looking for a doctor who speaks Spanish.",
+        "She is looking for the doctor who speaks Spanish.",
+        "I need a solution that works right now."
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as instructed.",
+      "drills": [
+        "Base: Quiero una silla que sea comoda. -> change to specific chair.",
+        "Base: Busco una casa que de al parque. -> change to specific house.",
+        "Base: Necesito una computadora que tenga mas memoria. -> change noun to telefono.",
+        "Base: Prefiero un trabajo que pague mejor. -> change to plural trabajos.",
+        "Base: Busco a alguien que sepa tocar la guitarra. -> change skill to cocinar.",
+        "Base: Busco a alguien que pueda trabajar los fines de semana. -> change schedule to por las noches.",
+        "Base: Busco al carpintero que sabe hacer muebles. -> change to non-specific carpenter.",
+        "Base: Queremos un restaurante que sirva tarde. -> change to specific restaurant.",
+        "Base: Ella busca un medico que hable espanol. -> change to specific doctor.",
+        "Base: Necesito una solucion que funcione ahora mismo. -> change to specific solution.",
+        "Base: Quiero la silla que es comoda. -> change back to non-specific desire.",
+        "Base: Buscamos el apartamento que tiene tres recamaras. -> change back to non-specific search.",
+        "Base: Necesito la persona que puede traducir esto hoy. -> change to non-specific person.",
+        "Base: Prefiero el trabajo que paga mejor. -> change to non-specific.",
+        "Base: Busco un profesor que explique bien. -> change noun to profesora."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the correct Spanish form.",
+      "prompts": [
+        "I want a car that uses little gas. (Quiero un coche que use poca gasolina. vs Quiero un coche que usa poca gasolina.)",
+        "I want the car that uses little gas. (Quiero el coche que usa poca gasolina. vs Quiero el coche que use poca gasolina.)",
+        "I am looking for someone who can help me. (Busco a alguien que pueda ayudarme. vs Busco a alguien que puede ayudarme.)",
+        "I am looking for the person who can help me. (Busco a la persona que puede ayudarme. vs Busco a la persona que pueda ayudarme.)",
+        "We need a hotel that has parking. (Necesitamos un hotel que tenga estacionamiento. vs Necesitamos un hotel que tiene estacionamiento.)",
+        "We need the hotel that has parking. (Necesitamos el hotel que tiene estacionamiento. vs Necesitamos el hotel que tenga estacionamiento.)",
+        "She wants a manager who knows Spanish. (Quiere un gerente que sepa espanol. vs Quiere un gerente que sabe espanol.)",
+        "She wants the manager who knows Spanish. (Quiere al gerente que sabe espanol. vs Quiere al gerente que sepa espanol.)",
+        "I prefer a schedule that works for everyone. (Prefiero un horario que funcione para todos. vs Prefiero un horario que funciona para todos.)",
+        "I prefer the schedule that works for everyone. (Prefiero el horario que funciona para todos. vs Prefiero el horario que funcione para todos.)"
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific meaning.",
+      "prompts": [
+        "Write that you need a coworker who can start early.",
+        "Write that you need the coworker who can start early.",
+        "Write that you are looking for an apartment that allows pets.",
+        "Write that you are looking for the apartment that allows pets.",
+        "Write that you want a phone that lasts all day.",
+        "Write that you want the phone that lasts all day.",
+        "Write that your team needs a designer who knows Figma.",
+        "Write that your team needs the designer who knows Figma.",
+        "Write that you prefer a route that avoids tolls.",
+        "Write that you prefer the route that avoids tolls.",
+        "Write that you are looking for someone who can cover your shift.",
+        "Write that you are looking for the person who can cover your shift.",
+        "Write that you need a solution that scales.",
+        "Write that you need the solution that scales.",
+        "Write that you want a doctor who speaks clearly."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish, not literal English.",
+      "prompts_en": [
+        "I need a place that is quiet.",
+        "I need the place that is quiet.",
+        "We are looking for someone who can fix this today.",
+        "We are looking for the person who can fix this today.",
+        "She wants a company that values work-life balance.",
+        "She wants the company that values work-life balance.",
+        "I prefer a plan that is realistic.",
+        "I prefer the plan that is realistic.",
+        "They need a manager who listens.",
+        "They need the manager who listens."
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "Indicative used with non-specific noun",
+        "why_it_happens": "Direct transfer from English relative-clause usage.",
+        "correct_spanish": "Use subjunctive for non-specific referents."
+      },
+      {
+        "mistake": "Subjunctive used with clearly identified noun",
+        "why_it_happens": "Subjunctive rule overgeneralized.",
+        "correct_spanish": "Use indicative for specific identified referents."
+      },
+      {
+        "mistake": "Ignoring article contrast una/la or un/el",
+        "why_it_happens": "Specificity marker overlooked.",
+        "correct_spanish": "Article choice often signals mood choice in relative clause."
+      },
+      {
+        "mistake": "busco alguien without personal a in standard pattern practice",
+        "why_it_happens": "Uncertainty about personal a usage.",
+        "correct_spanish": "Busco a alguien is standard and natural."
+      },
+      {
+        "mistake": "Using al with non-specific person search",
+        "why_it_happens": "Accidental specificity introduced by contraction.",
+        "correct_spanish": "Use indefinite wording for non-specific referents."
+      },
+      {
+        "mistake": "Infinitive left after que",
+        "why_it_happens": "Clause verb not conjugated.",
+        "correct_spanish": "Conjugate indicative or subjunctive properly after que."
+      },
+      {
+        "mistake": "Mood chosen without checking whether referent is known",
+        "why_it_happens": "Grammar-first processing without meaning check.",
+        "correct_spanish": "Ask if exact referent is identified."
+      },
+      {
+        "mistake": "The phrase interpreted as non-specific despite definite article",
+        "why_it_happens": "English the weight underestimated.",
+        "correct_spanish": "Definite identified reference usually takes indicative."
+      },
+      {
+        "mistake": "Applying subjunctive to all relative clauses by default",
+        "why_it_happens": "Oversimplified memorization strategy.",
+        "correct_spanish": "Subjunctive here is tied to indefiniteness or uncertainty."
+      },
+      {
+        "mistake": "Avoiding this structure from subjunctive anxiety",
+        "why_it_happens": "Overthinking mood labels.",
+        "correct_spanish": "Make quick specificity decision and then select mood."
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "Quiero una silla que sea comoda.",
+        "Quiero la silla que es comoda.",
+        "Busco una casa que de al parque.",
+        "Busco la casa que da al parque.",
+        "Necesito una laptop que tenga mas memoria.",
+        "Necesito la laptop que tiene mas memoria.",
+        "Buscamos un apartamento que tenga tres recamaras.",
+        "Buscamos el apartamento que tiene tres recamaras.",
+        "Prefiero un trabajo que pague mejor.",
+        "Prefiero el trabajo que paga mejor.",
+        "Busco a alguien que sepa tocar la guitarra.",
+        "Busco a alguien que pueda trabajar los fines de semana.",
+        "Busco al carpintero que sabe hacer muebles.",
+        "Necesito una persona que pueda traducir esto hoy.",
+        "Necesito la persona que puede traducir esto hoy.",
+        "Queremos un restaurante que sirva tarde.",
+        "Queremos el restaurante que sirve tarde.",
+        "Ella busca un medico que hable espanol.",
+        "Ella busca al medico que habla espanol.",
+        "Necesito una solucion que funcione ahora mismo."
+      ],
+      "pattern_mutation": [
+        "Quiero la silla que es comoda.",
+        "Busco la casa que da al parque.",
+        "Necesito un telefono que tenga mas memoria.",
+        "Prefiero trabajos que paguen mejor.",
+        "Busco a alguien que sepa cocinar.",
+        "Busco a alguien que pueda trabajar por las noches.",
+        "Busco un carpintero que sepa hacer muebles.",
+        "Queremos el restaurante que sirve tarde.",
+        "Ella busca al medico que habla espanol.",
+        "Necesito la solucion que funciona ahora mismo.",
+        "Quiero una silla que sea comoda.",
+        "Buscamos un apartamento que tenga tres recamaras.",
+        "Necesito una persona que pueda traducir esto hoy.",
+        "Prefiero un trabajo que pague mejor.",
+        "Busco una profesora que explique bien."
+      ],
+      "contrastive_discrimination": [
+        "Quiero un coche que use poca gasolina.",
+        "Quiero el coche que usa poca gasolina.",
+        "Busco a alguien que pueda ayudarme.",
+        "Busco a la persona que puede ayudarme.",
+        "Necesitamos un hotel que tenga estacionamiento.",
+        "Necesitamos el hotel que tiene estacionamiento.",
+        "Quiere un gerente que sepa espanol.",
+        "Quiere al gerente que sabe espanol.",
+        "Prefiero un horario que funcione para todos.",
+        "Prefiero el horario que funciona para todos."
+      ],
+      "reverse_conceptual_expression": [
+        "Necesito un lugar que sea tranquilo.",
+        "Necesito el lugar que es tranquilo.",
+        "Buscamos a alguien que pueda arreglar esto hoy.",
+        "Buscamos a la persona que puede arreglar esto hoy.",
+        "Ella quiere una empresa que valore el equilibrio entre trabajo y vida.",
+        "Ella quiere la empresa que valora el equilibrio entre trabajo y vida.",
+        "Prefiero un plan que sea realista.",
+        "Prefiero el plan que es realista.",
+        "Necesitan un gerente que escuche.",
+        "Necesitan al gerente que escucha."
+      ]
+    }
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "estar",
+    "emotions",
+    "ser-vs-estar",
+    "adult-learners"
+  ],
+  "difficulty": "A1-A2",
+  "pattern_id": "ESTAR_STATES_EMOTIONS_12",
+  "source_files": [
+    "lessons/lesson-12/summary12.pdf",
+    "lessons/lesson-12/Exercise12.pdf"
+  ],
+  "target_pattern": "Use estar + adjective to express temporary states, emotions, health, and current food condition; maintain adjective gender/number agreement and contrast with ser when needed.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Treating to be as one universal verb and ignoring agreement.",
+      "spanish_logic": "Use estar for current condition/state and adjust adjective endings to match who or what is being described.",
+      "target_pattern_formula": [
+        "Sujeto + estar + adjetivo de estado",
+        "¿Cómo estás? + Estoy ...",
+        "¿Por qué estás ...? + Porque ..."
+      ],
+      "natural_examples": [
+        "Estoy cansado porque tengo que trabajar.",
+        "María está preocupada hoy.",
+        "¿Por qué están nerviosos ellos?",
+        "Las mujeres están contentas.",
+        "La sopa está caliente."
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each in Spanish using estar correctly and matching adjective agreement. No answer key until the end.",
+      "prompts_en": [
+        "I am confused.",
+        "You are tired.",
+        "María is sick.",
+        "Juan is nervous.",
+        "We (masculine) are angry.",
+        "We (feminine) are worried.",
+        "They (masculine) are happy.",
+        "They (feminine) are depressed.",
+        "The men are worried.",
+        "The women are nervous.",
+        "I am sad because I have to work.",
+        "Why are you angry?",
+        "I am happy because I can rest.",
+        "We are tired because we cannot sleep.",
+        "The coffee is hot.",
+        "The salsa is spicy.",
+        "The tacos are delicious.",
+        "The beer is cold.",
+        "The fruit is cold.",
+        "The chicken is delicious."
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as instructed.",
+      "drills": [
+        "Base: Estoy cansado. -> change to feminine speaker.",
+        "Base: María está enferma. -> turn into question.",
+        "Base: Ellos están nerviosos. -> change to feminine plural.",
+        "Base: Estoy triste porque tengo que trabajar. -> change reason to no puedo dormir.",
+        "Base: El café está caliente. -> make it negative.",
+        "Base: La cerveza está fría. -> change to plural subject las cervezas.",
+        "Base: ¿Cómo estás? -> answer with confundido (male speaker).",
+        "Base: Estoy enojada. -> ask why.",
+        "Base: Los tacos están deliciosos. -> change to singular el taco.",
+        "Base: Nosotros estamos preocupados. -> change to nosotras.",
+        "Base: ¿Por qué estás triste? -> answer with porque no puedo hablar con mi amiga.",
+        "Base: La fruta está fría. -> change to las frutas.",
+        "Base: Juan está contento. -> make it negative.",
+        "Base: Estoy feliz. -> add reason with porque voy a descansar.",
+        "Base: Las mujeres están cansadas. -> change to masculine plural los hombres."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the best option and write in Spanish.",
+      "prompts": [
+        "I am tired (right now). (estoy vs soy)",
+        "I am a patient person. (soy vs estoy)",
+        "María is sick today. (está enferma vs es enferma)",
+        "The tacos are delicious. (están deliciosos vs son deliciosos) in current tasting context.",
+        "How are you? (¿cómo estás? vs ¿cómo eres?)",
+        "What are you like? (¿cómo eres? vs ¿cómo estás?)",
+        "The coffee is hot. (está caliente vs es caliente) as current serving condition.",
+        "They are worried because they have a test. (están preocupados vs son preocupados)",
+        "I am happy today. (estoy feliz vs soy feliz) temporary emphasis.",
+        "The beer is cold. (está fría vs es fría) in drinking context."
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific meaning.",
+      "prompts": [
+        "You are tired because you slept badly.",
+        "You are happy because you are going to travel.",
+        "You are worried about work today.",
+        "You are nervous before an important meeting.",
+        "Your friend is sick and cannot go out.",
+        "Your coworkers are stressed this week.",
+        "The coffee is too hot right now.",
+        "The food is delicious tonight.",
+        "The drink is cold and refreshing.",
+        "You are confused and need help.",
+        "You are not sad anymore.",
+        "Your family is content today.",
+        "You are angry because you have too many tasks.",
+        "You are calm now, not nervous.",
+        "You are happy because you can rest tomorrow."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish (not literal English).",
+      "prompts_en": [
+        "I am not feeling great today.",
+        "Why are you so stressed?",
+        "I am okay, just tired.",
+        "The food is really good today.",
+        "I cannot think clearly right now.",
+        "She is in a bad mood.",
+        "They are doing fine.",
+        "I am worried about that.",
+        "The coffee is too cold now.",
+        "I am happy for you."
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "Using ser for temporary emotions",
+        "why_it_happens": "English uses one to be verb.",
+        "correct_spanish": "Estoy cansado."
+      },
+      {
+        "mistake": "No gender agreement in adjectives",
+        "why_it_happens": "English adjectives do not change.",
+        "correct_spanish": "María está cansada."
+      },
+      {
+        "mistake": "No number agreement in adjectives",
+        "why_it_happens": "Learner leaves adjective singular.",
+        "correct_spanish": "Ellos están preocupados."
+      },
+      {
+        "mistake": "es enfermo for current illness",
+        "why_it_happens": "Trait vs temporary condition is mixed.",
+        "correct_spanish": "Está enfermo hoy."
+      },
+      {
+        "mistake": "soy bien for I am good",
+        "why_it_happens": "Literal translation.",
+        "correct_spanish": "Estoy bien."
+      },
+      {
+        "mistake": "ser for food condition now",
+        "why_it_happens": "English is does both jobs.",
+        "correct_spanish": "La sopa está caliente."
+      },
+      {
+        "mistake": "Missing porque connector",
+        "why_it_happens": "Sentence linking in Spanish is underused.",
+        "correct_spanish": "Estoy triste porque no puedo dormir."
+      },
+      {
+        "mistake": "Missing accent in estás",
+        "why_it_happens": "Fast typing or keyboard friction.",
+        "correct_spanish": "¿Cómo estás?"
+      },
+      {
+        "mistake": "Infinitive-like form after estar",
+        "why_it_happens": "Cross-pattern confusion with modal + infinitive lessons.",
+        "correct_spanish": "Estoy nervioso."
+      },
+      {
+        "mistake": "Inconsistent regional angry adjective usage",
+        "why_it_happens": "enojado and enfadado mixed without awareness.",
+        "correct_spanish": "Both are valid; use one consistently in context."
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "Estoy confundido.",
+        "Estás cansado/cansada.",
+        "María está enferma.",
+        "Juan está nervioso.",
+        "Nosotros estamos enojados.",
+        "Nosotras estamos preocupadas.",
+        "Ellos están felices.",
+        "Ellas están deprimidas.",
+        "Los hombres están preocupados.",
+        "Las mujeres están nerviosas.",
+        "Estoy triste porque tengo que trabajar.",
+        "¿Por qué estás enojado/enojada?",
+        "Estoy feliz porque puedo descansar.",
+        "Estamos cansados porque no podemos dormir.",
+        "El café está caliente.",
+        "La salsa está picante.",
+        "Los tacos están deliciosos.",
+        "La cerveza está fría.",
+        "La fruta está fría.",
+        "El pollo está delicioso."
+      ],
+      "pattern_mutation": [
+        "Estoy cansada.",
+        "¿María está enferma?",
+        "Ellas están nerviosas.",
+        "Estoy triste porque no puedo dormir.",
+        "El café no está caliente.",
+        "Las cervezas están frías.",
+        "Estoy confundido.",
+        "¿Por qué estás enojada?",
+        "El taco está delicioso.",
+        "Nosotras estamos preocupadas.",
+        "Porque no puedo hablar con mi amiga.",
+        "Las frutas están frías.",
+        "Juan no está contento.",
+        "Estoy feliz porque voy a descansar.",
+        "Los hombres están cansados."
+      ],
+      "contrastive_discrimination": [
+        "Estoy cansado.",
+        "Soy una persona paciente.",
+        "María está enferma hoy.",
+        "Los tacos están deliciosos.",
+        "¿Cómo estás?",
+        "¿Cómo eres?",
+        "El café está caliente.",
+        "Están preocupados porque tienen un examen.",
+        "Estoy feliz hoy.",
+        "La cerveza está fría."
+      ],
+      "reverse_conceptual_expression": [
+        "No me siento muy bien hoy.",
+        "¿Por qué estás tan estresado?",
+        "Estoy bien, solo cansado.",
+        "La comida está muy buena hoy.",
+        "No puedo pensar con claridad ahora.",
+        "Ella está de mal humor.",
+        "Están bien.",
+        "Estoy preocupado por eso.",
+        "El café está demasiado frío ahora.",
+        "Estoy feliz por ti."
+      ]
+    }
+  }
+}

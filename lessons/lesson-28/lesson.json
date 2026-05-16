@@ -1,0 +1,250 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "color-adjectives",
+    "agreement",
+    "ser-vs-estar",
+    "adult-learners"
+  ],
+  "difficulty": "A2-B1",
+  "pattern_id": "COLOR_AGREEMENT_AND_USAGE_28",
+  "source_files": [
+    "lessons/lesson-28/Summary 28.pdf",
+    "lessons/lesson-28/Lesson 28 Exercise.pdf"
+  ],
+  "target_pattern": "Place color adjectives after nouns, apply agreement rules by color type, use shade patterns claro/oscuro after the color, and leverage color + noun construction when agreement is uncertain.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Keeping one fixed color form and English adjective order.",
+      "spanish_logic": "Spanish color words follow noun position and rule-based agreement patterns, with safe alternatives for invariable forms.",
+      "target_pattern_formula": [
+        "noun + variable color",
+        "number-only colors: azul/verde/gris",
+        "invariable colors: naranja/cafe/purpura/violeta",
+        "shade suffix after color: verde claro, azul oscuro",
+        "safe fallback: color + color word"
+      ],
+      "natural_examples": [
+        "La pared blanca necesita pintura.",
+        "Los pantalones verdes combinan bien.",
+        "La mochila naranja esta en la oficina.",
+        "Quiero una camisa azul oscuro.",
+        "Compramos un sofa color cafe."
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each in Spanish using correct color placement and agreement.",
+      "prompts_en": [
+        "the yellow shirts",
+        "the green apple",
+        "the black dogs",
+        "the white skirt",
+        "the pink flowers",
+        "the red table",
+        "the blue books",
+        "the gray backpacks",
+        "the orange fish",
+        "the purple flowers",
+        "the dark blue shoes",
+        "the light green shirt",
+        "the light gray pants",
+        "the dark red dress",
+        "the light brown hat",
+        "The house is white.",
+        "The plant is green today.",
+        "My shoes are black.",
+        "The sky is gray this morning.",
+        "I bought a backpack color pink."
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as instructed.",
+      "drills": [
+        "Base: la camisa roja -> change noun to plural camisas.",
+        "Base: el coche negro -> change noun to feminine singular moto.",
+        "Base: los zapatos azules -> change noun to singular zapato.",
+        "Base: la pared gris -> change noun to plural paredes.",
+        "Base: el pez naranja -> change noun to plural peces.",
+        "Base: la flor purpura -> change noun to plural flores.",
+        "Base: la camisa verde claro -> change to dark green.",
+        "Base: los zapatos azul oscuro -> change to light blue.",
+        "Base: la casa es blanca -> change predicate color to amarilla.",
+        "Base: la planta esta verde hoy -> change to esta amarilla hoy.",
+        "Base: la puerta es azul normalmente -> change to plural subject.",
+        "Base: compre una mochila color rosa -> change noun to zapatos.",
+        "Base: el perro color cafe -> rewrite using adjective agreement form.",
+        "Base: tengo ojos castanos -> change to hair expression with castano.",
+        "Base: el oso pardo vive en el bosque -> change animal to plural."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the correct Spanish form.",
+      "prompts": [
+        "the red house (la casa roja vs la roja casa)",
+        "the black dogs (los perros negros vs los perros negro)",
+        "the green apples (las manzanas verdes vs las manzanas verde)",
+        "the orange backpack (la mochila naranja vs la mochila naranjas)",
+        "the purple flowers (las flores purpura vs las flores purpuras)",
+        "dark blue shoes (los zapatos azul oscuro vs los zapatos azules oscuros in this lesson pattern)",
+        "The shirt is red. (La camisa es roja. vs La camisa esta roja for default trait)",
+        "The plant is green today. (La planta esta verde hoy. vs La planta es verde hoy)",
+        "I bought green pants. (Compre unos pantalones color verde. vs Compre unos pantalones verdes color.)",
+        "brown eyes (ojos castanos vs ojos cafe as default taught context)"
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific meaning.",
+      "prompts": [
+        "Write that you bought a black jacket for work.",
+        "Write that your car is blue.",
+        "Write that your office walls are white.",
+        "Write that you prefer dark green shirts.",
+        "Write that your friend has gray shoes.",
+        "Write that your backpack is orange.",
+        "Write that your team uses a color purple logo.",
+        "Write that the sky is gray this morning in your city.",
+        "Write that your plant is very green today.",
+        "Write that you bought pants color brown.",
+        "Write that your colleague has brown eyes.",
+        "Write that your brother has brown hair.",
+        "Write that you saw a brown bear in a documentary.",
+        "Write that you want a light blue notebook.",
+        "Write that your building has many red doors."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish, not literal English.",
+      "prompts_en": [
+        "The flowers are pink.",
+        "I want a dark gray coat.",
+        "We bought a light green table.",
+        "The room is white, but the door is black.",
+        "She has brown hair and brown eyes.",
+        "They want a car color purple.",
+        "The fish is orange.",
+        "This shirt is very blue.",
+        "The sky is blue today.",
+        "I need black shoes for the event."
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "roja casa",
+        "why_it_happens": "English adjective order transfer.",
+        "correct_spanish": "casa roja"
+      },
+      {
+        "mistake": "los perros negro",
+        "why_it_happens": "Missing plural agreement on variable color.",
+        "correct_spanish": "los perros negros"
+      },
+      {
+        "mistake": "forcing gender change on azul/verde/gris",
+        "why_it_happens": "Overgeneralized agreement rule.",
+        "correct_spanish": "Usually number-only forms are used."
+      },
+      {
+        "mistake": "naranjas/cafes/purpuras in this invariable set",
+        "why_it_happens": "Applying regular adjective inflection.",
+        "correct_spanish": "Use naranja/cafe/purpura/violeta as taught."
+      },
+      {
+        "mistake": "la camisa es rojo",
+        "why_it_happens": "Not matching variable color with feminine noun.",
+        "correct_spanish": "la camisa es roja"
+      },
+      {
+        "mistake": "la planta es verde hoy for temporary state",
+        "why_it_happens": "Confusing ser with estar in context.",
+        "correct_spanish": "la planta esta verde hoy"
+      },
+      {
+        "mistake": "broken workaround when unsure",
+        "why_it_happens": "Agreement uncertainty under pressure.",
+        "correct_spanish": "Use safe frame color + color word."
+      },
+      {
+        "mistake": "using castano for all brown objects",
+        "why_it_happens": "Ignoring lexical distribution by context.",
+        "correct_spanish": "castano mainly for hair/eyes."
+      },
+      {
+        "mistake": "using pardo for everyday objects",
+        "why_it_happens": "Overextending specialized word.",
+        "correct_spanish": "pardo appears in limited contexts like oso pardo."
+      },
+      {
+        "mistake": "placing claro/oscuro before color",
+        "why_it_happens": "Literal transfer from English order.",
+        "correct_spanish": "verde claro, azul oscuro"
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "las camisas amarillas",
+        "la manzana verde",
+        "los perros negros",
+        "la falda blanca",
+        "las flores rosas",
+        "la mesa roja",
+        "los libros azules",
+        "las mochilas grises",
+        "el pez naranja",
+        "las flores purpura",
+        "los zapatos azul oscuro",
+        "la camisa verde claro",
+        "los pantalones gris claro",
+        "el vestido rojo oscuro",
+        "el sombrero cafe claro",
+        "La casa es blanca.",
+        "La planta esta verde hoy.",
+        "Mis zapatos son negros.",
+        "El cielo esta gris esta manana.",
+        "Compre una mochila color rosa."
+      ],
+      "pattern_mutation": [
+        "las camisas rojas",
+        "la moto negra",
+        "el zapato azul",
+        "las paredes grises",
+        "los peces naranja",
+        "las flores purpura",
+        "la camisa verde oscuro",
+        "los zapatos azul claro",
+        "la casa es amarilla",
+        "la planta esta amarilla hoy",
+        "las puertas son azules normalmente",
+        "compre unos zapatos color rosa",
+        "el perro cafe",
+        "tengo el pelo castano",
+        "los osos pardos viven en el bosque"
+      ],
+      "contrastive_discrimination": [
+        "la casa roja",
+        "los perros negros",
+        "las manzanas verdes",
+        "la mochila naranja",
+        "las flores purpura",
+        "los zapatos azul oscuro",
+        "La camisa es roja.",
+        "La planta esta verde hoy.",
+        "Compre unos pantalones color verde.",
+        "ojos castanos"
+      ],
+      "reverse_conceptual_expression": [
+        "Las flores son rosas.",
+        "Quiero un abrigo gris oscuro.",
+        "Compramos una mesa verde claro.",
+        "El cuarto es blanco, pero la puerta es negra.",
+        "Ella tiene el pelo castano y ojos castanos.",
+        "Quieren un coche color purpura.",
+        "El pez es naranja.",
+        "Esta camisa es muy azul.",
+        "El cielo esta azul hoy.",
+        "Necesito zapatos negros para el evento."
+      ]
+    }
+  }
+}

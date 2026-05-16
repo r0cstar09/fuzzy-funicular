@@ -1,0 +1,248 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "demonstratives",
+    "este-ese-aquel",
+    "pronouns",
+    "adult-learners"
+  ],
+  "difficulty": "A2",
+  "pattern_id": "DEMONSTRATIVES_AGREEMENT_10",
+  "source_files": [
+    "lessons/lesson-10/master 10.pdf",
+    "lessons/lesson-10/10 exercise.pdf"
+  ],
+  "target_pattern": "Use demonstrative adjectives and pronouns (este/ese/aquel + gender/number forms, plus esto/eso) to point to specific objects, unknown concepts, and time references naturally.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Using one fixed this/that form without gender and number agreement.",
+      "spanish_logic": "Demonstratives must match noun gender and number; neuter forms refer to ideas or unknown things.",
+      "target_pattern_formula": [
+        "este/esta/estos/estas + noun (this/these)",
+        "ese/esa/esos/esas + noun (that/those)",
+        "aquel/aquella/aquellos/aquellas + noun (that/those over there)"
+      ],
+      "natural_examples": [
+        "Quiero esta mesa.",
+        "No me gusta ese carro.",
+        "¿Ves aquellos edificios?",
+        "¿Qué es esto?",
+        "Quiero hablar de eso."
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each in Spanish using the correct demonstrative form. No answer key until the end.",
+      "prompts_en": [
+        "This house is big.",
+        "That car is expensive.",
+        "These keys are on the table.",
+        "Those dogs are outside.",
+        "That mountain over there is beautiful.",
+        "I want this shirt.",
+        "I prefer that table.",
+        "I do not want those shoes.",
+        "Do you want this book?",
+        "Do you want those flowers over there?",
+        "This phone is new.",
+        "That window is open.",
+        "Those walls are white.",
+        "These glasses are clean.",
+        "I want this one. (el reloj)",
+        "I want that one. (la maleta)",
+        "I do not want those ones. (los cuadernos)",
+        "What is this?",
+        "I do not understand that.",
+        "At that time, everything was different."
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as instructed.",
+      "drills": [
+        "Base: Este libro es interesante. -> change to feminine singular (revista).",
+        "Base: Esa silla es cómoda. -> change to plural.",
+        "Base: Aquella casa es antigua. -> change to masculine singular (edificio).",
+        "Base: Quiero este. -> change noun reference to feminine (camisa).",
+        "Base: No quiero esos. -> change to singular masculine.",
+        "Base: ¿Quieres esta mesa? -> change to pronoun form (this one).",
+        "Base: ¿Qué es esto? -> change to What is that?",
+        "Base: Quiero hablar de eso. -> make it negative.",
+        "Base: En ese entonces, trabajaba mucho. -> change to aquel entonces.",
+        "Base: Estos zapatos son caros. -> change demonstrative to farther distance.",
+        "Base: No quiero esa. -> turn into question.",
+        "Base: Aquellos niños están en el parque. -> change to feminine plural (niñas).",
+        "Base: Este teléfono funciona bien. -> change to plural (teléfonos).",
+        "Base: ¿Quieres ese cuaderno? -> answer yes using pronoun.",
+        "Base: Esta puerta está cerrada. -> change to those doors."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the most natural option and write in Spanish.",
+      "prompts": [
+        "This book (este libro vs esta libro)",
+        "That chair (esa silla vs ese silla)",
+        "These windows (estas ventanas vs estos ventanas)",
+        "Those cars (esos carros vs esas carros)",
+        "That mountain over there (aquella montaña vs esa montaña) with far-distance emphasis.",
+        "What is this? (¿qué es esto? vs ¿qué es este?) unknown object.",
+        "I want this one. (la mesa) (quiero esta vs quiero este)",
+        "I do not want those ones. (los libros) (no quiero esos vs no quiero esas)",
+        "At that time (en ese entonces vs en ese tiempo) in this lesson frame.",
+        "Back then with stronger distance (en aquel entonces vs en ese entonces)."
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific meaning.",
+      "prompts": [
+        "You want this table, not that one.",
+        "Those documents are important.",
+        "This meeting is short, but that meeting is long.",
+        "You do not want those shoes over there.",
+        "This phone works and that one does not.",
+        "These emails are urgent.",
+        "That office is far from here.",
+        "This chair is more comfortable.",
+        "You prefer those options.",
+        "Those keys are not yours.",
+        "You want this one (feminine object).",
+        "You do not understand this.",
+        "At that time you worked in another city.",
+        "Back then your schedule was different.",
+        "These plans are better than those."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish (not literal English).",
+      "prompts_en": [
+        "This one works better.",
+        "I do not want that one, I want this one.",
+        "What is this supposed to mean?",
+        "That over there is my office.",
+        "These are the ones I need.",
+        "I remember that time clearly.",
+        "Back then, we did not have this problem.",
+        "I will take this one.",
+        "Those over there are not available.",
+        "I am talking about that, not this."
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "Wrong gender with demonstrative",
+        "why_it_happens": "English this/that has no gender.",
+        "correct_spanish": "esta casa, ese carro"
+      },
+      {
+        "mistake": "Wrong number agreement",
+        "why_it_happens": "Noun changes but demonstrative stays singular.",
+        "correct_spanish": "estos libros, esas sillas"
+      },
+      {
+        "mistake": "Using adjective forms for unknown objects",
+        "why_it_happens": "este and esto are mixed.",
+        "correct_spanish": "¿Qué es esto?"
+      },
+      {
+        "mistake": "Using esto/eso before nouns",
+        "why_it_happens": "Neuter forms are overgeneralized.",
+        "correct_spanish": "este libro"
+      },
+      {
+        "mistake": "Overusing aquel for all that contexts",
+        "why_it_happens": "Dictionary mapping without distance nuance.",
+        "correct_spanish": "ese/esa usually works for normal distance"
+      },
+      {
+        "mistake": "Missing accent in qué questions",
+        "why_it_happens": "Accent marks are dropped in fast typing.",
+        "correct_spanish": "¿Qué es esto?"
+      },
+      {
+        "mistake": "Mixing adjective and pronoun uses",
+        "why_it_happens": "Learner does not separate with-noun vs no-noun forms.",
+        "correct_spanish": "Quiero esta camisa / Quiero esta"
+      },
+      {
+        "mistake": "Wrong pronoun based on hidden noun gender",
+        "why_it_happens": "Reference noun is not mentally tracked.",
+        "correct_spanish": "(la mesa) quiero esta"
+      },
+      {
+        "mistake": "Literal English order for time phrase",
+        "why_it_happens": "Word-for-word transfer.",
+        "correct_spanish": "En ese entonces..."
+      },
+      {
+        "mistake": "Using ese for near speaker objects",
+        "why_it_happens": "Distance logic not internalized.",
+        "correct_spanish": "este for near objects"
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "Esta casa es grande.",
+        "Ese carro es caro.",
+        "Estas llaves están sobre la mesa.",
+        "Esos perros están afuera.",
+        "Aquella montaña es hermosa.",
+        "Quiero esta camisa.",
+        "Prefiero esa mesa.",
+        "No quiero esos zapatos.",
+        "¿Quieres este libro?",
+        "¿Quieres aquellas flores?",
+        "Este teléfono es nuevo.",
+        "Esa ventana está abierta.",
+        "Esas paredes son blancas.",
+        "Estos vasos están limpios.",
+        "Quiero este.",
+        "Quiero esa.",
+        "No quiero esos.",
+        "¿Qué es esto?",
+        "No entiendo eso.",
+        "En ese entonces, todo era diferente."
+      ],
+      "pattern_mutation": [
+        "Esta revista es interesante.",
+        "Esas sillas son cómodas.",
+        "Aquel edificio es antiguo.",
+        "Quiero esta.",
+        "No quiero ese.",
+        "¿Quieres esta?",
+        "¿Qué es eso?",
+        "No quiero hablar de eso.",
+        "En aquel entonces, trabajaba mucho.",
+        "Aquellos zapatos son caros.",
+        "¿No quieres esa?",
+        "Aquellas niñas están en el parque.",
+        "Estos teléfonos funcionan bien.",
+        "Sí, quiero ese.",
+        "Esas puertas están cerradas."
+      ],
+      "contrastive_discrimination": [
+        "Este libro.",
+        "Esa silla.",
+        "Estas ventanas.",
+        "Esos carros.",
+        "Aquella montaña.",
+        "¿Qué es esto?",
+        "Quiero esta.",
+        "No quiero esos.",
+        "En ese entonces.",
+        "En aquel entonces."
+      ],
+      "reverse_conceptual_expression": [
+        "Esta funciona mejor.",
+        "No quiero esa, quiero esta.",
+        "¿Qué se supone que significa esto?",
+        "Aquello de allá es mi oficina.",
+        "Estos son los que necesito.",
+        "Recuerdo bien ese momento.",
+        "En aquel entonces, no teníamos este problema.",
+        "Me llevo este.",
+        "Aquellos de allá no están disponibles.",
+        "Hablo de eso, no de esto."
+      ]
+    }
+  }
+}

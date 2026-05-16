@@ -1,0 +1,250 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "hace-desde",
+    "time-expressions",
+    "duration-structures",
+    "adult-learners"
+  ],
+  "difficulty": "B1",
+  "pattern_id": "HACE_DESDE_DURATION_23",
+  "source_files": [
+    "lessons/lesson-23/Summary 23.pdf",
+    "lessons/lesson-23/lesson 23.pdf"
+  ],
+  "target_pattern": "Express timelines with five high-frequency structures: hace + preterite for ago events, desde + start point, desde hace + duration, hace + duration + que + present, and llevar + duration + gerundio.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Using one English for/since/ago mapping for every timeline sentence.",
+      "spanish_logic": "Spanish chooses different frames depending on whether you mean ago, since-point, or ongoing duration.",
+      "target_pattern_formula": [
+        "hace + time expression + preterite",
+        "present tense + desde + specific point",
+        "present tense + desde hace + duration",
+        "hace + duration + que + present tense",
+        "llevar + duration + gerundio"
+      ],
+      "natural_examples": [
+        "Llegue aqui hace tres anos.",
+        "Vivo en esta ciudad desde 2021.",
+        "Trabajo remoto desde hace dos anos.",
+        "Hace seis meses que estudio contabilidad.",
+        "Llevo veinte minutos esperando al cliente."
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each in Spanish using the indicated timeline logic.",
+      "prompts_en": [
+        "I moved here two years ago.",
+        "She called me three days ago.",
+        "We opened this business five years ago.",
+        "He sold his car last month.",
+        "I met my manager a long time ago.",
+        "We have lived here since 2020.",
+        "Since when do you work in this office?",
+        "She has studied English since January.",
+        "He has had this phone since last summer.",
+        "I have known them since university.",
+        "I have worked here for four years.",
+        "We have waited for one hour.",
+        "She has lived in Mexico for six months.",
+        "They have used this system for a long time.",
+        "I have had this computer for two weeks.",
+        "We have been friends for many years.",
+        "I have been preparing this report for two hours.",
+        "She has been teaching online for one year.",
+        "My parents have lived here for ten years.",
+        "I have been buying coffee at this cafe for one month."
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as instructed.",
+      "drills": [
+        "Base: Llegue hace dos anos. -> change duration to cinco anos.",
+        "Base: Ella llamo hace tres dias. -> change subject to nosotros.",
+        "Base: Vivo aqui desde 2020. -> change start point to 2018.",
+        "Base: Trabajo aqui desde enero. -> change month to septiembre.",
+        "Base: Estudio espanol desde hace seis meses. -> change to dos anos.",
+        "Base: Esperamos desde hace una hora. -> change subject to yo.",
+        "Base: Hace dos horas que estudio. -> change to negative.",
+        "Base: Hace tres anos que vivimos aqui. -> change subject to ellos.",
+        "Base: Llevo dos anos trabajando aqui. -> change subject to ella.",
+        "Base: Llevamos veinte minutos esperando. -> change duration to una hora.",
+        "Base: Tengo este coche desde el verano pasado. -> rewrite with desde hace and a duration.",
+        "Base: Conozco a Ana desde 2019. -> rewrite with desde hace and duration.",
+        "Base: Hace un mes que compro cafe aqui. -> rewrite with llevar + gerundio.",
+        "Base: Llegaron hace una semana. -> turn into yes/no question.",
+        "Base: Trabajo aqui desde hace cuatro anos. -> rewrite with hace + duration + que."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the correct Spanish form.",
+      "prompts": [
+        "I arrived two years ago. (Llegue hace dos anos. vs Llegue desde hace dos anos.)",
+        "I have lived here since 2020. (Vivo aqui desde 2020. vs Vivo aqui desde hace 2020.)",
+        "I have lived here for three years. (Vivo aqui desde hace tres anos. vs Vivo aqui desde tres anos.)",
+        "We have been studying for two hours. (Hace dos horas que estudiamos. vs Hace dos horas estudiamos for ongoing meaning.)",
+        "She has been working here for six months. (Ella lleva seis meses trabajando aqui. vs Ella lleva seis meses trabaja aqui.)",
+        "Since when do you live here? (Desde cuando vives aqui? vs Hace cuando vives aqui?)",
+        "He bought that house a long time ago. (Compro esa casa hace mucho tiempo. vs Compro esa casa desde hace mucho tiempo.)",
+        "They have had this system since January. (Tienen este sistema desde enero. vs Tienen este sistema hace enero.)",
+        "I have known him for five years. (Lo conozco desde hace cinco anos. vs Lo conoci hace cinco anos for ongoing meaning.)",
+        "We have been waiting for twenty minutes. (Llevamos veinte minutos esperando. vs Llevamos veinte minutos esperamos.)"
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific meaning.",
+      "prompts": [
+        "Write that you started your current job three years ago.",
+        "Write that you moved to your current city in 2021 and still live there.",
+        "Write that you have worked remotely for two years.",
+        "Write that you ask a coworker since when they use a software tool.",
+        "Write that your team has used this process since January.",
+        "Write that you have been preparing a presentation for two hours.",
+        "Write that your manager has lived in Mexico for six months.",
+        "Write that you have known your business partner since college.",
+        "Write that you bought your laptop one month ago.",
+        "Write that your company opened five years ago.",
+        "Write that your parents have lived in the same house for ten years.",
+        "Write that you have been waiting for a client for twenty minutes.",
+        "Write that you have been studying Spanish for one year.",
+        "Write that your friend has had the same phone since last summer.",
+        "Write that you have been ordering coffee from the same place for months."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish, not literal English.",
+      "prompts_en": [
+        "I got here two days ago.",
+        "We have been here since Monday.",
+        "I have worked in finance for five years.",
+        "Since when do you know her?",
+        "They have had that apartment since 2019.",
+        "I have been reading this report for one hour.",
+        "We have been friends for a long time.",
+        "She has been living alone for six months.",
+        "He called me a few minutes ago.",
+        "I have been waiting for this email since this morning."
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "Vivo aqui hace tres anos.",
+        "why_it_happens": "Direct transfer from English for-duration phrasing.",
+        "correct_spanish": "Vivo aqui desde hace tres anos."
+      },
+      {
+        "mistake": "Llegue desde hace dos anos.",
+        "why_it_happens": "Mixing ago-event and ongoing-duration patterns.",
+        "correct_spanish": "Llegue hace dos anos."
+      },
+      {
+        "mistake": "Trabajo aqui desde cinco anos.",
+        "why_it_happens": "Missing hace after desde for duration.",
+        "correct_spanish": "Trabajo aqui desde hace cinco anos."
+      },
+      {
+        "mistake": "desde hace 2020 for start point",
+        "why_it_happens": "Confusing duration with calendar point.",
+        "correct_spanish": "desde 2020 for point; desde hace tres anos for duration."
+      },
+      {
+        "mistake": "Hace dos horas estudio for ongoing meaning",
+        "why_it_happens": "Dropping que in alternate structure.",
+        "correct_spanish": "Hace dos horas que estudio."
+      },
+      {
+        "mistake": "Llevo dos anos trabajo aqui.",
+        "why_it_happens": "Using finite verb instead of gerundio.",
+        "correct_spanish": "Llevo dos anos trabajando aqui."
+      },
+      {
+        "mistake": "Lo conoci desde hace cinco anos.",
+        "why_it_happens": "Combining finished past with ongoing marker.",
+        "correct_spanish": "Lo conozco desde hace cinco anos."
+      },
+      {
+        "mistake": "Tengo este coche hace enero.",
+        "why_it_happens": "Using hace with a start point.",
+        "correct_spanish": "Tengo este coche desde enero."
+      },
+      {
+        "mistake": "Desde cuando trabajas with no full context chunk",
+        "why_it_happens": "Learner memorizes isolated word not full frame.",
+        "correct_spanish": "Desde cuando trabajas aqui?"
+      },
+      {
+        "mistake": "One structure used for all timeline meanings",
+        "why_it_happens": "Overgeneralizing first learned formula.",
+        "correct_spanish": "Use hace + preterite for ago, desde for since-point, desde hace/llevar for ongoing duration."
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "Me mude aqui hace dos anos.",
+        "Ella me llamo hace tres dias.",
+        "Abrimos este negocio hace cinco anos.",
+        "El vendio su coche el mes pasado.",
+        "Conoci a mi gerente hace mucho tiempo.",
+        "Vivimos aqui desde 2020.",
+        "Desde cuando trabajas en esta oficina?",
+        "Ella estudia ingles desde enero.",
+        "El tiene este telefono desde el verano pasado.",
+        "Los conozco desde la universidad.",
+        "Trabajo aqui desde hace cuatro anos.",
+        "Esperamos desde hace una hora.",
+        "Ella vive en Mexico desde hace seis meses.",
+        "Ellos usan este sistema desde hace mucho tiempo.",
+        "Tengo esta computadora desde hace dos semanas.",
+        "Hace muchos anos que somos amigos.",
+        "Hace dos horas que preparo este reporte.",
+        "Ella lleva un ano ensenando en linea.",
+        "Hace diez anos que mis padres viven aqui.",
+        "Hace un mes que compro cafe en este cafe."
+      ],
+      "pattern_mutation": [
+        "Llegue hace cinco anos.",
+        "Llamamos hace tres dias.",
+        "Vivo aqui desde 2018.",
+        "Trabajo aqui desde septiembre.",
+        "Estudio espanol desde hace dos anos.",
+        "Espero desde hace una hora.",
+        "No hace dos horas que estudio.",
+        "Hace tres anos que ellos viven aqui.",
+        "Ella lleva dos anos trabajando aqui.",
+        "Llevamos una hora esperando.",
+        "Tengo este coche desde hace un ano.",
+        "Conozco a Ana desde hace cinco anos.",
+        "Llevo un mes comprando cafe aqui.",
+        "Llegaron hace una semana?",
+        "Hace cuatro anos que trabajo aqui."
+      ],
+      "contrastive_discrimination": [
+        "Llegue hace dos anos.",
+        "Vivo aqui desde 2020.",
+        "Vivo aqui desde hace tres anos.",
+        "Hace dos horas que estudiamos.",
+        "Ella lleva seis meses trabajando aqui.",
+        "Desde cuando vives aqui?",
+        "Compro esa casa hace mucho tiempo.",
+        "Tienen este sistema desde enero.",
+        "Lo conozco desde hace cinco anos.",
+        "Llevamos veinte minutos esperando."
+      ],
+      "reverse_conceptual_expression": [
+        "Llegue aqui hace dos dias.",
+        "Estamos aqui desde el lunes.",
+        "Trabajo en finanzas desde hace cinco anos.",
+        "Desde cuando la conoces?",
+        "Tienen ese departamento desde 2019.",
+        "Llevo una hora leyendo este reporte.",
+        "Somos amigos desde hace mucho tiempo.",
+        "Ella vive sola desde hace seis meses.",
+        "El me llamo hace unos minutos.",
+        "Espero este correo desde esta manana."
+      ]
+    }
+  }
+}

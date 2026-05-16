@@ -1,0 +1,248 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "deber",
+    "conditional",
+    "advice-vs-obligation",
+    "adult-learners"
+  ],
+  "difficulty": "A2-B1",
+  "pattern_id": "DEBER_PRESENT_VS_CONDITIONAL_52",
+  "source_files": [
+    "lessons/lesson-52/Summary 52.pdf"
+  ],
+  "target_pattern": "Use deber in present for direct obligation and deberia/deberias in conditional for softer suggestions or recommendations, with deber plus infinitive as the core structure.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Using one generic should pattern and missing tone differences.",
+      "spanish_logic": "Spanish uses tense choice in deber to adjust force: present for stronger obligation and conditional for softer advice.",
+      "target_pattern_formula": [
+        "direct obligation: deber in present plus infinitive",
+        "soft recommendation: deberia/deberias/deberiamos/deberian plus infinitive",
+        "self-talk advice frame: yo deberia plus infinitive",
+        "add subject when needed because deberia can be ambiguous"
+      ],
+      "natural_examples": [
+        "Debes llamar ahora.",
+        "Deberias llamar hoy.",
+        "Yo deberia ordenar mi oficina.",
+        "Deberiamos comer mas sano.",
+        "Ustedes deberian salir mas temprano."
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each in Spanish with the right tone direct obligation or soft advice.",
+      "prompts_en": [
+        "You must study for the exam tonight.",
+        "You should study for the exam tonight.",
+        "I must clean the kitchen now.",
+        "I should clean the kitchen today.",
+        "We must leave in five minutes.",
+        "We should leave a little earlier.",
+        "He must call the client now.",
+        "He should call the client tomorrow morning.",
+        "They must send the report today.",
+        "They should send the report before Friday.",
+        "You should drink more water.",
+        "You must finish this task now.",
+        "I should go to bed earlier.",
+        "We should save more money this month.",
+        "She must answer that email today.",
+        "She should answer politely.",
+        "You all should recycle more.",
+        "You all must be on time tomorrow.",
+        "I should exercise three times a week.",
+        "We must make a decision now."
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as instructed.",
+      "drills": [
+        "Base: Debes estudiar mas. -> make it softer advice to tu.",
+        "Base: Yo deberia limpiar la casa. -> make it direct obligation.",
+        "Base: Deberiamos salir temprano. -> change subject to ellos.",
+        "Base: Debo llamar al banco. -> change to softer self-advice.",
+        "Base: Deben pagar hoy. -> change to singular el.",
+        "Base: Ella deberia descansar. -> change to plural nosotros.",
+        "Base: Debes comer algo. -> make it formal usted soft advice.",
+        "Base: Ustedes deberian llegar antes. -> make it direct obligation.",
+        "Base: Yo deberia hacer cafe. -> change infinitive to sacar la basura.",
+        "Base: Debemos terminar ahora. -> change to recommendation and add pronto instead of ahora.",
+        "Base: El debe responder hoy. -> change to soft suggestion for tomorrow.",
+        "Base: Yo deberia ordenar mi oficina. -> change noun to cuarto.",
+        "Base: Deberian reciclar mas. -> change to first person plural recommendation.",
+        "Base: Debes salir ya. -> change to negative soft advice not leave yet.",
+        "Base: Yo debo levantarme temprano. -> change to softer routine reflection."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the better option for the intended meaning.",
+      "prompts": [
+        "Soft advice to a friend. (Debes descansar. vs Deberias descansar.)",
+        "Strict instruction from a manager. (Debes enviar el reporte hoy. vs Deberias enviar el reporte hoy.)",
+        "Personal reflection not command. (Yo debo organizarme mejor. vs Yo deberia organizarme mejor.)",
+        "Gentle recommendation to a team. (Deben reunirse mas seguido. vs Deberian reunirse mas seguido.)",
+        "Urgent rule right now. (Debes apagar eso ahora. vs Deberias apagar eso ahora.)",
+        "Polite advice to a client. (Usted debe revisar este punto. vs Usted deberia revisar este punto.)",
+        "Talking about healthy habits softly. (Debemos comer mejor. vs Deberiamos comer mejor.)",
+        "Non-negotiable deadline. (Deben terminar hoy. vs Deberian terminar hoy.)",
+        "Suggestion to yourself. (Debo acostarme mas temprano. vs Deberia acostarme mas temprano.)",
+        "Softer proposal in a meeting. (Debemos cambiar la estrategia. vs Deberiamos cambiar la estrategia.)"
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific meaning.",
+      "prompts": [
+        "Write that you should call your doctor this week.",
+        "Write that you must pay a bill today.",
+        "Write that your team should meet earlier tomorrow.",
+        "Write that your coworker must send the file now.",
+        "Write that you should sleep more this month.",
+        "Write that you must reply to two emails before lunch.",
+        "Write that your family should eat less sugar.",
+        "Write that you should organize your desk tonight.",
+        "Write that your manager must approve the budget today.",
+        "Write that you should walk after dinner.",
+        "Write that your team should recycle more in the office.",
+        "Write that you must leave home earlier tomorrow.",
+        "Write that your friend should apply for that job.",
+        "Write that you should save more money this year.",
+        "Write that your clients must confirm the date today."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish, not literal English.",
+      "prompts_en": [
+        "You should take a break.",
+        "You must take a break now.",
+        "I should stop checking my phone so much.",
+        "We should talk before making a decision.",
+        "They must answer today.",
+        "She should ask for help.",
+        "You all should arrive earlier.",
+        "I should be more patient.",
+        "We must finish this today.",
+        "He should apologize."
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "Using present deber for every should meaning",
+        "why_it_happens": "English should seems like one form.",
+        "correct_spanish": "Use conditional deberia forms for softer advice."
+      },
+      {
+        "mistake": "Using conditional in strict urgent contexts",
+        "why_it_happens": "Trying to avoid sounding direct.",
+        "correct_spanish": "Use present deber for firm obligation."
+      },
+      {
+        "mistake": "Replacing all advice with tengo que",
+        "why_it_happens": "Overreliance on one obligation chunk.",
+        "correct_spanish": "Deberia is often better for personal recommendation tone."
+      },
+      {
+        "mistake": "Conjugating two verbs after deber",
+        "why_it_happens": "Word-for-word transfer from English.",
+        "correct_spanish": "Use deber plus infinitive."
+      },
+      {
+        "mistake": "Ambiguous deberia subject not clarified",
+        "why_it_happens": "Deberia form overlaps yo el ella usted.",
+        "correct_spanish": "Add subject pronoun when needed."
+      },
+      {
+        "mistake": "Adding que after deber",
+        "why_it_happens": "Mixing with other recommendation structures.",
+        "correct_spanish": "Say deberias estudiar not deberias que estudiar."
+      },
+      {
+        "mistake": "Imperative used for gentle suggestions",
+        "why_it_happens": "Literal translation pressure.",
+        "correct_spanish": "Use deberias to soften advice."
+      },
+      {
+        "mistake": "Weak wording in high urgency scenarios",
+        "why_it_happens": "Over-politeness in formal settings.",
+        "correct_spanish": "Use debe/deben when obligation is immediate."
+      },
+      {
+        "mistake": "Ignoring usted register for politeness",
+        "why_it_happens": "Grammar selected without social context.",
+        "correct_spanish": "Usted deberia is respectful and natural."
+      },
+      {
+        "mistake": "Avoiding conditional conjugations",
+        "why_it_happens": "Lack of confidence with endings.",
+        "correct_spanish": "Automate deberia plus infinitive as a core frame."
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "Debes estudiar para el examen esta noche.",
+        "Deberias estudiar para el examen esta noche.",
+        "Debo limpiar la cocina ahora.",
+        "Deberia limpiar la cocina hoy.",
+        "Debemos salir en cinco minutos.",
+        "Deberiamos salir un poco mas temprano.",
+        "El debe llamar al cliente ahora.",
+        "El deberia llamar al cliente manana por la manana.",
+        "Deben enviar el informe hoy.",
+        "Deberian enviar el informe antes del viernes.",
+        "Deberias tomar mas agua.",
+        "Debes terminar esta tarea ahora.",
+        "Deberia acostarme mas temprano.",
+        "Deberiamos ahorrar mas dinero este mes.",
+        "Ella debe responder ese correo hoy.",
+        "Ella deberia responder con respeto.",
+        "Ustedes deberian reciclar mas.",
+        "Ustedes deben llegar a tiempo manana.",
+        "Deberia hacer ejercicio tres veces por semana.",
+        "Debemos tomar una decision ahora."
+      ],
+      "pattern_mutation": [
+        "Deberias estudiar mas.",
+        "Yo debo limpiar la casa.",
+        "Ellos deberian salir temprano.",
+        "Yo deberia llamar al banco.",
+        "El debe pagar hoy.",
+        "Nosotros deberiamos descansar.",
+        "Usted deberia comer algo.",
+        "Ustedes deben llegar antes.",
+        "Yo deberia sacar la basura.",
+        "Deberiamos terminar pronto.",
+        "El deberia responder manana.",
+        "Yo deberia ordenar mi cuarto.",
+        "Deberiamos reciclar mas.",
+        "No deberias salir todavia.",
+        "Yo deberia levantarme temprano."
+      ],
+      "contrastive_discrimination": [
+        "Deberias descansar.",
+        "Debes enviar el reporte hoy.",
+        "Yo deberia organizarme mejor.",
+        "Deberian reunirse mas seguido.",
+        "Debes apagar eso ahora.",
+        "Usted deberia revisar este punto.",
+        "Deberiamos comer mejor.",
+        "Deben terminar hoy.",
+        "Deberia acostarme mas temprano.",
+        "Deberiamos cambiar la estrategia."
+      ],
+      "reverse_conceptual_expression": [
+        "Deberias tomar un descanso.",
+        "Debes tomar un descanso ahora.",
+        "Deberia dejar de mirar tanto el telefono.",
+        "Deberiamos hablar antes de tomar una decision.",
+        "Deben responder hoy.",
+        "Ella deberia pedir ayuda.",
+        "Ustedes deberian llegar mas temprano.",
+        "Deberia ser mas paciente.",
+        "Debemos terminar esto hoy.",
+        "El deberia pedir perdon."
+      ]
+    }
+  }
+}

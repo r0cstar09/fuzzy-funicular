@@ -1,0 +1,249 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "cada-vez",
+    "repetition",
+    "progression",
+    "adult-learners"
+  ],
+  "difficulty": "A2-B1",
+  "pattern_id": "CADA_VEZ_REPETITION_AND_PROGRESSION_54",
+  "source_files": [
+    "lessons/lesson-54/Summary 54.pdf"
+  ],
+  "target_pattern": "Use cada vez que for repeated events and cada vez mas or menos or mejor or peor for gradual change, including combined structures like cada vez que X, Y cada vez mas.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Using separate literal phrases for every time and gradual change instead of one reusable Spanish frame.",
+      "spanish_logic": "Cada vez acts as a flexible frame for repetition and progression. Add que for event clauses, and combine with mas menos mejor peor for change over time.",
+      "target_pattern_formula": [
+        "repetition event: cada vez que plus verb plus main clause",
+        "increase: cada vez mas plus noun adjective or adverb",
+        "decrease: cada vez menos plus noun adjective or adverb",
+        "quality progression: cada vez mejor or cada vez peor",
+        "combined pattern: cada vez que X, Y cada vez mas or menos"
+      ],
+      "natural_examples": [
+        "Cada vez que te veo, me rio.",
+        "La ciudad esta cada vez mas cara.",
+        "Tengo cada vez menos tiempo libre.",
+        "Mi espanol esta cada vez mejor.",
+        "Cada vez que practico, entiendo cada vez mas."
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each in natural Spanish using cada vez patterns.",
+      "prompts_en": [
+        "Every time I call him, he is busy.",
+        "Every time we meet, we talk for hours.",
+        "Every time she visits, she ends up staying late.",
+        "Every time they argue, they stop talking.",
+        "The rent is getting more and more expensive.",
+        "The traffic is getting heavier and heavier.",
+        "I have less and less free time.",
+        "We have less and less patience.",
+        "My Spanish is getting better and better.",
+        "My concentration is getting worse and worse.",
+        "More and more people work from home.",
+        "I see him less and less.",
+        "We go out more and more often.",
+        "Every time I study, I remember more.",
+        "Every time I practice, I make fewer mistakes.",
+        "Every time she cooks, it turns out better.",
+        "He complains more and more.",
+        "I sleep less and less during the week.",
+        "Every time you explain it, I understand better.",
+        "Every time they travel, they spend less."
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as instructed.",
+      "drills": [
+        "Base: Cada vez que te veo, me pongo contento. -> change emotion to nervioso.",
+        "Base: La ciudad esta cada vez mas peligrosa. -> change adjective to cara.",
+        "Base: Tengo cada vez menos tiempo libre. -> change noun to energia.",
+        "Base: Mi espanol esta cada vez mejor. -> change to peor.",
+        "Base: Cada vez que estudio, entiendo mas. -> add cada vez before mas.",
+        "Base: Cada vez que viene Juan, termina quejandose. -> change subject to Maria.",
+        "Base: Vemos a nuestros amigos cada vez menos. -> change adverb to mas seguido.",
+        "Base: Cada vez hay mas gente aqui. -> change to decrease.",
+        "Base: Cada vez que cocino, sale mejor. -> change verb to trabajar.",
+        "Base: Duermo cada vez menos entre semana. -> change to first person plural.",
+        "Base: Cada vez que hablamos, discutimos. -> make it positive result with nos entendemos.",
+        "Base: El trafico esta cada vez mas pesado. -> change noun to trabajo and adjective to intenso.",
+        "Base: Cada vez que practico, cometo menos errores. -> change object to dudas.",
+        "Base: Mi concentracion esta cada vez peor. -> change noun to mi memoria and direction to improvement.",
+        "Base: Cada vez salimos mas a menudo. -> change to decrease frequency."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the most natural option.",
+      "prompts": [
+        "Every time I see her, I smile. (Cada vez que la veo, sonrio. vs Cada vez la veo, sonrio.)",
+        "The city is getting more expensive. (La ciudad esta cada vez mas cara. vs La ciudad esta mas cada vez cara.)",
+        "I have less and less time. (Tengo cada vez menos tiempo. vs Tengo menos cada vez tiempo.)",
+        "My Spanish is getting better and better. (Mi espanol esta cada vez mejor. vs Mi espanol cada vez esta mejorando.)",
+        "We see each other less and less. (Nos vemos cada vez menos. vs Nos vemos menos cada vez nos.)",
+        "Every time he comes, he complains. (Cada vez que viene, se queja. vs Cada vez viene que, se queja.)",
+        "More and more people use this app. (Cada vez mas gente usa esta app. vs Mas gente cada vez usa esta app.)",
+        "Every time I practice, I understand more and more. (Cada vez que practico, entiendo cada vez mas. vs Cada vez que practico, cada vez entiendo mas que.)",
+        "I sleep less and less during the week. (Duermo cada vez menos entre semana. vs Duermo menos cada vez entre semana.)",
+        "Every time you explain it, I understand better. (Cada vez que lo explicas, entiendo mejor. vs Cada vez lo explicas que, entiendo mejor.)"
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific meaning.",
+      "prompts": [
+        "Write that every time your phone rings at night, you get worried.",
+        "Write that your neighborhood is getting more and more noisy.",
+        "Write that you have less and less time to cook.",
+        "Write that your pronunciation is getting better and better.",
+        "Write that every time you review notes, you remember more.",
+        "Write that every time your team meets, the meeting lasts longer.",
+        "Write that you make fewer and fewer mistakes at work.",
+        "Write that you are seeing your friends less and less.",
+        "Write that your stress is getting worse and worse this month.",
+        "Write that every time your manager explains the plan, it seems clearer.",
+        "Write that more and more people in your office work remotely.",
+        "Write that you sleep less and less during busy weeks.",
+        "Write that every time you practice speaking, you feel more confident.",
+        "Write that your energy is getting lower and lower by Friday.",
+        "Write that every time you cook at home, it comes out better."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish, not literal English.",
+      "prompts_en": [
+        "Every time I open social media, I waste time.",
+        "Things are getting better little by little.",
+        "I am seeing him less and less lately.",
+        "Every time we discuss this, we understand each other more.",
+        "The situation is getting worse.",
+        "More and more people are arriving early.",
+        "Every time she explains it, it sounds simpler.",
+        "I have less and less interest in that topic.",
+        "Every time you practice, you improve.",
+        "We complain less and less now."
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "Cada vez used without que in event clauses",
+        "why_it_happens": "Direct transfer from English every time sentence shape.",
+        "correct_spanish": "Use cada vez que plus verb."
+      },
+      {
+        "mistake": "Wrong word order with cada vez mas or menos",
+        "why_it_happens": "Literal chunk placement from English.",
+        "correct_spanish": "Keep cada vez directly before mas or menos."
+      },
+      {
+        "mistake": "Overusing progressive forms for all gradual change",
+        "why_it_happens": "Learners expect estar plus gerund in all change contexts.",
+        "correct_spanish": "Esta cada vez mas or menos or mejor or peor is natural and common."
+      },
+      {
+        "mistake": "Agreement errors after cada vez mas",
+        "why_it_happens": "Focus on chunk blocks noun adjective agreement control.",
+        "correct_spanish": "Keep noun and adjective agreement correct."
+      },
+      {
+        "mistake": "Cada vez que used for one-time events",
+        "why_it_happens": "Repetition meaning not checked.",
+        "correct_spanish": "Use each-time frame only for repeated patterns."
+      },
+      {
+        "mistake": "Better and better translated literally",
+        "why_it_happens": "Word-by-word strategy.",
+        "correct_spanish": "Use cada vez mejor."
+      },
+      {
+        "mistake": "Less and less translated as menos menos",
+        "why_it_happens": "Direct lexical doubling attempt.",
+        "correct_spanish": "Use cada vez menos."
+      },
+      {
+        "mistake": "Missing second cada vez in combined sentences",
+        "why_it_happens": "Long sentence planning overload.",
+        "correct_spanish": "Cada vez que X, Y cada vez mas or menos."
+      },
+      {
+        "mistake": "Using cada vez without progression meaning",
+        "why_it_happens": "Chunk inserted mechanically.",
+        "correct_spanish": "Use only when change over time is intended."
+      },
+      {
+        "mistake": "Avoiding cada vez in conversation",
+        "why_it_happens": "Low confidence with reusable chunks.",
+        "correct_spanish": "Treat cada vez as a productive template."
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "Cada vez que lo llamo, esta ocupado.",
+        "Cada vez que nos vemos, hablamos por horas.",
+        "Cada vez que ella viene, termina quedandose hasta tarde.",
+        "Cada vez que discuten, dejan de hablarse.",
+        "La renta esta cada vez mas cara.",
+        "El trafico esta cada vez mas pesado.",
+        "Tengo cada vez menos tiempo libre.",
+        "Tenemos cada vez menos paciencia.",
+        "Mi espanol esta cada vez mejor.",
+        "Mi concentracion esta cada vez peor.",
+        "Cada vez mas gente trabaja desde casa.",
+        "Lo veo cada vez menos.",
+        "Salimos cada vez mas seguido.",
+        "Cada vez que estudio, recuerdo cada vez mas.",
+        "Cada vez que practico, cometo cada vez menos errores.",
+        "Cada vez que ella cocina, le sale cada vez mejor.",
+        "El se queja cada vez mas.",
+        "Duermo cada vez menos entre semana.",
+        "Cada vez que lo explicas, entiendo mejor.",
+        "Cada vez que viajan, gastan menos."
+      ],
+      "pattern_mutation": [
+        "Cada vez que te veo, me pongo nervioso.",
+        "La ciudad esta cada vez mas cara.",
+        "Tengo cada vez menos energia.",
+        "Mi espanol esta cada vez peor.",
+        "Cada vez que estudio, entiendo cada vez mas.",
+        "Cada vez que viene Maria, termina quejandose.",
+        "Vemos a nuestros amigos cada vez mas seguido.",
+        "Cada vez hay menos gente aqui.",
+        "Cada vez que trabajo, sale mejor.",
+        "Dormimos cada vez menos entre semana.",
+        "Cada vez que hablamos, nos entendemos mejor.",
+        "El trabajo esta cada vez mas intenso.",
+        "Cada vez que practico, tengo menos dudas.",
+        "Mi memoria esta cada vez mejor.",
+        "Cada vez salimos menos a menudo."
+      ],
+      "contrastive_discrimination": [
+        "Cada vez que la veo, sonrio.",
+        "La ciudad esta cada vez mas cara.",
+        "Tengo cada vez menos tiempo.",
+        "Mi espanol esta cada vez mejor.",
+        "Nos vemos cada vez menos.",
+        "Cada vez que viene, se queja.",
+        "Cada vez mas gente usa esta app.",
+        "Cada vez que practico, entiendo cada vez mas.",
+        "Duermo cada vez menos entre semana.",
+        "Cada vez que lo explicas, entiendo mejor."
+      ],
+      "reverse_conceptual_expression": [
+        "Cada vez que abro redes sociales, pierdo tiempo.",
+        "Las cosas estan cada vez mejor.",
+        "Lo veo cada vez menos ultimamente.",
+        "Cada vez que hablamos de esto, nos entendemos mas.",
+        "La situacion esta cada vez peor.",
+        "Cada vez mas gente llega temprano.",
+        "Cada vez que ella lo explica, suena mas simple.",
+        "Tengo cada vez menos interes en ese tema.",
+        "Cada vez que practicas, mejoras.",
+        "Nos quejamos cada vez menos ahora."
+      ]
+    }
+  }
+}

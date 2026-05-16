@@ -1,0 +1,249 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "subjunctive-triggers",
+    "time-clauses",
+    "cuando",
+    "antes-de-que",
+    "adult-learners"
+  ],
+  "difficulty": "B1",
+  "pattern_id": "TIME_CLAUSE_SUBJUNCTIVE_VS_HABITUAL_51",
+  "source_files": [
+    "lessons/lesson-51/Summary 51.pdf"
+  ],
+  "target_pattern": "Use subjunctive after cuando, en cuanto, and una vez que for future-dependent or command contexts; use indicative for habitual routines; use subjunctive after antes de que; and use imperfect subjunctive in past-time dependent narration.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Using present indicative after when/as soon as/once in all contexts.",
+      "spanish_logic": "Spanish separates routine facts from pending dependent actions by mood. Pending future or command-linked actions trigger subjunctive, while habitual repeated actions use indicative.",
+      "target_pattern_formula": [
+        "future or command dependence: main clause plus cuando/en cuanto/una vez que plus subjunctive",
+        "habitual routine: main clause plus cuando/en cuanto/una vez que plus indicative",
+        "antes de que always takes subjunctive",
+        "past narration with dependency often uses imperfect subjunctive in the time clause"
+      ],
+      "natural_examples": [
+        "Avisame cuando tengas la informacion.",
+        "Cenaremos cuando Juan llegue.",
+        "En cuanto reciba tu mensaje, te llamo.",
+        "Siempre ceno cuando termino de trabajar.",
+        "Limpio la cocina antes de que lleguen los invitados."
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each in natural Spanish with correct mood.",
+      "prompts_en": [
+        "Let me know when you have the report.",
+        "We will leave when Marta arrives.",
+        "As soon as I finish this call, I will text you.",
+        "Once they confirm the date, we will book the hotel.",
+        "Help me when you have a minute.",
+        "Send me the file when you receive it.",
+        "We usually eat when everyone gets home.",
+        "I always sleep better when I exercise.",
+        "We will start the meeting when the manager gets here.",
+        "Before you leave, close the window.",
+        "I clean the apartment before my guests arrive.",
+        "We always review the numbers before we make a decision.",
+        "He told me to call him when I arrived.",
+        "I asked her to send it to me when she finished.",
+        "As soon as you are ready, we will begin.",
+        "Once I have more information, I will update you.",
+        "We usually go for a walk when it stops raining.",
+        "We will go for a walk when it stops raining.",
+        "Before they sign, they read the contract.",
+        "Before they sign, they will read the contract."
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as instructed.",
+      "drills": [
+        "Base: Te llamo cuando termine. -> change connector to en cuanto.",
+        "Base: Te llamo en cuanto termine. -> change connector to una vez que.",
+        "Base: Cenaremos cuando llegue Ana. -> change to command with avisame.",
+        "Base: Avisame cuando tengas tiempo. -> change to plural avisenme.",
+        "Base: Empezaremos cuando llegue el jefe. -> change to first person singular future.",
+        "Base: Siempre cenamos cuando termina el trabajo. -> change subject to yo.",
+        "Base: Suelo descansar cuando termino de trabajar. -> change verb descansar to leer.",
+        "Base: Limpio la casa antes de que llegue Juan. -> change subject of second clause to plural.",
+        "Base: Antes de que firmes, lee todo. -> change command to plural lean.",
+        "Base: Te avise cuando llegue. -> change to past narration with imperfect subjunctive in both clauses.",
+        "Base: Le dije que me llamara cuando saliera. -> change pronoun to nos.",
+        "Base: En cuanto reciba la confirmacion, reservare. -> change main clause to present command reserva.",
+        "Base: Siempre salimos cuando deja de llover. -> change to future-dependent event.",
+        "Base: Nos iremos cuando deje de llover. -> change to habitual routine.",
+        "Base: Te escribo cuando tenga noticias. -> make it habitual with siempre and adjust mood."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the correct option.",
+      "prompts": [
+        "We will eat when he arrives. (Comeremos cuando llegue. vs Comeremos cuando llega.)",
+        "We always eat when he arrives. (Siempre comemos cuando llega. vs Siempre comemos cuando llegue.)",
+        "Call me as soon as you finish. (Llamame en cuanto termines. vs Llamame en cuanto terminas.)",
+        "I usually call her as soon as I finish work. (La llamo en cuanto termino. vs La llamo en cuanto termine.)",
+        "Once they approve it, we will launch. (Una vez que lo aprueben, lo lanzaremos. vs Una vez que lo aprueban, lo lanzaremos.)",
+        "Once they approve it, we usually celebrate. (Una vez que lo aprueban, solemos celebrar. vs Una vez que lo aprueben, solemos celebrar.)",
+        "Before you leave, turn off the lights. (Antes de que te vayas, apaga las luces. vs Antes de que te vas, apaga las luces.)",
+        "I always check everything before he arrives. (Siempre reviso todo antes de que llegue. vs Siempre reviso todo antes de que llega.)",
+        "I told him to text me when he arrived. (Le dije que me escribiera cuando llegara. vs Le dije que me escribiera cuando llega.)",
+        "We are leaving when the rain stops future plan. (Nos iremos cuando deje de llover. vs Nos iremos cuando deja de llover.)"
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each meaning.",
+      "prompts": [
+        "Write that you will send the proposal when you have the final numbers.",
+        "Write that your team will start when the client confirms.",
+        "Write that you usually drink coffee when you start work.",
+        "Write that you will call your family as soon as you land.",
+        "Write that you always review your calendar before Monday starts.",
+        "Write that before your boss arrives, you organize your notes.",
+        "Write that once you finish the report, you will rest.",
+        "Write that you told a coworker to notify you when she was ready.",
+        "Write that you usually go to bed when you finish reading.",
+        "Write that you will leave the office when the meeting ends.",
+        "Write that as soon as they send the contract, you will read it.",
+        "Write that before guests arrive, you clean the kitchen.",
+        "Write that you asked your assistant to call you when he got to the airport.",
+        "Write that you usually relax when your workday ends.",
+        "Write that once the rain stops, you will go out."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish, not literal English.",
+      "prompts_en": [
+        "Let me know as soon as you hear anything.",
+        "We will decide once we see the budget.",
+        "I always feel better when I sleep well.",
+        "Before you answer, think for a second.",
+        "Text me when you get there.",
+        "As soon as they approve it, we move forward.",
+        "We usually stay home when it rains.",
+        "I told him to wait until I arrived.",
+        "Before we sign, we read everything carefully.",
+        "We will celebrate when the project is finished."
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "Indicative used after cuando for future-dependent action",
+        "why_it_happens": "Direct transfer from English tense habits.",
+        "correct_spanish": "Use present subjunctive when action is pending and required first."
+      },
+      {
+        "mistake": "Subjunctive used in habitual time clauses",
+        "why_it_happens": "Trigger word memorized without context.",
+        "correct_spanish": "Use indicative for habitual repeated actions."
+      },
+      {
+        "mistake": "Indicative after en cuanto in commands",
+        "why_it_happens": "Connector translated literally without mood logic.",
+        "correct_spanish": "Imperative plus en cuanto usually requires subjunctive in subordinate clause."
+      },
+      {
+        "mistake": "Indicative after antes de que",
+        "why_it_happens": "Assumed same behavior as cuando.",
+        "correct_spanish": "Antes de que always takes subjunctive."
+      },
+      {
+        "mistake": "Present form kept in past narrative dependency",
+        "why_it_happens": "Sequence-of-tense mismatch.",
+        "correct_spanish": "Use imperfect subjunctive when past trigger requires it."
+      },
+      {
+        "mistake": "Infinitive used after cuando with different subject",
+        "why_it_happens": "Confusion with antes de plus infinitive structures.",
+        "correct_spanish": "Use a finite conjugated verb with correct mood."
+      },
+      {
+        "mistake": "Mood selected by connector alone",
+        "why_it_happens": "Formula memorization without meaning check.",
+        "correct_spanish": "Check if context is habitual or pending dependent."
+      },
+      {
+        "mistake": "Present subjunctive used after past command",
+        "why_it_happens": "Incomplete control of imperfect subjunctive.",
+        "correct_spanish": "Past main clause often requires imperfect subjunctive."
+      },
+      {
+        "mistake": "Dropping que in una vez que",
+        "why_it_happens": "Chunk reduction from English mapping.",
+        "correct_spanish": "Keep full expression una vez que."
+      },
+      {
+        "mistake": "Future indicative used inside subordinate time clause",
+        "why_it_happens": "Trying to mark future directly in both clauses.",
+        "correct_spanish": "Use subjunctive in subordinate clause not future indicative."
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "Avisame cuando tengas el informe.",
+        "Saldremos cuando llegue Marta.",
+        "En cuanto termine esta llamada, te escribo.",
+        "Una vez que confirmen la fecha, reservaremos el hotel.",
+        "Ayudame cuando tengas un minuto.",
+        "Mandame el archivo cuando lo recibas.",
+        "Solemos comer cuando todos llegan a casa.",
+        "Siempre duermo mejor cuando hago ejercicio.",
+        "Empezaremos la reunion cuando llegue el gerente.",
+        "Antes de que te vayas, cierra la ventana.",
+        "Limpio el apartamento antes de que lleguen mis invitados.",
+        "Siempre revisamos los numeros antes de que tomemos una decision.",
+        "Me dijo que lo llamara cuando llegara.",
+        "Le pedi que me lo enviara cuando terminara.",
+        "En cuanto estes listo, empezamos.",
+        "Una vez que tenga mas informacion, te actualizo.",
+        "Solemos salir a caminar cuando deja de llover.",
+        "Saldremos a caminar cuando deje de llover.",
+        "Antes de que firmen, leen el contrato.",
+        "Antes de que firmen, leeran el contrato."
+      ],
+      "pattern_mutation": [
+        "Te llamo en cuanto termine.",
+        "Te llamo una vez que termine.",
+        "Avisame cuando llegue Ana.",
+        "Avisenme cuando tengan tiempo.",
+        "Empezare cuando llegue el jefe.",
+        "Siempre ceno cuando termina el trabajo.",
+        "Suelo leer cuando termino de trabajar.",
+        "Limpio la casa antes de que lleguen Juan y Maria.",
+        "Antes de que firmen, lean todo.",
+        "Te avise que me avisaras cuando llegaras.",
+        "Le dije que nos llamara cuando saliera.",
+        "En cuanto recibas la confirmacion, reserva.",
+        "Saldremos cuando deje de llover.",
+        "Solemos irnos cuando deja de llover.",
+        "Siempre te escribo cuando tengo noticias."
+      ],
+      "contrastive_discrimination": [
+        "Comeremos cuando llegue.",
+        "Siempre comemos cuando llega.",
+        "Llamame en cuanto termines.",
+        "La llamo en cuanto termino.",
+        "Una vez que lo aprueben, lo lanzaremos.",
+        "Una vez que lo aprueban, solemos celebrar.",
+        "Antes de que te vayas, apaga las luces.",
+        "Siempre reviso todo antes de que llegue.",
+        "Le dije que me escribiera cuando llegara.",
+        "Nos iremos cuando deje de llover."
+      ],
+      "reverse_conceptual_expression": [
+        "Avisame en cuanto sepas algo.",
+        "Decidiremos una vez que veamos el presupuesto.",
+        "Siempre me siento mejor cuando duermo bien.",
+        "Antes de que respondas, piensalo un segundo.",
+        "Escribeme cuando llegues.",
+        "En cuanto lo aprueben, seguimos adelante.",
+        "Solemos quedarnos en casa cuando llueve.",
+        "Le dije que esperara hasta que yo llegara.",
+        "Antes de que firmemos, leemos todo con cuidado.",
+        "Celebraremos cuando termine el proyecto."
+      ]
+    }
+  }
+}

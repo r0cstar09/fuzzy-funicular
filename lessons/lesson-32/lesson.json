@@ -1,0 +1,250 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "present-progressive",
+    "gerunds",
+    "estar-plus-gerundio",
+    "adult-learners"
+  ],
+  "difficulty": "A2-B1",
+  "pattern_id": "PRESENT_PROGRESSIVE_AND_USAGE_32",
+  "source_files": [
+    "lessons/lesson-32/Summary 32.pdf",
+    "lessons/lesson-32/master present progressive exercise.pdf"
+  ],
+  "target_pattern": "Build present progressive with estar + gerundio, apply common irregular gerunds correctly, and choose between progressive and simple present based on natural usage context.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Overusing progressive and forcing it onto motion verbs and habitual actions.",
+      "spanish_logic": "Progressive marks in-progress action, but Spanish often prefers simple present when context is clear.",
+      "target_pattern_formula": [
+        "estar conjugated + gerundio",
+        "ar endings go to ando, er/ir endings go to iendo",
+        "irregular gerunds include diciendo, pidiendo, durmiendo, leyendo, oyendo, siguiendo",
+        "use estar tratando de + infinitive for trying to do something",
+        "prefer simple present with common motion verbs in basic conversation"
+      ],
+      "natural_examples": [
+        "Estoy hablando con mi jefe.",
+        "Ella esta leyendo un informe.",
+        "Estamos oyendo un ruido raro.",
+        "Ellos estan durmiendo ahora.",
+        "Estoy tratando de aprender espanol."
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each in Spanish using the target pattern.",
+      "prompts_en": [
+        "I am speaking with my friend.",
+        "We are eating tacos.",
+        "She is watching the movie.",
+        "They are reading a book.",
+        "He is hearing a noise.",
+        "I am talking to my sister.",
+        "She is cooking dinner.",
+        "Maria is playing the guitar.",
+        "I am studying Spanish right now.",
+        "You are writing a letter.",
+        "He is drinking coffee.",
+        "We are cleaning the house.",
+        "They are opening the door.",
+        "I am saying something important.",
+        "He is asking for help.",
+        "They are sleeping in the living room.",
+        "She is reading a magazine.",
+        "We are listening to music.",
+        "They are building a house.",
+        "They are following the instructions."
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as instructed.",
+      "drills": [
+        "Base: Estoy hablando con mi amigo. -> change subject to nosotros.",
+        "Base: Estamos comiendo tacos. -> change object to ensalada.",
+        "Base: Ella esta viendo la pelicula. -> change to ellos.",
+        "Base: Ellos estan leyendo un libro. -> change noun to plural libros.",
+        "Base: El esta oyendo un ruido. -> change verb to escuchar keeping progressive.",
+        "Base: Estoy estudiando espanol ahora mismo. -> make it negative.",
+        "Base: Estas escribiendo una carta. -> make it question form with usted.",
+        "Base: El esta bebiendo cafe. -> change object to te.",
+        "Base: Estamos limpiando la casa. -> change subject to ella.",
+        "Base: Ellos estan durmiendo en la sala. -> change location to el dormitorio.",
+        "Base: Estoy diciendo algo importante. -> change subject to nosotros.",
+        "Base: El esta pidiendo ayuda. -> change to plural subject ellos.",
+        "Base: Ella esta explicando el problema. -> change object to la solucion.",
+        "Base: Ellos estan construyendo una casa. -> change to singular subject el.",
+        "Base: Ellos estan siguiendo las instrucciones. -> change to singular yo."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the correct Spanish form.",
+      "prompts": [
+        "I am reading now. (Estoy leyendo ahora. vs Leo ahora. both possible; progressive targets explicit in-progress.)",
+        "What are you doing? (Que haces? vs Que estas haciendo? simple present often preferred.)",
+        "He is coming now. (Viene ahora. vs Esta viniendo ahora. default preferred pattern.)",
+        "I am going to the store now. (Voy a la tienda ahora. vs Estoy yendo a la tienda ahora. default preferred pattern.)",
+        "They are sleeping in the car. (Estan durmiendo en el coche. vs Duermen en el coche. for explicit in-progress choose progressive.)",
+        "We are hearing a noise. (Estamos oyendo un ruido. vs Estamos oiendo un ruido.)",
+        "She is asking for help. (Ella esta pidiendo ayuda. vs Ella esta pediendo ayuda.)",
+        "I am saying the truth. (Estoy diciendo la verdad. vs Estoy deciendo la verdad.)",
+        "They are following the instructions. (Estan siguiendo las instrucciones. vs Estan seguiendo las instrucciones.)",
+        "We are trying to learn Spanish. (Estamos tratando de aprender espanol. vs Estamos tratando aprender espanol.)"
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific meaning.",
+      "prompts": [
+        "Write that you are working on a report right now.",
+        "Write that your team is preparing a presentation.",
+        "Write that you are reading an email from a client.",
+        "Write that your coworker is writing notes.",
+        "Write that your manager is asking for an update.",
+        "Write that you are saying something important in a meeting.",
+        "Write that your friends are waiting in the lobby.",
+        "Write that you are listening to a podcast while commuting.",
+        "Write that your neighbors are building a new house.",
+        "Write that you are trying to improve your Spanish every day.",
+        "Write that your child is sleeping now.",
+        "Write that your partner is cooking dinner tonight.",
+        "Write that your colleagues are following new instructions.",
+        "Write that you are opening the document right now.",
+        "Write that your team is cleaning the office before a visit."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish, not literal English.",
+      "prompts_en": [
+        "I am looking for my keys right now.",
+        "She is reading but not understanding the report.",
+        "We are hearing strange noises outside.",
+        "Are you writing to the client now?",
+        "They are sleeping, do not call.",
+        "He is asking for more time.",
+        "I am saying this for your benefit.",
+        "We are trying to finish today.",
+        "They are destroying the old building.",
+        "What are you waiting for?"
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "esta oiendo",
+        "why_it_happens": "Missing y insertion in vowel sequence verb.",
+        "correct_spanish": "esta oyendo"
+      },
+      {
+        "mistake": "esta pediendo",
+        "why_it_happens": "Regularizing irregular stem-changing gerund.",
+        "correct_spanish": "esta pidiendo"
+      },
+      {
+        "mistake": "esta deciendo",
+        "why_it_happens": "Applying regular spelling to decir.",
+        "correct_spanish": "esta diciendo"
+      },
+      {
+        "mistake": "esta seguiendo",
+        "why_it_happens": "Incorrect stem handling in seguir.",
+        "correct_spanish": "esta siguiendo"
+      },
+      {
+        "mistake": "Default progressive with ir and venir",
+        "why_it_happens": "Direct transfer from English continuous usage.",
+        "correct_spanish": "Prefer voy and viene in common contexts."
+      },
+      {
+        "mistake": "Progressive for habitual actions",
+        "why_it_happens": "Confusing routine with in-progress action.",
+        "correct_spanish": "Use simple present for habits."
+      },
+      {
+        "mistake": "estoy tratando aprender",
+        "why_it_happens": "Missing fixed preposition in chunk.",
+        "correct_spanish": "estoy tratando de aprender"
+      },
+      {
+        "mistake": "estoy aprendo",
+        "why_it_happens": "Double-conjugation error.",
+        "correct_spanish": "estoy aprendiendo"
+      },
+      {
+        "mistake": "Ignoring accent in esta verb form",
+        "why_it_happens": "Orthography neglect.",
+        "correct_spanish": "Use standard accent where appropriate in formal writing."
+      },
+      {
+        "mistake": "Using progressive whenever context is present",
+        "why_it_happens": "Pattern overgeneralization.",
+        "correct_spanish": "Choose simple present when conversationally natural."
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "Estoy hablando con mi amigo.",
+        "Estamos comiendo tacos.",
+        "Ella esta viendo la pelicula.",
+        "Ellos estan leyendo un libro.",
+        "El esta oyendo un ruido.",
+        "Estoy hablando con mi hermana.",
+        "Ella esta cocinando la cena.",
+        "Maria esta tocando la guitarra.",
+        "Estoy estudiando espanol ahora mismo.",
+        "Estas escribiendo una carta.",
+        "El esta bebiendo cafe.",
+        "Estamos limpiando la casa.",
+        "Ellos estan abriendo la puerta.",
+        "Estoy diciendo algo importante.",
+        "El esta pidiendo ayuda.",
+        "Ellos estan durmiendo en la sala.",
+        "Ella esta leyendo una revista.",
+        "Estamos escuchando musica.",
+        "Ellos estan construyendo una casa.",
+        "Ellos estan siguiendo las instrucciones."
+      ],
+      "pattern_mutation": [
+        "Estamos hablando con mi amigo.",
+        "Estamos comiendo ensalada.",
+        "Ellos estan viendo la pelicula.",
+        "Ellos estan leyendo libros.",
+        "El esta escuchando un ruido.",
+        "No estoy estudiando espanol ahora mismo.",
+        "Esta escribiendo una carta?",
+        "El esta bebiendo te.",
+        "Ella esta limpiando la casa.",
+        "Ellos estan durmiendo en el dormitorio.",
+        "Estamos diciendo algo importante.",
+        "Ellos estan pidiendo ayuda.",
+        "Ella esta explicando la solucion.",
+        "El esta construyendo una casa.",
+        "Estoy siguiendo las instrucciones."
+      ],
+      "contrastive_discrimination": [
+        "Estoy leyendo ahora.",
+        "Que haces?",
+        "Viene ahora.",
+        "Voy a la tienda ahora.",
+        "Estan durmiendo en el coche.",
+        "Estamos oyendo un ruido.",
+        "Ella esta pidiendo ayuda.",
+        "Estoy diciendo la verdad.",
+        "Estan siguiendo las instrucciones.",
+        "Estamos tratando de aprender espanol."
+      ],
+      "reverse_conceptual_expression": [
+        "Estoy buscando mis llaves ahora mismo.",
+        "Ella esta leyendo pero no esta entendiendo el reporte.",
+        "Estamos oyendo ruidos raros afuera.",
+        "Estas escribiendo al cliente ahora?",
+        "Ellos estan durmiendo, no llames.",
+        "El esta pidiendo mas tiempo.",
+        "Estoy diciendo esto por tu bien.",
+        "Estamos tratando de terminar hoy.",
+        "Ellos estan destruyendo el edificio viejo.",
+        "Que esperas?"
+      ]
+    }
+  }
+}

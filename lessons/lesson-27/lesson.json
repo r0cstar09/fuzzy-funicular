@@ -1,0 +1,250 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "muy-vs-mucho",
+    "agreement",
+    "intensifiers",
+    "adult-learners"
+  ],
+  "difficulty": "A2-B1",
+  "pattern_id": "MUY_MUCHO_FUNCTIONAL_DISTINCTION_27",
+  "source_files": [
+    "lessons/lesson-27/Summary 27.pdf",
+    "lessons/lesson-27/Lesson 27 Exercise.pdf"
+  ],
+  "target_pattern": "Choose muy for adjective/adverb intensification, mucho as adverb with verbs and as standalone reply, and mucho/a/os/as as adjective agreeing with nouns.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Using one word for both very and a lot in every context.",
+      "spanish_logic": "The form depends on what you modify: adjective/adverb, verb, noun, or standalone response.",
+      "target_pattern_formula": [
+        "muy + adjective or adverb",
+        "verb + mucho",
+        "standalone answer: si, mucho",
+        "mucho + noun with agreement",
+        "do not use standalone muy in this core pattern"
+      ],
+      "natural_examples": [
+        "El reporte esta muy claro.",
+        "Trabajo mucho los lunes.",
+        "Si, mucho.",
+        "Hay mucha comida en la oficina.",
+        "Tenemos muchos clientes nuevos."
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each in Spanish using muy or mucho correctly.",
+      "prompts_en": [
+        "The soup is very salty.",
+        "The presentation is very difficult.",
+        "The coffee is very hot.",
+        "She studies a lot.",
+        "They talk a lot in meetings.",
+        "The water is very cold.",
+        "We travel a lot for work.",
+        "The article is very interesting.",
+        "It is very windy today.",
+        "The office is very clean.",
+        "I eat a lot at night.",
+        "He works a lot on weekends.",
+        "The manager is very friendly.",
+        "Are you tired? Yes, very.",
+        "Is your team busy? Yes, very.",
+        "There is a lot of water on the floor.",
+        "There are a lot of chairs in this room.",
+        "She has a lot of homework today.",
+        "We bought a lot of vegetables.",
+        "He needs a lot of help right now."
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as instructed.",
+      "drills": [
+        "Base: El examen es muy dificil. -> change adjective to facil.",
+        "Base: Ella estudia mucho. -> change subject to nosotros.",
+        "Base: El cafe esta muy caliente. -> change adjective to frio.",
+        "Base: Trabajo mucho. -> make it negative.",
+        "Base: Hay mucha comida. -> change noun to masculine plural, libros.",
+        "Base: Hay muchos clientes. -> change noun to feminine singular, gente.",
+        "Base: El informe es muy claro. -> change subject noun to plural, los informes.",
+        "Base: Si, mucho. -> turn into answer to Estan cansados?",
+        "Base: Tenemos muchos problemas. -> change to singular feminine noun, presion.",
+        "Base: Hablan mucho en clase. -> change subject to yo.",
+        "Base: La casa esta muy limpia. -> change adjective to ordenada.",
+        "Base: Ella tiene mucha tarea. -> change to plural masculine noun, proyectos.",
+        "Base: Necesito muchos amigos aqui. -> change intensity target to mucha ayuda.",
+        "Base: Corres muy rapido. -> change to lento.",
+        "Base: Juan se queja mucho. -> change subject to plural ellos."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the correct Spanish form.",
+      "prompts": [
+        "The class is very difficult. (La clase es muy dificil. vs La clase es mucho dificil.)",
+        "We work a lot. (Trabajamos mucho. vs Trabajamos muy.)",
+        "She is very tired. (Ella esta muy cansada. vs Ella esta mucha cansada.)",
+        "There is a lot of water. (Hay mucha agua. vs Hay muy agua.)",
+        "There are a lot of books. (Hay muchos libros. vs Hay mucho libros.)",
+        "Do you study a lot? Yes, very. (Estudias mucho? Si, mucho. vs Estudias muy? Si, muy.)",
+        "The office is very cold. (La oficina esta muy fria. vs La oficina esta mucha fria.)",
+        "They speak a lot. (Ellos hablan mucho. vs Ellos hablan muy.)",
+        "We have a lot of work. (Tenemos mucho trabajo. vs Tenemos muy trabajo.)",
+        "The reports are very clear. (Los reportes estan muy claros. vs Los reportes estan muchos claros.)"
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific meaning.",
+      "prompts": [
+        "Write that your team is very busy this week.",
+        "Write that you are very tired today.",
+        "Write that you work a lot in the mornings.",
+        "Write that your manager talks a lot in meetings.",
+        "Write that there is a lot of traffic near your office.",
+        "Write that there is a lot of water in the kitchen.",
+        "Write that there are a lot of emails in your inbox.",
+        "Write that you have a lot of work today.",
+        "Write that your clients have a lot of questions.",
+        "Write that your coffee is very hot right now.",
+        "Write that your office is very quiet at night.",
+        "Write that you read a lot before sleeping.",
+        "Write that your friend runs very fast.",
+        "Write that your coworker drives very slowly.",
+        "Write that yes, you are very worried about the deadline."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish, not literal English.",
+      "prompts_en": [
+        "I am very busy today.",
+        "We travel a lot for work.",
+        "There is a lot of noise here.",
+        "This task is very easy.",
+        "She studies a lot but sleeps very little.",
+        "Are they tired? Yes, very.",
+        "He has a lot of patience.",
+        "The room is very clean.",
+        "We have a lot of meetings this week.",
+        "They speak very fast."
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "mucho dificil",
+        "why_it_happens": "Mixing quantity form with adjective intensifier.",
+        "correct_spanish": "muy dificil"
+      },
+      {
+        "mistake": "muy after verbs for quantity",
+        "why_it_happens": "Direct translation from very in English.",
+        "correct_spanish": "trabajo mucho"
+      },
+      {
+        "mistake": "Si, muy.",
+        "why_it_happens": "Forgetting standalone reply rule.",
+        "correct_spanish": "Si, mucho."
+      },
+      {
+        "mistake": "mucho agua",
+        "why_it_happens": "Missing noun agreement.",
+        "correct_spanish": "mucha agua"
+      },
+      {
+        "mistake": "mucho sillas",
+        "why_it_happens": "Missing plural feminine agreement.",
+        "correct_spanish": "muchas sillas"
+      },
+      {
+        "mistake": "muchos tarea",
+        "why_it_happens": "Defaulting to masculine plural.",
+        "correct_spanish": "mucha tarea"
+      },
+      {
+        "mistake": "muy trabajo",
+        "why_it_happens": "Using adjective intensifier before noun.",
+        "correct_spanish": "mucho trabajo"
+      },
+      {
+        "mistake": "estan muchos cansados",
+        "why_it_happens": "Treating mucho like agreeing adjective before adjective.",
+        "correct_spanish": "estan muy cansados"
+      },
+      {
+        "mistake": "hablan muchas for verb quantity",
+        "why_it_happens": "Applying noun agreement where adverb needed.",
+        "correct_spanish": "hablan mucho"
+      },
+      {
+        "mistake": "Random switching between muy and mucho",
+        "why_it_happens": "No check on what word is modified.",
+        "correct_spanish": "adjective/adverb uses muy; verb/standalone uses mucho; noun uses agreeing forms."
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "La sopa esta muy salada.",
+        "La presentacion es muy dificil.",
+        "El cafe esta muy caliente.",
+        "Ella estudia mucho.",
+        "Ellos hablan mucho en las reuniones.",
+        "El agua esta muy fria.",
+        "Viajamos mucho por trabajo.",
+        "El articulo es muy interesante.",
+        "Hace mucho viento hoy.",
+        "La oficina esta muy limpia.",
+        "Como mucho por la noche.",
+        "El trabaja mucho los fines de semana.",
+        "El gerente es muy amable.",
+        "Estas cansado? Si, mucho.",
+        "Esta ocupado tu equipo? Si, mucho.",
+        "Hay mucha agua en el piso.",
+        "Hay muchas sillas en este cuarto.",
+        "Ella tiene mucha tarea hoy.",
+        "Compramos muchas verduras.",
+        "El necesita mucha ayuda ahora mismo."
+      ],
+      "pattern_mutation": [
+        "El examen es muy facil.",
+        "Nosotros estudiamos mucho.",
+        "El cafe esta muy frio.",
+        "No trabajo mucho.",
+        "Hay muchos libros.",
+        "Hay mucha gente.",
+        "Los informes estan muy claros.",
+        "Estan cansados? Si, mucho.",
+        "Tenemos mucha presion.",
+        "Hablo mucho en clase.",
+        "La casa esta muy ordenada.",
+        "Ella tiene muchos proyectos.",
+        "Necesito mucha ayuda aqui.",
+        "Corres muy lento.",
+        "Ellos se quejan mucho."
+      ],
+      "contrastive_discrimination": [
+        "La clase es muy dificil.",
+        "Trabajamos mucho.",
+        "Ella esta muy cansada.",
+        "Hay mucha agua.",
+        "Hay muchos libros.",
+        "Estudias mucho? Si, mucho.",
+        "La oficina esta muy fria.",
+        "Ellos hablan mucho.",
+        "Tenemos mucho trabajo.",
+        "Los reportes estan muy claros."
+      ],
+      "reverse_conceptual_expression": [
+        "Estoy muy ocupado hoy.",
+        "Viajamos mucho por trabajo.",
+        "Hay mucho ruido aqui.",
+        "Esta tarea es muy facil.",
+        "Ella estudia mucho pero duerme muy poco.",
+        "Estan cansados? Si, mucho.",
+        "El tiene mucha paciencia.",
+        "El cuarto esta muy limpio.",
+        "Tenemos muchas reuniones esta semana.",
+        "Ellos hablan muy rapido."
+      ]
+    }
+  }
+}

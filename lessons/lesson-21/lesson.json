@@ -1,0 +1,250 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "definite-articles",
+    "generic-nouns",
+    "article-usage",
+    "adult-learners"
+  ],
+  "difficulty": "A2-B1",
+  "pattern_id": "DEFINITE_ARTICLES_OMITTED_IN_ENGLISH_21",
+  "source_files": [
+    "lessons/lesson-21/Summary 21.pdf",
+    "lessons/lesson-21/21 exercise.pdf"
+  ],
+  "target_pattern": "Use definite articles in Spanish where English often omits them: generic concepts, gustar categories, weekdays (except after ser), body parts/clothing with obvious ownership, titles when talking about someone, street names, and languages as concepts.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Dropping el/la/los/las because English often omits the article.",
+      "spanish_logic": "Spanish article usage is pattern-based by context, not a direct English mirror.",
+      "target_pattern_formula": [
+        "Generic concept: La salud es importante.",
+        "Gustar + category: Me gusta la musica. / Me gustan los perros.",
+        "Day (not after ser): Nos vemos el lunes. vs Hoy es lunes.",
+        "Body/clothing obvious owner: Me duele el brazo. / Ponte la chaqueta.",
+        "Talking about title/family member takes article; direct address drops it."
+      ],
+      "natural_examples": [
+        "La educacion mejora la calidad de vida.",
+        "Me gusta la musica en vivo.",
+        "Tenemos reunion el martes.",
+        "Me duele la espalda hoy.",
+        "El ingeniero Soto llega a las nueve."
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each in Spanish using the target article pattern.",
+      "prompts_en": [
+        "Nature is unpredictable.",
+        "I like coffee.",
+        "I like dogs.",
+        "We will meet on Thursday.",
+        "Today is Thursday.",
+        "My head hurts.",
+        "Put on your jacket.",
+        "Health is essential.",
+        "Education is expensive in many places.",
+        "Dr. Morales is in the office.",
+        "Doctor Morales, I need a signature.",
+        "Grandma is in the kitchen.",
+        "Grandma, can you help me?",
+        "I live on Palm Avenue.",
+        "Spanish is useful for work.",
+        "I speak Spanish at work.",
+        "The economy is improving slowly.",
+        "Mathematics is difficult for many adults.",
+        "We have training on Monday.",
+        "Monday is my busiest day."
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as instructed.",
+      "drills": [
+        "Base: Me gusta la musica. -> change object to plural (los podcasts).",
+        "Base: Nos vemos el viernes. -> change day to martes.",
+        "Base: Hoy es viernes. -> change day to martes.",
+        "Base: Me duele la mano. -> change body part to plural (las piernas) and adjust verb.",
+        "Base: Ponte la camisa. -> change clothing to los zapatos.",
+        "Base: El doctor Perez llega temprano. -> rewrite as direct address to the doctor.",
+        "Base: La abuela esta afuera. -> rewrite as direct address to grandma.",
+        "Base: Vivo en la calle Luna. -> change to avenue Sol.",
+        "Base: El espanol es interesante. -> change language to ingles.",
+        "Base: Hablo espanol en la oficina. -> change language to frances.",
+        "Base: La economia crece rapido. -> make it negative.",
+        "Base: Las matematicas son dificiles. -> change subject to singular concept la historia and adjust agreement.",
+        "Base: Tenemos reunion el lunes. -> make question with ustedes.",
+        "Base: Hoy es lunes. -> make statement with ser for Wednesday.",
+        "Base: Me gustan los perros. -> change category to singular mass noun la musica."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the correct Spanish form.",
+      "prompts": [
+        "Nature is beautiful. (La naturaleza es hermosa. vs Naturaleza es hermosa.)",
+        "I like music. (Me gusta la musica. vs Me gusta musica.)",
+        "We see each other Monday. (Nos vemos el lunes. vs Nos vemos lunes.)",
+        "Today is Monday. (Hoy es lunes. vs Hoy es el lunes.)",
+        "My elbow hurts. (Me duele el codo. vs Me duele mi codo.)",
+        "Put on your coat. (Ponte el abrigo. vs Ponte tu abrigo as neutral default.)",
+        "Dr. Ruiz is here. (El doctor Ruiz esta aqui. vs Doctor Ruiz esta aqui.)",
+        "Doctor Ruiz, I need help. (Doctor Ruiz, necesito ayuda. vs El doctor Ruiz, necesito ayuda.)",
+        "I live on River Street. (Vivo en la calle Rio. vs Vivo en calle Rio.)",
+        "Spanish is easy for her. (El espanol es facil para ella. vs Espanol es facil para ella.)"
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific meaning.",
+      "prompts": [
+        "Write that health is your top priority this year.",
+        "Write that you like jazz music.",
+        "Write that you and your coworker meet on Tuesday mornings.",
+        "Write that today is Friday and you finish work early.",
+        "Write that your back hurts after a long meeting.",
+        "Write that you tell someone to put on their jacket because it is cold.",
+        "Write that Dr. Alvarez is leading the project.",
+        "Write that you directly ask Dr. Alvarez for five minutes of time.",
+        "Write that your grandmother is visiting this weekend.",
+        "Write that you directly ask your grandmother if she wants coffee.",
+        "Write that you live on Central Avenue.",
+        "Write that Spanish is important in your industry.",
+        "Write that you speak Spanish with clients every day.",
+        "Write that the economy is improving in your city.",
+        "Write that mathematics was difficult for you in school."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish, not literal English.",
+      "prompts_en": [
+        "I like technology.",
+        "We have class on Wednesday.",
+        "Wednesday is impossible for me.",
+        "My legs hurt after the flight.",
+        "Put on your shoes before leaving.",
+        "The manager is waiting outside.",
+        "Manager, can we talk now?",
+        "I live on Pine Street.",
+        "French is useful in this job.",
+        "I am learning French at night."
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "Naturaleza es importante.",
+        "why_it_happens": "English generic nouns often omit the article.",
+        "correct_spanish": "La naturaleza es importante."
+      },
+      {
+        "mistake": "Me gusta musica.",
+        "why_it_happens": "Dropping article before categories with gustar.",
+        "correct_spanish": "Me gusta la musica."
+      },
+      {
+        "mistake": "Nos vemos lunes.",
+        "why_it_happens": "Copying English day format.",
+        "correct_spanish": "Nos vemos el lunes."
+      },
+      {
+        "mistake": "Hoy es el lunes.",
+        "why_it_happens": "Over-applying weekday article rule.",
+        "correct_spanish": "Hoy es lunes."
+      },
+      {
+        "mistake": "Me duele mi cabeza.",
+        "why_it_happens": "Overusing possessives with body parts.",
+        "correct_spanish": "Me duele la cabeza."
+      },
+      {
+        "mistake": "El doctor Ramirez, necesito ayuda.",
+        "why_it_happens": "Using article in direct address.",
+        "correct_spanish": "Doctor Ramirez, necesito ayuda."
+      },
+      {
+        "mistake": "Vivo en calle Sol.",
+        "why_it_happens": "Omitting article in street naming pattern.",
+        "correct_spanish": "Vivo en la calle Sol."
+      },
+      {
+        "mistake": "Hablo el espanol.",
+        "why_it_happens": "Keeping article after verbs like hablar/saber/aprender.",
+        "correct_spanish": "Hablo espanol."
+      },
+      {
+        "mistake": "Me gusta escribir en el espanol.",
+        "why_it_happens": "Adding article after en for language medium.",
+        "correct_spanish": "Me gusta escribir en espanol."
+      },
+      {
+        "mistake": "Matematicas es dificil.",
+        "why_it_happens": "Not treating matematicas as plural with article.",
+        "correct_spanish": "Las matematicas son dificiles."
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "La naturaleza es impredecible.",
+        "Me gusta el cafe.",
+        "Me gustan los perros.",
+        "Nos vemos el jueves.",
+        "Hoy es jueves.",
+        "Me duele la cabeza.",
+        "Ponte la chaqueta.",
+        "La salud es esencial.",
+        "La educacion es cara en muchos lugares.",
+        "El doctor Morales esta en la oficina.",
+        "Doctor Morales, necesito una firma.",
+        "La abuela esta en la cocina.",
+        "Abuela, puedes ayudarme?",
+        "Vivo en la avenida Palma.",
+        "El espanol es util para el trabajo.",
+        "Hablo espanol en el trabajo.",
+        "La economia mejora lentamente.",
+        "Las matematicas son dificiles para muchos adultos.",
+        "Tenemos capacitacion el lunes.",
+        "El lunes es mi dia mas ocupado."
+      ],
+      "pattern_mutation": [
+        "Me gustan los podcasts.",
+        "Nos vemos el martes.",
+        "Hoy es martes.",
+        "Me duelen las piernas.",
+        "Ponte los zapatos.",
+        "Doctor Perez, llega temprano.",
+        "Abuela, esta afuera.",
+        "Vivo en la avenida Sol.",
+        "El ingles es interesante.",
+        "Hablo frances en la oficina.",
+        "La economia no crece rapido.",
+        "La historia es dificil.",
+        "Ustedes tienen reunion el lunes?",
+        "Hoy es miercoles.",
+        "Me gusta la musica."
+      ],
+      "contrastive_discrimination": [
+        "La naturaleza es hermosa.",
+        "Me gusta la musica.",
+        "Nos vemos el lunes.",
+        "Hoy es lunes.",
+        "Me duele el codo.",
+        "Ponte el abrigo.",
+        "El doctor Ruiz esta aqui.",
+        "Doctor Ruiz, necesito ayuda.",
+        "Vivo en la calle Rio.",
+        "El espanol es facil para ella."
+      ],
+      "reverse_conceptual_expression": [
+        "Me gusta la tecnologia.",
+        "Tenemos clase el miercoles.",
+        "El miercoles es imposible para mi.",
+        "Me duelen las piernas despues del vuelo.",
+        "Ponte los zapatos antes de salir.",
+        "El gerente esta esperando afuera.",
+        "Gerente, podemos hablar ahora?",
+        "Vivo en la calle Pino.",
+        "El frances es util en este trabajo.",
+        "Estoy aprendiendo frances por la noche."
+      ]
+    }
+  }
+}

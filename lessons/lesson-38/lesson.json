@@ -1,0 +1,252 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "imperative",
+    "commands",
+    "pronoun-placement",
+    "adult-learners"
+  ],
+  "difficulty": "A2-B1",
+  "pattern_id": "IMPERATIVE_COMMANDS_PRONOUN_ORDER_38",
+  "source_files": [
+    "lessons/lesson-38/Summary 38.pdf",
+    "lessons/lesson-38/Lesson 38 Exercise.pdf",
+    "lessons/lesson-38/guide to imperative.pdf"
+  ],
+  "target_pattern": "Use imperative forms by addressee and polarity, and place object pronouns correctly: attached in affirmative commands and before the verb in negative commands.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Using modal or future-style statements instead of direct imperative forms.",
+      "spanish_logic": "Spanish marks commands with dedicated verb forms and shifts pronoun position depending on affirmative or negative polarity.",
+      "target_pattern_formula": [
+        "tu affirmative: present el/ella form or irregular haz, di, ve, pon, sal, se, ten, ven",
+        "tu negative: no plus present subjunctive",
+        "usted and ustedes commands: present subjunctive forms",
+        "nosotros command: subjunctive for both affirmative and negative",
+        "affirmative pronouns attach, negative pronouns go before the verb",
+        "RID order: reflexive then indirect then direct"
+      ],
+      "natural_examples": [
+        "Pon la mesa, por favor.",
+        "No salgas sin chaqueta.",
+        "Senor, espere aqui un momento.",
+        "Apaguen sus telefonos, por favor.",
+        "Digamos la verdad hoy."
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each in Spanish using the correct command form.",
+      "prompts_en": [
+        "Put the keys on the table. (tu)",
+        "Do not arrive late. (usted)",
+        "Do your homework now. (tu)",
+        "Do not leave without your coat. (tu)",
+        "Come with me to the store. (tu)",
+        "Turn off your phones, please. (ustedes)",
+        "Read the instructions before starting. (ustedes)",
+        "Let us take a break now. (nosotros)",
+        "Tell the truth, please. (usted)",
+        "Wait here one moment. (usted)",
+        "Do not sit in that broken chair. (tu)",
+        "Let us eat at that restaurant tonight. (nosotros)",
+        "Have more patience with them. (tu)",
+        "Do not leave the meeting yet. (ustedes, irse)",
+        "Sign this document, please. (usted)",
+        "Give it to me now. (tu, libro)",
+        "Bring it to me before class. (usted, reporte)",
+        "Do not explain it to me again. (usted, regla)",
+        "Let us tell it to them tomorrow. (nosotros, historia)",
+        "Do not write it for me. (tu, carta)"
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as instructed.",
+      "drills": [
+        "Base: Pon la mesa. -> change to negative tu.",
+        "Base: Hazlo ahora. -> change to usted affirmative.",
+        "Base: No salgas tarde. -> change to affirmative tu.",
+        "Base: Espere aqui. -> change to ustedes affirmative.",
+        "Base: Apaguen los telefonos. -> change to negative ustedes.",
+        "Base: Comamos aqui. -> change to negative nosotros.",
+        "Base: No te sientes ahi. -> change to affirmative tu reflexive.",
+        "Base: Digamos la verdad. -> change to usted affirmative.",
+        "Base: Firme este documento. -> change to negative usted.",
+        "Base: Dime la verdad. -> rewrite with direct and indirect pronouns, it to me.",
+        "Base: No me lo digas. -> change to affirmative tu.",
+        "Base: Traigamelo. -> change to negative usted.",
+        "Base: No se vayan todavia. -> change to affirmative ustedes.",
+        "Base: Tengamos paciencia. -> change to tu affirmative.",
+        "Base: No lo escribas. -> change to nosotros negative."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the correct Spanish form.",
+      "prompts": [
+        "Do it now. (Hazlo ahora. vs Hacelo ahora.)",
+        "Do not do it. (No lo hagas. vs No hagaslo.)",
+        "Sit down. (Sientate. vs Te sienta.)",
+        "Do not sit down. (No te sientes. vs No sientate.)",
+        "Tell it to him. (Diselo. vs Lo di a el.)",
+        "Do not tell it to him. (No se lo digas. vs No digaselo.)",
+        "Bring it to me, please. (Traigamelo, por favor. vs Me lo traiga, por favor.)",
+        "Let us leave now. (Vamonos ahora. vs Nos vamos ahora.)",
+        "Turn it off. (Apagalo. vs Lo apaga.)",
+        "Do not turn it off. (No lo apagues. vs No apagalo.)"
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish command sentence for each meaning.",
+      "prompts": [
+        "Tell a friend to call you tonight.",
+        "Tell someone not to be late to a meeting.",
+        "Ask a client politely to sign a document.",
+        "Ask a group to wait two minutes.",
+        "Tell your team to read the instructions first.",
+        "Tell your friend to bring you the report.",
+        "Tell your friend not to send it yet.",
+        "Suggest that your group start now.",
+        "Suggest that your group not cancel the reservation.",
+        "Tell a friend to sit down and relax.",
+        "Tell a friend not to leave yet.",
+        "Ask a colleague politely to explain it to you again.",
+        "Tell a group to turn off their phones.",
+        "Tell your friend to tell it to Ana.",
+        "Tell your friend not to tell it to anyone."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish, not literal English.",
+      "prompts_en": [
+        "Give me that file.",
+        "Do not give it to me now.",
+        "Tell me later.",
+        "Do not tell me that.",
+        "Let us go now.",
+        "Let us not leave yet.",
+        "Bring me another coffee, please.",
+        "Do not sit there.",
+        "Put it on.",
+        "Do not put it on."
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "No hazlo.",
+        "why_it_happens": "Using affirmative form after no.",
+        "correct_spanish": "No lo hagas."
+      },
+      {
+        "mistake": "No hagaslo.",
+        "why_it_happens": "Keeping pronoun attached in negative commands.",
+        "correct_spanish": "No lo hagas."
+      },
+      {
+        "mistake": "Using diga with close friends",
+        "why_it_happens": "Mixing usted and tu registers.",
+        "correct_spanish": "Use di for informal tu."
+      },
+      {
+        "mistake": "No sentate.",
+        "why_it_happens": "Using affirmative reflexive shape in negative command.",
+        "correct_spanish": "No te sientes."
+      },
+      {
+        "mistake": "Lo di as command",
+        "why_it_happens": "Confusing past tense with imperative.",
+        "correct_spanish": "Dilo."
+      },
+      {
+        "mistake": "lo me das",
+        "why_it_happens": "Translating English pronoun order.",
+        "correct_spanish": "Use RID order: damelo or no me lo des."
+      },
+      {
+        "mistake": "No vayasen",
+        "why_it_happens": "Incorrect subjunctive formation for ustedes.",
+        "correct_spanish": "No se vayan."
+      },
+      {
+        "mistake": "Forgetting stress marks with attached pronouns",
+        "why_it_happens": "Orthography omission after clitic attachment.",
+        "correct_spanish": "Keep proper stress and spelling in attached command forms."
+      },
+      {
+        "mistake": "Using infinitive for commands, esperar aqui",
+        "why_it_happens": "English instruction style transfer.",
+        "correct_spanish": "Espere aqui."
+      },
+      {
+        "mistake": "Avoiding nosotros command",
+        "why_it_happens": "Overusing vamos a only.",
+        "correct_spanish": "Use comamos or no comamos when giving lets commands."
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "Pon las llaves en la mesa.",
+        "No llegue tarde.",
+        "Haz tu tarea ya.",
+        "No salgas sin abrigo.",
+        "Ven conmigo a la tienda.",
+        "Apaguen sus telefonos, por favor.",
+        "Lean las instrucciones antes de empezar.",
+        "Tomemos un descanso ahora.",
+        "Diga la verdad, por favor.",
+        "Espere aqui un momento.",
+        "No te sientes en esa silla rota.",
+        "Comamos en ese restaurante esta noche.",
+        "Ten mas paciencia con ellos.",
+        "No se vayan de la reunion todavia.",
+        "Firme este documento, por favor.",
+        "Damelo ahora.",
+        "Traigamelo antes de la clase.",
+        "No me la explique otra vez.",
+        "Digamosela manana.",
+        "No me la escribas."
+      ],
+      "pattern_mutation": [
+        "No pongas la mesa.",
+        "Hagalo ahora.",
+        "Sal tarde.",
+        "Esperen aqui.",
+        "No apaguen los telefonos.",
+        "No comamos aqui.",
+        "Sientate ahi.",
+        "Diga la verdad.",
+        "No firme este documento.",
+        "Dimelo.",
+        "Dimelo.",
+        "No me lo traiga.",
+        "Vayanse ya.",
+        "Ten paciencia.",
+        "No lo escribamos."
+      ],
+      "contrastive_discrimination": [
+        "Hazlo ahora.",
+        "No lo hagas.",
+        "Sientate.",
+        "No te sientes.",
+        "Diselo.",
+        "No se lo digas.",
+        "Traigamelo, por favor.",
+        "Vamonos ahora.",
+        "Apagalo.",
+        "No lo apagues."
+      ],
+      "reverse_conceptual_expression": [
+        "Dame ese archivo.",
+        "No me lo des ahora.",
+        "Dimelo mas tarde.",
+        "No me digas eso.",
+        "Vamonos ahora.",
+        "No nos vayamos todavia.",
+        "Traigame otro cafe, por favor.",
+        "No te sientes ahi.",
+        "Pontelo.",
+        "No te lo pongas."
+      ]
+    }
+  }
+}

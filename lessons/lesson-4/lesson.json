@@ -1,0 +1,248 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "querer",
+    "poder",
+    "requests",
+    "adult-learners"
+  ],
+  "difficulty": "A1-A2",
+  "pattern_id": "QUERER_PODER_INF_04",
+  "source_files": [
+    "lessons/lesson-4/master4.pdf",
+    "lessons/lesson-4/master4 exercise.pdf"
+  ],
+  "target_pattern": "Use querer vs poder with infinitives to express desire, ability, and permission, including request frames with ayudarme, conmigo, and contigo.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Treating want to and can as the same kind of sentence.",
+      "spanish_logic": "Spanish separates intention (querer) from ability or permission (poder). Fast production comes from using conjugated modal verb plus infinitive.",
+      "target_pattern_formula": [
+        "Quiero/Quieres + infinitivo (desire)",
+        "Puedo/Puedes + infinitivo (ability or permission)",
+        "¿Me puedes ayudar a + infinitivo? / ¿Puedes ayudarme con + sustantivo?"
+      ],
+      "natural_examples": [
+        "Quiero confirmar la reserva hoy.",
+        "¿Puedes ayudarme con el proyecto?",
+        "¿Puedo hablar contigo un momento?",
+        "No puedo trabajar el sábado.",
+        "Quiero colaborar contigo en el video."
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each in Spanish using the target pattern. No answer key until the end.",
+      "prompts_en": [
+        "I want to eat now.",
+        "Can you confirm the reservation?",
+        "I can work tomorrow.",
+        "Do you want to study with me?",
+        "Can I speak with you now?",
+        "I want to collaborate with you on this project.",
+        "Can you help me with my computer?",
+        "I can verify the information today.",
+        "Do you want to work this weekend?",
+        "I want to read this report first.",
+        "Can you help me confirm the reservation?",
+        "I cannot study tonight.",
+        "I want to work on Monday.",
+        "Can I make a reservation online?",
+        "Can you study Spanish with me tomorrow?",
+        "I want to speak with the manager.",
+        "Can you help me search for the file?",
+        "I can decorate the office this afternoon.",
+        "Do you want to collaborate with me?",
+        "I want to confirm the information before paying."
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as directed.",
+      "drills": [
+        "Base: Quiero trabajar mañana. -> make it negative.",
+        "Base: Puedo hablar contigo. -> turn it into a question.",
+        "Base: ¿Puedes ayudarme con el proyecto? -> change tú to ustedes.",
+        "Base: Quiero colaborar contigo. -> change to nosotros.",
+        "Base: Puedo estudiar español hoy. -> move to tomorrow.",
+        "Base: ¿Puedo hacer una reserva? -> change to plural (nosotros).",
+        "Base: Quiero confirmar la información. -> change object to la reserva.",
+        "Base: No puedo trabajar el sábado. -> make it affirmative.",
+        "Base: ¿Quieres comer ahora? -> answer yes in full sentence.",
+        "Base: ¿Puedes ayudarme a estudiar? -> change to help me with the exam.",
+        "Base: Quiero hablar con Ana. -> change to question form.",
+        "Base: Puedo colaborar en el video. -> change to negative question.",
+        "Base: ¿Me puedes ayudar con mi computadora? -> rewrite with ¿Puedes ayudarme....",
+        "Base: Quiero leer un libro. -> change to first person plural.",
+        "Base: Puedes trabajar los sábados. -> change to first person and add pero no quiero."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the most natural pattern and write in Spanish.",
+      "prompts": [
+        "I want to work tomorrow. (quiero vs puedo)",
+        "I can work tomorrow. (quiero vs puedo)",
+        "Can I speak with you? (¿puedo...? vs ¿quiero...?)",
+        "Do you want to collaborate with me? (¿quieres...? vs ¿puedes...?)",
+        "Can you help me with this file? (¿puedes ayudarme...? vs ¿quieres ayudarme...?)",
+        "I want to confirm the reservation. (confirmar vs confirmación after quiero)",
+        "I can confirm the reservation. (puedo + infinitivo vs puedo que)",
+        "Can you study with me on Thursday? (¿puedes estudiar...? vs ¿estudias poder...?)",
+        "I cannot go today. (no puedo ir vs no quiero ir) meaning = ability problem.",
+        "I do not want to go today. (no quiero ir vs no puedo ir) meaning = desire issue."
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific meaning.",
+      "prompts": [
+        "You want to call a client before lunch.",
+        "You can meet tomorrow afternoon.",
+        "You cannot work this Saturday.",
+        "You want to confirm an appointment now.",
+        "You can help with a project tonight.",
+        "You want to collaborate on a video this week.",
+        "You can study Spanish on Thursday.",
+        "You want to speak with your manager today.",
+        "You cannot attend a meeting in the morning.",
+        "You can verify the information in five minutes.",
+        "You want to read the contract before signing.",
+        "You can make the reservation online.",
+        "You want to work on Mondays but cannot on weekends.",
+        "You can help someone search for keys.",
+        "You want to collaborate with one specific person this month."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish (not literal English).",
+      "prompts_en": [
+        "Can I grab you for a minute?",
+        "I want to go over the details first.",
+        "I cannot do Saturday, but Sunday works.",
+        "Do you want to team up on this?",
+        "Can you give me a hand with this?",
+        "I want to lock in the reservation now.",
+        "I can join after 3 p.m.",
+        "I do not want to rush this call.",
+        "Can we move this to tomorrow?",
+        "I can help, but I cannot stay long."
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "Using puedo when meaning is desire",
+        "why_it_happens": "I can and I want to get mixed in quick translation.",
+        "correct_spanish": "Quiero trabajar mañana."
+      },
+      {
+        "mistake": "Using quiero to ask permission",
+        "why_it_happens": "Learners map Can I to want structure.",
+        "correct_spanish": "¿Puedo hablar contigo?"
+      },
+      {
+        "mistake": "Conjugated verb after quiero",
+        "why_it_happens": "Infinitive frame is not yet automatic.",
+        "correct_spanish": "Quiero ir."
+      },
+      {
+        "mistake": "puedo que + verb",
+        "why_it_happens": "Literal modal transfer from English.",
+        "correct_spanish": "Puedo confirmar la reserva."
+      },
+      {
+        "mistake": "Missing a in ayudar a + infinitive",
+        "why_it_happens": "English does not require this connector.",
+        "correct_spanish": "¿Me puedes ayudar a estudiar?"
+      },
+      {
+        "mistake": "Only one fixed order for me puedes ayudar",
+        "why_it_happens": "Learners think one of the two forms is wrong.",
+        "correct_spanish": "¿Me puedes ayudar...? / ¿Puedes ayudarme...?"
+      },
+      {
+        "mistake": "Noun instead of infinitive after modal",
+        "why_it_happens": "Cross-interference from noun-focused lessons.",
+        "correct_spanish": "Quiero confirmar la información."
+      },
+      {
+        "mistake": "Missing opening question mark",
+        "why_it_happens": "English punctuation habits.",
+        "correct_spanish": "¿Puedes trabajar mañana?"
+      },
+      {
+        "mistake": "Mixing conmigo and contigo",
+        "why_it_happens": "Pronoun chunk not internalized.",
+        "correct_spanish": "¿Quieres estudiar conmigo? / Quiero colaborar contigo."
+      },
+      {
+        "mistake": "Dropping article before concrete noun",
+        "why_it_happens": "English article omission transfer.",
+        "correct_spanish": "Quiero confirmar la reserva."
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "Quiero comer ahora.",
+        "¿Puedes confirmar la reserva?",
+        "Puedo trabajar mañana.",
+        "¿Quieres estudiar conmigo?",
+        "¿Puedo hablar contigo ahora?",
+        "Quiero colaborar contigo en este proyecto.",
+        "¿Puedes ayudarme con mi computadora?",
+        "Puedo verificar la información hoy.",
+        "¿Quieres trabajar este fin de semana?",
+        "Quiero leer este informe primero.",
+        "¿Puedes ayudarme a confirmar la reserva?",
+        "No puedo estudiar esta noche.",
+        "Quiero trabajar el lunes.",
+        "¿Puedo hacer una reserva en línea?",
+        "¿Puedes estudiar español conmigo mañana?",
+        "Quiero hablar con el gerente.",
+        "¿Puedes ayudarme a buscar el archivo?",
+        "Puedo decorar la oficina esta tarde.",
+        "¿Quieres colaborar conmigo?",
+        "Quiero confirmar la información antes de pagar."
+      ],
+      "pattern_mutation": [
+        "No quiero trabajar mañana.",
+        "¿Puedo hablar contigo?",
+        "¿Pueden ayudarme con el proyecto?",
+        "Queremos colaborar contigo.",
+        "Puedo estudiar español mañana.",
+        "¿Podemos hacer una reserva?",
+        "Quiero confirmar la reserva.",
+        "Puedo trabajar el sábado.",
+        "Sí, quiero comer ahora.",
+        "¿Puedes ayudarme con el examen?",
+        "¿Quieres hablar con Ana?",
+        "¿No puedes colaborar en el video?",
+        "¿Puedes ayudarme con mi computadora?",
+        "Queremos leer un libro.",
+        "Puedo trabajar los sábados, pero no quiero."
+      ],
+      "contrastive_discrimination": [
+        "Quiero trabajar mañana.",
+        "Puedo trabajar mañana.",
+        "¿Puedo hablar contigo?",
+        "¿Quieres colaborar conmigo?",
+        "¿Puedes ayudarme con este archivo?",
+        "Quiero confirmar la reserva.",
+        "Puedo confirmar la reserva.",
+        "¿Puedes estudiar conmigo el jueves?",
+        "No puedo ir hoy.",
+        "No quiero ir hoy."
+      ],
+      "reverse_conceptual_expression": [
+        "¿Puedo hablar contigo un momento?",
+        "Quiero revisar los detalles primero.",
+        "No puedo el sábado, pero el domingo sí.",
+        "¿Quieres colaborar conmigo en esto?",
+        "¿Me puedes ayudar con esto?",
+        "Quiero confirmar la reserva ahora.",
+        "Puedo unirme después de las tres.",
+        "No quiero apurar esta llamada.",
+        "¿Podemos mover esto para mañana?",
+        "Puedo ayudar, pero no me puedo quedar mucho tiempo."
+      ]
+    }
+  }
+}

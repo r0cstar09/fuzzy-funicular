@@ -1,0 +1,248 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "gustar",
+    "indirect-object-pronouns",
+    "gusta-vs-gustan",
+    "adult-learners"
+  ],
+  "difficulty": "A2-B1",
+  "pattern_id": "GUSTAR_STRUCTURES_16",
+  "source_files": [
+    "lessons/lesson-16/summary16a.pdf",
+    "lessons/lesson-16/Exercise 16.pdf"
+  ],
+  "target_pattern": "Use gustar with indirect object pronouns and correct agreement (gusta/gustan), including infinitive use and optional clarifiers (a Juan, a María).",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Translating I like X as Yo gusto X.",
+      "spanish_logic": "In Spanish, the thing liked is the subject; me/te/le/nos/les marks who receives that liking.",
+      "target_pattern_formula": [
+        "me/te/le/nos/les + gusta + singular noun or infinitive",
+        "me/te/le/nos/les + gustan + plural noun",
+        "Optional clarifier: A Juan le gusta..."
+      ],
+      "natural_examples": [
+        "Me gusta el café.",
+        "¿Te gusta bailar?",
+        "A María le gustan las flores.",
+        "Nos gusta viajar.",
+        "¿Les gusta la música a ellos?"
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each in Spanish using gustar correctly. No answer key until the end.",
+      "prompts_en": [
+        "Do you like coffee?",
+        "Yes, I like it.",
+        "Does she like the movie?",
+        "Yes, she likes it.",
+        "Do we like to dance?",
+        "Yes, we like it.",
+        "Do they (ellos) like animals?",
+        "Yes, they like them.",
+        "Do you (usted) like to read?",
+        "Yes, I like it.",
+        "Does he like chocolate?",
+        "Yes, he likes it.",
+        "Do Ana and Juan like music?",
+        "Yes, they like it.",
+        "Do you (tú) like to run?",
+        "Yes, I like it.",
+        "Do we like vegetables?",
+        "Yes, we like them.",
+        "Does Carlos like math?",
+        "Yes, he likes it."
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as instructed.",
+      "drills": [
+        "Base: Me gusta el café. -> change noun to plural (los cafés).",
+        "Base: ¿Te gusta bailar? -> change infinitive to correr.",
+        "Base: Le gustan las flores a María. -> make it singular noun (la flor).",
+        "Base: Nos gusta viajar. -> make it negative.",
+        "Base: ¿Les gusta el teatro? -> change to plural subject thing (los teatros).",
+        "Base: A Juan le gusta leer. -> turn into question.",
+        "Base: Me gustan las películas. -> change to singular (la película).",
+        "Base: ¿Te gusta el invierno? -> answer no in full sentence.",
+        "Base: A ellos les gustan los animales. -> change to feminine plural noun (las plantas).",
+        "Base: Le gusta el mar a Laura. -> change to nosotros and la playa.",
+        "Base: Nos gustan las verduras. -> change to infinitive pattern (comer verduras).",
+        "Base: ¿Le gusta cantar a María? -> change verb to bailar.",
+        "Base: Me gusta escribir. -> add another infinitive in same sentence.",
+        "Base: ¿Te gustan las flores? -> rewrite with clarifier for Juan.",
+        "Base: Les gusta la música. -> rewrite with explicit subject A mis amigos."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the most natural option and write in Spanish.",
+      "prompts": [
+        "I like coffee. (me gusta vs yo gusto)",
+        "I like books. (me gustan los libros vs me gusta los libros)",
+        "I like to dance. (me gusta bailar vs me gustan bailar)",
+        "Do you like chocolate? (¿te gusta el chocolate? vs ¿te gustan el chocolate?)",
+        "We like vegetables. (nos gustan las verduras vs nos gusta las verduras)",
+        "Juan likes music. (a Juan le gusta la música vs Juan gusta la música)",
+        "They like to travel. (les gusta viajar vs les gustan viajar)",
+        "Do Ana and Juan like movies? (¿a Ana y a Juan les gustan las películas? vs ¿a Ana y a Juan le gustan...?)",
+        "I do not like that. (no me gusta eso vs no gusto eso)",
+        "Do you like me? (¿te gusto? vs ¿te gusta yo?)"
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific meaning.",
+      "prompts": [
+        "You like coffee in the morning.",
+        "You do not like waking up early.",
+        "You like listening to music while working.",
+        "You like your current neighborhood.",
+        "Your friend likes spicy food.",
+        "Your team likes clear communication.",
+        "You like to travel, but not in winter.",
+        "You like reading before sleeping.",
+        "Your family likes watching movies together.",
+        "You do not like noisy places.",
+        "You like this restaurant.",
+        "Your manager likes punctual people.",
+        "Your coworker likes to run after work.",
+        "You like learning Spanish every day.",
+        "Your partner or friend likes your new plan."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish (not literal English).",
+      "prompts_en": [
+        "I am into this song lately.",
+        "I do not really like that idea.",
+        "Do you like how this looks?",
+        "My boss does not like delays.",
+        "We like keeping things simple.",
+        "She likes him, but he does not know.",
+        "I like it, but I do not love it.",
+        "They do not like working on weekends.",
+        "I like where this is going.",
+        "Do your parents like your job?"
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "Using yo gusto for I like",
+        "why_it_happens": "Direct subject mapping from English.",
+        "correct_spanish": "Me gusta..."
+      },
+      {
+        "mistake": "Using gusta with plural nouns",
+        "why_it_happens": "Verb agreement is ignored.",
+        "correct_spanish": "Me gustan los libros."
+      },
+      {
+        "mistake": "Using gustan with infinitives",
+        "why_it_happens": "Infinitives are treated as plural actions.",
+        "correct_spanish": "Me gusta bailar."
+      },
+      {
+        "mistake": "Forgetting indirect object pronoun",
+        "why_it_happens": "English has no equivalent structure.",
+        "correct_spanish": "Le gusta la música."
+      },
+      {
+        "mistake": "Wrong recipient pronoun le vs les",
+        "why_it_happens": "Singular/plural recipient confusion.",
+        "correct_spanish": "A Juan le gusta... / A Juan y Ana les gusta..."
+      },
+      {
+        "mistake": "Dropping article with noun after gustar",
+        "why_it_happens": "Article omission transferred from English.",
+        "correct_spanish": "Me gusta el café."
+      },
+      {
+        "mistake": "Overusing explicit clarifier every sentence",
+        "why_it_happens": "Fear of ambiguity in pronouns.",
+        "correct_spanish": "Pronoun-only form is natural when context is clear."
+      },
+      {
+        "mistake": "Using subject pronouns as gustar subjects",
+        "why_it_happens": "I/you are assumed to be subject as in English.",
+        "correct_spanish": "Nos gusta la música."
+      },
+      {
+        "mistake": "Literal English word order in questions",
+        "why_it_happens": "Translation-first processing.",
+        "correct_spanish": "¿Te gusta...?"
+      },
+      {
+        "mistake": "Confusing Te gusto with Te gusta yo",
+        "why_it_happens": "Person-liking pattern not internalized.",
+        "correct_spanish": "¿Te gusto?"
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "¿Te gusta el café?",
+        "Sí, me gusta.",
+        "¿A ella le gusta la película?",
+        "Sí, le gusta.",
+        "¿Nos gusta bailar?",
+        "Sí, nos gusta.",
+        "¿A ellos les gustan los animales?",
+        "Sí, les gustan.",
+        "¿A usted le gusta leer?",
+        "Sí, me gusta.",
+        "¿A él le gusta el chocolate?",
+        "Sí, le gusta.",
+        "¿A Ana y a Juan les gusta la música?",
+        "Sí, les gusta.",
+        "¿Te gusta correr?",
+        "Sí, me gusta.",
+        "¿Nos gustan las verduras?",
+        "Sí, nos gustan.",
+        "¿A Carlos le gustan las matemáticas?",
+        "Sí, le gustan."
+      ],
+      "pattern_mutation": [
+        "Me gustan los cafés.",
+        "¿Te gusta correr?",
+        "Le gusta la flor a María.",
+        "No nos gusta viajar.",
+        "¿Les gustan los teatros?",
+        "¿A Juan le gusta leer?",
+        "Me gusta la película.",
+        "No, no me gusta el invierno.",
+        "A ellos les gustan las plantas.",
+        "Nos gusta la playa.",
+        "Nos gusta comer verduras.",
+        "¿Le gusta bailar a María?",
+        "Me gusta escribir y leer.",
+        "¿Le gustan las flores a Juan?",
+        "A mis amigos les gusta la música."
+      ],
+      "contrastive_discrimination": [
+        "Me gusta el café.",
+        "Me gustan los libros.",
+        "Me gusta bailar.",
+        "¿Te gusta el chocolate?",
+        "Nos gustan las verduras.",
+        "A Juan le gusta la música.",
+        "Les gusta viajar.",
+        "¿A Ana y a Juan les gustan las películas?",
+        "No me gusta eso.",
+        "¿Te gusto?"
+      ],
+      "reverse_conceptual_expression": [
+        "Últimamente me gusta esta canción.",
+        "No me gusta mucho esa idea.",
+        "¿Te gusta cómo se ve esto?",
+        "A mi jefe no le gustan los retrasos.",
+        "Nos gusta mantener las cosas simples.",
+        "A ella le gusta él, pero él no lo sabe.",
+        "Me gusta, pero no me encanta.",
+        "No les gusta trabajar los fines de semana.",
+        "Me gusta adónde va esto.",
+        "¿A tus padres les gusta tu trabajo?"
+      ]
+    }
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "subjunctive-triggers",
+    "antes-de-que",
+    "structure-selection",
+    "adult-learners"
+  ],
+  "difficulty": "B1",
+  "pattern_id": "ANTES_DE_QUE_SUBJUNCTIVE_SWITCH_46",
+  "source_files": [
+    "lessons/lesson-46/summary 46.pdf",
+    "lessons/lesson-46/Lesson 46 Exercises.pdf"
+  ],
+  "target_pattern": "Use antes de que plus present subjunctive when subjects change, and use antes de plus infinitive when the subject stays the same.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Using a single before plus verb pattern in all contexts.",
+      "spanish_logic": "Spanish distinguishes between subject change and no subject change, requiring either antes de que plus subjunctive or antes de plus infinitive.",
+      "target_pattern_formula": [
+        "subject change uses antes de que plus present subjunctive",
+        "same subject uses antes de plus infinitive",
+        "rule stays the same whether phrase appears first or in the middle",
+        "present subjunctive used even when action is future in meaning"
+      ],
+      "natural_examples": [
+        "Debo terminar esto antes de que llegue mi jefe.",
+        "Voy a salir antes de que tu llegues.",
+        "Suelo leer antes de acostarme.",
+        "Quiero organizar todo antes de irme de vacaciones.",
+        "Llamame antes de que tomes una decision."
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each in Spanish using the correct antes de pattern.",
+      "prompts_en": [
+        "I usually get up before my wife wakes up.",
+        "I need to buy snacks before the movie starts.",
+        "We should get up before the rooster crows.",
+        "I want to find a place before it gets dark.",
+        "We must prepare dinner before the guests arrive.",
+        "We should drink the coffee before it gets cold.",
+        "I have to wash the car before my dad arrives.",
+        "I am going to leave before you arrive.",
+        "I read before going to bed.",
+        "I have to finish the project before my boss arrives.",
+        "We exercise before going to work.",
+        "We should leave before it starts raining.",
+        "I want to organize everything before going on vacation.",
+        "You should call me before you make a decision.",
+        "I shower before going to bed.",
+        "We buy food before the guests arrive.",
+        "I want to talk before you leave.",
+        "She cleans before her parents come.",
+        "We stretch before running.",
+        "I call my mother before leaving work."
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as instructed.",
+      "drills": [
+        "Base: Debo terminar el proyecto antes de que mi jefe llegue. -> change mi jefe to los clientes.",
+        "Base: Voy a salir antes de que tu llegues. -> change subject to nosotros.",
+        "Base: Suelo leer antes de acostarme. -> change verb to meditar.",
+        "Base: Quiero organizar todo antes de irme de vacaciones. -> change to plural nosotros.",
+        "Base: Llamame antes de que tomes una decision. -> change verb to elegir.",
+        "Base: Compramos comida antes de que lleguen los invitados. -> make it future with vamos a.",
+        "Base: Ella limpia antes de que sus padres vengan. -> change subject to ellos for second clause.",
+        "Base: Hago ejercicio antes de salir al trabajo. -> change to first person plural.",
+        "Base: Debemos salir antes de que empiece a llover. -> change weather verb to anochecer.",
+        "Base: Quiero hablar antes de que te vayas. -> change pronoun to usted.",
+        "Base: Me ducho antes de acostarme. -> change reflexive infinitive to vestirme.",
+        "Base: Antes de que el sol salga, ya estoy despierto. -> change clause to antes de que amanezca.",
+        "Base: Debemos beber el cafe antes de que se enfrie. -> change noun to la sopa.",
+        "Base: Suelo levantarme antes de que mi esposa se despierte. -> change spouse to plural mis hijos.",
+        "Base: Quiero encontrar un lugar antes de que se haga oscuro. -> change main verb to reservar una mesa."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the correct Spanish form.",
+      "prompts": [
+        "I read before sleeping. (Leo antes de dormir. vs Leo antes de que duermo.)",
+        "I will leave before you arrive. (Saldre antes de que llegues. vs Saldre antes de llegar.)",
+        "We train before running. (Entrenamos antes de correr. vs Entrenamos antes de que corramos.)",
+        "Call me before you decide. (Llamame antes de que decidas. vs Llamame antes de decidir.)",
+        "She drinks coffee before leaving the house. (Ella bebe cafe antes de salir de casa. vs Ella bebe cafe antes de que salga de casa.)",
+        "We should eat before the guests arrive. (Debemos comer antes de que lleguen los invitados. vs Debemos comer antes de llegar los invitados.)",
+        "I organize everything before going on vacation. (Organizo todo antes de irme de vacaciones. vs Organizo todo antes de que me voy de vacaciones.)",
+        "Before the movie starts, we buy popcorn. (Antes de que empiece la pelicula, compramos palomitas. vs Antes de empezar la pelicula, compramos palomitas.)",
+        "I stretch before running. (Me estiro antes de correr. vs Me estiro antes de que corro.)",
+        "Clean before your parents come. (Limpia antes de que vengan tus padres. vs Limpia antes de venir tus padres.)"
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific meaning.",
+      "prompts": [
+        "Write that you check your email before your manager arrives.",
+        "Write that you drink water before starting work.",
+        "Write that your team reviews numbers before the meeting starts.",
+        "Write that you call your partner before leaving the office.",
+        "Write that you prepare dinner before your guests come.",
+        "Write that you stretch before going to the gym.",
+        "Write that you charge your phone before going out.",
+        "Write that your coworker sends the file before the client asks for it.",
+        "Write that you write a to-do list before sleeping.",
+        "Write that your family eats before the movie starts.",
+        "Write that you shower before getting dressed for work.",
+        "Write that you clean your desk before your boss sees it.",
+        "Write that you speak with HR before accepting the offer.",
+        "Write that your team tests everything before launching.",
+        "Write that you set two alarms before going to bed."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish, not literal English.",
+      "prompts_en": [
+        "I want to finish this before she calls me.",
+        "We should leave before it gets too late.",
+        "I usually make coffee before checking messages.",
+        "Let me know before you buy anything.",
+        "They always warm up before training.",
+        "Before my parents arrive, I need to clean.",
+        "I want to talk to you before we decide.",
+        "She reads before falling asleep.",
+        "We need to plan before we start.",
+        "He locks the door before going to sleep."
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "antes de que with indicative",
+        "why_it_happens": "Direct transfer from English present tense logic.",
+        "correct_spanish": "Use present subjunctive after antes de que."
+      },
+      {
+        "mistake": "antes de que used with same subject",
+        "why_it_happens": "Overgeneralization of trigger phrase.",
+        "correct_spanish": "Use antes de plus infinitive when subject is the same."
+      },
+      {
+        "mistake": "antes de plus conjugated verb",
+        "why_it_happens": "Hybrid structure mixing both patterns.",
+        "correct_spanish": "Use infinitive only after antes de."
+      },
+      {
+        "mistake": "Dropping que in subject-change clauses",
+        "why_it_happens": "Attempt to shorten sentence.",
+        "correct_spanish": "Keep antes de que plus subjunctive."
+      },
+      {
+        "mistake": "llega instead of llegue",
+        "why_it_happens": "Indicative default under pressure.",
+        "correct_spanish": "Use proper present subjunctive form."
+      },
+      {
+        "mistake": "Reflexive infinitive without pronoun",
+        "why_it_happens": "Pronoun dropped in no-subject-change pattern.",
+        "correct_spanish": "Use acostarme, irme, vestirme as needed."
+      },
+      {
+        "mistake": "Future tense after antes de que",
+        "why_it_happens": "Future meaning interpreted as future morphology.",
+        "correct_spanish": "Still use present subjunctive after antes de que."
+      },
+      {
+        "mistake": "Literal English word order in before clauses",
+        "why_it_happens": "Direct translation habit.",
+        "correct_spanish": "Use natural Spanish order with antes de or antes de que."
+      },
+      {
+        "mistake": "Ignoring subject check before choosing structure",
+        "why_it_happens": "Rule not applied consciously.",
+        "correct_spanish": "First check if subject changes, then pick pattern."
+      },
+      {
+        "mistake": "Accent marks missing in written forms",
+        "why_it_happens": "Fast typing.",
+        "correct_spanish": "Keep standard orthography in finished writing."
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "Suelo levantarme antes de que mi esposa se despierte.",
+        "Debo comprar palomitas antes de que empiece la pelicula.",
+        "Debemos levantarnos antes de que cante el gallo.",
+        "Quiero encontrar un lugar antes de que se haga oscuro.",
+        "Debemos preparar la cena antes de que lleguen los invitados.",
+        "Debemos beber el cafe antes de que se enfrie.",
+        "Tengo que lavar el coche antes de que llegue mi papa.",
+        "Voy a salir antes de que tu llegues.",
+        "Leo antes de acostarme.",
+        "Debo terminar el proyecto antes de que llegue mi jefe.",
+        "Hacemos ejercicio antes de ir al trabajo.",
+        "Debemos salir antes de que empiece a llover.",
+        "Quiero organizar todo antes de irme de vacaciones.",
+        "Debes llamarme antes de que tomes una decision.",
+        "Me ducho antes de acostarme.",
+        "Compramos comida antes de que lleguen los invitados.",
+        "Quiero hablar antes de que te vayas.",
+        "Ella limpia antes de que vengan sus padres.",
+        "Nos estiramos antes de correr.",
+        "Llamo a mi madre antes de salir del trabajo."
+      ],
+      "pattern_mutation": [
+        "Debo terminar el proyecto antes de que lleguen los clientes.",
+        "Vamos a salir antes de que tu llegues.",
+        "Suelo leer antes de meditar.",
+        "Queremos organizar todo antes de irnos de vacaciones.",
+        "Llamame antes de que elijas.",
+        "Vamos a comprar comida antes de que lleguen los invitados.",
+        "Ella limpia antes de que ellos vengan.",
+        "Hacemos ejercicio antes de salir al trabajo.",
+        "Debemos salir antes de que anochezca.",
+        "Quiero hablar antes de que usted se vaya.",
+        "Me ducho antes de vestirme.",
+        "Antes de que amanezca, ya estoy despierto.",
+        "Debemos beber la sopa antes de que se enfrie.",
+        "Suelo levantarme antes de que mis hijos se despierten.",
+        "Quiero reservar una mesa antes de que se haga oscuro."
+      ],
+      "contrastive_discrimination": [
+        "Leo antes de dormir.",
+        "Saldre antes de que llegues.",
+        "Entrenamos antes de correr.",
+        "Llamame antes de que decidas.",
+        "Ella bebe cafe antes de salir de casa.",
+        "Debemos comer antes de que lleguen los invitados.",
+        "Organizo todo antes de irme de vacaciones.",
+        "Antes de que empiece la pelicula, compramos palomitas.",
+        "Me estiro antes de correr.",
+        "Limpia antes de que vengan tus padres."
+      ],
+      "reverse_conceptual_expression": [
+        "Quiero terminar esto antes de que ella me llame.",
+        "Debemos salir antes de que se haga muy tarde.",
+        "Suelo hacer cafe antes de revisar mensajes.",
+        "Avisame antes de que compres algo.",
+        "Siempre calientan antes de entrenar.",
+        "Antes de que lleguen mis padres, necesito limpiar.",
+        "Quiero hablar contigo antes de que decidamos.",
+        "Ella lee antes de dormirse.",
+        "Necesitamos planear antes de empezar.",
+        "El cierra la puerta antes de acostarse."
+      ]
+    }
+  }
+}

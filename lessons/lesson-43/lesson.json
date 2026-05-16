@@ -1,0 +1,250 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "poner",
+    "ponerse",
+    "commands-subjunctive",
+    "adult-learners"
+  ],
+  "difficulty": "A2-B1",
+  "pattern_id": "PONER_MULTI_USE_PATTERNS_43",
+  "source_files": [
+    "lessons/lesson-43/Lesson 43 Exercise.pdf"
+  ],
+  "target_pattern": "Use poner across placement, commands, subjunctive triggers, indirect-object food and drink frames, emotional impact, and pronominal ponerse for becoming or putting on clothing.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Treating poner as only to put and translating each use literally.",
+      "spanish_logic": "Poner is a flexible high-frequency frame across several constructions, and ponerse changes meaning to become or put on.",
+      "target_pattern_formula": [
+        "preterite placement: puse pusiste puso pusimos pusieron",
+        "commands: pon no pongas ponga no ponga",
+        "subjunctive trigger: quieres que ponga",
+        "indirect object frame: que le pusiste a and le puse",
+        "emotional impact: me puso triste or me ponen nervioso",
+        "pronominal: ponerse plus adjective or clothing"
+      ],
+      "natural_examples": [
+        "Donde pusiste las llaves?",
+        "Pon las maletas en el coche.",
+        "Quieres que ponga la mesa?",
+        "Que le pusiste a la sopa?",
+        "Me puse nervioso antes de la reunion."
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each in Spanish using the poner or ponerse pattern indicated.",
+      "prompts_en": [
+        "Where did you put the keys?",
+        "I put the flowers in the kitchen.",
+        "We put the plates on the table.",
+        "She put the book in her backpack.",
+        "They put the suitcases in the car.",
+        "Put the keys on the table. (tu command)",
+        "Do not put the keys on the table. (tu command)",
+        "Put the tableware out, please. (usted command)",
+        "Do not put more salt in the soup. (usted command)",
+        "Do you want me to put the bags in the car?",
+        "Do you want us to put the clothes in the washer?",
+        "What did you put in the soup?",
+        "I put salt in it.",
+        "What did they put in the salad?",
+        "The news made me sad.",
+        "Lies make me furious.",
+        "I became happy when I saw you yesterday.",
+        "We became nervous during the exam.",
+        "She put on a red dress on Friday.",
+        "We put on our coats in winter."
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as instructed.",
+      "drills": [
+        "Base: Puse las llaves en la mesa. -> change subject to tu.",
+        "Base: Pusimos los platos en la mesa. -> change object to las tazas.",
+        "Base: Pon la ropa en la cama. -> make it negative tu command.",
+        "Base: Ponga las maletas en el coche. -> change to tu affirmative.",
+        "Base: No pongas eso en el garaje. -> change to usted negative.",
+        "Base: Quieres que ponga la mesa? -> change subject in subordinate clause to ellos.",
+        "Base: Quieres que pongamos la ropa en la lavadora? -> change object to los zapatos.",
+        "Base: Que le pusiste a la sopa? -> change noun to al cafe.",
+        "Base: Le puse sal. -> change ingredient to limon.",
+        "Base: La pelicula me puso feliz. -> change adjective to triste.",
+        "Base: Las mentiras me ponen furioso. -> change subject to singular la mentira.",
+        "Base: Me puse feliz al verte. -> change emotion to nervioso.",
+        "Base: Ella se puso un vestido rojo. -> change clothing to la chaqueta negra.",
+        "Base: Nos ponemos los abrigos en invierno. -> change season to cuando hace frio.",
+        "Base: Te pusiste triste ayer. -> turn into question form."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the correct Spanish form.",
+      "prompts": [
+        "I put the keys on the table. (Puse las llaves en la mesa. vs Ponia las llaves en la mesa.)",
+        "Put the keys on the table. (Pon las llaves en la mesa. vs Pongas las llaves en la mesa.)",
+        "Do not put the keys there. (No pongas las llaves ahi. vs No pon las llaves ahi.)",
+        "Put the tableware out, please. (Ponga la mesa, por favor. vs Pon la mesa, por favor. for usted target)",
+        "Do you want me to put the bags in the car? (Quieres que ponga las maletas en el coche? vs Quieres que pongo las maletas en el coche?)",
+        "What did you put in the soup? (Que le pusiste a la sopa? vs Que pusiste la sopa?)",
+        "I put salt in it. (Le puse sal. vs La puse sal.)",
+        "The news made me sad. (Las noticias me pusieron triste. vs Las noticias me pusieron tristemente.)",
+        "I became happy yesterday. (Me puse feliz ayer. vs Puse feliz ayer.)",
+        "Put on the white shirt. (Ponte la camisa blanca. vs Te pon la camisa blanca.)"
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific meaning.",
+      "prompts": [
+        "Write that you put your phone on the desk this morning.",
+        "Write that your coworker put the files in the wrong folder.",
+        "Write an informal command telling someone to put the cups on the table.",
+        "Write an informal negative command telling someone not to put sugar in your coffee.",
+        "Write a formal command asking someone to put the suitcases in the car.",
+        "Write a question asking if they want you to put the dishes in the sink.",
+        "Write that you put lemon in the tea.",
+        "Write that the bad news made you nervous.",
+        "Write that loud music makes you tired.",
+        "Write that you became happy when your project was approved.",
+        "Write that your friend became sad after the call.",
+        "Write that you put on your jacket before leaving.",
+        "Write that your team puts on coats when it is cold.",
+        "Write that the teacher is going to test your Spanish.",
+        "Write that your team is going to start the new project next week."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish, not literal English.",
+      "prompts_en": [
+        "Where did you put my keys?",
+        "Do not put more salt in this.",
+        "Do you want me to set the table now?",
+        "What did you put in the coffee?",
+        "The comment made me angry.",
+        "I got nervous before the interview.",
+        "She put on a coat because it was cold.",
+        "We put our phones away during meetings.",
+        "They are going to put your Spanish to the test.",
+        "It is time to get this plan moving."
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "ponia for a completed put event",
+        "why_it_happens": "Imperfect used instead of completed preterite.",
+        "correct_spanish": "Use preterite forms such as puse or puso."
+      },
+      {
+        "mistake": "no pon",
+        "why_it_happens": "Negative command built from affirmative stem.",
+        "correct_spanish": "Use no pongas or no ponga."
+      },
+      {
+        "mistake": "quieres que pongo",
+        "why_it_happens": "Subjunctive trigger not applied after quieres que.",
+        "correct_spanish": "Use quieres que ponga."
+      },
+      {
+        "mistake": "que pusiste la sopa",
+        "why_it_happens": "Missing indirect-object structure for container nouns.",
+        "correct_spanish": "Use que le pusiste a la sopa."
+      },
+      {
+        "mistake": "la puse sal",
+        "why_it_happens": "Wrong clitic selected for indirect object.",
+        "correct_spanish": "Use le puse sal."
+      },
+      {
+        "mistake": "me puso triste when present habitual is intended",
+        "why_it_happens": "Tense mismatch in emotional impact pattern.",
+        "correct_spanish": "Use me pone triste for habitual present."
+      },
+      {
+        "mistake": "puse nervioso",
+        "why_it_happens": "Reflexive pronoun omitted in become meaning.",
+        "correct_spanish": "Use me puse nervioso."
+      },
+      {
+        "mistake": "te pon la camisa",
+        "why_it_happens": "Wrong pronoun placement in affirmative reflexive command.",
+        "correct_spanish": "Use ponte la camisa."
+      },
+      {
+        "mistake": "adjective agreement ignored in poner plus adjective",
+        "why_it_happens": "Not matching adjective with affected person.",
+        "correct_spanish": "Match adjective agreement, for example nos puso nerviosos."
+      },
+      {
+        "mistake": "random mix of poner and ponerse",
+        "why_it_happens": "Transitive and pronominal meanings not separated.",
+        "correct_spanish": "Use poner for placing objects and ponerse for becoming or putting on."
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "Donde pusiste las llaves?",
+        "Puse las flores en la cocina.",
+        "Pusimos los platos en la mesa.",
+        "Ella puso el libro en su mochila.",
+        "Ellos pusieron las maletas en el coche.",
+        "Pon las llaves en la mesa.",
+        "No pongas las llaves en la mesa.",
+        "Ponga la mesa, por favor.",
+        "No ponga mas sal en la sopa.",
+        "Quieres que ponga las maletas en el coche?",
+        "Quieres que pongamos la ropa en la lavadora?",
+        "Que le pusiste a la sopa?",
+        "Le puse sal.",
+        "Que le pusieron a la ensalada?",
+        "Las noticias me pusieron triste.",
+        "Las mentiras me ponen furioso.",
+        "Me puse feliz al verte ayer.",
+        "Nos pusimos nerviosos durante el examen.",
+        "Ella se puso un vestido rojo el viernes.",
+        "Nos ponemos los abrigos en invierno."
+      ],
+      "pattern_mutation": [
+        "Pusiste las llaves en la mesa.",
+        "Pusimos las tazas en la mesa.",
+        "No pongas la ropa en la cama.",
+        "Pon las maletas en el coche.",
+        "No ponga eso en el garaje.",
+        "Quieres que pongan la mesa?",
+        "Quieres que pongamos los zapatos en la lavadora?",
+        "Que le pusiste al cafe?",
+        "Le puse limon.",
+        "La pelicula me puso triste.",
+        "La mentira me pone furioso.",
+        "Me puse nervioso al verte.",
+        "Ella se puso la chaqueta negra.",
+        "Nos ponemos los abrigos cuando hace frio.",
+        "Te pusiste triste ayer?"
+      ],
+      "contrastive_discrimination": [
+        "Puse las llaves en la mesa.",
+        "Pon las llaves en la mesa.",
+        "No pongas las llaves ahi.",
+        "Ponga la mesa, por favor.",
+        "Quieres que ponga las maletas en el coche?",
+        "Que le pusiste a la sopa?",
+        "Le puse sal.",
+        "Las noticias me pusieron triste.",
+        "Me puse feliz ayer.",
+        "Ponte la camisa blanca."
+      ],
+      "reverse_conceptual_expression": [
+        "Donde pusiste mis llaves?",
+        "No pongas mas sal aqui.",
+        "Quieres que ponga la mesa ahora?",
+        "Que le pusiste al cafe?",
+        "El comentario me puso enojado.",
+        "Me puse nervioso antes de la entrevista.",
+        "Ella se puso un abrigo porque hacia frio.",
+        "Ponemos los telefonos a un lado durante las reuniones.",
+        "Van a poner tu espanol a prueba.",
+        "Es hora de poner en marcha este plan."
+      ]
+    }
+  }
+}

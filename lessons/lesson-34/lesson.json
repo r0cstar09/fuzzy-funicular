@@ -1,0 +1,250 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "question-words",
+    "que-vs-cual",
+    "interrogatives",
+    "adult-learners"
+  ],
+  "difficulty": "A2-B1",
+  "pattern_id": "QUE_CUAL_SELECTION_DEFINITION_34",
+  "source_files": [
+    "lessons/lesson-34/34 Summary.pdf",
+    "lessons/lesson-34/Lesson 34 exercise revised 472026.pdf"
+  ],
+  "target_pattern": "Select que for open what questions and definitions, use cual or cuales for choosing specific options and specific identity data with ser, and use cual(es) de for defined sets.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Directly mapping English what and which without structural context.",
+      "spanish_logic": "Spanish interrogatives are pattern-driven by function, not direct lexical translation.",
+      "target_pattern_formula": [
+        "que plus verb for general what",
+        "cual or cuales plus verb for option selection",
+        "cual or cuales de plus group noun for defined set",
+        "que plus ser for definitions and explanations",
+        "cual plus ser for specific identity data"
+      ],
+      "natural_examples": [
+        "Que necesitas ahora?",
+        "Cual prefieres?",
+        "Cuales de estos libros quieres?",
+        "Que es la inflacion?",
+        "Cual es tu numero de telefono?"
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each in Spanish using que, cual, or cuales correctly.",
+      "prompts_en": [
+        "What did you do yesterday?",
+        "Which of these backpacks is mine?",
+        "Which restaurant has the best pizza?",
+        "What is an arepa?",
+        "What is your phone number?",
+        "Which of these books do you recommend?",
+        "What day is today?",
+        "What genre of book are you reading?",
+        "What is an ecosystem?",
+        "Which sports are your favorites?",
+        "What did you do during vacation?",
+        "Which one of you wants to go first?",
+        "Which are the largest islands in the Caribbean?",
+        "What do you eat for lunch?",
+        "Which movie do you want to see?",
+        "Which is the easiest way to get there?",
+        "Which song did we hear on the radio?",
+        "What are bitcoins?",
+        "What is that noise?",
+        "Which one do you prefer?"
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as instructed.",
+      "drills": [
+        "Base: Que quieres? -> change verb to necesitar.",
+        "Base: Cual prefieres? -> change to plural choices.",
+        "Base: Cuales de estos libros recomiendas? -> change noun to opciones.",
+        "Base: Que es una arepa? -> change definition target to un contrato.",
+        "Base: Cual es tu numero de telefono? -> change requested info to direccion.",
+        "Base: Que pelicula quieres ver? -> make it plural movie options in group form.",
+        "Base: Cual de ustedes quiere ir primero? -> change to plural answer expectation.",
+        "Base: Cuales son tus deportes favoritos? -> change noun to colores.",
+        "Base: Que hiciste ayer? -> change time to esta manana.",
+        "Base: Que dia es hoy? -> change noun to hora.",
+        "Base: Que comes para el almuerzo? -> change meal to la cena.",
+        "Base: Cual es tu correo electronico? -> change data field to nombre completo.",
+        "Base: Que es ese ruido? -> change demonstrative to plural esos ruidos.",
+        "Base: Cual es la manera mas facil de llegar alli? -> change destination to aqui.",
+        "Base: Cual prefieres? -> change to explicit two-option contrast, te o cafe."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the correct Spanish form.",
+      "prompts": [
+        "What is inflation? (Que es la inflacion? vs Cual es la inflacion?)",
+        "What is your name? (Cual es tu nombre? vs Que es tu nombre?)",
+        "What happened? (Que paso? vs Cual paso?)",
+        "Which one do you want? (Cual quieres? vs Que quieres? for selecting one)",
+        "Which of these options do you prefer? (Cual de estas opciones prefieres? vs Que de estas opciones prefieres?)",
+        "What day is today? (Que dia es hoy? vs Cual dia es hoy? in this lesson default pattern)",
+        "Which are your favorite sports? (Cuales son tus deportes favoritos? vs Que son tus deportes favoritos?)",
+        "What movie do you want to see? (Que pelicula quieres ver? vs Cual pelicula quieres ver? default neutral taught pattern)",
+        "What is that? (Que es eso? vs Cual es eso?)",
+        "Which is your email? (Cual es tu correo electronico? vs Que es tu correo electronico?)"
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific meaning.",
+      "prompts": [
+        "Write that you ask what someone wants to eat.",
+        "Write that you ask which option your teammate prefers.",
+        "Write that you ask which of two schedules works better.",
+        "Write that you ask what a technical term means in a meeting.",
+        "Write that you ask for someone's phone number.",
+        "Write that you ask what time it is.",
+        "Write that you ask what day the deadline falls on.",
+        "Write that you ask which restaurant your group chooses.",
+        "Write that you ask what happened yesterday.",
+        "Write that you ask what kind of report someone is reading.",
+        "Write that you ask which song they heard.",
+        "Write that you ask what that sound is in the office.",
+        "Write that you ask which of several proposals is best.",
+        "Write that you ask what your client needs right now.",
+        "Write that you ask which product the customer wants."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish, not literal English.",
+      "prompts_en": [
+        "Which one do you prefer, this one or that one?",
+        "What do you need right now?",
+        "Which of these files is final?",
+        "What is a deductible?",
+        "What is your address?",
+        "What movie are we watching tonight?",
+        "Which of you can stay late?",
+        "What are your top priorities this week?",
+        "What happened in the meeting?",
+        "Which is the best route?"
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "Que es tu nombre?",
+        "why_it_happens": "Treating identity data like definitions.",
+        "correct_spanish": "Cual es tu nombre?"
+      },
+      {
+        "mistake": "Cual paso?",
+        "why_it_happens": "Using cual in open what happened questions.",
+        "correct_spanish": "Que paso?"
+      },
+      {
+        "mistake": "Que de estas opciones prefieres?",
+        "why_it_happens": "Missing selection structure with a defined set.",
+        "correct_spanish": "Cual de estas opciones prefieres?"
+      },
+      {
+        "mistake": "Always using cual before nouns",
+        "why_it_happens": "Overgeneralizing English which plus noun.",
+        "correct_spanish": "Default safe pattern is often que plus noun plus verb."
+      },
+      {
+        "mistake": "Que es tu telefono?",
+        "why_it_happens": "Confusing specific data with conceptual definition.",
+        "correct_spanish": "Cual es tu numero de telefono?"
+      },
+      {
+        "mistake": "Cuales es...",
+        "why_it_happens": "Number mismatch between interrogative and verb.",
+        "correct_spanish": "Cual es for singular, Cuales son for plural."
+      },
+      {
+        "mistake": "Que son tus deportes favoritos?",
+        "why_it_happens": "Using definition frame instead of specific selection information.",
+        "correct_spanish": "Cuales son tus deportes favoritos?"
+      },
+      {
+        "mistake": "Avoiding cual for option selection",
+        "why_it_happens": "Fear of ambiguity from translation habits.",
+        "correct_spanish": "Use cual when choosing among options."
+      },
+      {
+        "mistake": "Dropping accent marks in question words",
+        "why_it_happens": "Orthography oversight while writing fast.",
+        "correct_spanish": "Use accents in direct questions: que, cual, cuales."
+      },
+      {
+        "mistake": "Memorizing only word pairs",
+        "why_it_happens": "No structural pattern decision process.",
+        "correct_spanish": "Choose by role: definition, data, selection, or open query."
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "Que hiciste ayer?",
+        "Cual de estas mochilas es la mia?",
+        "Que restaurante tiene la mejor pizza?",
+        "Que es una arepa?",
+        "Cual es tu numero de telefono?",
+        "Cuales de estos libros recomiendas?",
+        "Que dia es hoy?",
+        "Que genero de libro estas leyendo?",
+        "Que es un ecosistema?",
+        "Cuales son tus deportes favoritos?",
+        "Que hiciste durante las vacaciones?",
+        "Cual de ustedes quiere ir primero?",
+        "Cuales son las islas mas grandes del Caribe?",
+        "Que comes para el almuerzo?",
+        "Que pelicula quieres ver?",
+        "Cual es la manera mas facil de llegar alli?",
+        "Que cancion escuchamos en la radio?",
+        "Que son los bitcoins?",
+        "Que es ese ruido?",
+        "Cual prefieres?"
+      ],
+      "pattern_mutation": [
+        "Que necesitas?",
+        "Cuales prefieres?",
+        "Cuales de estas opciones recomiendas?",
+        "Que es un contrato?",
+        "Cual es tu direccion?",
+        "Cuales de estas peliculas quieres ver?",
+        "Cuales de ustedes quieren ir primero?",
+        "Cuales son tus colores favoritos?",
+        "Que hiciste esta manana?",
+        "Que hora es?",
+        "Que comes para la cena?",
+        "Cual es tu nombre completo?",
+        "Que son esos ruidos?",
+        "Cual es la manera mas facil de llegar aqui?",
+        "Cual prefieres, te o cafe?"
+      ],
+      "contrastive_discrimination": [
+        "Que es la inflacion?",
+        "Cual es tu nombre?",
+        "Que paso?",
+        "Cual quieres?",
+        "Cual de estas opciones prefieres?",
+        "Que dia es hoy?",
+        "Cuales son tus deportes favoritos?",
+        "Que pelicula quieres ver?",
+        "Que es eso?",
+        "Cual es tu correo electronico?"
+      ],
+      "reverse_conceptual_expression": [
+        "Cual prefieres, este o ese?",
+        "Que necesitas ahora mismo?",
+        "Cual de estos archivos es final?",
+        "Que es un deducible?",
+        "Cual es tu direccion?",
+        "Que pelicula vemos esta noche?",
+        "Cual de ustedes puede quedarse hasta tarde?",
+        "Cuales son tus prioridades principales esta semana?",
+        "Que paso en la reunion?",
+        "Cual es la mejor ruta?"
+      ]
+    }
+  }
+}

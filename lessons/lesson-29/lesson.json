@@ -1,0 +1,250 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "haber",
+    "present-perfect",
+    "impersonal-hay",
+    "adult-learners"
+  ],
+  "difficulty": "B1",
+  "pattern_id": "HABER_AUXILIARY_IMPERSONAL_29",
+  "source_files": [
+    "lessons/lesson-29/Summary 29.pdf",
+    "lessons/lesson-29/haber exercise.pdf"
+  ],
+  "target_pattern": "Use haber in three high-frequency systems: auxiliary perfect tenses, impersonal existence forms (hay/habia/hubo/habra), and impersonal obligation with hay que + infinitive.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Treating haber as possession have and translating directly.",
+      "spanish_logic": "Haber is a structural verb for perfect tenses and impersonal existence/obligation, while tener handles possession.",
+      "target_pattern_formula": [
+        "present perfect: haber + participio",
+        "past perfect: habia + participio",
+        "existence: hay, habia, hubo, habra",
+        "impersonal obligation: hay que + infinitive",
+        "hay is fixed for singular and plural"
+      ],
+      "natural_examples": [
+        "Has visto ese correo?",
+        "Habiamos terminado antes de la reunion.",
+        "Hay muchas personas en la sala.",
+        "Hubo un accidente anoche.",
+        "Hay que revisar los datos hoy."
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each in Spanish using the correct haber pattern.",
+      "prompts_en": [
+        "Have you eaten today?",
+        "I have finished the report.",
+        "They have written the email.",
+        "We have spoken to the client.",
+        "She has opened the door.",
+        "Have you seen that movie?",
+        "He has said the truth.",
+        "I have put the files on the desk.",
+        "Have they returned from the trip?",
+        "You formal have done a great job.",
+        "Is there a chair available?",
+        "There is a lot of traffic in the city.",
+        "There are strawberries in the fridge.",
+        "Are there people in the room?",
+        "There was an accident on the road.",
+        "There were many cars in the parking lot.",
+        "There is not any coffee.",
+        "There was a concert in the park.",
+        "There will be many people at the event.",
+        "One has to study before the exam."
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as instructed.",
+      "drills": [
+        "Base: He comido. -> change subject to nosotros.",
+        "Base: Han escrito una carta. -> change direct object to plural cartas.",
+        "Base: Ella ha abierto la ventana. -> make it negative.",
+        "Base: Yo he puesto los papeles en el escritorio. -> change subject to usted.",
+        "Base: Has visto la pelicula? -> change to statement with yo.",
+        "Base: Hay una silla disponible. -> change noun to plural sillas.",
+        "Base: Hay mucho trafico en la ciudad. -> change to past incomplete background.",
+        "Base: Habia muchos carros en el estacionamiento. -> change to preterite event form.",
+        "Base: Hubo un concierto en el parque. -> change to future.",
+        "Base: No hay cafe. -> change to affirmative with te.",
+        "Base: Yo habia estudiado antes del examen. -> change subject to ellos.",
+        "Base: Ella habia terminado la tarea. -> make it question form.",
+        "Base: Hay que estudiar para aprender. -> change infinitive to escuchar.",
+        "Base: Hay que cortar el apio. -> make it negative recommendation.",
+        "Base: Habra un concierto el viernes. -> change weekday to sabado."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the correct Spanish form.",
+      "prompts": [
+        "Have you eaten? (Has comido? vs Tienes comido?)",
+        "We have seen that movie. (Hemos visto esa pelicula. vs Somos visto esa pelicula.)",
+        "There are people here. (Hay personas aqui. vs Estan personas aqui.)",
+        "There was an accident. (Hubo un accidente. vs Habia un accidente as completed event)",
+        "There was a lot of noise, background. (Habia mucho ruido. vs Hubo mucho ruido in background context)",
+        "There will be a concert. (Habra un concierto. vs Tendra un concierto.)",
+        "One has to practice. (Hay que practicar. vs Es que practicar.)",
+        "They had prepared everything. (Habian preparado todo. vs Tuvieron preparado todo.)",
+        "Is there milk? (Hay leche? vs Esta leche?)",
+        "I have done the task. (He hecho la tarea. vs Tengo hecho la tarea.)"
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific meaning.",
+      "prompts": [
+        "Write that you have finished your work today.",
+        "Write that your team has already sent the files.",
+        "Write that you have not seen that report yet.",
+        "Write that there is a meeting room available now.",
+        "Write that there are many emails in your inbox.",
+        "Write that there was a problem with the system this morning.",
+        "Write that there will be a training session on Friday.",
+        "Write that one has to be on time for the call.",
+        "Write that one has to read the instructions before starting.",
+        "Write that you had studied before your interview.",
+        "Write that your manager had spoken with the client before lunch.",
+        "Write that there was a lot of traffic yesterday.",
+        "Write that there was an accident near your office last week.",
+        "Write that there is no coffee in the kitchen.",
+        "Write that one has to confirm attendance today."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish, not literal English.",
+      "prompts_en": [
+        "Have they opened the office yet?",
+        "I had already eaten before the meeting.",
+        "Is there a solution?",
+        "There are no seats available.",
+        "There was a concert downtown last night.",
+        "There will be more space next month.",
+        "You have to think before speaking.",
+        "We have done everything possible.",
+        "Had she read the document before signing?",
+        "There was a lot of people at the event."
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "Tienes comido?",
+        "why_it_happens": "Mixing possession tener with auxiliary haber.",
+        "correct_spanish": "Has comido?"
+      },
+      {
+        "mistake": "Hayn personas",
+        "why_it_happens": "Trying to pluralize hay.",
+        "correct_spanish": "Hay personas."
+      },
+      {
+        "mistake": "Using haber for possession",
+        "why_it_happens": "Literal transfer from English have.",
+        "correct_spanish": "Use tener for possession."
+      },
+      {
+        "mistake": "Hubo mucho ruido for background context",
+        "why_it_happens": "Not distinguishing event and background frames.",
+        "correct_spanish": "Habia mucho ruido for background."
+      },
+      {
+        "mistake": "Habia un accidente for completed incident report",
+        "why_it_happens": "Overusing imperfect tense.",
+        "correct_spanish": "Hubo un accidente."
+      },
+      {
+        "mistake": "Hay que estudias",
+        "why_it_happens": "Conjugating verb after hay que.",
+        "correct_spanish": "Hay que estudiar."
+      },
+      {
+        "mistake": "he comidas in perfect tense",
+        "why_it_happens": "Trying to agree participle with noun.",
+        "correct_spanish": "Past participle stays fixed in compound tenses."
+      },
+      {
+        "mistake": "he escribido",
+        "why_it_happens": "Applying regular participle to irregular verb.",
+        "correct_spanish": "he escrito"
+      },
+      {
+        "mistake": "No esta cafe",
+        "why_it_happens": "Using estar for existence.",
+        "correct_spanish": "No hay cafe."
+      },
+      {
+        "mistake": "Avoiding hay que frame",
+        "why_it_happens": "Literal subject-based obligation translation.",
+        "correct_spanish": "Use impersonal chunk hay que + infinitive."
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "Has comido hoy?",
+        "He terminado el reporte.",
+        "Han escrito el correo.",
+        "Hemos hablado con el cliente.",
+        "Ella ha abierto la puerta.",
+        "Has visto esa pelicula?",
+        "El ha dicho la verdad.",
+        "He puesto los archivos en el escritorio.",
+        "Han regresado del viaje?",
+        "Usted ha hecho un gran trabajo.",
+        "Hay una silla disponible?",
+        "Hay mucho trafico en la ciudad.",
+        "Hay fresas en el refrigerador.",
+        "Hay personas en la habitacion?",
+        "Hubo un accidente en la carretera.",
+        "Habia muchos carros en el estacionamiento.",
+        "No hay cafe.",
+        "Hubo un concierto en el parque.",
+        "Habra mucha gente en el evento.",
+        "Hay que estudiar antes del examen."
+      ],
+      "pattern_mutation": [
+        "Hemos comido.",
+        "Han escrito cartas.",
+        "Ella no ha abierto la ventana.",
+        "Usted ha puesto los papeles en el escritorio.",
+        "He visto la pelicula.",
+        "Hay sillas disponibles.",
+        "Habia mucho trafico en la ciudad.",
+        "Hubo muchos carros en el estacionamiento.",
+        "Habra un concierto en el parque.",
+        "Hay cafe.",
+        "Ellos habian estudiado antes del examen.",
+        "Habia terminado la tarea?",
+        "Hay que escuchar para aprender.",
+        "No hay que cortar el apio.",
+        "Habra un concierto el sabado."
+      ],
+      "contrastive_discrimination": [
+        "Has comido?",
+        "Hemos visto esa pelicula.",
+        "Hay personas aqui.",
+        "Hubo un accidente.",
+        "Habia mucho ruido.",
+        "Habra un concierto.",
+        "Hay que practicar.",
+        "Habian preparado todo.",
+        "Hay leche?",
+        "He hecho la tarea."
+      ],
+      "reverse_conceptual_expression": [
+        "Han abierto la oficina ya?",
+        "Ya habia comido antes de la reunion.",
+        "Hay una solucion?",
+        "No hay asientos disponibles.",
+        "Hubo un concierto en el centro anoche.",
+        "Habra mas espacio el proximo mes.",
+        "Hay que pensar antes de hablar.",
+        "Hemos hecho todo lo posible.",
+        "Habia leido el documento antes de firmar?",
+        "Habia mucha gente en el evento."
+      ]
+    }
+  }
+}

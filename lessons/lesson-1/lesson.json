@@ -1,0 +1,246 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "cognates",
+    "ser-structures",
+    "adult-learners"
+  ],
+  "difficulty": "A1-A2",
+  "pattern_id": "COGNATE_AL_SER_FRAME_01",
+  "source_files": [
+    "lessons/lesson-1/master1 summary.pdf"
+  ],
+  "target_pattern": "Use high-frequency -al cognates naturally in Spanish frames: 'Sujeto + ser + adjetivo', 'Es + adjetivo + infinitivo', and 'En general + oración'.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Translating word-for-word and avoiding obvious cognates.",
+      "spanish_logic": "Many English words ending in -al map directly to Spanish and become fluent when placed in Spanish sentence frames.",
+      "target_pattern_formula": [
+        "Sujeto + ser + adjetivo en -al",
+        "Es + adjetivo en -al + infinitivo",
+        "En general, + oración"
+      ],
+      "natural_examples": [
+        "Este contrato es legal.",
+        "La reunión de hoy es informal.",
+        "Es fundamental revisar el correo cada mañana.",
+        "En general, el pago digital es normal ahora.",
+        "Es natural tener dudas al principio."
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each in Spanish using the target pattern. No answer key until the end.",
+      "prompts_en": [
+        "This process is simple and legal.",
+        "The final decision is individual.",
+        "It is normal to feel tired after work.",
+        "The meeting is formal today.",
+        "Digital payment is now common.",
+        "It is fundamental to confirm the address.",
+        "In general, this neighborhood is quiet.",
+        "The principal problem is financial.",
+        "It is natural to have questions.",
+        "The service is terrible, but legal.",
+        "This policy is universal in our company.",
+        "The report is brief and professional.",
+        "It is important, but not urgent.",
+        "The social event is tomorrow.",
+        "The total cost is high.",
+        "Rural internet is still unstable.",
+        "The criminal case is complex.",
+        "The judicial process is slow.",
+        "It is normal to change your mind.",
+        "In general, the atmosphere here is informal."
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as directed.",
+      "drills": [
+        "Base: El contrato es legal. -> Make it negative.",
+        "Base: La reunión es formal. -> Turn it into a question.",
+        "Base: El proceso es normal. -> Change to plural subject (los procesos).",
+        "Base: Es fundamental revisar el correo. -> Change to past (was fundamental).",
+        "Base: El pago digital es común. -> Change to future (will be).",
+        "Base: En general, el ambiente es informal. -> Make it emphatic with muy.",
+        "Base: La decisión final es individual. -> Change to first person plural possession (our final decision).",
+        "Base: Es natural tener dudas. -> Make it negative.",
+        "Base: El problema principal es financiero. -> Change to question.",
+        "Base: El proceso judicial es lento. -> Change adjective to plural by making subject plural.",
+        "Base: La respuesta es total. -> Make it sound natural with completa instead of total.",
+        "Base: El trato es brutal. -> Soften register for work context.",
+        "Base: Es formal hablar así en ese contexto. -> Change to informal.",
+        "Base: La solución digital es funcional. -> Change to past (was not functional).",
+        "Base: En general, la comunicación es social. -> Rewrite with más profesional."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Write the most natural Spanish choice.",
+      "prompts": [
+        "Express: I have to send the final report today. (tengo que vs es fundamental)",
+        "Express a general truth: It is normal to make mistakes at the start. (es normal vs está normal)",
+        "Express personal obligation: I have to attend the formal meeting. (tengo que vs hay que)",
+        "Express impersonal recommendation: You have to verify the legal data. (hay que vs tengo que)",
+        "Express ability: I can use the digital system now. (puedo vs tengo que)",
+        "Express future plan: I am going to review the principal points tonight. (voy a vs quiero)",
+        "Express desire only: I want a more informal environment. (quiero vs puedo)",
+        "Express state vs essence: The office is formal (in general). (es vs está)",
+        "Express temporary state: Today the office is unusually formal. (es vs está)",
+        "Express naturalness: It feels natural to speak Spanish every day now. (es natural vs literal translation)"
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific real-life meaning.",
+      "prompts": [
+        "Your work schedule is not flexible and is very formal.",
+        "It is fundamental for you to sleep well before a big meeting.",
+        "Your final decision about a purchase is individual.",
+        "Digital payment is normal in your daily life.",
+        "The principal problem this week is time.",
+        "It is natural for you to feel pressure before presentations.",
+        "In general, your communication style is informal with friends.",
+        "A legal process in your city is slow.",
+        "A social plan tonight is not possible for you.",
+        "The total cost of something you need is too high.",
+        "Rural transportation near you is limited.",
+        "It is fundamental to check your bank app daily.",
+        "A formal email is necessary in your current situation.",
+        "In general, your mornings are quiet and practical.",
+        "It now feels natural to write in Spanish every day."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish; avoid literal English mapping.",
+      "prompts_en": [
+        "In general, this is normal.",
+        "It is natural to feel this way.",
+        "The main thing is to finish today.",
+        "It is fundamental to be clear.",
+        "This process is legal but slow.",
+        "A formal tone is better here.",
+        "Digital is already the normal option.",
+        "The final part is the most important.",
+        "That reaction is not unusual.",
+        "It feels normal now, not forced."
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "Está normal (for a general truth)",
+        "why_it_happens": "Overusing estar from direct English mapping.",
+        "correct_spanish": "Es normal cometer errores al principio."
+      },
+      {
+        "mistake": "Ello es fundamental revisar esto",
+        "why_it_happens": "Literal translation of it is.",
+        "correct_spanish": "Es fundamental revisar esto hoy."
+      },
+      {
+        "mistake": "La reunión es formalo",
+        "why_it_happens": "Gender agreement ignored.",
+        "correct_spanish": "La reunión es formal."
+      },
+      {
+        "mistake": "Las decisiones final son individual",
+        "why_it_happens": "Plural agreement not applied to adjective.",
+        "correct_spanish": "Las decisiones finales son individuales."
+      },
+      {
+        "mistake": "El proceso es legalidad",
+        "why_it_happens": "Using noun instead of adjective.",
+        "correct_spanish": "El proceso es legal."
+      },
+      {
+        "mistake": "Soy normal trabajar tarde",
+        "why_it_happens": "Literal transfer of I am normal to...",
+        "correct_spanish": "Es normal para mí trabajar tarde."
+      },
+      {
+        "mistake": "Actual means current everywhere without checking usage",
+        "why_it_happens": "False-friend overgeneralization around cognates.",
+        "correct_spanish": "La situación actual es complicada."
+      },
+      {
+        "mistake": "Judicial proceso",
+        "why_it_happens": "English adjective order transferred directly.",
+        "correct_spanish": "Proceso judicial."
+      },
+      {
+        "mistake": "Muy fundamental in neutral contexts",
+        "why_it_happens": "Direct intensifier transfer from English style.",
+        "correct_spanish": "Es fundamental revisar el contrato."
+      },
+      {
+        "mistake": "Problema principal es tiempo",
+        "why_it_happens": "Article dropped from English habit.",
+        "correct_spanish": "El problema principal es el tiempo."
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "Este proceso es simple y legal.",
+        "La decisión final es individual.",
+        "Es normal sentirse cansado después del trabajo.",
+        "La reunión es formal hoy.",
+        "El pago digital es común ahora.",
+        "Es fundamental confirmar la dirección.",
+        "En general, este barrio es tranquilo.",
+        "El problema principal es financiero.",
+        "Es natural tener preguntas.",
+        "El servicio es terrible, pero legal.",
+        "Esta política es universal en nuestra empresa.",
+        "El informe es breve y profesional.",
+        "Es importante, pero no urgente.",
+        "El evento social es mañana.",
+        "El costo total es alto.",
+        "El internet rural todavía es inestable.",
+        "El caso criminal es complejo.",
+        "El proceso judicial es lento.",
+        "Es normal cambiar de opinión.",
+        "En general, el ambiente aquí es informal."
+      ],
+      "pattern_mutation": [
+        "El contrato no es legal.",
+        "¿La reunión es formal?",
+        "Los procesos son normales.",
+        "Fue fundamental revisar el correo.",
+        "El pago digital será común.",
+        "En general, el ambiente es muy informal.",
+        "Nuestra decisión final es individual.",
+        "No es natural tener dudas.",
+        "¿El problema principal es financiero?",
+        "Los procesos judiciales son lentos.",
+        "La respuesta es completa.",
+        "El trato es duro.",
+        "Es informal hablar así en ese contexto.",
+        "La solución digital no fue funcional.",
+        "En general, la comunicación es más profesional."
+      ],
+      "contrastive_discrimination": [
+        "Tengo que enviar el informe final hoy.",
+        "Es normal cometer errores al principio.",
+        "Tengo que asistir a la reunión formal.",
+        "Hay que verificar los datos legales.",
+        "Puedo usar el sistema digital ahora.",
+        "Voy a revisar los puntos principales esta noche.",
+        "Quiero un ambiente más informal.",
+        "La oficina es formal.",
+        "Hoy la oficina está inusualmente formal.",
+        "Ahora es natural hablar español todos los días."
+      ],
+      "reverse_conceptual_expression": [
+        "En general, esto es normal.",
+        "Es natural sentirse así.",
+        "Lo principal es terminar hoy.",
+        "Es fundamental ser claro.",
+        "Este proceso es legal, pero lento.",
+        "Aquí es mejor un tono formal.",
+        "Lo digital ya es la opción normal.",
+        "La parte final es la más importante.",
+        "Esa reacción no es rara.",
+        "Ahora se siente normal, no forzado."
+      ]
+    }
+  }
+}

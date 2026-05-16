@@ -1,0 +1,248 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "ser",
+    "identity-origin",
+    "ser-vs-estar",
+    "adult-learners"
+  ],
+  "difficulty": "A1-A2",
+  "pattern_id": "SER_IDENTITY_ORIGIN_13",
+  "source_files": [
+    "lessons/lesson-13/Summary 13a.pdf",
+    "lessons/lesson-13/exercise 13.pdf"
+  ],
+  "target_pattern": "Use ser for identity, role, origin, relationships, and stable traits; avoid confusing it with estar for temporary states.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Using estar for every is/are sentence.",
+      "spanish_logic": "Spanish uses ser for identity, origin, role, relationships, and stable traits.",
+      "target_pattern_formula": [
+        "Sujeto + ser + identidad/rol",
+        "Sujeto + ser + de + lugar",
+        "Sujeto + ser + adjetivo de rasgo"
+      ],
+      "natural_examples": [
+        "Soy de Colombia.",
+        "Ella es ingeniera.",
+        "Ellos son mis compañeros de trabajo.",
+        "Mi jefe es muy organizado.",
+        "¿Quién es esa mujer?"
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each in Spanish using ser naturally. No answer key until the end.",
+      "prompts_en": [
+        "I am a student.",
+        "You are my friend.",
+        "She is a teacher.",
+        "We are from Mexico.",
+        "They are intelligent.",
+        "They are carpenters.",
+        "My house is big.",
+        "The house is green.",
+        "The book is boring.",
+        "The banana is yellow.",
+        "Juan is a good carpenter.",
+        "María is a good teacher.",
+        "Javier is a good friend.",
+        "The red house is my mother's.",
+        "The man is tall.",
+        "The woman is very kind.",
+        "Where are you from?",
+        "I am from the United States.",
+        "Who is she?",
+        "They are my classmates."
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as instructed.",
+      "drills": [
+        "Base: Soy estudiante. -> change to plural (nosotros).",
+        "Base: Ella es profesora. -> turn into question.",
+        "Base: Somos de México. -> change country to Colombia.",
+        "Base: Ellos son inteligentes. -> change to feminine plural.",
+        "Base: Mi casa es grande. -> make it negative.",
+        "Base: La película es interesante. -> change adjective to aburrida.",
+        "Base: Juan es carpintero. -> add adjective bueno correctly.",
+        "Base: María es profesora. -> add adjective excelente.",
+        "Base: ¿De dónde eres? -> answer with Canada.",
+        "Base: ¿Quién es ella? -> answer with my friend.",
+        "Base: El hombre es alto. -> change subject to plural.",
+        "Base: La mujer es amable. -> make it very kind.",
+        "Base: Nosotros somos compañeros de clase. -> change to they.",
+        "Base: El libro es aburrido. -> change to plural books.",
+        "Base: Soy de Estados Unidos. -> change to tú question."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the most natural pattern in Spanish.",
+      "prompts": [
+        "I am tired right now. (estoy vs soy)",
+        "I am a patient person. (soy vs estoy)",
+        "She is from Peru. (es de vs está de)",
+        "The soup is hot right now. (está vs es)",
+        "The movie is boring in general. (es aburrida vs está aburrida)",
+        "Who is he? (¿quién es...? vs ¿quién está...?)",
+        "They are my friends. (son vs están) identity relationship.",
+        "The office is closed. (está cerrada vs es cerrada) temporary condition.",
+        "The car is red. (es rojo vs está rojo) color trait.",
+        "The banana is green (unripe). (está verde vs es verde) condition reading."
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific meaning.",
+      "prompts": [
+        "You are from your country and live in your city.",
+        "You are a professional in your field.",
+        "One friend of yours is very organized.",
+        "Your coworkers are friendly.",
+        "Your manager is demanding but fair.",
+        "Your neighborhood is quiet.",
+        "One meeting today is important.",
+        "One class you take is difficult but useful.",
+        "One person in your family is very funny.",
+        "Your favorite book is interesting.",
+        "You are not from Spain.",
+        "Two colleagues are from different countries.",
+        "One project of yours is ambitious.",
+        "One restaurant you like is expensive but good.",
+        "Your long-term goal is clear."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish (not literal English).",
+      "prompts_en": [
+        "Who's that?",
+        "I am from here.",
+        "They are not my team.",
+        "She's a great engineer.",
+        "We are from different backgrounds.",
+        "That's not my problem.",
+        "He's one of my best friends.",
+        "This is my first time here.",
+        "The issue is serious.",
+        "You're a good person."
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "Using estar for profession",
+        "why_it_happens": "English uses one to be form.",
+        "correct_spanish": "Soy profesor."
+      },
+      {
+        "mistake": "Using article by default with profession",
+        "why_it_happens": "English needs a or an.",
+        "correct_spanish": "Ella es ingeniera."
+      },
+      {
+        "mistake": "Omitting article when profession has adjective",
+        "why_it_happens": "Article return rule is missed.",
+        "correct_spanish": "Es una buena ingeniera."
+      },
+      {
+        "mistake": "Using estar de for origin",
+        "why_it_happens": "Literal from transfer.",
+        "correct_spanish": "Soy de México."
+      },
+      {
+        "mistake": "Using ser for temporary condition",
+        "why_it_happens": "Trait vs state split is not stable yet.",
+        "correct_spanish": "Estoy cansado."
+      },
+      {
+        "mistake": "Using estar for identity relationship",
+        "why_it_happens": "He is my friend translated as temporary state.",
+        "correct_spanish": "Es mi amigo."
+      },
+      {
+        "mistake": "Wrong adjective agreement after ser",
+        "why_it_happens": "English adjective invariance.",
+        "correct_spanish": "Las mujeres son inteligentes."
+      },
+      {
+        "mistake": "Mixing quién and quiénes",
+        "why_it_happens": "Question number mismatch.",
+        "correct_spanish": "¿Quién es ella? / ¿Quiénes son ellos?"
+      },
+      {
+        "mistake": "Dropping accents in interrogatives",
+        "why_it_happens": "Fast typing and keyboard habits.",
+        "correct_spanish": "¿Quién?, ¿De dónde?"
+      },
+      {
+        "mistake": "Using estar for inherent color traits",
+        "why_it_happens": "Overextension from temporary condition uses.",
+        "correct_spanish": "El coche es rojo."
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "Soy estudiante.",
+        "Eres mi amigo.",
+        "Ella es profesora.",
+        "Somos de México.",
+        "Ellos son inteligentes.",
+        "Ellos son carpinteros.",
+        "Mi casa es grande.",
+        "La casa es verde.",
+        "El libro es aburrido.",
+        "La banana es amarilla.",
+        "Juan es un buen carpintero.",
+        "María es una buena profesora.",
+        "Javier es un buen amigo.",
+        "La casa roja es de mi madre.",
+        "El hombre es alto.",
+        "La mujer es muy amable.",
+        "¿De dónde eres?",
+        "Soy de Estados Unidos.",
+        "¿Quién es ella?",
+        "Ellos son mis compañeros de clase."
+      ],
+      "pattern_mutation": [
+        "Somos estudiantes.",
+        "¿Ella es profesora?",
+        "Somos de Colombia.",
+        "Ellas son inteligentes.",
+        "Mi casa no es grande.",
+        "La película es aburrida.",
+        "Juan es un buen carpintero.",
+        "María es una excelente profesora.",
+        "Soy de Canadá.",
+        "Ella es mi amiga.",
+        "Los hombres son altos.",
+        "La mujer es muy amable.",
+        "Ellos son compañeros de clase.",
+        "Los libros son aburridos.",
+        "¿Eres de Estados Unidos?"
+      ],
+      "contrastive_discrimination": [
+        "Estoy cansado ahora.",
+        "Soy una persona paciente.",
+        "Ella es de Perú.",
+        "La sopa está caliente.",
+        "La película es aburrida.",
+        "¿Quién es él?",
+        "Son mis amigos.",
+        "La oficina está cerrada.",
+        "El coche es rojo.",
+        "La banana está verde."
+      ],
+      "reverse_conceptual_expression": [
+        "¿Quién es ese?",
+        "Soy de aquí.",
+        "No son mi equipo.",
+        "Ella es una gran ingeniera.",
+        "Somos de contextos diferentes.",
+        "Ese no es mi problema.",
+        "Él es uno de mis mejores amigos.",
+        "Esta es mi primera vez aquí.",
+        "El problema es serio.",
+        "Eres una buena persona."
+      ]
+    }
+  }
+}

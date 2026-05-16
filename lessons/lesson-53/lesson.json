@@ -1,0 +1,248 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "future-tense",
+    "speculation",
+    "future-of-probability",
+    "adult-learners"
+  ],
+  "difficulty": "B1",
+  "pattern_id": "FUTURE_FOR_PRESENT_SPECULATION_53",
+  "source_files": [
+    "lessons/lesson-53/Summary 53.pdf"
+  ],
+  "target_pattern": "Use future forms like sera estara llamara and querra to express present speculation uncertainty and rhetorical wondering rather than literal future time.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Treating future tense only as later time and missing speculative meaning in present context.",
+      "spanish_logic": "Spanish future forms can signal uncertainty right now in questions and reactions. This gives a natural might/could/I wonder tone.",
+      "target_pattern_formula": [
+        "identity guess: quien sera",
+        "location guess: donde estara",
+        "action guess: quien llamara or quien estara tocando",
+        "interpretation guess: que querra decir con eso"
+      ],
+      "natural_examples": [
+        "Quien sera a esta hora?",
+        "Quien llamara tan tarde?",
+        "Donde estara Juan?",
+        "Que querra decir con eso?",
+        "Por que estara tan callada hoy?"
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each in natural Spanish using future-for-speculation.",
+      "prompts_en": [
+        "Who could it be?",
+        "Who might be calling?",
+        "Where could Marta be?",
+        "What might he mean by that?",
+        "Why might they be late?",
+        "Who could be at the door?",
+        "Where could my keys be?",
+        "Why might she be upset?",
+        "Who could be knocking?",
+        "What might they want now?",
+        "Why might the boss be calling me?",
+        "Where could we have left the charger?",
+        "Who might be writing at this hour?",
+        "Why might he be so serious today?",
+        "What might this message mean?",
+        "Who could be sending emails so late?",
+        "Where could the document be?",
+        "Why might they be asking that?",
+        "What might she be trying to say?",
+        "Who could be outside?"
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as instructed.",
+      "drills": [
+        "Base: Quien sera? -> change noun idea to a phone call.",
+        "Base: Quien llamara? -> change to location question about Juan.",
+        "Base: Donde estara Marta? -> change subject to plural ellos.",
+        "Base: Que querra decir con eso? -> change pronoun to plural ellos.",
+        "Base: Por que estara enojado? -> change adjective to cansado.",
+        "Base: Quien estara en la puerta? -> change place to afuera.",
+        "Base: Donde estaran mis llaves? -> change object to mis lentes.",
+        "Base: Que querran ahora? -> change to singular formal usted.",
+        "Base: Por que llamara el jefe? -> change noun to cliente.",
+        "Base: Quien escribira a esta hora? -> change verb to trabajar.",
+        "Base: Donde estara el documento? -> change noun to plural los documentos.",
+        "Base: Que querra decir este mensaje? -> change demonstrative to ese.",
+        "Base: Por que estaran preguntando eso? -> change subject to singular el.",
+        "Base: Quien estara tocando la puerta? -> change object to el timbre.",
+        "Base: Donde habremos dejado el cargador? -> change object to las llaves."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the option that matches speculative meaning.",
+      "prompts": [
+        "I wonder who it is. (Quien sera? vs Quien es?)",
+        "I wonder where Ana is. (Donde estara Ana? vs Donde esta Ana?)",
+        "Who might be calling right now? (Quien llamara ahora? vs Quien llama ahora?)",
+        "What might he mean by that? (Que querra decir con eso? vs Que quiere decir con eso?)",
+        "Why could they be upset? (Por que estaran molestos? vs Por que estan molestos?)",
+        "I wonder who is outside. (Quien estara afuera? vs Quien esta afuera?)",
+        "Where could my wallet be? (Donde estara mi cartera? vs Donde esta mi cartera?)",
+        "What might they want? (Que querran? vs Que quieren?)",
+        "Why might she be so quiet? (Por que estara tan callada? vs Por que esta tan callada?)",
+        "Who could be at the office now? (Quien estara en la oficina ahora? vs Quien esta en la oficina ahora?)"
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each meaning.",
+      "prompts": [
+        "Write that you wonder who is calling your phone right now.",
+        "Write that you wonder where your coworker is.",
+        "Write that you wonder what your manager means by that comment.",
+        "Write that you wonder why your client is not replying.",
+        "Write that you wonder who is at your door at this hour.",
+        "Write that you wonder where your keys are.",
+        "Write that you wonder what your friend wants now.",
+        "Write that you wonder why the meeting is delayed.",
+        "Write that you wonder who is sending messages so late.",
+        "Write that you wonder where you left your glasses.",
+        "Write that you wonder what they are trying to say.",
+        "Write that you wonder why your team is so quiet today.",
+        "Write that you wonder who is outside your office.",
+        "Write that you wonder what that email means.",
+        "Write that you wonder why your boss is calling you at night."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish, not literal English.",
+      "prompts_en": [
+        "Who could that be?",
+        "I wonder where he is.",
+        "What might she be trying to say?",
+        "Why might they be calling now?",
+        "Who could be knocking at this hour?",
+        "I wonder what this means.",
+        "Where could we have put the tickets?",
+        "Why might he be in such a bad mood?",
+        "Who could be in the conference room?",
+        "What might they want from us?"
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "Future form interpreted only as literal future time",
+        "why_it_happens": "Learners memorize one default meaning for future tense.",
+        "correct_spanish": "In context sera and estara can express present speculation."
+      },
+      {
+        "mistake": "Present indicative used in rhetorical guessing questions",
+        "why_it_happens": "Word-for-word transfer from English questions.",
+        "correct_spanish": "Use speculative future when you are genuinely unsure."
+      },
+      {
+        "mistake": "Overusing speculative future in normal factual questions",
+        "why_it_happens": "New pattern is overgeneralized.",
+        "correct_spanish": "Reserve this pattern for uncertainty or wondering tone."
+      },
+      {
+        "mistake": "Avoiding querra decir because it feels advanced",
+        "why_it_happens": "Preference for literal quiere decir only.",
+        "correct_spanish": "Que querra decir con eso is common and natural."
+      },
+      {
+        "mistake": "Inconsistent writing of future forms",
+        "why_it_happens": "Low familiarity with forms during fast writing.",
+        "correct_spanish": "Keep forms consistent in your output format for practice."
+      },
+      {
+        "mistake": "No distinction between certainty and speculation",
+        "why_it_happens": "English phrasing often hides this contrast.",
+        "correct_spanish": "Future speculation softens certainty and adds doubt."
+      },
+      {
+        "mistake": "Trying to force subjunctive for every uncertainty meaning",
+        "why_it_happens": "Uncertainty is linked only to subjunctive in study notes.",
+        "correct_spanish": "Future indicative can also mark uncertainty in these formulas."
+      },
+      {
+        "mistake": "Building only statements and avoiding question form",
+        "why_it_happens": "Learners focus on translation not discourse use.",
+        "correct_spanish": "This pattern is especially frequent in questions."
+      },
+      {
+        "mistake": "Using speculative future despite confirmed evidence",
+        "why_it_happens": "Pattern copied mechanically.",
+        "correct_spanish": "Use present or past when facts are already known."
+      },
+      {
+        "mistake": "Missing speculative meaning while listening",
+        "why_it_happens": "Future morphology is auto-interpreted as later time.",
+        "correct_spanish": "Train recognition that many sera/estara lines refer to now."
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "Quien sera?",
+        "Quien llamara?",
+        "Donde estara Marta?",
+        "Que querra decir con eso?",
+        "Por que estaran tarde?",
+        "Quien estara en la puerta?",
+        "Donde estaran mis llaves?",
+        "Por que estara molesta?",
+        "Quien estara tocando la puerta?",
+        "Que querran ahora?",
+        "Por que llamara el jefe?",
+        "Donde habremos dejado el cargador?",
+        "Quien escribira a esta hora?",
+        "Por que estara tan serio hoy?",
+        "Que querra decir este mensaje?",
+        "Quien estara mandando correos tan tarde?",
+        "Donde estara el documento?",
+        "Por que estaran preguntando eso?",
+        "Que estara tratando de decir ella?",
+        "Quien estara afuera?"
+      ],
+      "pattern_mutation": [
+        "Quien llamara?",
+        "Donde estara Juan?",
+        "Donde estaran ellos?",
+        "Que querran decir con eso?",
+        "Por que estara cansado?",
+        "Quien estara afuera?",
+        "Donde estaran mis lentes?",
+        "Que querra usted ahora?",
+        "Por que llamara el cliente?",
+        "Quien trabajara a esta hora?",
+        "Donde estaran los documentos?",
+        "Que querra decir ese mensaje?",
+        "Por que estara preguntando eso?",
+        "Quien estara tocando el timbre?",
+        "Donde habremos dejado las llaves?"
+      ],
+      "contrastive_discrimination": [
+        "Quien sera?",
+        "Donde estara Ana?",
+        "Quien llamara ahora?",
+        "Que querra decir con eso?",
+        "Por que estaran molestos?",
+        "Quien estara afuera?",
+        "Donde estara mi cartera?",
+        "Que querran?",
+        "Por que estara tan callada?",
+        "Quien estara en la oficina ahora?"
+      ],
+      "reverse_conceptual_expression": [
+        "Quien sera?",
+        "Donde estara el?",
+        "Que estara tratando de decir ella?",
+        "Por que llamaran ahora?",
+        "Quien estara tocando la puerta a esta hora?",
+        "Que querra decir esto?",
+        "Donde habremos puesto los boletos?",
+        "Por que estara de tan mal humor?",
+        "Quien estara en la sala de conferencias?",
+        "Que querran de nosotros?"
+      ]
+    }
+  }
+}

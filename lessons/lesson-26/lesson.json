@@ -1,0 +1,250 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "pronominal-verbs",
+    "reflexive-pronouns",
+    "pattern-integration",
+    "adult-learners"
+  ],
+  "difficulty": "A2-B1",
+  "pattern_id": "PRONOMINAL_VERBS_WITH_CORE_FRAMES_26",
+  "source_files": [
+    "lessons/lesson-26/summary 26.pdf",
+    "lessons/lesson-26/Lesson 26 Exercise.pdf"
+  ],
+  "target_pattern": "Use pronominal infinitives naturally inside high-frequency frames (tener que, querer, ir a, poder), selecting the correct reflexive pronoun and preserving body-part article patterns and required prepositions like quejarse de.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Treating the se part as optional or leaving pronouns in English-like positions.",
+      "spanish_logic": "The reflexive pronoun must match subject and stay attached to the infinitive in these frame drills.",
+      "target_pattern_formula": [
+        "tener que + pronominal infinitive",
+        "querer + pronominal infinitive",
+        "ir a + pronominal infinitive",
+        "poder + pronominal infinitive",
+        "quejarse de + noun"
+      ],
+      "natural_examples": [
+        "Tengo que levantarme temprano.",
+        "Quieres sentarte aqui?",
+        "Vamos a banarnos antes de salir.",
+        "Puedo lavarme las manos?",
+        "Quiero quejarme del servicio."
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each in Spanish using the target pattern.",
+      "prompts_en": [
+        "I have to go to bed early.",
+        "You have to get up at six.",
+        "He wants to wake up later.",
+        "We are going to take a shower before dinner.",
+        "They have to go to bed now.",
+        "Can I sit here?",
+        "We want to wash our hands.",
+        "You all are going to get up tomorrow.",
+        "I want to brush my teeth now.",
+        "Do you want to wash your face?",
+        "She has to sit down.",
+        "They can wash their hands here.",
+        "We have to brush our teeth after lunch.",
+        "I am going to wash my face.",
+        "You can take a shower later.",
+        "I want to complain about the noise.",
+        "He complains about everything.",
+        "We complain about the traffic.",
+        "They want to complain about the problem.",
+        "Do you feel like sitting down for a minute?"
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as instructed.",
+      "drills": [
+        "Base: Tengo que acostarme temprano. -> change subject to nosotros.",
+        "Base: Tienes que levantarte a las seis. -> change subject to yo.",
+        "Base: Quiere despertarse tarde. -> change subject to ellos.",
+        "Base: Vamos a banarnos antes de cenar. -> change to singular yo.",
+        "Base: Puedo sentarme aqui. -> change subject to usted.",
+        "Base: Queremos lavarnos las manos. -> change to question with ustedes.",
+        "Base: Van a levantarse manana. -> change to hoy.",
+        "Base: Tiene que cepillarse los dientes. -> make it negative.",
+        "Base: Voy a lavarme la cara. -> change object to las manos.",
+        "Base: Quiero quejarme del ruido. -> change noun to trafico.",
+        "Base: Se queja de todo. -> change to nosotros.",
+        "Base: Nos quejamos del examen. -> change to ella.",
+        "Base: Podemos sentarnos aqui. -> change to singular yo question.",
+        "Base: Tienen que acostarse temprano. -> change to tu.",
+        "Base: Va a banarse. -> change to querer pattern with yo."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the correct Spanish form.",
+      "prompts": [
+        "I have to get up early. (Tengo que levantarme temprano. vs Tengo que me levantar temprano.)",
+        "You want to sit here. (Quieres sentarte aqui. vs Quieres te sentar aqui.)",
+        "We are going to wash our hands. (Vamos a lavarnos las manos. vs Vamos a lavarnos nuestras manos as default pattern.)",
+        "Can I wash my face? (Puedo lavarme la cara? vs Puedo lavar me la cara?)",
+        "They have to brush their teeth. (Tienen que cepillarse los dientes. vs Tienen que cepillar se los dientes.)",
+        "I want to complain about the service. (Quiero quejarme del servicio. vs Quiero quejarme de el servicio.)",
+        "She complains about everything. (Se queja de todo. vs Queja de todo.)",
+        "We can sit down now. (Podemos sentarnos ahora. vs Podemos nos sentar ahora.)",
+        "You all are going to get up late. (Van a levantarse tarde. vs Van a se levantar tarde.)",
+        "I am going to wash my hands. (Voy a lavarme las manos. vs Voy a lavarme mis manos as neutral pattern.)"
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific meaning.",
+      "prompts": [
+        "Write that you have to get up at 5:30 tomorrow.",
+        "Write that you want to sit near the window.",
+        "Write that your team is going to get up early for a trip.",
+        "Write that you can wash your hands before lunch.",
+        "Write that you have to brush your teeth after coffee.",
+        "Write that you are going to wash your face and leave.",
+        "Write that your coworker wants to take a shower after the gym.",
+        "Write that you ask if you can sit here for a minute.",
+        "Write that you want to complain about the internet service.",
+        "Write that your clients complain about the wait time.",
+        "Write that you complain about traffic every Monday.",
+        "Write that your friend is going to go to bed late tonight.",
+        "Write that you have to go to bed now because you are tired.",
+        "Write that you and your partner want to wake up earlier.",
+        "Write that your team can sit down after the presentation."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish, not literal English.",
+      "prompts_en": [
+        "I have to lie down for a while.",
+        "Do you want to wake up earlier tomorrow?",
+        "We are going to sit down now.",
+        "Can you wash your hands, please?",
+        "They have to brush their teeth before leaving.",
+        "I want to complain about this noise.",
+        "She always complains about everything.",
+        "We can take a shower after the workout.",
+        "I am going to wash my face quickly.",
+        "You all have to get up now."
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "Tengo que levantar temprano.",
+        "why_it_happens": "Dropping reflexive ending from infinitive chunk.",
+        "correct_spanish": "Tengo que levantarme temprano."
+      },
+      {
+        "mistake": "Quiero te sentar.",
+        "why_it_happens": "English-like pronoun position transfer.",
+        "correct_spanish": "Quiero sentarte."
+      },
+      {
+        "mistake": "Vamos a nos banar.",
+        "why_it_happens": "Separating pronoun and infinitive incorrectly.",
+        "correct_spanish": "Vamos a banarnos."
+      },
+      {
+        "mistake": "Puedo lavarme mis manos.",
+        "why_it_happens": "Possessive overuse with body parts.",
+        "correct_spanish": "Puedo lavarme las manos."
+      },
+      {
+        "mistake": "Tienes que cepillarte tu dientes.",
+        "why_it_happens": "Copying English body-part ownership format.",
+        "correct_spanish": "Tienes que cepillarte los dientes."
+      },
+      {
+        "mistake": "Quiero quejarme de el ruido.",
+        "why_it_happens": "Missing contraction with de plus el.",
+        "correct_spanish": "Quiero quejarme del ruido."
+      },
+      {
+        "mistake": "Queja de todo.",
+        "why_it_happens": "Omitting required reflexive pronoun.",
+        "correct_spanish": "Se queja de todo."
+      },
+      {
+        "mistake": "Podemos nos sentar aqui.",
+        "why_it_happens": "Wrong pronoun placement in infinitive frame.",
+        "correct_spanish": "Podemos sentarnos aqui."
+      },
+      {
+        "mistake": "Van a se levantar.",
+        "why_it_happens": "Mixing subject pronoun and reflexive form.",
+        "correct_spanish": "Van a levantarse."
+      },
+      {
+        "mistake": "Using quejarse without de",
+        "why_it_happens": "Not memorizing verb with its preposition.",
+        "correct_spanish": "Use full chunk quejarse de."
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "Tengo que acostarme temprano.",
+        "Tienes que levantarte a las seis.",
+        "El quiere despertarse mas tarde.",
+        "Vamos a banarnos antes de cenar.",
+        "Ellos tienen que acostarse ahora.",
+        "Puedo sentarme aqui?",
+        "Queremos lavarnos las manos.",
+        "Van a levantarse manana.",
+        "Quiero cepillarme los dientes ahora.",
+        "Quieres lavarte la cara?",
+        "Ella tiene que sentarse.",
+        "Ellos pueden lavarse las manos aqui.",
+        "Tenemos que cepillarnos los dientes despues del almuerzo.",
+        "Voy a lavarme la cara.",
+        "Puedes banarte mas tarde.",
+        "Quiero quejarme del ruido.",
+        "El se queja de todo.",
+        "Nos quejamos del trafico.",
+        "Ellos quieren quejarse del problema.",
+        "Tienes ganas de sentarte un minuto?"
+      ],
+      "pattern_mutation": [
+        "Tenemos que acostarnos temprano.",
+        "Tengo que levantarme a las seis.",
+        "Ellos quieren despertarse tarde.",
+        "Voy a banarme antes de cenar.",
+        "Puede sentarse aqui.",
+        "Quieren lavarse las manos?",
+        "Van a levantarse hoy.",
+        "No tiene que cepillarse los dientes.",
+        "Voy a lavarme las manos.",
+        "Quiero quejarme del trafico.",
+        "Nos quejamos de todo.",
+        "Se queja del examen.",
+        "Puedo sentarme aqui?",
+        "Tienes que acostarte temprano.",
+        "Quiero banarme."
+      ],
+      "contrastive_discrimination": [
+        "Tengo que levantarme temprano.",
+        "Quieres sentarte aqui.",
+        "Vamos a lavarnos las manos.",
+        "Puedo lavarme la cara?",
+        "Tienen que cepillarse los dientes.",
+        "Quiero quejarme del servicio.",
+        "Se queja de todo.",
+        "Podemos sentarnos ahora.",
+        "Van a levantarse tarde.",
+        "Voy a lavarme las manos."
+      ],
+      "reverse_conceptual_expression": [
+        "Tengo que acostarme un rato.",
+        "Quieres despertarte mas temprano manana?",
+        "Vamos a sentarnos ahora.",
+        "Puedes lavarte las manos, por favor?",
+        "Tienen que cepillarse los dientes antes de salir.",
+        "Quiero quejarme de este ruido.",
+        "Ella siempre se queja de todo.",
+        "Podemos banarnos despues del entrenamiento.",
+        "Voy a lavarme la cara rapido.",
+        "Tienen que levantarse ahora."
+      ]
+    }
+  }
+}

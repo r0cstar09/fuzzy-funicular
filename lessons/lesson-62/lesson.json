@@ -1,0 +1,249 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "set-phrases",
+    "subjunctive-chunks",
+    "que-yo-sepa",
+    "adult-learners"
+  ],
+  "difficulty": "A2-B1",
+  "pattern_id": "QUE_YO_SEPA_QUE_YO_RECUERDE_62",
+  "source_files": [
+    "lessons/lesson-62/Summary 62.pdf"
+  ],
+  "target_pattern": "Use fixed sentence starters que yo sepa and que yo recuerde to express limited certainty naturally while using stable subjunctive chunk forms.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Responding with rigid certainty or pausing awkwardly when unsure.",
+      "spanish_logic": "Spanish uses fixed hedging chunks to sound natural and fluent under uncertainty. These expressions are memorized as complete units.",
+      "target_pattern_formula": [
+        "knowledge hedge: que yo sepa plus statement",
+        "memory hedge: que yo recuerde plus statement",
+        "both expressions contain fixed subjunctive forms",
+        "typical use is sentence-initial with pause",
+        "best practice is chunk memorization not word-by-word assembly"
+      ],
+      "natural_examples": [
+        "Que yo sepa, vive en Guadalajara.",
+        "Que yo recuerde, trabaja en el supermercado.",
+        "Que yo sepa, la reunion es a las diez.",
+        "Que yo recuerde, no hubo cambios.",
+        "Que yo sepa, el proyecto sigue activo."
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each in natural Spanish using que yo sepa or que yo recuerde.",
+      "prompts_en": [
+        "As far as I know, he lives in Monterrey.",
+        "As far as I remember, she works from home.",
+        "As far as I know, the office opens at nine.",
+        "As far as I remember, we already sent that email.",
+        "As far as I know, they are still in Mexico City.",
+        "As far as I remember, the meeting was on Thursday.",
+        "As far as I know, your manager is on vacation.",
+        "As far as I remember, nobody complained.",
+        "As far as I know, the report is finished.",
+        "As far as I remember, he did not call yesterday.",
+        "As far as I know, this app is free.",
+        "As far as I remember, we met in 2022.",
+        "As far as I know, the train leaves at six.",
+        "As far as I remember, you already approved it.",
+        "As far as I know, she is not available today.",
+        "As far as I remember, that client is from Chile.",
+        "As far as I know, there are no more seats.",
+        "As far as I remember, they changed the schedule.",
+        "As far as I know, the contract is valid.",
+        "As far as I remember, we talked about this last week."
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as instructed.",
+      "drills": [
+        "Base: Que yo sepa, vive en Guadalajara. -> change city to Monterrey.",
+        "Base: Que yo recuerde, trabaja en el supermercado. -> change workplace to una clinica.",
+        "Base: Que yo sepa, la reunion es a las diez. -> change time to las once.",
+        "Base: Que yo recuerde, no hubo cambios. -> change to affirmative si hubo cambios.",
+        "Base: Que yo sepa, el proyecto sigue activo. -> change noun to plan.",
+        "Base: Que yo sepa, no esta disponible hoy. -> change adverb to manana.",
+        "Base: Que yo recuerde, lo enviamos ayer. -> change day to el lunes.",
+        "Base: Que yo sepa, salen a las seis. -> change subject to singular el tren.",
+        "Base: Que yo recuerde, nos vimos en 2022. -> change year to 2023.",
+        "Base: Que yo sepa, no hay mas asientos. -> change noun to boletos.",
+        "Base: Que yo recuerde, cambiaron el horario. -> change object to la fecha.",
+        "Base: Que yo sepa, ella vive sola. -> change subject to plural ellos.",
+        "Base: Que yo recuerde, hablamos de eso la semana pasada. -> change time to ayer.",
+        "Base: Que yo sepa, el contrato es valido. -> change adjective to temporal.",
+        "Base: Que yo recuerde, nadie se quejo. -> change to plural pocas personas."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the best option.",
+      "prompts": [
+        "As far as I know. (Que yo sepa, vs Que yo se,)",
+        "As far as I remember. (Que yo recuerde, vs Que yo recuerdo,)",
+        "Soft uncertain answer. (Que yo sepa, no. vs Seguro que no.)",
+        "Memory-based hedge. (Que yo recuerde, fue el jueves. vs Que yo sepa, fue el jueves.)",
+        "Knowledge-based hedge. (Que yo sepa, abre a las nueve. vs Que yo recuerde, abre a las nueve.)",
+        "Fixed chunk form. (Que yo sepa vs Que yo saber)",
+        "Fixed chunk form. (Que yo recuerde vs Que yo recordar)",
+        "Natural conversational softener. (Que yo sepa, sigue abierto. vs Yo no tener claro, sigue abierto.)",
+        "Correct subjunctive chunk. (Que yo recuerde, no llamo. vs Que yo recuerdo, no llamo.)",
+        "Correct subjunctive chunk. (Que yo sepa, no hay problema. vs Que yo se, no hay problema.)"
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific meaning.",
+      "prompts": [
+        "Write that as far as you know, your team has no meetings tomorrow.",
+        "Write that as far as you remember, the client replied last night.",
+        "Write that as far as you know, your coworker works remotely on Fridays.",
+        "Write that as far as you remember, you already sent the invoice.",
+        "Write that as far as you know, the class starts at 8:00.",
+        "Write that as far as you remember, your manager approved the plan.",
+        "Write that as far as you know, there are still spots available.",
+        "Write that as far as you remember, the call was short.",
+        "Write that as far as you know, that document is updated.",
+        "Write that as far as you remember, nobody objected.",
+        "Write that as far as you know, the app is not down.",
+        "Write that as far as you remember, you met that person in April.",
+        "Write that as far as you know, the office closes at 6:00.",
+        "Write that as far as you remember, they moved the deadline.",
+        "Write that as far as you know, your friend is already home."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish, not literal English.",
+      "prompts_en": [
+        "As far as I know, everything is fine.",
+        "As far as I remember, we never discussed that.",
+        "As far as I know, she is still traveling.",
+        "As far as I remember, he arrived late.",
+        "As far as I know, they did not publish the update.",
+        "As far as I remember, this was your idea.",
+        "As far as I know, there is no issue with payment.",
+        "As far as I remember, we confirmed it on Monday.",
+        "As far as I know, the train is on time.",
+        "As far as I remember, she did not attend the meeting."
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "Indicative used inside fixed chunk for saber",
+        "why_it_happens": "Learner expects literal present tense.",
+        "correct_spanish": "Use fixed form que yo sepa."
+      },
+      {
+        "mistake": "Indicative used inside fixed chunk for recordar",
+        "why_it_happens": "Conjugation reflex overrides chunk memory.",
+        "correct_spanish": "Use fixed form que yo recuerde."
+      },
+      {
+        "mistake": "Direct certainty used despite limited information",
+        "why_it_happens": "Hedging seen as weakness.",
+        "correct_spanish": "These chunks are native-like and pragmatic."
+      },
+      {
+        "mistake": "Chunk order altered by word-by-word translation",
+        "why_it_happens": "Linear English mapping.",
+        "correct_spanish": "Memorize and produce full chunk unchanged."
+      },
+      {
+        "mistake": "Wrong chunk chosen for memory versus knowledge context",
+        "why_it_happens": "Functional overlap not distinguished.",
+        "correct_spanish": "Use sepa for knowledge and recuerde for memory."
+      },
+      {
+        "mistake": "No pause after discourse starter",
+        "why_it_happens": "Prosodic structure ignored.",
+        "correct_spanish": "Pause naturally after the chunk."
+      },
+      {
+        "mistake": "Chunk treated as grammar drill only",
+        "why_it_happens": "Classroom-only usage mindset.",
+        "correct_spanish": "Use in real answers to gain fluency."
+      },
+      {
+        "mistake": "Extra fillers inserted inside chunk",
+        "why_it_happens": "Hesitation during speech.",
+        "correct_spanish": "Keep concise frame que yo sepa or que yo recuerde."
+      },
+      {
+        "mistake": "Subjunctive forms avoided altogether",
+        "why_it_happens": "Subjunctive anxiety.",
+        "correct_spanish": "These expressions are safe fixed subjunctive chunks."
+      },
+      {
+        "mistake": "Only one chunk used for every response",
+        "why_it_happens": "Comfort with single memorized phrase.",
+        "correct_spanish": "Alternate both forms based on context."
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "Que yo sepa, vive en Monterrey.",
+        "Que yo recuerde, trabaja desde casa.",
+        "Que yo sepa, la oficina abre a las nueve.",
+        "Que yo recuerde, ya enviamos ese correo.",
+        "Que yo sepa, siguen en Ciudad de Mexico.",
+        "Que yo recuerde, la reunion fue el jueves.",
+        "Que yo sepa, tu gerente esta de vacaciones.",
+        "Que yo recuerde, nadie se quejo.",
+        "Que yo sepa, el informe esta terminado.",
+        "Que yo recuerde, no llamo ayer.",
+        "Que yo sepa, esta app es gratis.",
+        "Que yo recuerde, nos conocimos en 2022.",
+        "Que yo sepa, el tren sale a las seis.",
+        "Que yo recuerde, ya lo aprobaste.",
+        "Que yo sepa, ella no esta disponible hoy.",
+        "Que yo recuerde, ese cliente es de Chile.",
+        "Que yo sepa, no hay mas asientos.",
+        "Que yo recuerde, cambiaron el horario.",
+        "Que yo sepa, el contrato es valido.",
+        "Que yo recuerde, hablamos de esto la semana pasada."
+      ],
+      "pattern_mutation": [
+        "Que yo sepa, vive en Monterrey.",
+        "Que yo recuerde, trabaja en una clinica.",
+        "Que yo sepa, la reunion es a las once.",
+        "Que yo recuerde, si hubo cambios.",
+        "Que yo sepa, el plan sigue activo.",
+        "Que yo sepa, no esta disponible manana.",
+        "Que yo recuerde, lo enviamos el lunes.",
+        "Que yo sepa, el tren sale a las seis.",
+        "Que yo recuerde, nos vimos en 2023.",
+        "Que yo sepa, no hay mas boletos.",
+        "Que yo recuerde, cambiaron la fecha.",
+        "Que yo sepa, ellos viven solos.",
+        "Que yo recuerde, hablamos de eso ayer.",
+        "Que yo sepa, el contrato es temporal.",
+        "Que yo recuerde, pocas personas se quejaron."
+      ],
+      "contrastive_discrimination": [
+        "Que yo sepa, ...",
+        "Que yo recuerde, ...",
+        "Que yo sepa, no.",
+        "Que yo recuerde, fue el jueves.",
+        "Que yo sepa, abre a las nueve.",
+        "Que yo sepa",
+        "Que yo recuerde",
+        "Que yo sepa, sigue abierto.",
+        "Que yo recuerde, no llamo.",
+        "Que yo sepa, no hay problema."
+      ],
+      "reverse_conceptual_expression": [
+        "Que yo sepa, todo esta bien.",
+        "Que yo recuerde, nunca hablamos de eso.",
+        "Que yo sepa, ella sigue viajando.",
+        "Que yo recuerde, el llego tarde.",
+        "Que yo sepa, no publicaron la actualizacion.",
+        "Que yo recuerde, esta fue tu idea.",
+        "Que yo sepa, no hay problema con el pago.",
+        "Que yo recuerde, lo confirmamos el lunes.",
+        "Que yo sepa, el tren esta a tiempo.",
+        "Que yo recuerde, ella no asistio a la reunion."
+      ]
+    }
+  }
+}

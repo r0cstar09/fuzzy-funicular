@@ -1,0 +1,248 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "ir-preterite",
+    "past-events",
+    "hace-time-markers",
+    "adult-learners"
+  ],
+  "difficulty": "A2",
+  "pattern_id": "IR_PRETERITE_TIME_ANCHOR_07",
+  "source_files": [
+    "lessons/lesson-7/master lesson 6 part two.pdf",
+    "lessons/lesson-7/IR Preterit.pdf"
+  ],
+  "target_pattern": "Use ir in preterite (fui/fuiste) to report completed movement in the past, with question frames and time anchors like ya and hace + tiempo.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Using present-style movement sentences for past events, or translating ago/already loosely.",
+      "spanish_logic": "For completed movement in the past, use ir in preterite (fui/fuiste) and anchor it with hace or ya.",
+      "target_pattern_formula": [
+        "Fui/Fuiste + a + lugar",
+        "¿Fuiste ...? / ¿Cuándo fuiste ...? / ¿Adónde fuiste?",
+        "... hace + tiempo and ya + fui/fuiste"
+      ],
+      "natural_examples": [
+        "Fui al banco hace una hora.",
+        "¿Fuiste al supermercado ayer?",
+        "Ya fui a la farmacia.",
+        "¿Cuándo fuiste al gimnasio?",
+        "No fui a la oficina el lunes."
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each in Spanish using ir in preterite with natural time markers where needed. No answer key until the end.",
+      "prompts_en": [
+        "Did you go to the store?",
+        "I went to the pharmacy.",
+        "Did you go to the park yesterday?",
+        "I went to the hospital two days ago.",
+        "Did you go to school?",
+        "I went to the cinema last week.",
+        "Did you go to the restaurant?",
+        "I went to the supermarket an hour ago.",
+        "Did you go to the gym?",
+        "I went to the beach on Saturday.",
+        "When did you go to the bank?",
+        "I went to the library this morning.",
+        "Did you already go to the office?",
+        "I already went to the store.",
+        "Did you already go to the pharmacy?",
+        "I went to the restaurant three days ago.",
+        "Where did you go yesterday?",
+        "I went to the airport.",
+        "Did you go to the hospital last night?",
+        "I did not go to the park."
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as instructed.",
+      "drills": [
+        "Base: Fui a la tienda. -> turn into question (tú).",
+        "Base: ¿Fuiste al banco? -> answer yes in full sentence.",
+        "Base: Fui al cine. -> add yesterday.",
+        "Base: Ya fui al supermercado. -> make it negative.",
+        "Base: Fui a la playa. -> change time to two days ago.",
+        "Base: ¿Cuándo fuiste a la farmacia? -> answer an hour ago.",
+        "Base: Fui a la biblioteca. -> change destination to la oficina.",
+        "Base: No fui al gimnasio. -> make it affirmative.",
+        "Base: Fui al restaurante hace un día. -> change to three days ago.",
+        "Base: ¿Fuiste al hospital? -> change to plural subject (ustedes).",
+        "Base: Fui al aeropuerto. -> make it a question with cuándo.",
+        "Base: Ya fuiste a la tienda. -> rewrite as proper question form.",
+        "Base: Fui a la escuela el lunes. -> change day to martes.",
+        "Base: ¿Adónde fuiste? -> answer with I went to the park.",
+        "Base: Fui al parque. -> combine with contrast: but not to the beach."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the best pattern in Spanish.",
+      "prompts": [
+        "I went to the store. (fui vs voy)",
+        "I go to the store (habit). (voy vs fui)",
+        "Did you go to the bank? (¿fuiste...? vs ¿vas...?) for yesterday.",
+        "I already went. (ya fui vs fui ya)",
+        "I went two days ago. (hace dos días vs en dos días)",
+        "When did you go? (¿cuándo fuiste? vs ¿cuándo vas?) for past.",
+        "Where did you go? (¿adónde fuiste? vs ¿dónde ibas?) finished action.",
+        "I did not go. (no fui vs no voy) past context.",
+        "Did you already go to the office? (¿ya fuiste...? vs ¿fuiste ya...?)",
+        "I went last week. (la semana pasada vs la semana próxima)"
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific meaning.",
+      "prompts": [
+        "You went to the bank this morning.",
+        "You already went to the supermarket.",
+        "You did not go to the gym yesterday.",
+        "You went to the office two hours ago.",
+        "You went to the pharmacy on Monday.",
+        "You already went to the airport this week.",
+        "You went to the restaurant with a friend last night.",
+        "You did not go to the beach last weekend.",
+        "You went to the library to study yesterday.",
+        "You went to the store and bought milk.",
+        "You already went to the hospital and returned.",
+        "You went to school many years ago (simple sentence).",
+        "You went to the park after work.",
+        "You did not go to the bank because it was closed.",
+        "You went to one place yesterday and another place today."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish (not literal English).",
+      "prompts_en": [
+        "I already went, so I do not need to go again.",
+        "Did you make it to the bank?",
+        "I went a little while ago.",
+        "Where did you end up going?",
+        "I did not go in the end.",
+        "I went there last week.",
+        "Did you already stop by the office?",
+        "I went out to the store quickly.",
+        "I went, but it was closed.",
+        "When exactly did you go?"
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "Using voy for completed past trip",
+        "why_it_happens": "Present tense is used as default under pressure.",
+        "correct_spanish": "Fui al banco ayer."
+      },
+      {
+        "mistake": "Using en dos días for two days ago",
+        "why_it_happens": "Direct preposition transfer from English.",
+        "correct_spanish": "Hace dos días."
+      },
+      {
+        "mistake": "Placing ya unnaturally at sentence end",
+        "why_it_happens": "Already position copied from English.",
+        "correct_spanish": "Ya fui al supermercado."
+      },
+      {
+        "mistake": "Missing contraction al",
+        "why_it_happens": "Article+preposition contraction not automatic.",
+        "correct_spanish": "Fui al hospital."
+      },
+      {
+        "mistake": "Using dónde instead of adónde for movement",
+        "why_it_happens": "English uses one where form.",
+        "correct_spanish": "¿Adónde fuiste?"
+      },
+      {
+        "mistake": "Missing opening question mark",
+        "why_it_happens": "English punctuation habits.",
+        "correct_spanish": "¿Fuiste a la tienda?"
+      },
+      {
+        "mistake": "Using infinitive ir as main statement",
+        "why_it_happens": "Infinitive patterns from prior lessons carry over.",
+        "correct_spanish": "Fui a la playa."
+      },
+      {
+        "mistake": "Mixing present markers with preterite timeline",
+        "why_it_happens": "Timeline anchoring is not explicit.",
+        "correct_spanish": "Fui al cine anoche."
+      },
+      {
+        "mistake": "Confusing ya fui with todavía no fui",
+        "why_it_happens": "Already vs not yet contrast not internalized.",
+        "correct_spanish": "Ya fui / Todavía no fui"
+      },
+      {
+        "mistake": "Using fuiste with yo subject",
+        "why_it_happens": "Person endings are mixed under speed.",
+        "correct_spanish": "Yo fui / Tú fuiste"
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "¿Fuiste a la tienda?",
+        "Fui a la farmacia.",
+        "¿Fuiste al parque ayer?",
+        "Fui al hospital hace dos días.",
+        "¿Fuiste a la escuela?",
+        "Fui al cine la semana pasada.",
+        "¿Fuiste al restaurante?",
+        "Fui al supermercado hace una hora.",
+        "¿Fuiste al gimnasio?",
+        "Fui a la playa el sábado.",
+        "¿Cuándo fuiste al banco?",
+        "Fui a la biblioteca esta mañana.",
+        "¿Ya fuiste a la oficina?",
+        "Ya fui a la tienda.",
+        "¿Ya fuiste a la farmacia?",
+        "Fui al restaurante hace tres días.",
+        "¿Adónde fuiste ayer?",
+        "Fui al aeropuerto.",
+        "¿Fuiste al hospital anoche?",
+        "No fui al parque."
+      ],
+      "pattern_mutation": [
+        "¿Fuiste a la tienda?",
+        "Sí, fui al banco.",
+        "Fui al cine ayer.",
+        "No fui al supermercado todavía.",
+        "Fui a la playa hace dos días.",
+        "Fui a la farmacia hace una hora.",
+        "Fui a la oficina.",
+        "Fui al gimnasio.",
+        "Fui al restaurante hace tres días.",
+        "¿Fueron al hospital?",
+        "¿Cuándo fuiste al aeropuerto?",
+        "¿Ya fuiste a la tienda?",
+        "Fui a la escuela el martes.",
+        "Fui al parque.",
+        "Fui al parque, pero no fui a la playa."
+      ],
+      "contrastive_discrimination": [
+        "Fui a la tienda.",
+        "Voy a la tienda.",
+        "¿Fuiste al banco?",
+        "Ya fui.",
+        "Fui hace dos días.",
+        "¿Cuándo fuiste?",
+        "¿Adónde fuiste?",
+        "No fui.",
+        "¿Ya fuiste a la oficina?",
+        "Fui la semana pasada."
+      ],
+      "reverse_conceptual_expression": [
+        "Ya fui, así que no necesito ir otra vez.",
+        "¿Fuiste al banco?",
+        "Fui hace un rato.",
+        "¿Adónde terminaste yendo?",
+        "Al final no fui.",
+        "Fui allí la semana pasada.",
+        "¿Ya fuiste a la oficina?",
+        "Fui rápido a la tienda.",
+        "Fui, pero estaba cerrado.",
+        "¿Cuándo exactamente fuiste?"
+      ]
+    }
+  }
+}

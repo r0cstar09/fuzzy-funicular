@@ -1,0 +1,250 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "personal-a",
+    "direct-objects",
+    "specificity",
+    "adult-learners"
+  ],
+  "difficulty": "A2-B1",
+  "pattern_id": "PERSONAL_A_CORE_20",
+  "source_files": [
+    "lessons/lesson-20/Summary 20.pdf",
+    "lessons/lesson-20/20 exercise.pdf"
+  ],
+  "target_pattern": "Use the personal a before direct-object people and pets, omit it with inanimate direct objects, apply specificity rules with buscar/necesitar/contratar/encontrar, and avoid personal a with tener in normal possession meaning.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Skipping a before people because English has no equivalent marker.",
+      "spanish_logic": "Spanish marks many direct-object people and pets with personal a, but not things, and not normally with tener.",
+      "target_pattern_formula": [
+        "ver/conocer/llamar/visitar/ayudar/respetar + a + person or pet",
+        "buscar/necesitar/contratar + non-specific person (often no a)",
+        "buscar/necesitar + specific person/group -> use a",
+        "tener + person/pet (normally no personal a)",
+        "a alguien / a nadie usually takes personal a"
+      ],
+      "natural_examples": [
+        "Veo a Marta en la entrada.",
+        "Buscamos un tecnico para el turno de noche.",
+        "Necesitamos a los tecnicos que conocen este sistema.",
+        "Tengo dos hijas y un perro.",
+        "No conozco a nadie en esa empresa."
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each in Spanish with correct use or omission of the personal a.",
+      "prompts_en": [
+        "I see my brother every morning.",
+        "We see the buildings from here.",
+        "Do you know Laura?",
+        "They are going to invite their neighbor to dinner.",
+        "We need employees for night shifts.",
+        "We need the employees who already know the system.",
+        "I am looking for a doctor.",
+        "I am looking for the doctor who treated my mother.",
+        "She called her boss yesterday.",
+        "We respect our teachers.",
+        "He visits his grandparents on Sundays.",
+        "Do you see that dog?",
+        "I do not know anyone in this office.",
+        "They hired a secretary last month.",
+        "They want to hire the secretary we interviewed yesterday.",
+        "I have two brothers.",
+        "We have a cat and a dog.",
+        "She loves her parents a lot.",
+        "Did you find your friend?",
+        "We are helping our client now."
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as instructed.",
+      "drills": [
+        "Base: Veo a Juan. -> change object to inanimate plural (las casas).",
+        "Base: Conozco a Maria. -> make it negative.",
+        "Base: Ayudamos a nuestro vecino. -> change to singular subject yo.",
+        "Base: Buscamos un profesor. -> make the professor specific (que conocemos).",
+        "Base: Necesitan empleados. -> make employees specific (que conocen el sistema).",
+        "Base: Tengo dos hijos. -> change verb to conocer and keep meaning as close as possible.",
+        "Base: Llamo a mi hermana. -> change tense to preterite yo.",
+        "Base: Visitan a sus abuelos. -> make it a yes/no question with ustedes.",
+        "Base: Respetamos a nuestros maestros. -> change to ellos.",
+        "Base: Veo a mi perro. -> change pet to non-pet animal plural (delfines).",
+        "Base: No conozco a nadie aqui. -> change to affirmative with alguien.",
+        "Base: Contratamos a la ingeniera que ya conociamos. -> make object non-specific.",
+        "Base: Buscas a tu jefe. -> make it progressive (estar + gerundio) with tu.",
+        "Base: Ayudan a su cliente. -> make it negative and plural object (clientes).",
+        "Base: Encuentro a Carlos en la recepcion. -> change person object to object thing (el informe)."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the correct Spanish form.",
+      "prompts": [
+        "I see Sofia. (Veo a Sofia. vs Veo Sofia.)",
+        "I see the offices. (Veo las oficinas. vs Veo a las oficinas.)",
+        "We are looking for a mechanic, non-specific. (Buscamos un mecanico. vs Buscamos a un mecanico.)",
+        "We are looking for the mechanic who fixed our car. (Buscamos al mecanico que arreglo nuestro coche. vs Buscamos el mecanico que arreglo nuestro coche.)",
+        "They need workers, non-specific. (Necesitan trabajadores. vs Necesitan a trabajadores.)",
+        "They need the workers from last week. (Necesitan a los trabajadores de la semana pasada. vs Necesitan los trabajadores de la semana pasada.)",
+        "I have three children. (Tengo tres hijos. vs Tengo a tres hijos.)",
+        "I know no one here. (No conozco a nadie aqui. vs No conozco nadie aqui.)",
+        "We help our neighbor. (Ayudamos a nuestro vecino. vs Ayudamos nuestro vecino.)",
+        "She invited her sister to the event. (Invito a su hermana al evento. vs Invito su hermana al evento.)"
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific meaning.",
+      "prompts": [
+        "Write that you see your manager in the hallway every morning.",
+        "Write that you are looking for an accountant for your company, non-specific.",
+        "Write that you are looking for the accountant who handled your taxes last year.",
+        "Write that your team needs people with customer service experience, non-specific.",
+        "Write that your team needs the people who already completed training.",
+        "Write that you called your sister last night.",
+        "Write that you are helping your neighbor with a package right now.",
+        "Write that you know nobody in your new building.",
+        "Write that you know someone who can fix laptops.",
+        "Write that you have two daughters and one son.",
+        "Write that you are going to invite your coworker to lunch.",
+        "Write that your company hired a lawyer last month.",
+        "Write that your company wants to hire the lawyer you met yesterday.",
+        "Write that you respect your teachers and mentors.",
+        "Write that you did not see your dog this morning."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish, not literal English.",
+      "prompts_en": [
+        "I do not know anyone here.",
+        "We are looking for someone who speaks English and Spanish.",
+        "Did you call your mother?",
+        "I see my neighbor every day.",
+        "We need a technician.",
+        "We need the technician who fixed this machine.",
+        "She has two brothers.",
+        "They are going to visit their grandparents tomorrow.",
+        "I found my friend at the station.",
+        "We invited our clients to the event."
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "Veo Juan.",
+        "why_it_happens": "English transfer omits marker before person objects.",
+        "correct_spanish": "Veo a Juan."
+      },
+      {
+        "mistake": "Veo a las oficinas.",
+        "why_it_happens": "Overgeneralizing personal a to all direct objects.",
+        "correct_spanish": "Veo las oficinas."
+      },
+      {
+        "mistake": "Buscamos a un profesor. used automatically for any search",
+        "why_it_happens": "Assuming every human object always needs a.",
+        "correct_spanish": "Buscamos un profesor. for non-specific; Buscamos a un profesor que conocemos. for specific."
+      },
+      {
+        "mistake": "Necesitamos los empleados que conocen el sistema.",
+        "why_it_happens": "Missing a with specific known people.",
+        "correct_spanish": "Necesitamos a los empleados que conocen el sistema."
+      },
+      {
+        "mistake": "Tengo a dos hijos.",
+        "why_it_happens": "Applying personal a to tener.",
+        "correct_spanish": "Tengo dos hijos."
+      },
+      {
+        "mistake": "No conozco nadie.",
+        "why_it_happens": "Dropping a before nadie.",
+        "correct_spanish": "No conozco a nadie."
+      },
+      {
+        "mistake": "Conozco a las casas de ese barrio.",
+        "why_it_happens": "Confusing animate and inanimate object rules.",
+        "correct_spanish": "Conozco las casas de ese barrio."
+      },
+      {
+        "mistake": "Invito su hermana.",
+        "why_it_happens": "Forgetting person direct object marking.",
+        "correct_spanish": "Invito a su hermana."
+      },
+      {
+        "mistake": "Ayudamos nuestros clientes.",
+        "why_it_happens": "Copying English object structure.",
+        "correct_spanish": "Ayudamos a nuestros clientes."
+      },
+      {
+        "mistake": "Treating every a in a sentence as personal a",
+        "why_it_happens": "Spanish also uses a for infinitive chains and destinations.",
+        "correct_spanish": "Analyze each role: Voy a invitar a mi hermano a la fiesta."
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "Veo a mi hermano cada manana.",
+        "Vemos los edificios desde aqui.",
+        "Conoces a Laura?",
+        "Van a invitar a su vecino a cenar.",
+        "Necesitamos empleados para turnos de noche.",
+        "Necesitamos a los empleados que ya conocen el sistema.",
+        "Busco un medico.",
+        "Busco al medico que trato a mi madre.",
+        "Ella llamo a su jefe ayer.",
+        "Respetamos a nuestros maestros.",
+        "Visita a sus abuelos los domingos.",
+        "Ves a ese perro?",
+        "No conozco a nadie en esta oficina.",
+        "Contrataron una secretaria el mes pasado.",
+        "Quieren contratar a la secretaria que entrevistamos ayer.",
+        "Tengo dos hermanos.",
+        "Tenemos un gato y un perro.",
+        "Ella ama a sus padres mucho.",
+        "Encontraste a tu amigo?",
+        "Estamos ayudando a nuestro cliente ahora."
+      ],
+      "pattern_mutation": [
+        "Veo las casas.",
+        "No conozco a Maria.",
+        "Ayudo a nuestro vecino.",
+        "Buscamos a un profesor que conocemos.",
+        "Necesitan a los empleados que conocen el sistema.",
+        "Conozco a mis dos hijos.",
+        "Llame a mi hermana.",
+        "Ustedes visitan a sus abuelos?",
+        "Ellos respetan a sus maestros.",
+        "Veo delfines.",
+        "Conozco a alguien aqui.",
+        "Contratamos una ingeniera.",
+        "Estas buscando a tu jefe.",
+        "No ayudan a sus clientes.",
+        "Encuentro el informe en la recepcion."
+      ],
+      "contrastive_discrimination": [
+        "Veo a Sofia.",
+        "Veo las oficinas.",
+        "Buscamos un mecanico.",
+        "Buscamos al mecanico que arreglo nuestro coche.",
+        "Necesitan trabajadores.",
+        "Necesitan a los trabajadores de la semana pasada.",
+        "Tengo tres hijos.",
+        "No conozco a nadie aqui.",
+        "Ayudamos a nuestro vecino.",
+        "Invito a su hermana al evento."
+      ],
+      "reverse_conceptual_expression": [
+        "No conozco a nadie aqui.",
+        "Buscamos a alguien que hable ingles y espanol.",
+        "Llamaste a tu madre?",
+        "Veo a mi vecino todos los dias.",
+        "Necesitamos un tecnico.",
+        "Necesitamos al tecnico que arreglo esta maquina.",
+        "Ella tiene dos hermanos.",
+        "Van a visitar a sus abuelos manana.",
+        "Encontre a mi amigo en la estacion.",
+        "Invitamos a nuestros clientes al evento."
+      ]
+    }
+  }
+}

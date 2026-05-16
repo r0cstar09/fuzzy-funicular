@@ -1,0 +1,248 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "direct-object-pronouns",
+    "lo-la-los-las",
+    "pronoun-placement",
+    "adult-learners"
+  ],
+  "difficulty": "A2-B1",
+  "pattern_id": "DIRECT_OBJECT_PRONOUNS_15",
+  "source_files": [
+    "lessons/lesson-15/summary 15.pdf",
+    "lessons/lesson-15/15 exercise.pdf"
+  ],
+  "target_pattern": "Use direct object pronouns (lo/la/los/las, plus me/te/nos) with correct agreement and placement before conjugated verbs or attached to infinitives.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Repeating full nouns and copying English object position.",
+      "spanish_logic": "Spanish replaces direct objects with pronouns and places them before conjugated verbs, or before/attached to infinitives.",
+      "target_pattern_formula": [
+        "Pronoun + conjugated verb (Lo veo)",
+        "Conjugated + infinitive: pronoun before conjugated or attached to infinitive",
+        "Neuter lo for ideas/facts (No lo sé)"
+      ],
+      "natural_examples": [
+        "¿Conoces a Juan? Sí, lo conozco.",
+        "¿Quieres ver la película? Sí, quiero verla.",
+        "¿Ves las llaves? No, no las veo.",
+        "¿Quieres conocer a María? Sí, la quiero conocer.",
+        "¿Qué quieres hacer? No lo sé."
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each in Spanish replacing the direct object with the correct pronoun when natural. No answer key until the end.",
+      "prompts_en": [
+        "Do you know him?",
+        "Do you want to meet him?",
+        "Do you know her?",
+        "Do you want to meet her?",
+        "Do you know them? (masculine group)",
+        "Do you want to meet them? (feminine group)",
+        "Yes, I see it. (el carro)",
+        "Yes, I see them. (las casas)",
+        "Yes, I see them. (los libros)",
+        "Yes, I see it. (la estrella)",
+        "Yes, I want to see it. (la película)",
+        "Yes, I want to see them. (los documentos)",
+        "Yes, I want to see them. (las fotos)",
+        "Yes, I want to see it. (el partido)",
+        "Yes, I want to meet him. (Pedro)",
+        "Yes, I want to meet them. (las profesoras)",
+        "Yes, I want to meet her. (la directora)",
+        "Yes, I want to meet them. (los estudiantes)",
+        "I do not know it (that fact).",
+        "I did not understand it (what she said)."
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as instructed.",
+      "drills": [
+        "Base: Conozco a Juan. -> replace object with pronoun.",
+        "Base: Quiero conocer a María. -> rewrite with pronoun before conjugated verb.",
+        "Base: Quiero conocer a María. -> rewrite with pronoun attached to infinitive.",
+        "Base: Veo las llaves. -> replace with pronoun.",
+        "Base: Veo el libro. -> make it negative with pronoun.",
+        "Base: ¿Conoces a Carlos? -> answer yes with pronoun.",
+        "Base: ¿Conoces a Ana? -> answer no with pronoun.",
+        "Base: Quiero ver el partido. -> make question plus pronoun attached.",
+        "Base: Quiero ver las fotos. -> make question plus pronoun before conjugated verb.",
+        "Base: No sé la respuesta. -> convert to neuter I do not know it.",
+        "Base: No entiendo la explicación. -> convert to pronoun.",
+        "Base: ¿Ves a los hombres? -> answer yes with pronoun.",
+        "Base: ¿Ves a las mujeres? -> answer yes with pronoun.",
+        "Base: Queremos conocer a los nuevos compañeros. -> replace with pronoun.",
+        "Base: ¿Quieres ver la película? -> answer no with pronoun."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the most natural option and write in Spanish.",
+      "prompts": [
+        "I see him. (lo veo vs veo lo)",
+        "I see her. (la veo vs veo la)",
+        "I want to see it. (la quiero ver vs quiero verla) both valid; write one.",
+        "I want to see them. (las fotos) (las quiero ver vs quiero verlas) both valid; write one.",
+        "I do not know Juan. (no lo sé vs no lo conozco) person familiarity.",
+        "I do not know the answer. (no la conozco vs no la sé) factual content.",
+        "I do not know that. (no lo sé vs no la sé) neuter idea.",
+        "Do you know María? (¿la conoces? vs ¿lo conoces?)",
+        "Do you know them? group of women (¿las conoces? vs ¿los conoces?)",
+        "I want to meet him. (lo quiero conocer vs quiero conocerlo) both valid; write one."
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific meaning.",
+      "prompts": [
+        "You know a client named Laura.",
+        "You do not know one new coworker yet.",
+        "You want to meet your new manager.",
+        "You saw the report and understood it.",
+        "You saw the keys but did not take them.",
+        "You want to watch a movie tonight.",
+        "You want to watch those videos tomorrow.",
+        "You do not know that information yet.",
+        "You did not understand what someone said.",
+        "You know your neighbors and see them often.",
+        "You do not know this city well.",
+        "You want to meet two colleagues from another office.",
+        "You saw your documents this morning.",
+        "You want to review one file before sending it.",
+        "You already know that song but not the lyrics."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish (not literal English).",
+      "prompts_en": [
+        "I know him, but I do not really know him.",
+        "I saw it, but I did not read it.",
+        "I want to meet her in person.",
+        "I do not get it.",
+        "Do you know them from work?",
+        "I want to watch it again.",
+        "I cannot find them.",
+        "I know that already.",
+        "I do not know what to do.",
+        "I saw them yesterday and greeted them."
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "Putting object pronoun after conjugated verb",
+        "why_it_happens": "English object order transfer.",
+        "correct_spanish": "Lo veo."
+      },
+      {
+        "mistake": "Wrong gender pronoun lo vs la",
+        "why_it_happens": "English it has no gender.",
+        "correct_spanish": "La película -> la"
+      },
+      {
+        "mistake": "Wrong number pronoun lo-la vs los-las",
+        "why_it_happens": "Pronoun agreement not tracked.",
+        "correct_spanish": "Los documentos -> los"
+      },
+      {
+        "mistake": "Using lo for female person",
+        "why_it_happens": "Default pronoun overgeneralization.",
+        "correct_spanish": "Conozco a María -> la conozco"
+      },
+      {
+        "mistake": "Using conocer pronouns for facts",
+        "why_it_happens": "Saber and conocer meanings merge.",
+        "correct_spanish": "No lo sé."
+      },
+      {
+        "mistake": "Using la sé for generic I do not know",
+        "why_it_happens": "Forced gender on abstract idea.",
+        "correct_spanish": "No lo sé."
+      },
+      {
+        "mistake": "Forgetting personal a in full-noun sentence",
+        "why_it_happens": "No equivalent marker in English.",
+        "correct_spanish": "Conozco a Juan."
+      },
+      {
+        "mistake": "Attaching pronoun to conjugated verb",
+        "why_it_happens": "Confusion with infinitive attachment.",
+        "correct_spanish": "Lo quiero ver / Quiero verlo"
+      },
+      {
+        "mistake": "Missing accent marks in enclitic stress contexts",
+        "why_it_happens": "Pronoun attachment stress rules are unknown.",
+        "correct_spanish": "Watch forms like dámelo (later topic)."
+      },
+      {
+        "mistake": "Using mirar only for films in this lesson frame",
+        "why_it_happens": "Literal watch mapping from English.",
+        "correct_spanish": "Quiero verla."
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "¿Lo conoces?",
+        "¿Lo quieres conocer? / ¿Quieres conocerlo?",
+        "¿La conoces?",
+        "¿La quieres conocer? / ¿Quieres conocerla?",
+        "¿Los conoces?",
+        "¿Las quieres conocer? / ¿Quieres conocerlas?",
+        "Sí, lo veo.",
+        "Sí, las veo.",
+        "Sí, los veo.",
+        "Sí, la veo.",
+        "Sí, la quiero ver. / Sí, quiero verla.",
+        "Sí, los quiero ver. / Sí, quiero verlos.",
+        "Sí, las quiero ver. / Sí, quiero verlas.",
+        "Sí, lo quiero ver. / Sí, quiero verlo.",
+        "Sí, lo quiero conocer. / Sí, quiero conocerlo.",
+        "Sí, las quiero conocer. / Sí, quiero conocerlas.",
+        "Sí, la quiero conocer. / Sí, quiero conocerla.",
+        "Sí, los quiero conocer. / Sí, quiero conocerlos.",
+        "No lo sé.",
+        "No lo entendí."
+      ],
+      "pattern_mutation": [
+        "Lo conozco.",
+        "La quiero conocer.",
+        "Quiero conocerla.",
+        "Las veo.",
+        "No lo veo.",
+        "Sí, lo conozco.",
+        "No, no la conozco.",
+        "¿Quieres verlo?",
+        "¿Las quieres ver?",
+        "No lo sé.",
+        "No la entiendo.",
+        "Sí, los veo.",
+        "Sí, las veo.",
+        "Los queremos conocer.",
+        "No, no la quiero ver."
+      ],
+      "contrastive_discrimination": [
+        "Lo veo.",
+        "La veo.",
+        "Quiero verla.",
+        "Las quiero ver.",
+        "No lo conozco.",
+        "No la sé.",
+        "No lo sé.",
+        "¿La conoces?",
+        "¿Las conoces?",
+        "Quiero conocerlo."
+      ],
+      "reverse_conceptual_expression": [
+        "Lo conozco, pero no lo conozco bien.",
+        "Lo vi, pero no lo leí.",
+        "Quiero conocerla en persona.",
+        "No lo entiendo.",
+        "¿Los conoces del trabajo?",
+        "Quiero verla otra vez.",
+        "No las encuentro.",
+        "Ya lo sé.",
+        "No sé qué hacer.",
+        "Los vi ayer y los saludé."
+      ]
+    }
+  }
+}

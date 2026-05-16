@@ -1,0 +1,248 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "gustar-family",
+    "caer-bien-mal",
+    "querer-vs-amar",
+    "adult-learners"
+  ],
+  "difficulty": "A2-B1",
+  "pattern_id": "EMOTIONAL_VERB_SPLIT_17",
+  "source_files": [
+    "lessons/lesson-17/summary 17.pdf",
+    "lessons/lesson-17/Exercise 17.pdf"
+  ],
+  "target_pattern": "Differentiate emotional verb patterns: gustar/encantar/fascinar for things and activities, caer bien/mal for interpersonal non-romantic liking, and querer/amar for loving people and pets.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Using one like or love verb for all emotional contexts.",
+      "spanish_logic": "Spanish selects different structures based on meaning: preference for things, social chemistry with people, and direct love.",
+      "target_pattern_formula": [
+        "me/te/le/nos/les + gusta(n)/encanta(n)/fascina(n) + thing/activity",
+        "a X + le cae bien/mal + person",
+        "querer/amar + a + person or pet"
+      ],
+      "natural_examples": [
+        "Me encanta viajar.",
+        "A Ana le gustan las fresas.",
+        "No me cae bien mi jefe.",
+        "Quiero a mi familia.",
+        "¿Te fascina la música clásica?"
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each in Spanish using the best pattern (gustar, encantar/fascinar, caer bien/mal, querer/amar). No answer key until the end.",
+      "prompts_en": [
+        "I like chocolate.",
+        "María loves dancing.",
+        "They like cats.",
+        "We love to travel.",
+        "Juan likes reading books.",
+        "Ana loves strawberries.",
+        "I like sunny days.",
+        "Luis and Carla love listening to music.",
+        "Sofía likes swimming.",
+        "We love Mexican food.",
+        "María likes Juan (non-romantic).",
+        "I do not like my boss (non-romantic).",
+        "They like their neighbors (non-romantic).",
+        "We do not like our teacher (non-romantic).",
+        "Lucía likes her classmates (non-romantic).",
+        "I love my family.",
+        "Carlos loves Ana.",
+        "We love our parents.",
+        "I love my dog.",
+        "I love you."
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as instructed.",
+      "drills": [
+        "Base: Me gusta el chocolate. -> make it stronger with encantar.",
+        "Base: Nos encanta viajar. -> make it negative.",
+        "Base: A María le gustan las flores. -> change to singular noun.",
+        "Base: A Juan le cae bien María. -> make it negative.",
+        "Base: No me cae bien mi jefe. -> make it affirmative.",
+        "Base: A Lucía le caen bien sus compañeros. -> change to singular person.",
+        "Base: Amo a mi familia. -> rewrite with querer.",
+        "Base: Te quiero. -> rewrite with amar.",
+        "Base: Me gustan los perros. -> change to activity (correr).",
+        "Base: A ellos les encanta el teatro. -> change to plural thing (las películas).",
+        "Base: No nos cae bien el gerente. -> change to plural managers.",
+        "Base: Carlos ama a Ana. -> turn into question.",
+        "Base: Me fascina la cultura japonesa. -> change to plural cultures.",
+        "Base: Les gustan los videojuegos. -> change to singular game.",
+        "Base: Juan y yo nos queremos. -> rewrite with amar."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the most natural pattern and write in Spanish.",
+      "prompts": [
+        "I like coffee. (me gusta vs yo gusto)",
+        "I love coffee. (me encanta vs amo el café) daily preference context.",
+        "I like Juan non-romantic. (me cae bien Juan vs me gusta Juan)",
+        "I like Juan romantic. (me gusta Juan vs me cae bien Juan)",
+        "I love my parents. (amo or quiero a mis padres vs me encantan mis padres) familial love.",
+        "They like to travel. (les gusta viajar vs les gustan viajar)",
+        "My boss does not like me as a person. (a mi jefe no le caigo bien vs no le gusto)",
+        "I am fascinated by this topic. (me fascina este tema vs yo fascino este tema)",
+        "We do not get along with the owner. (no nos cae bien el dueño vs no nos gusta el dueño)",
+        "I love you. (te amo or te quiero vs me encantas) direct love statement."
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific meaning.",
+      "prompts": [
+        "You like coffee but love tea.",
+        "You love listening to music while working.",
+        "One coworker likes you non-romantically.",
+        "You do not get along with one manager.",
+        "You like your neighbors.",
+        "You love your family very much.",
+        "You love your pet.",
+        "You are fascinated by one topic.",
+        "Your team loves traveling for work.",
+        "You like one person romantically.",
+        "You do not like one person romantically.",
+        "Your friend loves Mexican food.",
+        "You love your city.",
+        "One classmate gets along well with everyone.",
+        "You and your partner or friend love each other."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish (not literal English).",
+      "prompts_en": [
+        "I am really into this.",
+        "We get along well.",
+        "She does not like me as a person.",
+        "I love him, but it is complicated.",
+        "That movie fascinates me.",
+        "My parents adore you.",
+        "I cannot stand that guy.",
+        "I like her, but only as a friend.",
+        "Do you get along with your neighbors?",
+        "They love each other a lot."
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "Using yo gusto for liking things",
+        "why_it_happens": "Direct subject mapping from English.",
+        "correct_spanish": "Me gusta..."
+      },
+      {
+        "mistake": "Using gustan with infinitive verbs",
+        "why_it_happens": "Infinitives are treated as plural nouns.",
+        "correct_spanish": "Me encanta viajar."
+      },
+      {
+        "mistake": "Using me gusta Juan in non-romantic contexts",
+        "why_it_happens": "English like is semantically broad.",
+        "correct_spanish": "Juan me cae bien."
+      },
+      {
+        "mistake": "Using caer bien for romantic attraction",
+        "why_it_happens": "All liking meanings are merged.",
+        "correct_spanish": "Me gusta Juan."
+      },
+      {
+        "mistake": "Forgetting personal a with querer or amar plus people or pets",
+        "why_it_happens": "No equivalent marker in English.",
+        "correct_spanish": "Quiero a mi perro."
+      },
+      {
+        "mistake": "Using amo for casual preference",
+        "why_it_happens": "Literal translation of I love this.",
+        "correct_spanish": "Me encanta el café."
+      },
+      {
+        "mistake": "Wrong indirect object pronoun with caer bien/mal",
+        "why_it_happens": "Experiencer and subject are reversed from English.",
+        "correct_spanish": "A mí me cae bien..."
+      },
+      {
+        "mistake": "Using direct object pronouns with gustar-like verbs",
+        "why_it_happens": "Pronoun systems are mixed.",
+        "correct_spanish": "Le encanta, not la encanta."
+      },
+      {
+        "mistake": "Dropping article in gustar noun phrases",
+        "why_it_happens": "Article omission transfer from English.",
+        "correct_spanish": "Me gusta el chocolate."
+      },
+      {
+        "mistake": "Using amar without object preposition",
+        "why_it_happens": "English structure copied.",
+        "correct_spanish": "Amo a mi familia."
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "Me gusta el chocolate.",
+        "A María le encanta bailar.",
+        "Les gustan los gatos.",
+        "Nos encanta viajar.",
+        "A Juan le gusta leer libros.",
+        "A Ana le encantan las fresas.",
+        "Me gustan los días soleados.",
+        "A Luis y a Carla les encanta escuchar música.",
+        "A Sofía le gusta nadar.",
+        "Nos encanta la comida mexicana.",
+        "A María le cae bien Juan.",
+        "No me cae bien mi jefe.",
+        "Les caen bien sus vecinos.",
+        "No nos cae bien nuestro profesor / nuestra profesora.",
+        "A Lucía le caen bien sus compañeros de clase.",
+        "Amo a mi familia. / Quiero a mi familia.",
+        "Carlos ama a Ana. / Carlos quiere a Ana.",
+        "Amamos a nuestros padres. / Queremos a nuestros padres.",
+        "Amo a mi perro. / Quiero a mi perro.",
+        "Te amo. / Te quiero."
+      ],
+      "pattern_mutation": [
+        "Me encanta el chocolate.",
+        "No nos encanta viajar.",
+        "A María le gusta la flor.",
+        "A Juan no le cae bien María.",
+        "Me cae bien mi jefe.",
+        "A Lucía le cae bien su compañera.",
+        "Quiero a mi familia.",
+        "Te amo.",
+        "Me gusta correr.",
+        "A ellos les encantan las películas.",
+        "No nos caen bien los gerentes.",
+        "¿Carlos ama a Ana? / ¿Carlos quiere a Ana?",
+        "Me fascinan las culturas japonesas.",
+        "Les gusta el videojuego.",
+        "Juan y yo nos amamos."
+      ],
+      "contrastive_discrimination": [
+        "Me gusta el café.",
+        "Me encanta el café.",
+        "Juan me cae bien.",
+        "Me gusta Juan.",
+        "Amo a mis padres. / Quiero a mis padres.",
+        "Les gusta viajar.",
+        "A mi jefe no le caigo bien.",
+        "Me fascina este tema.",
+        "No nos cae bien el dueño.",
+        "Te amo. / Te quiero."
+      ],
+      "reverse_conceptual_expression": [
+        "Esto me encanta.",
+        "Nos caemos bien.",
+        "A ella no le caigo bien.",
+        "Lo amo, pero es complicado.",
+        "Esa película me fascina.",
+        "Mis padres te adoran.",
+        "Ese tipo me cae muy mal.",
+        "Me cae bien, pero solo como amiga.",
+        "¿Te caen bien tus vecinos?",
+        "Se aman mucho. / Se quieren mucho."
+      ]
+    }
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "present-subjunctive",
+    "trigger-clauses",
+    "mood-selection",
+    "adult-learners"
+  ],
+  "difficulty": "B1",
+  "pattern_id": "PRESENT_SUBJUNCTIVE_TRIGGERED_PATTERNS_45",
+  "source_files": [
+    "lessons/lesson-45/Present Subjunctive Conjugations.pdf"
+  ],
+  "target_pattern": "Use trigger plus que plus present subjunctive across regular, stem-changing, spelling-changing, and irregular verbs.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Using present indicative after desire, doubt, recommendation, or emotion triggers.",
+      "spanish_logic": "Spanish switches mood in subordinate clauses after trigger expressions and uses present subjunctive forms built from the yo stem.",
+      "target_pattern_formula": [
+        "trigger plus que plus subjunctive clause",
+        "ar endings e es e emos en",
+        "er ir endings a as a amos an",
+        "stem changes as in present with subjunctive distribution",
+        "spelling changes for car gar zar",
+        "irregular forms such as sea vaya haya sepa este haga"
+      ],
+      "natural_examples": [
+        "Quiero que hables con ella hoy.",
+        "Es importante que comamos bien.",
+        "Dudo que puedan terminar hoy.",
+        "Espero que empieces temprano.",
+        "Necesito que vayas conmigo."
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each in Spanish using present subjunctive.",
+      "prompts_en": [
+        "I want you to speak with me now.",
+        "It is important that we eat before the meeting.",
+        "I hope that he lives near the office.",
+        "I doubt that they work on Sundays.",
+        "It is necessary that you (formal) learn this today.",
+        "I prefer that you write the email now.",
+        "I do not think that she opens the window.",
+        "It is good that we study together.",
+        "I hope that they live in Mexico.",
+        "It is possible that he can help us.",
+        "I need you to ask for help.",
+        "I want us to look for another option.",
+        "It is better that you pay today.",
+        "I hope they start on time.",
+        "It is important that you do it now.",
+        "I want you to be calm.",
+        "I need him to go to the bank.",
+        "I doubt that there is enough time.",
+        "I hope you know the answer.",
+        "I need us to be ready by eight."
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as instructed.",
+      "drills": [
+        "Base: Quiero que hables conmigo. -> change subject in subordinate clause to nosotros.",
+        "Base: Es importante que comamos antes de salir. -> change verb to vivir.",
+        "Base: Espero que viva cerca. -> change subject to ellos.",
+        "Base: Dudo que trabajen manana. -> change verb to aprender.",
+        "Base: Necesito que escribas el informe. -> change object to los informes.",
+        "Base: Es posible que pueda venir. -> change subject to nosotros.",
+        "Base: Quiero que pidas ayuda. -> change to plural subject ellos.",
+        "Base: Espero que busques otra opcion. -> change verb to pagar.",
+        "Base: Es mejor que empieces temprano. -> change to nosotros form.",
+        "Base: Quiero que haga eso hoy. -> change verb to ir.",
+        "Base: Dudo que sea verdad. -> change verb to estar and adjective to listo.",
+        "Base: Necesito que vaya al banco. -> change destination to la oficina.",
+        "Base: Espero que haya tiempo. -> change noun to plural opciones.",
+        "Base: Quiero que sepas la respuesta. -> change subject to nosotros.",
+        "Base: Es importante que estemos listos. -> change clause to singular tu."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the correct Spanish form.",
+      "prompts": [
+        "I want you to come. (Quiero que vengas. vs Quiero que vienes.)",
+        "It is important that we eat. (Es importante que comamos. vs Es importante que comemos.)",
+        "I doubt that he can do it. (Dudo que pueda hacerlo. vs Dudo que puede hacerlo.)",
+        "I hope they start now. (Espero que empiecen ahora. vs Espero que empiezan ahora.)",
+        "I need you to pay today. (Necesito que pagues hoy. vs Necesito que pagas hoy.)",
+        "It is possible that she goes. (Es posible que vaya. vs Es posible que va.)",
+        "I do not think there is time. (No creo que haya tiempo. vs No creo que hay tiempo.)",
+        "I want you to be calm. (Quiero que estes tranquilo. vs Quiero que estas tranquilo.)",
+        "I hope you know it. (Espero que lo sepas. vs Espero que lo sabes.)",
+        "It is good that we are here. (Es bueno que estemos aqui. vs Es bueno que estamos aqui.)"
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific meaning.",
+      "prompts": [
+        "Write that you want your teammate to send the report today.",
+        "Write that it is important your family eats together tonight.",
+        "Write that you hope your client responds quickly.",
+        "Write that you doubt your manager knows that detail.",
+        "Write that you need a colleague to help you now.",
+        "Write that it is better your team starts earlier.",
+        "Write that you want your friend to be calm before the interview.",
+        "Write that you need your assistant to go to the bank.",
+        "Write that you hope there is less traffic tomorrow.",
+        "Write that you doubt there are enough seats.",
+        "Write that you want your group to live near the office.",
+        "Write that it is possible your project finishes this week.",
+        "Write that you prefer your coworkers pay online.",
+        "Write that you hope your partner asks the right questions.",
+        "Write that it is important you all are ready by 8 a.m."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish, not literal English.",
+      "prompts_en": [
+        "I want him to tell me the truth.",
+        "I hope you do it today.",
+        "It is possible that they come later.",
+        "I doubt she is at home now.",
+        "We need there to be a clear plan.",
+        "I do not think he knows.",
+        "It is better that we leave now.",
+        "I need you to look for another option.",
+        "I want us to be honest.",
+        "I hope you can come tomorrow."
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "Quiero que vienes",
+        "why_it_happens": "Indicative used after trigger plus que.",
+        "correct_spanish": "Quiero que vengas."
+      },
+      {
+        "mistake": "Es importante que comemos",
+        "why_it_happens": "No mood switch in subordinate clause.",
+        "correct_spanish": "Es importante que comamos."
+      },
+      {
+        "mistake": "No creo que hay",
+        "why_it_happens": "Indicative default after negated cognition.",
+        "correct_spanish": "No creo que haya."
+      },
+      {
+        "mistake": "Guessing forms directly from infinitive",
+        "why_it_happens": "Yo-form stem step skipped.",
+        "correct_spanish": "Build from yo present stem before endings."
+      },
+      {
+        "mistake": "busce in subjunctive",
+        "why_it_happens": "Spelling maintenance rule overlooked.",
+        "correct_spanish": "Use busque."
+      },
+      {
+        "mistake": "page in subjunctive",
+        "why_it_happens": "Hard g sound not preserved.",
+        "correct_spanish": "Use pague."
+      },
+      {
+        "mistake": "empieze",
+        "why_it_happens": "Incorrect spelling in stem-changed form.",
+        "correct_spanish": "Use empiece."
+      },
+      {
+        "mistake": "sere or ire as present subjunctive",
+        "why_it_happens": "Future forms mixed into subjunctive.",
+        "correct_spanish": "Use sea and vaya."
+      },
+      {
+        "mistake": "hace in subjunctive clause",
+        "why_it_happens": "Indicative carryover.",
+        "correct_spanish": "Use haga."
+      },
+      {
+        "mistake": "Ignoring adjective agreement with estar clauses",
+        "why_it_happens": "Focus on verb only.",
+        "correct_spanish": "Keep adjective agreement: estemos listos or listas."
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "Quiero que hables conmigo ahora.",
+        "Es importante que comamos antes de la reunion.",
+        "Espero que viva cerca de la oficina.",
+        "Dudo que trabajen los domingos.",
+        "Es necesario que usted aprenda esto hoy.",
+        "Prefiero que escribas el correo ahora.",
+        "No creo que ella abra la ventana.",
+        "Es bueno que estudiemos juntos.",
+        "Espero que vivan en Mexico.",
+        "Es posible que el pueda ayudarnos.",
+        "Necesito que pidas ayuda.",
+        "Quiero que busquemos otra opcion.",
+        "Es mejor que pagues hoy.",
+        "Espero que empiecen a tiempo.",
+        "Es importante que lo hagas ahora.",
+        "Quiero que estes tranquilo.",
+        "Necesito que el vaya al banco.",
+        "Dudo que haya suficiente tiempo.",
+        "Espero que sepas la respuesta.",
+        "Necesito que estemos listos para las ocho."
+      ],
+      "pattern_mutation": [
+        "Quiero que hablemos contigo.",
+        "Es importante que vivamos cerca de la oficina.",
+        "Espero que vivan cerca.",
+        "Dudo que aprendan manana.",
+        "Necesito que escribas los informes.",
+        "Es posible que podamos venir.",
+        "Quiero que pidan ayuda.",
+        "Espero que pagues hoy.",
+        "Es mejor que empecemos temprano.",
+        "Quiero que vayas hoy.",
+        "Dudo que este listo.",
+        "Necesito que vaya a la oficina.",
+        "Espero que haya opciones.",
+        "Quiero que sepamos la respuesta.",
+        "Es importante que estes listo."
+      ],
+      "contrastive_discrimination": [
+        "Quiero que vengas.",
+        "Es importante que comamos.",
+        "Dudo que pueda hacerlo.",
+        "Espero que empiecen ahora.",
+        "Necesito que pagues hoy.",
+        "Es posible que vaya.",
+        "No creo que haya tiempo.",
+        "Quiero que estes tranquilo.",
+        "Espero que lo sepas.",
+        "Es bueno que estemos aqui."
+      ],
+      "reverse_conceptual_expression": [
+        "Quiero que me diga la verdad.",
+        "Espero que lo hagas hoy.",
+        "Es posible que vengan mas tarde.",
+        "Dudo que ella este en casa ahora.",
+        "Necesitamos que haya un plan claro.",
+        "No creo que el sepa.",
+        "Es mejor que salgamos ahora.",
+        "Necesito que busques otra opcion.",
+        "Quiero que seamos honestos.",
+        "Espero que puedas venir manana."
+      ]
+    }
+  }
+}

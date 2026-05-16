@@ -1,0 +1,250 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "tener-expressions",
+    "weather-temperature",
+    "idiomatic-chunks",
+    "adult-learners"
+  ],
+  "difficulty": "A2-B1",
+  "pattern_id": "TENER_MEGA_VERB_24",
+  "source_files": [
+    "lessons/lesson-24/master 24.pdf",
+    "lessons/lesson-24/Exercise 24.pdf"
+  ],
+  "target_pattern": "Use tener + noun chunks for personal states and age, use tener ganas de + infinitive for desire, use hacer for ambient weather temperature, and use estar + adjective for object temperature and spiciness.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Overusing estar for states that Spanish packages with tener.",
+      "spanish_logic": "High-frequency personal states are expressed as possession chunks in Spanish, while weather and object temperature use different verbs.",
+      "target_pattern_formula": [
+        "tener + noun chunk for personal state",
+        "tener + number + anos for age",
+        "tener ganas de + infinitive for desire",
+        "hacer calor/frio for weather",
+        "estar + adjective for object temperature and picante"
+      ],
+      "natural_examples": [
+        "Tengo mucha hambre despues del trabajo.",
+        "Ella tiene 32 anos.",
+        "Tenemos ganas de salir esta noche.",
+        "Hace mucho calor hoy.",
+        "El cafe esta muy caliente."
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each in Spanish using the target pattern.",
+      "prompts_en": [
+        "I am hungry.",
+        "We are very thirsty.",
+        "He is cold, feeling.",
+        "They are very cold, feeling.",
+        "I am hot, feeling.",
+        "It is hot today.",
+        "It is very cold outside.",
+        "The soup is hot.",
+        "The soup is very hot.",
+        "The water is cold.",
+        "The food is spicy.",
+        "The food is very spicy.",
+        "I am 29 years old.",
+        "My sister is 41 years old.",
+        "I feel like sleeping.",
+        "Do you feel like going out tonight?",
+        "I am sleepy.",
+        "I am in a hurry.",
+        "We are lucky.",
+        "It is not your fault."
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as instructed.",
+      "drills": [
+        "Base: Tengo hambre. -> intensify with mucha.",
+        "Base: Tenemos sed. -> change subject to yo.",
+        "Base: Tengo frio. -> change to plural subject ellos and intensify.",
+        "Base: Hace calor. -> change to cold and add hoy.",
+        "Base: El cafe esta caliente. -> intensify correctly.",
+        "Base: La comida esta picante. -> change to very spicy.",
+        "Base: Tengo 30 anos. -> change age to 54.",
+        "Base: Juan tiene 20 anos. -> make a yes/no question.",
+        "Base: Tengo ganas de ir a la playa. -> change infinitive to comer.",
+        "Base: Tienes ganas de salir? -> change subject to ustedes.",
+        "Base: Tengo sueno. -> intensify.",
+        "Base: Tengo prisa. -> make it negative.",
+        "Base: Tengo suerte. -> change subject to nosotros.",
+        "Base: Tengo la culpa. -> change to tu and negative.",
+        "Base: El cuarto esta caliente. -> change to weather sentence with hacer."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the correct Spanish form.",
+      "prompts": [
+        "I am hungry. (Tengo hambre. vs Estoy hambre.)",
+        "I am very thirsty. (Tengo mucha sed. vs Tengo muy sed.)",
+        "I am cold, feeling. (Tengo frio. vs Estoy frio.)",
+        "It is hot today. (Hace calor hoy. vs Esta caliente hoy.)",
+        "The coffee is very hot. (El cafe esta muy caliente. vs El cafe tiene mucho calor.)",
+        "I am 30 years old. (Tengo 30 anos. vs Soy 30 anos.)",
+        "I feel like going out. (Tengo ganas de salir. vs Estoy ganas de salir.)",
+        "I am sleepy. (Tengo sueno. vs Estoy sueno.)",
+        "I am in a hurry. (Tengo prisa. vs Estoy prisa.)",
+        "The eagle is thirsty. (El aguila tiene sed. vs La aguila tiene sed.)"
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific meaning.",
+      "prompts": [
+        "Write that you are very hungry after your workout.",
+        "Write that your team is thirsty after a long meeting.",
+        "Write that you are 35 years old.",
+        "Write that your father is 68 years old.",
+        "Write that you feel like staying home tonight.",
+        "Write that you ask a friend if they feel like getting coffee.",
+        "Write that you are very sleepy this morning.",
+        "Write that you are in a hurry because you have a call in five minutes.",
+        "Write that it is very hot in your city today.",
+        "Write that your office is cold.",
+        "Write that your coffee is too hot right now.",
+        "Write that your lunch is spicy but good.",
+        "Write that your project team is lucky.",
+        "Write that it is not your coworker s fault.",
+        "Write that you have to leave because you are in a hurry."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish, not literal English.",
+      "prompts_en": [
+        "I am really thirsty right now.",
+        "We are hungry but we cannot eat yet.",
+        "She is 27 years old.",
+        "Do you feel like watching a movie?",
+        "It is very hot today, but the office is cold.",
+        "This tea is very hot.",
+        "The salsa is spicy.",
+        "I am sleepy, I need coffee.",
+        "It is not your fault.",
+        "We are lucky today."
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "Estoy hambre.",
+        "why_it_happens": "Direct translation from English.",
+        "correct_spanish": "Tengo hambre."
+      },
+      {
+        "mistake": "Tengo muy hambre/sed.",
+        "why_it_happens": "Using adjective intensifier with noun chunk.",
+        "correct_spanish": "Tengo mucha hambre/sed."
+      },
+      {
+        "mistake": "Estoy frio for personal sensation in this lesson pattern",
+        "why_it_happens": "Overusing estar for feelings.",
+        "correct_spanish": "Tengo frio."
+      },
+      {
+        "mistake": "Esta caliente hoy for weather",
+        "why_it_happens": "Confusing weather and object temperature.",
+        "correct_spanish": "Hace calor hoy."
+      },
+      {
+        "mistake": "Tengo 30 without anos in beginner production",
+        "why_it_happens": "Copying English age format.",
+        "correct_spanish": "Tengo 30 anos."
+      },
+      {
+        "mistake": "Estoy ganas de salir.",
+        "why_it_happens": "Literal translation of mood expression.",
+        "correct_spanish": "Tengo ganas de salir."
+      },
+      {
+        "mistake": "Estoy sueno/prisa/suerte.",
+        "why_it_happens": "Treating chunk nouns as adjectives.",
+        "correct_spanish": "Tengo sueno/prisa/suerte."
+      },
+      {
+        "mistake": "El cafe tiene calor.",
+        "why_it_happens": "Using tener for object property.",
+        "correct_spanish": "El cafe esta caliente."
+      },
+      {
+        "mistake": "La aguila in singular",
+        "why_it_happens": "Ignoring stressed a feminine noun article rule.",
+        "correct_spanish": "El aguila in singular, las aguilas in plural."
+      },
+      {
+        "mistake": "Hace muy calor.",
+        "why_it_happens": "Mixing intensifier type.",
+        "correct_spanish": "Hace mucho calor."
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "Tengo hambre.",
+        "Tenemos mucha sed.",
+        "El tiene frio.",
+        "Ellos tienen mucho frio.",
+        "Tengo calor.",
+        "Hace calor hoy.",
+        "Hace mucho frio afuera.",
+        "La sopa esta caliente.",
+        "La sopa esta muy caliente.",
+        "El agua esta fria.",
+        "La comida esta picante.",
+        "La comida esta muy picante.",
+        "Tengo 29 anos.",
+        "Mi hermana tiene 41 anos.",
+        "Tengo ganas de dormir.",
+        "Tienes ganas de salir esta noche?",
+        "Tengo sueno.",
+        "Tengo prisa.",
+        "Tenemos suerte.",
+        "No tienes la culpa."
+      ],
+      "pattern_mutation": [
+        "Tengo mucha hambre.",
+        "Tengo sed.",
+        "Ellos tienen mucho frio.",
+        "Hace frio hoy.",
+        "El cafe esta muy caliente.",
+        "La comida esta muy picante.",
+        "Tengo 54 anos.",
+        "Juan tiene 20 anos?",
+        "Tengo ganas de comer.",
+        "Tienen ganas de salir?",
+        "Tengo mucho sueno.",
+        "No tengo prisa.",
+        "Tenemos suerte.",
+        "Tu no tienes la culpa.",
+        "Hace calor."
+      ],
+      "contrastive_discrimination": [
+        "Tengo hambre.",
+        "Tengo mucha sed.",
+        "Tengo frio.",
+        "Hace calor hoy.",
+        "El cafe esta muy caliente.",
+        "Tengo 30 anos.",
+        "Tengo ganas de salir.",
+        "Tengo sueno.",
+        "Tengo prisa.",
+        "El aguila tiene sed."
+      ],
+      "reverse_conceptual_expression": [
+        "Tengo mucha sed ahora mismo.",
+        "Tenemos hambre pero no podemos comer todavia.",
+        "Ella tiene 27 anos.",
+        "Tienes ganas de ver una pelicula?",
+        "Hace mucho calor hoy, pero la oficina esta fria.",
+        "Este te esta muy caliente.",
+        "La salsa esta picante.",
+        "Tengo sueno, necesito cafe.",
+        "No tienes la culpa.",
+        "Tenemos suerte hoy."
+      ]
+    }
+  }
+}

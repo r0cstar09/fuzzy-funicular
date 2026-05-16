@@ -1,0 +1,249 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "verb-preposition-chunks",
+    "collocations",
+    "pronominal-verbs",
+    "adult-learners"
+  ],
+  "difficulty": "B1",
+  "pattern_id": "HIGH_FREQUENCY_VERB_PREPOSITION_PAIRS_59",
+  "source_files": [
+    "lessons/lesson-59/Summary 59.pdf"
+  ],
+  "target_pattern": "Use high-frequency Spanish verb plus preposition chunks as fixed patterns, including meaning shifts with pensar and pronominal constructions like quejarse de and enamorarse de.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Choosing prepositions by literal English translation.",
+      "spanish_logic": "Many Spanish verbs require specific prepositions as part of one chunk. Changing the preposition can change meaning or sound non-native.",
+      "target_pattern_formula": [
+        "sonar con plus noun or infinitive",
+        "pensar plus infinitive for plans, pensar en for mental focus, pensar de for opinion",
+        "pronominal chunks: enamorarse de, despedirse de, cansarse de, burlarse de, quejarse de",
+        "action chunks: invitar a, aprender a, ensenar a, empezar a, ayudar a, limitarse a",
+        "support and dependence chunks: contar con, depender de, acostumbrarse a, abusar de"
+      ],
+      "natural_examples": [
+        "Sueno con vivir cerca del mar.",
+        "Pienso mudarme el proximo ano.",
+        "Siempre pienso en mis padres.",
+        "Que piensas del nuevo supervisor?",
+        "Puedes contar conmigo."
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each in natural Spanish using the correct verb plus preposition pattern.",
+      "prompts_en": [
+        "I dream of traveling more.",
+        "Last night I dreamed about my grandfather.",
+        "We are planning to move to Mexico.",
+        "I always think about you.",
+        "What do you think of this idea?",
+        "She fell in love with her coworker.",
+        "He said goodbye to us before leaving.",
+        "I got tired of waiting.",
+        "They make fun of the new student.",
+        "I limit myself to drinking one coffee a day.",
+        "My cousin invited me to dinner.",
+        "I learned to swim when I was five.",
+        "My father taught me to cook.",
+        "We are going to start painting the house.",
+        "Can you help me to organize the office?",
+        "You can count on me.",
+        "The result depends on the budget.",
+        "She complains about everything.",
+        "We are getting used to working together.",
+        "He abuses his body with little sleep."
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as instructed.",
+      "drills": [
+        "Base: Sueno con vivir en la playa. -> change location to la montana.",
+        "Base: Pensamos mudarnos a Mexico. -> change subject to singular yo.",
+        "Base: Siempre pienso en ti. -> change pronoun to plural ustedes.",
+        "Base: Que piensas del nuevo supervisor? -> change noun to nuevo horario.",
+        "Base: Maria se enamoro de Julio. -> change object to su mejor amigo.",
+        "Base: Mi primo se despidio de nosotros. -> change pronoun to singular mi.",
+        "Base: Juan se canso de trabajar. -> change infinitive to esperar.",
+        "Base: Los estudiantes se burlan del profesor. -> change to singular subject el estudiante.",
+        "Base: Me limito a beber dos copas. -> change infinitive to comer postre.",
+        "Base: Mi primo me invito a cenar. -> change infinitive to almorzar.",
+        "Base: Aprendi a nadar a los cinco anos. -> change skill to conducir.",
+        "Base: Mi padre me enseno a cocinar. -> change teacher to mi madre and skill coser.",
+        "Base: Vamos a empezar a pintar la casa. -> change verb pintar to limpiar.",
+        "Base: Siempre puedes contar conmigo. -> change pronoun to plural nosotros.",
+        "Base: La duracion del viaje depende del trafico. -> change noun phrase to el costo."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the correct option.",
+      "prompts": [
+        "I dream of being a lawyer. (Sueno con ser abogado. vs Sueno de ser abogado.)",
+        "We plan to travel. (Pensamos viajar. vs Pensamos en viajar.)",
+        "I think about my family. (Pienso en mi familia. vs Pienso de mi familia.)",
+        "What do you think of the plan? (Que piensas del plan? vs Que piensas en el plan?)",
+        "She fell in love with him. (Se enamoro de el. vs Se enamoro con el.)",
+        "He said goodbye to me. (Se despidio de mi. vs Se despidio con mi.)",
+        "We started to study. (Empezamos a estudiar. vs Empezamos de estudiar.)",
+        "Can I count on you? (Puedo contar contigo? vs Puedo contar en ti?)",
+        "It depends on the weather. (Depende del clima. vs Depende en el clima.)",
+        "She complains about everything. (Se queja de todo. vs Se queja con todo.)"
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific meaning.",
+      "prompts": [
+        "Write that you dream of living in a quieter city.",
+        "Write that you are planning to change jobs this year.",
+        "Write that you often think about your future.",
+        "Write that you want to ask what someone thinks of your proposal.",
+        "Write that your friend fell in love quickly.",
+        "Write that you said goodbye to your family this morning.",
+        "Write that you got tired of long meetings.",
+        "Write that someone in your office complains about everything.",
+        "Write that you are limiting yourself to checking email twice a day.",
+        "Write that a colleague invited you to have coffee.",
+        "Write that you are learning to speak more clearly.",
+        "Write that someone taught you to cook a basic dish.",
+        "Write that you are going to start organizing your desk.",
+        "Write that your team can count on you.",
+        "Write that your schedule depends on client demand."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish, not literal English.",
+      "prompts_en": [
+        "I am thinking about changing apartments.",
+        "What is your opinion of this decision?",
+        "We are getting used to working remotely.",
+        "She invited me to join her for lunch.",
+        "They abuse their time and then complain.",
+        "I count on you for this project.",
+        "He got tired of pretending.",
+        "The quality depends on the materials.",
+        "We started to notice the difference.",
+        "They made fun of my accent."
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "Preposition chosen from literal English pattern",
+        "why_it_happens": "One-to-one translation strategy.",
+        "correct_spanish": "Memorize verb and preposition as one chunk."
+      },
+      {
+        "mistake": "Sonar de used for dream of",
+        "why_it_happens": "Interference from English of.",
+        "correct_spanish": "Use sonar con."
+      },
+      {
+        "mistake": "Pensar en used for planning actions",
+        "why_it_happens": "Meanings of pensar constructions are not separated.",
+        "correct_spanish": "Use pensar plus infinitive for plans."
+      },
+      {
+        "mistake": "Pensar de used for think about",
+        "why_it_happens": "Opinion and mental focus meanings are mixed.",
+        "correct_spanish": "Use pensar en for think about."
+      },
+      {
+        "mistake": "Reflexive pronoun dropped in pronominal chunks",
+        "why_it_happens": "Verb learned without full form.",
+        "correct_spanish": "Keep forms like quejarse de and enamorarse de."
+      },
+      {
+        "mistake": "Contar en used for rely on",
+        "why_it_happens": "Preposition overgeneralization.",
+        "correct_spanish": "Use contar con."
+      },
+      {
+        "mistake": "Gerund used after prepositions",
+        "why_it_happens": "English ing form transfer.",
+        "correct_spanish": "Use infinitive after prepositions."
+      },
+      {
+        "mistake": "Del contraction omitted",
+        "why_it_happens": "Article after de not integrated.",
+        "correct_spanish": "Use del where required by noun phrase."
+      },
+      {
+        "mistake": "Despedirse confused with non-pronominal despedir",
+        "why_it_happens": "Same root has different meanings.",
+        "correct_spanish": "Use despedirse de for saying goodbye."
+      },
+      {
+        "mistake": "Verb lists memorized without context",
+        "why_it_happens": "Chunk meaning not reinforced in usage.",
+        "correct_spanish": "Practice each pair in complete adult-life sentences."
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "Sueno con viajar mas.",
+        "Anoche sone con mi abuelo.",
+        "Pensamos mudarnos a Mexico.",
+        "Siempre pienso en ti.",
+        "Que piensas de esta idea?",
+        "Ella se enamoro de su companero de trabajo.",
+        "El se despidio de nosotros antes de salir.",
+        "Me canse de esperar.",
+        "Se burlan del estudiante nuevo.",
+        "Me limito a tomar un cafe al dia.",
+        "Mi primo me invito a cenar.",
+        "Aprendi a nadar a los cinco anos.",
+        "Mi padre me enseno a cocinar.",
+        "Vamos a empezar a pintar la casa.",
+        "Puedes ayudarme a organizar la oficina?",
+        "Puedes contar conmigo.",
+        "El resultado depende del presupuesto.",
+        "Ella se queja de todo.",
+        "Nos estamos acostumbrando a trabajar juntos.",
+        "El abusa de su cuerpo con poco sueno."
+      ],
+      "pattern_mutation": [
+        "Sueno con vivir en la montana.",
+        "Pienso mudarme a Mexico.",
+        "Siempre pienso en ustedes.",
+        "Que piensas del nuevo horario?",
+        "Maria se enamoro de su mejor amigo.",
+        "Mi primo se despidio de mi.",
+        "Juan se canso de esperar.",
+        "El estudiante se burla del profesor.",
+        "Me limito a comer postre.",
+        "Mi primo me invito a almorzar.",
+        "Aprendi a conducir a los cinco anos.",
+        "Mi madre me enseno a coser.",
+        "Vamos a empezar a limpiar la casa.",
+        "Siempre puedes contar con nosotros.",
+        "El costo depende del trafico."
+      ],
+      "contrastive_discrimination": [
+        "Sueno con ser abogado.",
+        "Pensamos viajar.",
+        "Pienso en mi familia.",
+        "Que piensas del plan?",
+        "Se enamoro de el.",
+        "Se despidio de mi.",
+        "Empezamos a estudiar.",
+        "Puedo contar contigo?",
+        "Depende del clima.",
+        "Se queja de todo."
+      ],
+      "reverse_conceptual_expression": [
+        "Pienso en cambiar de apartamento.",
+        "Que piensas de esta decision?",
+        "Nos estamos acostumbrando a trabajar de forma remota.",
+        "Ella me invito a almorzar con ella.",
+        "Abusan de su tiempo y luego se quejan.",
+        "Cuento contigo para este proyecto.",
+        "Se canso de fingir.",
+        "La calidad depende de los materiales.",
+        "Empezamos a notar la diferencia.",
+        "Se burlaron de mi acento."
+      ]
+    }
+  }
+}

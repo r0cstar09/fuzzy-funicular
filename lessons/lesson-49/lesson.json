@@ -1,0 +1,248 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "ojala",
+    "subjunctive-contrast",
+    "hope-vs-wish",
+    "adult-learners"
+  ],
+  "difficulty": "B1",
+  "pattern_id": "OJALA_PRESENT_VS_IMPERFECT_SUBJUNCTIVE_49",
+  "source_files": [
+    "lessons/lesson-49/Summary 49.pdf"
+  ],
+  "target_pattern": "Use ojala with present subjunctive for realistic hopes and with imperfect subjunctive for unlikely or hypothetical wishes.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Using one single I hope or I wish structure without changing mood by meaning.",
+      "spanish_logic": "Ojala always triggers subjunctive, but the tense choice signals whether the outcome is plausible or hypothetical.",
+      "target_pattern_formula": [
+        "ojala que plus present subjunctive for likely present or near-future outcomes",
+        "ojala que plus imperfect subjunctive for unlikely or unreal wishes",
+        "que is optional after ojala",
+        "common pair contrasts: haya versus hubiera, pueda versus pudiera, este versus estuviera"
+      ],
+      "natural_examples": [
+        "Ojala no haya mucho trafico.",
+        "Ojala tengamos tiempo para descansar.",
+        "Ojala pueda ayudarte hoy.",
+        "Ojala tuviera mas tiempo.",
+        "Ojala estuvieras aqui."
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each in Spanish with ojala and the correct subjunctive tense.",
+      "prompts_en": [
+        "I hope there is not much traffic.",
+        "Hopefully there is a table in the shade.",
+        "I hope we have time to rest.",
+        "I hope you can come tonight.",
+        "I hope they arrive on time.",
+        "I hope it does not rain tomorrow.",
+        "I hope my boss understands the situation.",
+        "I hope we find a solution today.",
+        "I hope there is enough coffee.",
+        "I hope she feels better soon.",
+        "I wish I had more time.",
+        "I wish I could help you.",
+        "I wish you were here.",
+        "I wish there were fewer people.",
+        "I wish we lived closer.",
+        "I wish he knew the truth.",
+        "I wish they had more patience.",
+        "I wish I were on vacation right now.",
+        "I wish there was less noise.",
+        "I wish we could leave earlier."
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as instructed.",
+      "drills": [
+        "Base: Ojala no haya mucho trafico. -> change noun to ruido.",
+        "Base: Ojala haya una mesa en la sombra. -> change location to la terraza.",
+        "Base: Ojala tengamos tiempo para descansar. -> change infinitive to comer.",
+        "Base: Ojala puedas venir esta noche. -> change subject to plural ustedes.",
+        "Base: Ojala lleguen a tiempo. -> change tense meaning to unlikely wish.",
+        "Base: Ojala no llueva manana. -> change weather verb to hacer frio.",
+        "Base: Ojala mi jefe entienda la situacion. -> change subject to mis clientes.",
+        "Base: Ojala encontremos una solucion hoy. -> change object to plural soluciones.",
+        "Base: Ojala haya suficiente cafe. -> change noun to agua.",
+        "Base: Ojala se mejore pronto. -> change to plural subject.",
+        "Base: Ojala tuviera mas tiempo. -> change noun to dinero.",
+        "Base: Ojala pudiera ayudarte. -> change recipient to plural ustedes.",
+        "Base: Ojala estuvieras aqui. -> change pronoun to ellos.",
+        "Base: Ojala hubiera menos gente. -> change quantity to mas.",
+        "Base: Ojala vivieramos mas cerca. -> change place idea to el mar."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the correct form.",
+      "prompts": [
+        "I hope there is coffee. (Ojala haya cafe. vs Ojala hubiera cafe.)",
+        "I wish there were coffee. (Ojala hubiera cafe. vs Ojala haya cafe.)",
+        "I hope you can come. (Ojala puedas venir. vs Ojala pudieras venir.)",
+        "I wish you could come. (Ojala pudieras venir. vs Ojala puedas venir.)",
+        "I hope we have time. (Ojala tengamos tiempo. vs Ojala tuvieramos tiempo.)",
+        "I wish we had time. (Ojala tuvieramos tiempo. vs Ojala tengamos tiempo.)",
+        "I hope he is here soon. (Ojala este aqui pronto. vs Ojala estuviera aqui pronto.)",
+        "I wish he were here now. (Ojala estuviera aqui ahora. vs Ojala este aqui ahora.)",
+        "I hope they arrive on time. (Ojala lleguen a tiempo. vs Ojala llegaran a tiempo.)",
+        "I wish they arrived on time. (Ojala llegaran a tiempo. vs Ojala lleguen a tiempo.)"
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific meaning.",
+      "prompts": [
+        "Write that you hope there is less traffic tomorrow morning.",
+        "Write that you hope your team finishes the report today.",
+        "Write that you hope your friend can meet after work.",
+        "Write that you hope your client understands your proposal.",
+        "Write that you hope there is enough time for lunch.",
+        "Write that you wish you had more free time this month.",
+        "Write that you wish you could travel this summer.",
+        "Write that you wish your family lived closer.",
+        "Write that you wish your coworker were here now.",
+        "Write that you wish there were fewer meetings next week.",
+        "Write that you hope your parents arrive safely.",
+        "Write that you hope there is a table available tonight.",
+        "Write that you wish your Spanish were more fluent.",
+        "Write that you wish you could sleep more.",
+        "Write that you hope the weather is good tomorrow."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish, not literal English.",
+      "prompts_en": [
+        "Hopefully everything goes well.",
+        "I hope we can solve it today.",
+        "I wish I knew what to say.",
+        "I wish you were with us.",
+        "Hopefully there are seats left.",
+        "I hope she calls me soon.",
+        "I wish there was another option.",
+        "I wish we were already there.",
+        "Hopefully they do not cancel the meeting.",
+        "I wish I could stay longer."
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "ojala plus indicative",
+        "why_it_happens": "Ojala treated as a regular adverb without mood trigger.",
+        "correct_spanish": "Use subjunctive after ojala."
+      },
+      {
+        "mistake": "Present subjunctive used for impossible wish",
+        "why_it_happens": "No distinction between likely hope and unreal wish.",
+        "correct_spanish": "Use imperfect subjunctive for unlikely or hypothetical wishes."
+      },
+      {
+        "mistake": "Imperfect subjunctive used for realistic near-future hope",
+        "why_it_happens": "Overusing one learned pattern.",
+        "correct_spanish": "Use present subjunctive for plausible outcomes."
+      },
+      {
+        "mistake": "Believing que is mandatory after ojala",
+        "why_it_happens": "Chunk memorization without flexibility.",
+        "correct_spanish": "Que is optional after ojala."
+      },
+      {
+        "mistake": "Future tense after ojala",
+        "why_it_happens": "Future meaning interpreted as future morphology.",
+        "correct_spanish": "Use subjunctive, not future indicative."
+      },
+      {
+        "mistake": "ojala pudiera for likely can meaning",
+        "why_it_happens": "Hope and wish contrasts blurred.",
+        "correct_spanish": "Use ojala pueda for likely hope."
+      },
+      {
+        "mistake": "haya and hubiera chosen randomly",
+        "why_it_happens": "Forms look similar and both come from haber.",
+        "correct_spanish": "Choose by realistic hope versus unreal wish meaning."
+      },
+      {
+        "mistake": "Literal translation with deseo instead of ojala in these frames",
+        "why_it_happens": "Lexical translation overrides pragmatic structure.",
+        "correct_spanish": "Use ojala patterns for this type of wish expression."
+      },
+      {
+        "mistake": "Explicit subject pronouns in every ojala clause",
+        "why_it_happens": "English pronoun habit.",
+        "correct_spanish": "Omit pronouns when context is clear."
+      },
+      {
+        "mistake": "Avoiding ojala due to subjunctive anxiety",
+        "why_it_happens": "Overthinking abstract rule descriptions.",
+        "correct_spanish": "Apply simple two-way split: likely hope vs unreal wish."
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "Ojala no haya mucho trafico.",
+        "Ojala haya una mesa en la sombra.",
+        "Ojala tengamos tiempo para descansar.",
+        "Ojala puedas venir esta noche.",
+        "Ojala lleguen a tiempo.",
+        "Ojala no llueva manana.",
+        "Ojala mi jefe entienda la situacion.",
+        "Ojala encontremos una solucion hoy.",
+        "Ojala haya suficiente cafe.",
+        "Ojala se mejore pronto.",
+        "Ojala tuviera mas tiempo.",
+        "Ojala pudiera ayudarte.",
+        "Ojala estuvieras aqui.",
+        "Ojala hubiera menos gente.",
+        "Ojala vivieramos mas cerca.",
+        "Ojala el supiera la verdad.",
+        "Ojala tuvieran mas paciencia.",
+        "Ojala estuviera de vacaciones ahora mismo.",
+        "Ojala hubiera menos ruido.",
+        "Ojala pudieramos salir mas temprano."
+      ],
+      "pattern_mutation": [
+        "Ojala no haya mucho ruido.",
+        "Ojala haya una mesa en la terraza.",
+        "Ojala tengamos tiempo para comer.",
+        "Ojala puedan venir esta noche.",
+        "Ojala llegaran a tiempo.",
+        "Ojala no haga frio manana.",
+        "Ojala mis clientes entiendan la situacion.",
+        "Ojala encontremos soluciones hoy.",
+        "Ojala haya suficiente agua.",
+        "Ojala se mejoren pronto.",
+        "Ojala tuviera mas dinero.",
+        "Ojala pudiera ayudarlos.",
+        "Ojala estuvieran aqui.",
+        "Ojala hubiera mas gente.",
+        "Ojala vivieramos mas cerca del mar."
+      ],
+      "contrastive_discrimination": [
+        "Ojala haya cafe.",
+        "Ojala hubiera cafe.",
+        "Ojala puedas venir.",
+        "Ojala pudieras venir.",
+        "Ojala tengamos tiempo.",
+        "Ojala tuvieramos tiempo.",
+        "Ojala este aqui pronto.",
+        "Ojala estuviera aqui ahora.",
+        "Ojala lleguen a tiempo.",
+        "Ojala llegaran a tiempo."
+      ],
+      "reverse_conceptual_expression": [
+        "Ojala todo salga bien.",
+        "Ojala podamos resolverlo hoy.",
+        "Ojala supiera que decir.",
+        "Ojala estuvieras con nosotros.",
+        "Ojala haya asientos disponibles.",
+        "Ojala ella me llame pronto.",
+        "Ojala hubiera otra opcion.",
+        "Ojala ya estuvieramos alli.",
+        "Ojala no cancelen la reunion.",
+        "Ojala pudiera quedarme mas tiempo."
+      ]
+    }
+  }
+}

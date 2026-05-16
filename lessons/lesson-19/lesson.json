@@ -1,0 +1,251 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "possessive-adjectives",
+    "possessive-pronouns",
+    "ownership-patterns",
+    "adult-learners"
+  ],
+  "difficulty": "A2-B1",
+  "pattern_id": "OWNERSHIP_POSSESSIVES_19",
+  "source_files": [
+    "lessons/lesson-19/Summary 19.pdf",
+    "lessons/lesson-19/Exercise 19.pdf",
+    "lessons/lesson-19/Lesson 19 Pronominal Verbs.pdf"
+  ],
+  "target_pattern": "Express ownership naturally with de quien + es/son, use possessive adjectives before nouns (mi, tu, su), and switch to article + possessive pronouns when replacing nouns (el mio, la tuya, los suyos), clarifying su/suyo with de + person when needed.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Thinking in direct English ownership order and translating whose literally.",
+      "spanish_logic": "Spanish asks ownership with de quien + es/son and uses different forms for before nouns versus replacing nouns.",
+      "target_pattern_formula": [
+        "De quien + es + singular noun",
+        "De quien + son + plural noun",
+        "No, no es mio/mia. Es de + name.",
+        "No, no son mios/mias. Son de + name.",
+        "Use de el/de ella/de ellos to clarify su/suyo when ambiguous."
+      ],
+      "natural_examples": [
+        "De quien es este cargador?",
+        "De quien son estos documentos?",
+        "No, no es mio. Es de Laura.",
+        "No, no son mias. Son de mi jefe.",
+        "Es suyo o de ella?"
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each in Spanish using the ownership patterns. No answer key until the end.",
+      "prompts_en": [
+        "Whose laptop is it?",
+        "Whose keys are they?",
+        "Is this notebook yours?",
+        "No, it is not mine. It is Daniel's.",
+        "Are these glasses yours?",
+        "No, they are not mine. They are Sofia's.",
+        "Whose office is it?",
+        "Whose files are they?",
+        "Is the blue car yours?",
+        "No, it is not mine. It is my sister's.",
+        "Are those reports yours?",
+        "No, they are not mine. They are the director's.",
+        "Whose phone is this?",
+        "Is it hers?",
+        "Yes, it is hers.",
+        "Whose bags are these?",
+        "Are they his?",
+        "No, they are not his. They are ours.",
+        "Is that seat yours?",
+        "No, it is not mine. It is theirs."
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as instructed.",
+      "drills": [
+        "Base: De quien es el portatil? -> change noun to plural (los portatiles).",
+        "Base: De quien son las llaves? -> change noun to singular (la llave).",
+        "Base: No, no es mio. -> change speaker to feminine.",
+        "Base: No, no son mias. -> change possessor to masculine plural.",
+        "Base: Es de Carlos. -> replace with possessive pronoun (suyo).",
+        "Base: Son de Ana. -> replace with possessive pronoun (suyas).",
+        "Base: Es tuyo? -> make it plural feminine.",
+        "Base: Son tuyas? -> make it singular masculine.",
+        "Base: Es su computadora. -> clarify owner is her using de.",
+        "Base: Son sus documentos. -> clarify owner is them using de.",
+        "Base: Es mi abrigo. -> replace noun with possessive pronoun.",
+        "Base: Son tus gafas. -> replace noun with possessive pronoun.",
+        "Base: De quien es la silla? -> ask about los asientos.",
+        "Base: No, no es suyo. -> change to first person plural ownership.",
+        "Base: Son nuestras llaves. -> rewrite with pronoun-only answer."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the correct Spanish form.",
+      "prompts": [
+        "Whose laptop is it? (De quien es el portatil? vs Quien de es el portatil?)",
+        "Whose reports are they? (De quien son los informes? vs De quien es los informes?)",
+        "It's mine. (Es mio. vs Es mi.)",
+        "They are mine. (Son mios. vs Son mi.)",
+        "Is it yours? (Es tuyo? vs Es tu?)",
+        "Are they yours? (Son tuyas? vs Son tuyasas?)",
+        "It's her office. (Es su oficina. vs Es la oficina su.)",
+        "It's hers. (Es suya. vs Es ella.)",
+        "They are theirs. (Son suyos. vs Son de su.)",
+        "It's his car. (Es su coche. vs Es coche suyo as neutral default sentence)"
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific meaning.",
+      "prompts": [
+        "Write that you are asking whose charger this is at work.",
+        "Write that your coworker asks if the notebook is yours.",
+        "Write that the keys are not yours; they are your manager's.",
+        "Write that those documents are yours.",
+        "Write that the blue backpack is your partner's.",
+        "Write that you ask whose headphones those are.",
+        "Write that your phone is on the desk and your colleague's is in the bag.",
+        "Write that your team's office is on the second floor.",
+        "Write that the client's files are not yours.",
+        "Write that you clarify su computadora means her computer.",
+        "Write that those chairs are theirs, not yours.",
+        "Write that your glasses are in the car.",
+        "Write that the report is yours and the presentation is your coworker's.",
+        "Write that you ask if the parked car is his.",
+        "Write that those tickets are ours."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish (not literal English).",
+      "prompts_en": [
+        "Whose is this?",
+        "Those are not mine.",
+        "Is this one yours?",
+        "It's not ours; it's theirs.",
+        "His is on the table, mine is in my bag.",
+        "I think that office is hers.",
+        "Are these your keys or his?",
+        "That jacket isn't yours, it's mine.",
+        "Their car is outside.",
+        "Which one is yours?"
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "Quien es el portatil?",
+        "why_it_happens": "Literal transfer from English who is.",
+        "correct_spanish": "De quien es el portatil?"
+      },
+      {
+        "mistake": "De quien es las llaves?",
+        "why_it_happens": "Forgetting number agreement with es/son.",
+        "correct_spanish": "De quien son las llaves?"
+      },
+      {
+        "mistake": "Es mi when noun is omitted",
+        "why_it_happens": "Confusing adjective and pronoun forms.",
+        "correct_spanish": "Es mio/mia."
+      },
+      {
+        "mistake": "Son mi",
+        "why_it_happens": "Not switching to plural pronoun form.",
+        "correct_spanish": "Son mios/mias."
+      },
+      {
+        "mistake": "Es de ella casa",
+        "why_it_happens": "Mixing two ownership structures.",
+        "correct_spanish": "Es su casa or Es la casa de ella."
+      },
+      {
+        "mistake": "Es tu?",
+        "why_it_happens": "Using adjective form instead of pronoun form.",
+        "correct_spanish": "Es tuyo/tuya?"
+      },
+      {
+        "mistake": "el mio coche",
+        "why_it_happens": "Combining pronoun phrase with a noun incorrectly.",
+        "correct_spanish": "mi coche or el mio (without noun)."
+      },
+      {
+        "mistake": "Overusing possessives with body parts/clothing in obvious context",
+        "why_it_happens": "English influence.",
+        "correct_spanish": "Often article preferred: Me duele la cabeza. Ponte la camisa."
+      },
+      {
+        "mistake": "Treating su as only his",
+        "why_it_happens": "su/sus are ambiguous in Spanish.",
+        "correct_spanish": "Clarify with de el/de ella/de ellos when needed."
+      },
+      {
+        "mistake": "Gender mismatch like la mio or los mia",
+        "why_it_happens": "Tracking owner instead of noun gender/number.",
+        "correct_spanish": "Match replaced noun: la mia, los mios, las suyas."
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "De quien es el portatil?",
+        "De quien son las llaves?",
+        "Es tuyo este cuaderno?",
+        "No, no es mio. Es de Daniel.",
+        "Son tuyas estas gafas?",
+        "No, no son mias. Son de Sofia.",
+        "De quien es la oficina?",
+        "De quien son los archivos?",
+        "Es tuyo el coche azul?",
+        "No, no es mio. Es de mi hermana.",
+        "Son tuyos esos informes?",
+        "No, no son mios. Son del director.",
+        "De quien es este telefono?",
+        "Es suyo?",
+        "Si, es suyo.",
+        "De quien son estas bolsas?",
+        "Son suyas?",
+        "No, no son suyas. Son nuestras.",
+        "Es tuyo ese asiento?",
+        "No, no es mio. Es suyo."
+      ],
+      "pattern_mutation": [
+        "De quien son los portatiles?",
+        "De quien es la llave?",
+        "No, no es mia.",
+        "No, no son mios.",
+        "Es suyo.",
+        "Son suyas.",
+        "Son tuyas?",
+        "Es tuyo?",
+        "Es la computadora de ella.",
+        "Son los documentos de ellos.",
+        "Es el mio.",
+        "Son las tuyas.",
+        "De quien son los asientos?",
+        "No, no es nuestro.",
+        "Son nuestras."
+      ],
+      "contrastive_discrimination": [
+        "De quien es el portatil?",
+        "De quien son los informes?",
+        "Es mio.",
+        "Son mios.",
+        "Es tuyo?",
+        "Son tuyas?",
+        "Es su oficina.",
+        "Es suya.",
+        "Son suyos.",
+        "Es su coche."
+      ],
+      "reverse_conceptual_expression": [
+        "De quien es esto?",
+        "Esas no son mias.",
+        "Esta es tuya?",
+        "No es nuestro; es suyo.",
+        "El suyo esta en la mesa, el mio en mi bolsa.",
+        "Creo que esa oficina es suya.",
+        "Estas llaves son tuyas o suyas?",
+        "Esa chaqueta no es tuya, es mia.",
+        "Su coche esta afuera.",
+        "Cual es tuyo?"
+      ]
+    }
+  }
+}

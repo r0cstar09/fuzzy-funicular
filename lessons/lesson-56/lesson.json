@@ -1,0 +1,249 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "prepositions",
+    "infinitive",
+    "para-que-subjunctive",
+    "adult-learners"
+  ],
+  "difficulty": "B1",
+  "pattern_id": "PREPOSITION_PLUS_INFINITIVE_AND_PARA_QUE_56",
+  "source_files": [
+    "lessons/lesson-56/Summary 56.pdf"
+  ],
+  "target_pattern": "Use prepositions plus infinitive to connect actions fluently, and switch to para que plus subjunctive when purpose clauses involve a different subject.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Conjugating every second verb and losing fluency in real time.",
+      "spanish_logic": "Spanish uses preposition plus infinitive chunks to link actions quickly. For purpose with same subject use para plus infinitive, but with subject change use para que plus subjunctive.",
+      "target_pattern_formula": [
+        "al plus infinitive for upon doing",
+        "antes de or despues de plus infinitive for sequencing",
+        "en vez de or en lugar de plus infinitive for substitution",
+        "sin plus infinitive for without doing",
+        "para plus infinitive same subject, para que plus subjunctive different subject"
+      ],
+      "natural_examples": [
+        "Al llegar a casa, me acoste.",
+        "Antes de salir, compre pan.",
+        "Despues de comer, volvi al trabajo.",
+        "Se fue sin despedirse.",
+        "Apague la luz para que los ninos durmieran."
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each in natural Spanish using preposition plus infinitive or para que when needed.",
+      "prompts_en": [
+        "Upon arriving at the office, I checked my email.",
+        "Upon finishing the report, I sent it to my boss.",
+        "Before leaving, I turned off the computer.",
+        "Before going to bed, I set my alarm.",
+        "After eating, we went back to work.",
+        "After seeing the message, she called me.",
+        "Instead of driving, I took the train.",
+        "Instead of complaining, they decided to act.",
+        "He left without saying goodbye.",
+        "I signed the contract without reading it carefully.",
+        "We left early in order to arrive on time.",
+        "I bought coffee to stay awake.",
+        "I lowered my voice so the baby could sleep.",
+        "I sent him a reminder so he would not forget.",
+        "Before getting dressed, she took a shower.",
+        "After reviewing the numbers, we made a decision.",
+        "Instead of studying at home, I worked at a cafe.",
+        "She ate without heating the food.",
+        "I saved the file to share it with the team.",
+        "I moved the meeting so everyone could attend."
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as instructed.",
+      "drills": [
+        "Base: Al llegar a casa, me acoste. -> change place to la oficina.",
+        "Base: Antes de salir, compre pan. -> change verb comprar to llamar a mi madre.",
+        "Base: Despues de comer, volvi al trabajo. -> change first verb to reunirme.",
+        "Base: En vez de trabajar, decidi descansar. -> change infinitive to discutir.",
+        "Base: Se fue sin despedirse. -> change subject to plural ellos.",
+        "Base: Salimos temprano para llegar a tiempo. -> change infinitive to evitar trafico.",
+        "Base: Compre flores para decorar la casa. -> change object to la oficina.",
+        "Base: Apague la luz para que los ninos durmieran. -> change subject in second clause to singular el bebe.",
+        "Base: Antes de acostarme, vi una pelicula. -> change reflexive verb to ducharme.",
+        "Base: Antes de acostarte, cepillate los dientes. -> change pronoun to plural acostarse ustedes.",
+        "Base: Despues de ver la pelicula, me acoste. -> change to morning routine with despertarme.",
+        "Base: Sin pensarlo mucho, acepte la oferta. -> change verb acepte to rechace.",
+        "Base: En lugar de estudiar, fui a la playa. -> change destination to el gimnasio.",
+        "Base: Revise el documento para compartirlo con el equipo. -> change to different subject using para que.",
+        "Base: Cambie la fecha para que todos asistieran. -> change tense to present context."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the correct option.",
+      "prompts": [
+        "We left early to arrive on time. (Salimos temprano para llegar a tiempo. vs Salimos temprano para que llegar a tiempo.)",
+        "I wrote it down so Ana would remember. (Lo anote para que Ana se acordara. vs Lo anote para acordarse Ana.)",
+        "Before leaving, call me. (Antes de salir, llamame. vs Antes que salir, llamame.)",
+        "After eating, he went out. (Despues de comer, salio. vs Despues que comer, salio.)",
+        "She left without saying anything. (Se fue sin decir nada. vs Se fue sin que decir nada.)",
+        "I moved the lamp so the baby could sleep. (Movi la lampara para que el bebe durmiera. vs Movi la lampara para dormir el bebe.)",
+        "Instead of arguing, we listened. (En vez de discutir, escuchamos. vs En vez que discutir, escuchamos.)",
+        "I saved money to travel. (Ahorre dinero para viajar. vs Ahorre dinero para que viajar.)",
+        "I closed the door so they would not hear us. (Cerre la puerta para que no nos oyeran. vs Cerre la puerta para no oirnos ellos.)",
+        "Upon arriving, send me a message. (Al llegar, mandame un mensaje. vs A llegar, mandame un mensaje.)"
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific meaning.",
+      "prompts": [
+        "Write that upon arriving home, you made dinner.",
+        "Write that before leaving work, you replied to two emails.",
+        "Write that after finishing the meeting, you called your partner.",
+        "Write that instead of driving, you walked to the store.",
+        "Write that you left without checking social media.",
+        "Write that you woke up early to go to the gym.",
+        "Write that you prepared notes so your team could present clearly.",
+        "Write that before showering, you made coffee.",
+        "Write that after reviewing the budget, you changed the plan.",
+        "Write that instead of complaining, you proposed a solution.",
+        "Write that you muted your phone so your child could sleep.",
+        "Write that you studied at night to improve your Spanish.",
+        "Write that before getting dressed, you checked the weather.",
+        "Write that you signed without reading carefully.",
+        "Write that you moved the call so everyone could join."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish, not literal English.",
+      "prompts_en": [
+        "Before answering, think for a second.",
+        "After reading the email, I understood everything.",
+        "Instead of waiting, we started.",
+        "She left without saying anything.",
+        "I turned down the music so my neighbor could rest.",
+        "Upon seeing the price, we changed our mind.",
+        "I brought snacks to share with the team.",
+        "Before getting angry, ask what happened.",
+        "I called him so he would arrive early.",
+        "Instead of sleeping late, I went for a run."
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "Conjugated verb used after preposition",
+        "why_it_happens": "Learner expects every verb to be finite.",
+        "correct_spanish": "Use infinitive after these prepositions."
+      },
+      {
+        "mistake": "Para plus infinitive used with subject change",
+        "why_it_happens": "Single purpose formula overgeneralized.",
+        "correct_spanish": "Use para que plus subjunctive when subjects differ."
+      },
+      {
+        "mistake": "Antes que used in this infinitive frame",
+        "why_it_happens": "Direct mapping from English before that.",
+        "correct_spanish": "Use antes de plus infinitive."
+      },
+      {
+        "mistake": "Reflexive pronoun separated from infinitive",
+        "why_it_happens": "Pronoun placement uncertainty.",
+        "correct_spanish": "Attach pronoun to infinitive forms like acostarme."
+      },
+      {
+        "mistake": "Finite verb used after sin",
+        "why_it_happens": "Word-by-word translation.",
+        "correct_spanish": "Use sin plus infinitive."
+      },
+      {
+        "mistake": "Al followed by conjugated verb",
+        "why_it_happens": "Al interpreted as simple article contraction.",
+        "correct_spanish": "Use al plus infinitive."
+      },
+      {
+        "mistake": "En vez de mixed with clause connectors",
+        "why_it_happens": "Two structures blended together.",
+        "correct_spanish": "Keep en vez de plus infinitive."
+      },
+      {
+        "mistake": "Dropping de in despues de",
+        "why_it_happens": "Chunk memorized incompletely.",
+        "correct_spanish": "Use full phrase despues de plus infinitive."
+      },
+      {
+        "mistake": "Wrong subjunctive tense after para que",
+        "why_it_happens": "Tense agreement not tracked.",
+        "correct_spanish": "Select present or imperfect subjunctive by context."
+      },
+      {
+        "mistake": "Avoiding these chunks in conversation",
+        "why_it_happens": "Fear of grammar mistakes under pressure.",
+        "correct_spanish": "Use these formulas to increase speed and fluency."
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "Al llegar a la oficina, revise mi correo.",
+        "Al terminar el informe, se lo envie a mi jefe.",
+        "Antes de salir, apague la computadora.",
+        "Antes de acostarme, puse la alarma.",
+        "Despues de comer, volvimos al trabajo.",
+        "Despues de ver el mensaje, me llamo.",
+        "En vez de manejar, tome el tren.",
+        "En vez de quejarse, decidieron actuar.",
+        "Se fue sin despedirse.",
+        "Firme el contrato sin leerlo con cuidado.",
+        "Salimos temprano para llegar a tiempo.",
+        "Compre cafe para mantenerme despierto.",
+        "Baje la voz para que el bebe pudiera dormir.",
+        "Le mande un recordatorio para que no se olvidara.",
+        "Antes de vestirse, se ducho.",
+        "Despues de revisar los numeros, tomamos una decision.",
+        "En vez de estudiar en casa, trabaje en un cafe.",
+        "Comio sin calentar la comida.",
+        "Guarde el archivo para compartirlo con el equipo.",
+        "Cambie la reunion para que todos pudieran asistir."
+      ],
+      "pattern_mutation": [
+        "Al llegar a la oficina, me acoste.",
+        "Antes de salir, llame a mi madre.",
+        "Despues de reunirme, volvi al trabajo.",
+        "En vez de discutir, decidi descansar.",
+        "Se fueron sin despedirse.",
+        "Salimos temprano para evitar trafico.",
+        "Compre flores para decorar la oficina.",
+        "Apague la luz para que el bebe durmiera.",
+        "Antes de ducharme, vi una pelicula.",
+        "Antes de acostarse, cepillense los dientes.",
+        "Despues de despertarme, me levante.",
+        "Sin pensarlo mucho, rechace la oferta.",
+        "En lugar de estudiar, fui al gimnasio.",
+        "Revise el documento para que el equipo lo compartiera.",
+        "Cambio la fecha para que todos asistan."
+      ],
+      "contrastive_discrimination": [
+        "Salimos temprano para llegar a tiempo.",
+        "Lo anote para que Ana se acordara.",
+        "Antes de salir, llamame.",
+        "Despues de comer, salio.",
+        "Se fue sin decir nada.",
+        "Movi la lampara para que el bebe durmiera.",
+        "En vez de discutir, escuchamos.",
+        "Ahorre dinero para viajar.",
+        "Cerre la puerta para que no nos oyeran.",
+        "Al llegar, mandame un mensaje."
+      ],
+      "reverse_conceptual_expression": [
+        "Antes de responder, piensa un segundo.",
+        "Despues de leer el correo, entendi todo.",
+        "En vez de esperar, empezamos.",
+        "Se fue sin decir nada.",
+        "Baje la musica para que mi vecino pudiera descansar.",
+        "Al ver el precio, cambiamos de opinion.",
+        "Lleve bocadillos para compartir con el equipo.",
+        "Antes de enojarte, pregunta que paso.",
+        "Lo llame para que llegara temprano.",
+        "En vez de dormir hasta tarde, sali a correr."
+      ]
+    }
+  }
+}

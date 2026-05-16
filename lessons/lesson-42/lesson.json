@@ -1,0 +1,250 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "relative-pronouns",
+    "clause-linking",
+    "natural-spanish",
+    "adult-learners"
+  ],
+  "difficulty": "B1",
+  "pattern_id": "RELATIVE_PRONOUN_LINKING_42",
+  "source_files": [
+    "lessons/lesson-42/Summary 42.pdf",
+    "lessons/lesson-42/Poner Summary.pdf"
+  ],
+  "target_pattern": "Link clauses naturally with que, quien(es), el/la/los/las que, and lo que while keeping required prepositions before the relative pronoun.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Dropping relative pronouns and leaving prepositions at sentence ends.",
+      "spanish_logic": "Spanish keeps explicit relative links and places prepositions before the relative pronoun.",
+      "target_pattern_formula": [
+        "noun plus que plus clause as default",
+        "preposition plus quien or quienes for people",
+        "preposition plus el/la/los/las que with agreement",
+        "lo que for ideas and what clauses",
+        "no dangling prepositions in Spanish"
+      ],
+      "natural_examples": [
+        "El libro que lei fue util.",
+        "La mujer con quien trabaje vive cerca.",
+        "La persona de la que te hable llego hoy.",
+        "Lo que necesito es tiempo.",
+        "Ella llego tarde, lo cual sorprendio a todos."
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each in Spanish using the correct relative-pronoun pattern.",
+      "prompts_en": [
+        "The student who won the scholarship is my coworker.",
+        "The house that they bought is near downtown.",
+        "The report that I read yesterday was clear.",
+        "The woman whom I saw yesterday works here.",
+        "We had dinner with the neighbors with whom we always talk.",
+        "My brother, who lives in London, is visiting this month.",
+        "The person that I fell in love with just arrived.",
+        "The ones who study more usually pass.",
+        "My friends, the ones who live nearby, are coming today.",
+        "The communication channels through which we stay in touch are failing.",
+        "The trees under which I played as a child have grown a lot.",
+        "The person I talked about is here.",
+        "The woman I went to the event with is over there.",
+        "The manager you wrote about just called me.",
+        "What I want is peace and time.",
+        "I want to talk about what happened yesterday.",
+        "What I like most is cooking at home.",
+        "She arrived late, which surprised everyone.",
+        "The company that hired me is expanding.",
+        "The client with whom I spoke yesterday accepted the proposal."
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as instructed.",
+      "drills": [
+        "Base: El libro que lei fue util. -> change noun to la pelicula.",
+        "Base: La persona de la que te hable llego. -> change verb to escribi.",
+        "Base: Salimos con los vecinos con quienes cenamos. -> change vecinos to singular vecino.",
+        "Base: Mi prima, quien vive en Mexico, viene hoy. -> change country to Espana.",
+        "Base: Los que trabajan remoto llegan antes. -> change subject to feminine plural.",
+        "Base: Lo que quiero es descanso. -> change noun to estabilidad.",
+        "Base: Quiero hablar de lo que paso ayer. -> change time to anoche.",
+        "Base: El hombre sobre el que escribiste llego. -> change preposition to con.",
+        "Base: La mujer con la que fui al concierto esta aqui. -> change event to la reunion.",
+        "Base: Ella llego tarde, lo cual sorprendio a todos. -> change reaction to molesto a todos.",
+        "Base: La casa que compraron esta en el centro. -> make plural casas.",
+        "Base: El estudiante que gano es talentoso. -> change noun to estudiantes and agreement.",
+        "Base: La persona de la que me enamore acaba de llegar. -> make it negative in arrival clause.",
+        "Base: El libro que lei fue interesante. -> change to first person plural subject in relative clause.",
+        "Base: El cliente con quien hable acepto. -> change to feminine singular la clienta."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the correct Spanish form.",
+      "prompts": [
+        "The woman who works here (La mujer que trabaja aqui vs La mujer quien trabaja aqui)",
+        "The woman with whom I work (La mujer con quien trabajo vs La mujer que trabajo con)",
+        "The person I talked about (La persona de la que hable vs La persona que hable de)",
+        "What I need is peace (Lo que necesito es paz vs La que necesito es paz)",
+        "My brother, who lives in London, is coming (Mi hermano, quien vive en Londres, viene vs Mi hermano que vive en Londres viene for non-restrictive target)",
+        "The one who called me is outside (El que me llamo esta afuera vs Lo que me llamo esta afuera)",
+        "The clients with whom we met (Los clientes con los que nos reunimos vs Los clientes que nos reunimos con)",
+        "She was late, which surprised everyone (Llego tarde, lo cual sorprendio a todos vs Llego tarde, la cual sorprendio a todos)",
+        "The report that you wrote (El informe que escribiste vs El informe quien escribiste)",
+        "The proposal about which we spoke (La propuesta de la que hablamos vs La propuesta que hablamos de)"
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific meaning.",
+      "prompts": [
+        "Write that the colleague who helped you yesterday is very efficient.",
+        "Write that the project you started last month is moving fast.",
+        "Write that the person you spoke with by phone called again.",
+        "Write that the team with whom you work is expanding.",
+        "Write that what you want now is better balance.",
+        "Write that what happened in the meeting worried you.",
+        "Write that the article you read this morning was useful.",
+        "Write that the client about whom you wrote approved the budget.",
+        "Write that your sister, who lives abroad, is visiting soon.",
+        "Write that the people who arrive early leave early too.",
+        "Write that the tool with which you edit videos is expensive.",
+        "Write that the company that hired your friend is growing.",
+        "Write that the issue about which they complained is now fixed.",
+        "Write that what you like most is learning by doing.",
+        "Write that the manager with whom you met sent the contract."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish, not literal English.",
+      "prompts_en": [
+        "The person I went with is already here.",
+        "The thing we talked about is important.",
+        "What we need is a clear plan.",
+        "The people I work with are very professional.",
+        "The email you sent me was clear.",
+        "She changed the date, which caused confusion.",
+        "The city I grew up in is very small.",
+        "The friend I told you about called me.",
+        "The topic we argued about yesterday is closed now.",
+        "What matters most is consistency."
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "La mujer quien trabaja aqui",
+        "why_it_happens": "Overusing quien for all who cases.",
+        "correct_spanish": "La mujer que trabaja aqui."
+      },
+      {
+        "mistake": "La persona que hable de",
+        "why_it_happens": "Dangling preposition transfer from English.",
+        "correct_spanish": "La persona de la que hable."
+      },
+      {
+        "mistake": "El libro lei",
+        "why_it_happens": "Omitting required relative pronoun.",
+        "correct_spanish": "El libro que lei."
+      },
+      {
+        "mistake": "Lo que me llamo for a person",
+        "why_it_happens": "Confusing idea reference with person reference.",
+        "correct_spanish": "Use el que or quien for people."
+      },
+      {
+        "mistake": "No agreement in el/la/los/las que",
+        "why_it_happens": "Not matching antecedent gender and number.",
+        "correct_spanish": "Match agreement, for example la que, los que."
+      },
+      {
+        "mistake": "Random formal el cual in casual speech",
+        "why_it_happens": "Trying to sound formal in every sentence.",
+        "correct_spanish": "Use que as default unless formality or clarity requires otherwise."
+      },
+      {
+        "mistake": "Quien used for things after preposition",
+        "why_it_happens": "No noun type check before choosing pronoun.",
+        "correct_spanish": "Use el/la que or el/la cual for things."
+      },
+      {
+        "mistake": "Missing commas in non-restrictive clauses",
+        "why_it_happens": "Not separating extra information.",
+        "correct_spanish": "Use commas for non-essential relative information."
+      },
+      {
+        "mistake": "De que when de lo que is required",
+        "why_it_happens": "Missing neutral lo for idea reference.",
+        "correct_spanish": "Use de lo que paso."
+      },
+      {
+        "mistake": "Gendered pronoun for whole-clause which",
+        "why_it_happens": "Literal English mapping of which.",
+        "correct_spanish": "Use lo cual for clause-level reference."
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "El estudiante que gano la beca es mi companero de trabajo.",
+        "La casa que compraron esta cerca del centro.",
+        "El informe que lei ayer fue claro.",
+        "La mujer a quien vi ayer trabaja aqui.",
+        "Cenamos con los vecinos con quienes siempre hablamos.",
+        "Mi hermano, quien vive en Londres, viene de visita este mes.",
+        "La persona de la que me enamore acaba de llegar.",
+        "Los que estudian mas normalmente aprueban.",
+        "Mis amigos, los que viven cerca, vienen hoy.",
+        "Los canales de comunicacion por los cuales mantenemos contacto estan fallando.",
+        "Los arboles bajo los cuales jugaba de nino han crecido mucho.",
+        "La persona de la que hable esta aqui.",
+        "La mujer con la que fui al evento esta alli.",
+        "El gerente sobre el que escribiste me llamo.",
+        "Lo que quiero es paz y tiempo.",
+        "Quiero hablar de lo que paso ayer.",
+        "Lo que mas me gusta es cocinar en casa.",
+        "Ella llego tarde, lo cual sorprendio a todos.",
+        "La empresa que me contrato se esta expandiendo.",
+        "El cliente con quien hable ayer acepto la propuesta."
+      ],
+      "pattern_mutation": [
+        "La pelicula que lei fue util.",
+        "La persona de la que te escribi llego.",
+        "Salimos con el vecino con quien cenamos.",
+        "Mi prima, quien vive en Espana, viene hoy.",
+        "Las que trabajan remoto llegan antes.",
+        "Lo que quiero es estabilidad.",
+        "Quiero hablar de lo que paso anoche.",
+        "El hombre con el que escribiste llego.",
+        "La mujer con la que fui a la reunion esta aqui.",
+        "Ella llego tarde, lo cual molesto a todos.",
+        "Las casas que compraron estan en el centro.",
+        "Los estudiantes que ganaron son talentosos.",
+        "La persona de la que me enamore no acaba de llegar.",
+        "El libro que leimos fue interesante.",
+        "La clienta con quien hable acepto."
+      ],
+      "contrastive_discrimination": [
+        "La mujer que trabaja aqui.",
+        "La mujer con quien trabajo.",
+        "La persona de la que hable.",
+        "Lo que necesito es paz.",
+        "Mi hermano, quien vive en Londres, viene.",
+        "El que me llamo esta afuera.",
+        "Los clientes con los que nos reunimos.",
+        "Llego tarde, lo cual sorprendio a todos.",
+        "El informe que escribiste.",
+        "La propuesta de la que hablamos."
+      ],
+      "reverse_conceptual_expression": [
+        "La persona con la que fui ya esta aqui.",
+        "El tema del que hablamos es importante.",
+        "Lo que necesitamos es un plan claro.",
+        "La gente con la que trabajo es muy profesional.",
+        "El correo que me enviaste fue claro.",
+        "Ella cambio la fecha, lo cual causo confusion.",
+        "La ciudad en la que creci es muy pequena.",
+        "El amigo del que te hable me llamo.",
+        "El tema sobre el que discutimos ayer ya esta cerrado.",
+        "Lo que mas importa es la constancia."
+      ]
+    }
+  }
+}

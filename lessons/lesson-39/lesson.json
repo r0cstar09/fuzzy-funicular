@@ -1,0 +1,251 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "preterite",
+    "completed-actions",
+    "past-tense",
+    "adult-learners"
+  ],
+  "difficulty": "A2-B1",
+  "pattern_id": "PRETERITE_COMPLETED_ACTIONS_39",
+  "source_files": [
+    "lessons/lesson-39/Summary 39.pdf",
+    "lessons/lesson-39/Lesson 39 Exercise.pdf",
+    "lessons/lesson-39/preterit tense Conjugations.pdf"
+  ],
+  "target_pattern": "Use preterite for completed past actions with time anchors, including regular endings, high-frequency irregulars, and key spelling or stem shifts.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Using one generic past form without marking completed actions.",
+      "spanish_logic": "Preterite packages an action as finished, especially with specific past-time cues such as ayer, anoche, and el ano pasado.",
+      "target_pattern_formula": [
+        "completed action plus specific time marker uses preterite",
+        "regular ar endings: e, aste, o, amos, aron",
+        "regular er and ir endings: i, iste, io, imos, ieron",
+        "frequent irregulars: fui, hice, tuve, estuve, pude, dije, vine, vi, di",
+        "yo spelling shifts and third-person ir stem shifts"
+      ],
+      "natural_examples": [
+        "Comi tacos anoche.",
+        "Fui a la tienda ayer.",
+        "Le dije la verdad.",
+        "Estuvimos en casa toda la noche.",
+        "Ellos durmieron poco."
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each in Spanish using the preterite.",
+      "prompts_en": [
+        "I spoke with her yesterday.",
+        "Did you study for the exam last night?",
+        "He bought a car last year.",
+        "We walked through the park.",
+        "They arrived late to the party.",
+        "You (formal) worked a lot yesterday.",
+        "I looked for my keys.",
+        "Did you listen to the song?",
+        "I ate tacos last night.",
+        "She drank coffee this morning.",
+        "We wrote the email.",
+        "They learned Spanish last year.",
+        "I went to the beach.",
+        "Were you able to finish the work?",
+        "I told him the truth.",
+        "You came to the meeting.",
+        "She saw a movie.",
+        "I gave the keys to my friend.",
+        "Where were you last night? (tu)",
+        "They slept very little yesterday."
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as instructed.",
+      "drills": [
+        "Base: Hable con ella ayer. -> change subject to tu.",
+        "Base: Comi tacos anoche. -> change object to ensalada.",
+        "Base: Fuimos a la tienda. -> change subject to yo.",
+        "Base: El dijo la verdad. -> make it negative.",
+        "Base: Estuviste en casa anoche. -> change to question form.",
+        "Base: Tuviste tiempo para estudiar. -> change subject to nosotros.",
+        "Base: Pude terminar el trabajo. -> change subject to ella.",
+        "Base: Vinieron a la fiesta. -> change to singular el.",
+        "Base: Vi una pelicula. -> change subject to nosotros.",
+        "Base: Di las llaves a mi amigo. -> change recipient to mi hermana.",
+        "Base: Busque mi telefono. -> change verb to pagar and object to la cuenta.",
+        "Base: Comence la clase temprano. -> change subject to nosotros.",
+        "Base: El durmio ocho horas. -> change subject to ellos.",
+        "Base: Ella pidio ayuda. -> change subject to ellos.",
+        "Base: Hiciste la tarea ayer. -> change to question form with tu."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the correct Spanish form for a completed event.",
+      "prompts": [
+        "I ate tacos. (Comi tacos. vs Comia tacos.)",
+        "I went to the store yesterday. (Fui a la tienda ayer. vs Iba a la tienda ayer.)",
+        "She told me the truth. (Me dijo la verdad. vs Me decia la verdad.)",
+        "We were at home all night as one completed event. (Estuvimos en casa toda la noche. vs Estabamos en casa toda la noche.)",
+        "I saw a movie last night. (Vi una pelicula anoche. vs Veia una pelicula anoche.)",
+        "They came to the party. (Vinieron a la fiesta. vs Venian a la fiesta.)",
+        "I gave him the money. (Le di el dinero. vs Le daba el dinero.)",
+        "Were you able to finish it? (Pudiste terminarlo? vs Podias terminarlo?)",
+        "I had time to study. (Tuve tiempo para estudiar. vs Tenia tiempo para estudiar.)",
+        "What did you do yesterday? (Que hiciste ayer? vs Que hacias ayer?)"
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific meaning.",
+      "prompts": [
+        "Write that you finished a report yesterday.",
+        "Write that you called your mother last night.",
+        "Write that you went to the bank this morning.",
+        "Write that your team arrived late to a meeting.",
+        "Write that you had time to exercise yesterday.",
+        "Write that you could not open the file yesterday.",
+        "Write that your coworker told you the truth.",
+        "Write that you gave your colleague the document.",
+        "Write that you saw your manager at the office yesterday.",
+        "Write that your friends came to your house last weekend.",
+        "Write that you looked for your phone and found it.",
+        "Write that you paid the bill yesterday.",
+        "Write that your class started early this morning.",
+        "Write that two coworkers slept very little last night.",
+        "Write that your client asked for help yesterday."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish, not literal English.",
+      "prompts_en": [
+        "I already ate.",
+        "Did you talk to Ana yesterday?",
+        "He did not do anything.",
+        "We went out last night.",
+        "They were able to finish on time.",
+        "I told him that I went to the store.",
+        "Why did you come so late?",
+        "I saw him at the restaurant.",
+        "She gave me the keys.",
+        "We had a good night."
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "Comia tacos anoche for one finished meal",
+        "why_it_happens": "Using imperfect for a completed event.",
+        "correct_spanish": "Comi tacos anoche."
+      },
+      {
+        "mistake": "Yo fue",
+        "why_it_happens": "Mixing person endings with ir and ser preterite.",
+        "correct_spanish": "Yo fui."
+      },
+      {
+        "mistake": "Deci la verdad",
+        "why_it_happens": "Regularizing irregular decir.",
+        "correct_spanish": "Dije la verdad."
+      },
+      {
+        "mistake": "Podi terminar",
+        "why_it_happens": "Forgetting preterite of poder.",
+        "correct_spanish": "Pude terminar."
+      },
+      {
+        "mistake": "Busce or pague without spelling awareness",
+        "why_it_happens": "Yo-form spelling shifts not memorized.",
+        "correct_spanish": "Use busque, pague, comence."
+      },
+      {
+        "mistake": "Dormieron for el",
+        "why_it_happens": "Applying plural third person to singular subject.",
+        "correct_spanish": "El durmio."
+      },
+      {
+        "mistake": "Nosotros dijo",
+        "why_it_happens": "Using third person irregular with nosotros.",
+        "correct_spanish": "Nosotros dijimos."
+      },
+      {
+        "mistake": "Le dio las llaves a mi",
+        "why_it_happens": "Incomplete object phrase after preposition.",
+        "correct_spanish": "Le dio las llaves a mi amiga."
+      },
+      {
+        "mistake": "Hablastes",
+        "why_it_happens": "Adding extra s to preterite tu form.",
+        "correct_spanish": "Hablaste."
+      },
+      {
+        "mistake": "No time marker in completed-action drills",
+        "why_it_happens": "Not anchoring event completion in context.",
+        "correct_spanish": "Use ayer, anoche, or el ano pasado when relevant."
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "Hable con ella ayer.",
+        "Estudiaste para el examen anoche?",
+        "El compro un coche el ano pasado.",
+        "Caminamos por el parque.",
+        "Llegaron tarde a la fiesta.",
+        "Usted trabajo mucho ayer.",
+        "Busque mis llaves.",
+        "Escuchaste la cancion?",
+        "Comi tacos anoche.",
+        "Ella bebio cafe esta manana.",
+        "Escribimos el correo.",
+        "Aprendieron espanol el ano pasado.",
+        "Fui a la playa.",
+        "Pudiste terminar el trabajo?",
+        "Le dije la verdad.",
+        "Viniste a la reunion.",
+        "Ella vio una pelicula.",
+        "Di las llaves a mi amigo.",
+        "Donde estuviste anoche?",
+        "Ellos durmieron muy poco ayer."
+      ],
+      "pattern_mutation": [
+        "Hablaste con ella ayer.",
+        "Comi ensalada anoche.",
+        "Fui a la tienda.",
+        "El no dijo la verdad.",
+        "Estuviste en casa anoche?",
+        "Tuvimos tiempo para estudiar.",
+        "Ella pudo terminar el trabajo.",
+        "El vino a la fiesta.",
+        "Vimos una pelicula.",
+        "Di las llaves a mi hermana.",
+        "Pague la cuenta.",
+        "Comenzamos la clase temprano.",
+        "Ellos durmieron ocho horas.",
+        "Ellos pidieron ayuda.",
+        "Hiciste la tarea ayer?"
+      ],
+      "contrastive_discrimination": [
+        "Comi tacos.",
+        "Fui a la tienda ayer.",
+        "Me dijo la verdad.",
+        "Estuvimos en casa toda la noche.",
+        "Vi una pelicula anoche.",
+        "Vinieron a la fiesta.",
+        "Le di el dinero.",
+        "Pudiste terminarlo?",
+        "Tuve tiempo para estudiar.",
+        "Que hiciste ayer?"
+      ],
+      "reverse_conceptual_expression": [
+        "Ya comi.",
+        "Hablaste con Ana ayer?",
+        "No hizo nada.",
+        "Salimos anoche.",
+        "Pudieron terminar a tiempo.",
+        "Le dije que fui a la tienda.",
+        "Por que viniste tan tarde?",
+        "Lo vi en el restaurante.",
+        "Ella me dio las llaves.",
+        "Tuvimos una buena noche."
+      ]
+    }
+  }
+}

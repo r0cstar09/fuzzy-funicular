@@ -1,0 +1,251 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "future-tense",
+    "ir-a-infinitive",
+    "probability-future",
+    "adult-learners"
+  ],
+  "difficulty": "A2-B1",
+  "pattern_id": "THREE_FUTURE_PATHS_AND_SUPPOSITION_37",
+  "source_files": [
+    "lessons/lesson-37/Summary 37.pdf",
+    "lessons/lesson-37/Lesson 37 Exercise.pdf",
+    "lessons/lesson-37/future tense.pdf"
+  ],
+  "target_pattern": "Use three future frames naturally: ir a plus infinitive, present plus future time, and simple future, while recognizing irregular future stems and the supposition use of future tense.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Using only going to translations and avoiding Spanish future forms.",
+      "spanish_logic": "Spanish uses three future paths naturally and uses simple future also for probability guesses.",
+      "target_pattern_formula": [
+        "ir conjugated plus a plus infinitive",
+        "present tense plus future time expression",
+        "simple future: infinitive plus e, as, a, emos, an",
+        "irregular stems: tendr, dir, har, saldr, vendr, habr",
+        "supposition: sera, estara, tendra"
+      ],
+      "natural_examples": [
+        "Voy a estudiar manana.",
+        "Trabajo el sabado.",
+        "Hablare con Maria.",
+        "Tendremos reunion a las nueve.",
+        "Estara ocupado ahora."
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each in Spanish using the best future pattern.",
+      "prompts_en": [
+        "I will call you tonight.",
+        "We are going to travel next month.",
+        "I work tomorrow, not today.",
+        "They will arrive late.",
+        "He will do it after lunch.",
+        "You will say the truth tomorrow.",
+        "The company will open a new office in June.",
+        "We will see the results on Friday.",
+        "I am going to study at home tonight.",
+        "She will leave early.",
+        "Will it be at the office?",
+        "He is probably at home.",
+        "They are probably around forty years old.",
+        "We are going to confirm the reservation tomorrow.",
+        "I have class on Monday.",
+        "You will have more time next week.",
+        "The minister will visit the city tomorrow.",
+        "I am going to send the report now.",
+        "We will come back on Sunday.",
+        "Who might that be?"
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as instructed.",
+      "drills": [
+        "Base: Hablare con Maria. -> change subject to nosotros.",
+        "Base: Voy a estudiar manana. -> change to simple future.",
+        "Base: Trabajo el sabado. -> change day to el lunes.",
+        "Base: Ellos llegaran tarde. -> make it a yes/no question.",
+        "Base: El saldra temprano. -> make it negative.",
+        "Base: Tendremos reunion a las nueve. -> change to singular yo form.",
+        "Base: La empresa abrira una oficina en junio. -> change subject to plural empresas.",
+        "Base: Veremos los resultados el viernes. -> change object to singular el resultado.",
+        "Base: Voy a enviar el informe ahora. -> change subject to ella.",
+        "Base: Estara en casa. -> change to question form.",
+        "Base: Tendran unos cuarenta anos. -> change estimate to thirty.",
+        "Base: Dire la verdad manana. -> change subject to tu.",
+        "Base: Vendremos el domingo. -> change to ellos.",
+        "Base: Hara calor manana. -> change to question form.",
+        "Base: Acabamos la presentacion el martes. -> rewrite with simple future."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the most natural Spanish option for the intended meaning.",
+      "prompts": [
+        "I will call you tonight. (Te llamare esta noche. vs Te voy a llamare esta noche.)",
+        "We are going to travel tomorrow. (Vamos a viajar manana. vs Viajaremos a manana.)",
+        "I work tomorrow. (Trabajo manana. vs Trabajare manana.)",
+        "Will you bring me another napkin, please? (Me traes otra servilleta, por favor? vs Me traerás otra servilleta, por favor?)",
+        "He is probably at home. (Estara en casa. vs Esta en casa probablemente.)",
+        "Who might that be? (Quien sera? vs Quien esra?)",
+        "They will have more time. (Tendran mas tiempo. vs Teneran mas tiempo.)",
+        "She will say it tomorrow. (Lo dira manana. vs Lo decira manana.)",
+        "We will leave early. (Saldremos temprano. vs Saliremos temprano.)",
+        "I am going to study tonight. (Voy a estudiar esta noche. vs Voy estudiar esta noche.)"
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific meaning.",
+      "prompts": [
+        "Write that you will send the invoice tonight.",
+        "Write that your team is going to launch a product next month.",
+        "Write that you work tomorrow but rest on Sunday.",
+        "Write that your manager will call the client after lunch.",
+        "Write that you will have more time next week.",
+        "Write that your company will open a new office this year.",
+        "Write that you are going to review the contract tonight.",
+        "Write that your coworkers will arrive late.",
+        "Write that your class is on Monday at 8.",
+        "Write that you will see the final version on Friday.",
+        "Write that your friend will probably be at home now.",
+        "Write that you are probably tired today.",
+        "Write that you are going to call your family this weekend.",
+        "Write that your team will return on Sunday.",
+        "Write that you are going to confirm the reservation now."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish, not literal English.",
+      "prompts_en": [
+        "I will do it tomorrow morning.",
+        "We are going to meet at noon.",
+        "I have a meeting on Tuesday.",
+        "He will probably arrive late.",
+        "Who could that be?",
+        "You will see.",
+        "We will tell you later.",
+        "They are going to cancel the reservation.",
+        "It will be difficult, but possible.",
+        "I am not going to go today."
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "Voy a llamare.",
+        "why_it_happens": "Mixing two future patterns in one verb slot.",
+        "correct_spanish": "Voy a llamar or llamare."
+      },
+      {
+        "mistake": "Teneran or decira or salira with regular stems",
+        "why_it_happens": "Treating irregulars as regular infinitive stems.",
+        "correct_spanish": "Use irregular stems: tendran, dira, saldra."
+      },
+      {
+        "mistake": "Vamos viajar",
+        "why_it_happens": "Omitting a in ir a plus infinitive.",
+        "correct_spanish": "Vamos a viajar."
+      },
+      {
+        "mistake": "Trabajo en lunes",
+        "why_it_happens": "Literal translation of on Monday.",
+        "correct_spanish": "Trabajo el lunes."
+      },
+      {
+        "mistake": "Hoy es el domingo",
+        "why_it_happens": "Overusing article with day names.",
+        "correct_spanish": "Hoy es domingo."
+      },
+      {
+        "mistake": "Me traeras otra servilleta, por favor?",
+        "why_it_happens": "Literal English will you polite request transfer.",
+        "correct_spanish": "Me traes otra servilleta, por favor?"
+      },
+      {
+        "mistake": "Using future-of-probability for certain facts",
+        "why_it_happens": "Overgeneralizing sera or estara guessing use.",
+        "correct_spanish": "Use supposition only when guessing."
+      },
+      {
+        "mistake": "Missing question marks in future questions",
+        "why_it_happens": "English punctuation transfer.",
+        "correct_spanish": "Use opening and closing question marks."
+      },
+      {
+        "mistake": "Nosotros hablare",
+        "why_it_happens": "Applying yo ending to nosotros.",
+        "correct_spanish": "Nosotros hablaremos."
+      },
+      {
+        "mistake": "Avoiding present plus time as future",
+        "why_it_happens": "Belief that only formal future is correct.",
+        "correct_spanish": "Present plus future time is common and natural."
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "Te llamare esta noche.",
+        "Vamos a viajar el proximo mes.",
+        "Trabajo manana, no hoy.",
+        "Llegaran tarde.",
+        "Lo hara despues del almuerzo.",
+        "Diras la verdad manana.",
+        "La compania abrira una oficina nueva en junio.",
+        "Veremos los resultados el viernes.",
+        "Voy a estudiar en casa esta noche.",
+        "Ella saldra temprano.",
+        "Sera en la oficina?",
+        "Estara en casa.",
+        "Tendran unos cuarenta anos.",
+        "Vamos a confirmar la reservacion manana.",
+        "Tengo clase el lunes.",
+        "Tendras mas tiempo la proxima semana.",
+        "El ministro visitara la ciudad manana.",
+        "Voy a enviar el informe ahora.",
+        "Volveremos el domingo.",
+        "Quien sera?"
+      ],
+      "pattern_mutation": [
+        "Hablaremos con Maria.",
+        "Estudiare manana.",
+        "Trabajo el lunes.",
+        "Llegaran tarde?",
+        "El no saldra temprano.",
+        "Tendre reunion a las nueve.",
+        "Las empresas abriran una oficina en junio.",
+        "Veremos el resultado el viernes.",
+        "Ella va a enviar el informe ahora.",
+        "Estara en casa?",
+        "Tendran unos treinta anos.",
+        "Diras la verdad manana.",
+        "Vendran el domingo.",
+        "Hara calor manana?",
+        "Acabaremos la presentacion el martes."
+      ],
+      "contrastive_discrimination": [
+        "Te llamare esta noche.",
+        "Vamos a viajar manana.",
+        "Trabajo manana.",
+        "Me traes otra servilleta, por favor?",
+        "Estara en casa.",
+        "Quien sera?",
+        "Tendran mas tiempo.",
+        "Lo dira manana.",
+        "Saldremos temprano.",
+        "Voy a estudiar esta noche."
+      ],
+      "reverse_conceptual_expression": [
+        "Lo hare manana por la manana.",
+        "Vamos a reunirnos al mediodia.",
+        "Tengo una reunion el martes.",
+        "Llegara tarde, probablemente.",
+        "Quien sera?",
+        "Ya veras.",
+        "Te diremos mas tarde.",
+        "Van a cancelar la reservacion.",
+        "Sera dificil, pero posible.",
+        "No voy a ir hoy."
+      ]
+    }
+  }
+}

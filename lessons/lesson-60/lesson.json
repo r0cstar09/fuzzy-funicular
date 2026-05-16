@@ -1,0 +1,249 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "question-patterns",
+    "prepositions",
+    "word-order",
+    "adult-learners"
+  ],
+  "difficulty": "B1",
+  "pattern_id": "PREPOSITION_FRONT_QUESTIONS_AND_INTERROGATIVE_ORDER_60",
+  "source_files": [
+    "lessons/lesson-60/Summary 60.pdf",
+    "lessons/lesson-60/summary 60a.pdf"
+  ],
+  "target_pattern": "In Spanish questions, required verb prepositions move to the front before que, and interrogative-word questions place verb before an expressed subject.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Copying English question order and leaving prepositions at the end.",
+      "spanish_logic": "Spanish front-loads required prepositions in questions and typically uses interrogative plus verb plus subject order when a question word is present.",
+      "target_pattern_formula": [
+        "preposition-front question: de or en plus que plus verb",
+        "interrogative order with expressed subject: que plus verb plus subject",
+        "yes-no questions allow both verb-subject and subject-verb orders",
+        "learn verb plus preposition as one unit: pensar en, hablar de, quejarse de, arrepentirse de, disfrazarse de"
+      ],
+      "natural_examples": [
+        "En que piensas?",
+        "De que se queja Maria?",
+        "De que quieres hablar?",
+        "Que dijo ella?",
+        "Vive Maria aqui?"
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each in natural Spanish using the correct preposition-front question pattern.",
+      "prompts_en": [
+        "What are you thinking about?",
+        "What is she complaining about?",
+        "What do you want to talk about?",
+        "What do you regret?",
+        "What are they going to dress up as?",
+        "What are you all thinking about?",
+        "What are you complaining about?",
+        "What is he talking about?",
+        "What are we going to dress up as?",
+        "What does he regret?",
+        "What are they talking about?",
+        "What are you formal thinking about?",
+        "What are you not happy with?",
+        "What is your team complaining about?",
+        "What do you regret saying?",
+        "What are you planning to dress up as tonight?",
+        "What are they thinking about now?",
+        "What are you talking about with your manager?",
+        "What does she regret doing?",
+        "What are you complaining about this time?"
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as instructed.",
+      "drills": [
+        "Base: Pienso en mis vacaciones. -> turn into a question to tu.",
+        "Base: Maria se queja del ruido. -> turn into a question.",
+        "Base: Quiero hablar de la reunion. -> turn into a question to tu.",
+        "Base: Me arrepiento de mi decision. -> turn into a question to tu.",
+        "Base: Nos vamos a disfrazar de superheroes. -> turn into a question.",
+        "Base: Piensan en el proyecto. -> turn into a question.",
+        "Base: Te quejas del trafico. -> turn into a question.",
+        "Base: Hablas de tu jefe. -> turn into a question.",
+        "Base: Se arrepiente de lo que dijo. -> turn into a question about el.",
+        "Base: Se van a disfrazar de medicos. -> turn into a question about ellos.",
+        "Base: Pienso en cambiar de trabajo. -> turn into a question to usted.",
+        "Base: Nos quejamos del servicio. -> turn into a question to nosotros.",
+        "Base: Hablan de politica. -> turn into a question and add siempre.",
+        "Base: Me arrepiento de haber ido. -> turn into a question to tu.",
+        "Base: Te vas a disfrazar de pirata. -> turn into a question and add manana."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the correct Spanish question.",
+      "prompts": [
+        "What are you thinking about? (En que piensas? vs Que piensas en?)",
+        "What is she complaining about? (De que se queja? vs Que se queja de?)",
+        "What do you want to talk about? (De que quieres hablar? vs Que quieres hablar de?)",
+        "What do you regret? (De que te arrepientes? vs Que te arrepientes de?)",
+        "What are they going to dress up as? (De que se van a disfrazar? vs Que se van a disfrazar de?)",
+        "What are you all thinking about? (En que piensan ustedes? vs Que piensan ustedes en?)",
+        "What is he talking about now? (De que habla ahora? vs Que habla de ahora?)",
+        "What are we complaining about? (De que nos quejamos? vs Que nos quejamos de?)",
+        "What do you regret saying? (De que te arrepientes de decir? vs Que te arrepientes de decir?)",
+        "What are you going to dress up as tonight? (De que te vas a disfrazar esta noche? vs Que te vas a disfrazar de esta noche?)"
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific meaning.",
+      "prompts": [
+        "Write a question asking your friend what they are thinking about.",
+        "Write a question asking your coworker what they are complaining about.",
+        "Write a question asking your manager what they want to talk about.",
+        "Write a question asking someone what they regret from this week.",
+        "Write a question asking your team what they are going to dress up as.",
+        "Write a question asking your partner what they are thinking about now.",
+        "Write a question asking a client what they are unhappy with.",
+        "Write a question asking your sibling what they are talking about.",
+        "Write a question asking a friend what they regret saying.",
+        "Write a question asking your group what they are complaining about today.",
+        "Write a question asking your class what they are thinking about for the exam.",
+        "Write a question asking your colleague what they want to talk about first.",
+        "Write a question asking someone what they regret doing yesterday.",
+        "Write a question asking your friends what they will dress up as tomorrow.",
+        "Write a question asking your team what they are talking about in the meeting."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish, not literal English.",
+      "prompts_en": [
+        "What are you talking about right now?",
+        "What is she thinking about these days?",
+        "What are they complaining about this time?",
+        "What do you regret from that conversation?",
+        "What are you going to dress up as at the party?",
+        "What is your boss talking about in that email?",
+        "What are we thinking about for next quarter?",
+        "What are you unhappy with in this plan?",
+        "What does he regret saying to the client?",
+        "What are they talking about when they say that?"
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "Preposition left at the end of the question",
+        "why_it_happens": "Direct transfer from English question order.",
+        "correct_spanish": "Move required preposition before que at the front."
+      },
+      {
+        "mistake": "Required preposition omitted",
+        "why_it_happens": "Verb-preposition chunk not learned together.",
+        "correct_spanish": "Memorize and use full verb plus preposition pattern."
+      },
+      {
+        "mistake": "Wrong preposition chosen with known verb",
+        "why_it_happens": "Approximate lexical translation.",
+        "correct_spanish": "Use established collocations like pensar en and hablar de."
+      },
+      {
+        "mistake": "Que plus verb plus preposition order",
+        "why_it_happens": "English-like linear construction.",
+        "correct_spanish": "Use preposition plus que plus verb."
+      },
+      {
+        "mistake": "Reflexive pronouns dropped in question forms",
+        "why_it_happens": "Pronominal chunk learned incompletely.",
+        "correct_spanish": "Keep forms like te arrepientes and se queja."
+      },
+      {
+        "mistake": "Verb conjugation errors while focusing on preposition",
+        "why_it_happens": "Attention split between form and meaning.",
+        "correct_spanish": "Practice full question chunks repeatedly."
+      },
+      {
+        "mistake": "Assuming English about always maps to de",
+        "why_it_happens": "Translation anchor strategy.",
+        "correct_spanish": "Choose preposition by Spanish verb pattern."
+      },
+      {
+        "mistake": "Missing de in arrepentirse de questions",
+        "why_it_happens": "English form has no explicit preposition.",
+        "correct_spanish": "Say de que te arrepientes."
+      },
+      {
+        "mistake": "Avoiding these questions due to structural uncertainty",
+        "why_it_happens": "Fear of error under pressure.",
+        "correct_spanish": "Reuse the same preposition-front frame with new verbs."
+      },
+      {
+        "mistake": "Memorizing verbs without sentence templates",
+        "why_it_happens": "Isolated vocabulary study.",
+        "correct_spanish": "Automate full patterns in realistic questions."
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "En que piensas?",
+        "De que se queja ella?",
+        "De que quieres hablar?",
+        "De que te arrepientes?",
+        "De que se van a disfrazar?",
+        "En que piensan ustedes?",
+        "De que te quejas?",
+        "De que habla el?",
+        "De que nos vamos a disfrazar?",
+        "De que se arrepiente el?",
+        "De que hablan ellos?",
+        "En que piensa usted?",
+        "De que no estas contento?",
+        "De que se queja tu equipo?",
+        "De que te arrepientes de decir?",
+        "De que te vas a disfrazar esta noche?",
+        "En que piensan ahora?",
+        "De que hablas con tu gerente?",
+        "De que se arrepiente ella de hacer?",
+        "De que te quejas esta vez?"
+      ],
+      "pattern_mutation": [
+        "En que piensas?",
+        "De que se queja Maria?",
+        "De que quieres hablar?",
+        "De que te arrepientes?",
+        "De que se van a disfrazar?",
+        "En que piensan?",
+        "De que te quejas?",
+        "De que hablas?",
+        "De que se arrepiente el?",
+        "De que se van a disfrazar ellos?",
+        "En que piensa usted?",
+        "De que nos quejamos?",
+        "De que hablan siempre?",
+        "De que te arrepientes de haber ido?",
+        "De que te vas a disfrazar manana?"
+      ],
+      "contrastive_discrimination": [
+        "En que piensas?",
+        "De que se queja?",
+        "De que quieres hablar?",
+        "De que te arrepientes?",
+        "De que se van a disfrazar?",
+        "En que piensan ustedes?",
+        "De que habla ahora?",
+        "De que nos quejamos?",
+        "De que te arrepientes de decir?",
+        "De que te vas a disfrazar esta noche?"
+      ],
+      "reverse_conceptual_expression": [
+        "De que hablas ahora mismo?",
+        "En que piensa ella estos dias?",
+        "De que se quejan ellos esta vez?",
+        "De que te arrepientes de esa conversacion?",
+        "De que te vas a disfrazar en la fiesta?",
+        "De que habla tu jefe en ese correo?",
+        "En que pensamos para el proximo trimestre?",
+        "De que no estas contento en este plan?",
+        "De que se arrepiente el de haberle dicho al cliente?",
+        "De que hablan cuando dicen eso?"
+      ]
+    }
+  }
+}

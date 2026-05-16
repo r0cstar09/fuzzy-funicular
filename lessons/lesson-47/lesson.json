@@ -1,0 +1,251 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "subjunctive-triggers",
+    "subject-change",
+    "trigger-verbs",
+    "adult-learners"
+  ],
+  "difficulty": "B1",
+  "pattern_id": "TRIGGER_VERBS_SUBJUNCTIVE_47",
+  "source_files": [
+    "lessons/lesson-47/summary 47.pdf"
+  ],
+  "target_pattern": "Use trigger verb plus que plus present subjunctive when subjects differ, and use infinitive when subjects stay the same.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Translating want, hope, prefer, recommend, and insist without checking subject change.",
+      "spanish_logic": "Subjunctive appears after trigger verbs when the second verb has a different subject; same subject uses infinitive.",
+      "target_pattern_formula": [
+        "querer que plus subjunctive",
+        "esperar que plus subjunctive",
+        "desear que plus subjunctive",
+        "preferir que plus subjunctive",
+        "recomendar que plus subjunctive",
+        "insistir en que plus subjunctive",
+        "same subject uses trigger plus infinitive"
+      ],
+      "natural_examples": [
+        "Quiero que estudies espanol.",
+        "Espero que te mejores pronto.",
+        "Prefiero que te quedes en casa.",
+        "Recomiendo que te acuestes temprano.",
+        "Insisto en que me digas la verdad."
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each in Spanish with the correct structure.",
+      "prompts_en": [
+        "I want you to study Spanish.",
+        "I hope you feel better soon.",
+        "I wish you have a good day.",
+        "I prefer that you stay home.",
+        "I recommend that you go to bed early.",
+        "I insist that you tell me the truth.",
+        "Do you want me to clear the table?",
+        "Do you want me to go to the store?",
+        "Do you want me to pay in cash?",
+        "Do you want me to wash the clothes?",
+        "Do you want me to take you to the office?",
+        "Do you want me to bring you a blanket?",
+        "Do you want me to help you set the table?",
+        "Do you want me to tell Dan we cannot go to his party?",
+        "I want to study Spanish.",
+        "I prefer to stay home today.",
+        "We hope to finish early.",
+        "They insist on speaking with the manager.",
+        "I recommend that you call your mother.",
+        "I hope we can solve this today."
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as instructed.",
+      "drills": [
+        "Base: Quiero que estudies espanol. -> change subject in subordinate clause to nosotros.",
+        "Base: Espero que te mejores pronto. -> change verb to descansar.",
+        "Base: Deseo que tengas un buen dia. -> change recipient to plural ustedes.",
+        "Base: Prefiero que te quedes en casa. -> make it first-person plural in subordinate clause.",
+        "Base: Recomiendo que te acuestes temprano. -> change verb to comer.",
+        "Base: Insisto en que me digas la verdad. -> change object to todo.",
+        "Base: Quieres que limpie la mesa? -> change action to lavar los platos.",
+        "Base: Quieres que vaya a la tienda? -> change destination to el banco.",
+        "Base: Quieres que pague en efectivo? -> change method to con tarjeta.",
+        "Base: Quieres que te lleve a la oficina? -> change place to el aeropuerto.",
+        "Base: Quiero estudiar espanol. -> change to subject-change version with tu.",
+        "Base: Prefiero quedarme en casa. -> change to subject-change version with tu.",
+        "Base: Espero terminar hoy. -> change to subject-change version with nosotros.",
+        "Base: Insisten en hablar con el gerente. -> change to subject-change version with usted.",
+        "Base: Recomiendo que llames a tu madre. -> change subject to usted."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the correct Spanish form.",
+      "prompts": [
+        "I want you to come. (Quiero que vengas. vs Quiero venir.)",
+        "I want to come. (Quiero venir. vs Quiero que venga.)",
+        "I hope you can help. (Espero que puedas ayudar. vs Espero poder ayudar.)",
+        "I hope to help. (Espero poder ayudar. vs Espero que puedas ayudar.)",
+        "I prefer that you stay. (Prefiero que te quedes. vs Prefiero quedarme.)",
+        "I prefer to stay. (Prefiero quedarme. vs Prefiero que te quedes.)",
+        "I insist that you listen. (Insisto en que escuches. vs Insisto escuchar.)",
+        "I recommend that you call now. (Recomiendo que llames ahora. vs Recomiendo llamar ahora.)",
+        "We insist that we speak with him. (Insistimos en que hablemos con el. vs Insistimos en hablar con el.)",
+        "I wish you have luck. (Deseo que tengas suerte. vs Deseo tener suerte.)"
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific meaning.",
+      "prompts": [
+        "Write that you want your colleague to send the report today.",
+        "Write that you hope your team finishes before 6 p.m.",
+        "Write that you wish your friend has a good trip.",
+        "Write that you prefer your family stays home tonight.",
+        "Write that you recommend your coworker sleeps earlier.",
+        "Write that you insist your manager reads the email now.",
+        "Write that you want your assistant to call the client.",
+        "Write that you hope your parents arrive safely.",
+        "Write that you prefer your team uses one shared document.",
+        "Write that you recommend your friend practices daily.",
+        "Write that you insist your partner tells you the truth.",
+        "Write that you want your neighbor not to park there.",
+        "Write that you hope your client accepts the proposal.",
+        "Write that you wish your brother finds a better job.",
+        "Write that you recommend your team checks everything before launch."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish, not literal English.",
+      "prompts_en": [
+        "I want you to be honest with me.",
+        "I hope it goes well.",
+        "I wish you could come tomorrow.",
+        "I prefer that we talk now.",
+        "I recommend that you wait a little.",
+        "I insist that they answer today.",
+        "Do you want me to open the window?",
+        "Do you want me to send it right now?",
+        "I hope we can fix this quickly.",
+        "They insist that I stay."
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "Quiero estudies",
+        "why_it_happens": "Missing que connector.",
+        "correct_spanish": "Quiero que estudies."
+      },
+      {
+        "mistake": "Espero que puedes",
+        "why_it_happens": "Indicative used after trigger with subject change.",
+        "correct_spanish": "Espero que puedas."
+      },
+      {
+        "mistake": "Insisto que",
+        "why_it_happens": "Required preposition en omitted.",
+        "correct_spanish": "Insisto en que."
+      },
+      {
+        "mistake": "Prefiero que quedarme",
+        "why_it_happens": "Subjunctive and infinitive patterns mixed.",
+        "correct_spanish": "Use either prefiero quedarme or prefiero que te quedes."
+      },
+      {
+        "mistake": "Quiero que estudiar",
+        "why_it_happens": "Subjunctive overgeneralized with same subject.",
+        "correct_spanish": "Use Quiero estudiar for same subject."
+      },
+      {
+        "mistake": "Using infinitive after que",
+        "why_it_happens": "Subordinate verb not conjugated.",
+        "correct_spanish": "Use subjunctive conjugation such as vayas."
+      },
+      {
+        "mistake": "Deseo que tienes",
+        "why_it_happens": "Indicative carryover.",
+        "correct_spanish": "Deseo que tengas."
+      },
+      {
+        "mistake": "Object pronouns omitted in nested clauses",
+        "why_it_happens": "English direct order transfer.",
+        "correct_spanish": "Use forms like quieres que te lleve."
+      },
+      {
+        "mistake": "Wrong person agreement in subordinate clause",
+        "why_it_happens": "Subject mapping not updated.",
+        "correct_spanish": "Match person exactly, e.g. usted llame."
+      },
+      {
+        "mistake": "Avoiding subjunctive triggers from fear",
+        "why_it_happens": "Overthinking abstract definitions.",
+        "correct_spanish": "Use trigger plus que pattern with subject-change check."
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "Quiero que estudies espanol.",
+        "Espero que te mejores pronto.",
+        "Deseo que tengas un buen dia.",
+        "Prefiero que te quedes en casa.",
+        "Recomiendo que te acuestes temprano.",
+        "Insisto en que me digas la verdad.",
+        "Quieres que limpie la mesa?",
+        "Quieres que vaya a la tienda?",
+        "Quieres que pague en efectivo?",
+        "Quieres que lave la ropa?",
+        "Quieres que te lleve a la oficina?",
+        "Quieres que te traiga una cobija?",
+        "Quieres que te ayude a poner la mesa?",
+        "Quieres que le diga a Dan que no podemos ir a su fiesta?",
+        "Quiero estudiar espanol.",
+        "Prefiero quedarme en casa hoy.",
+        "Esperamos terminar temprano.",
+        "Insisten en hablar con el gerente.",
+        "Recomiendo que llames a tu madre.",
+        "Espero que podamos resolver esto hoy."
+      ],
+      "pattern_mutation": [
+        "Quiero que estudiemos espanol.",
+        "Espero que descanses pronto.",
+        "Deseo que tengan un buen dia.",
+        "Prefiero que nos quedemos en casa.",
+        "Recomiendo que comas temprano.",
+        "Insisto en que me digas todo.",
+        "Quieres que lave los platos?",
+        "Quieres que vaya al banco?",
+        "Quieres que pague con tarjeta?",
+        "Quieres que te lleve al aeropuerto?",
+        "Quiero que estudies espanol.",
+        "Prefiero que te quedes en casa.",
+        "Espero que terminemos hoy.",
+        "Insisten en que usted hable con el gerente.",
+        "Recomiendo que usted llame a su madre."
+      ],
+      "contrastive_discrimination": [
+        "Quiero que vengas.",
+        "Quiero venir.",
+        "Espero que puedas ayudar.",
+        "Espero poder ayudar.",
+        "Prefiero que te quedes.",
+        "Prefiero quedarme.",
+        "Insisto en que escuches.",
+        "Recomiendo que llames ahora.",
+        "Insistimos en que hablemos con el.",
+        "Deseo que tengas suerte."
+      ],
+      "reverse_conceptual_expression": [
+        "Quiero que seas honesto conmigo.",
+        "Espero que salga bien.",
+        "Deseo que puedas venir manana.",
+        "Prefiero que hablemos ahora.",
+        "Recomiendo que esperes un poco.",
+        "Insisto en que respondan hoy.",
+        "Quieres que abra la ventana?",
+        "Quieres que lo envie ahora mismo?",
+        "Espero que podamos arreglar esto rapido.",
+        "Insisten en que me quede."
+      ]
+    }
+  }
+}

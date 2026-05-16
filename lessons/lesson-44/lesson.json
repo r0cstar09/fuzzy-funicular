@@ -1,0 +1,250 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "conditional",
+    "polite-requests",
+    "future-in-the-past",
+    "adult-learners"
+  ],
+  "difficulty": "A2-B1",
+  "pattern_id": "CONDITIONAL_FUNCTIONAL_PATTERNS_44",
+  "source_files": [
+    "lessons/lesson-44/Lesson 41 Exercise.pdf",
+    "lessons/lesson-44/Conditional Conjugations.pdf"
+  ],
+  "target_pattern": "Use conditional tense for hypothetical results, politeness, and future-in-the-past reporting, including regular and irregular stems.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Using present or future forms for every would or could meaning.",
+      "spanish_logic": "Spanish conditional marks polite distance, hypothetical outcomes, and reported future from a past perspective.",
+      "target_pattern_formula": [
+        "infinitive plus conditional endings ia ias ia iamos ian",
+        "irregular stems tendr podr dir har querr pondr saldr vendr sabr",
+        "politeness: podria podrias me gustaria",
+        "future in past: dijo que llegaria",
+        "hypothetical frame: si plus imperfect subjunctive then conditional"
+      ],
+      "natural_examples": [
+        "Hablariamos mas si tuvieramos tiempo.",
+        "Podrias ayudarme, por favor?",
+        "Me gustaria reservar una mesa.",
+        "Juan dijo que llegaria a las cinco.",
+        "Yo me mudaria a Mexico si fuera rico."
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each in Spanish using the conditional pattern.",
+      "prompts_en": [
+        "I would speak with you tomorrow.",
+        "You would eat more vegetables.",
+        "He would live in Mexico.",
+        "We would study more if we had time.",
+        "They would work here.",
+        "You (formal) would learn Spanish quickly.",
+        "I would write a letter.",
+        "You would open the window.",
+        "I would have more time if I could.",
+        "Could you help me, please?",
+        "He would tell the truth.",
+        "We would leave early.",
+        "She would do it tomorrow.",
+        "I would want to go with you.",
+        "They would come later.",
+        "You (formal) would put the document on the table.",
+        "You said you would arrive at five.",
+        "We knew it would be difficult.",
+        "They told me they would arrive late.",
+        "Would it be possible to change the appointment?"
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as instructed.",
+      "drills": [
+        "Base: Yo hablaria contigo manana. -> change subject to nosotros.",
+        "Base: Tu comerias mas verduras. -> change object to fruta.",
+        "Base: El viviria en Mexico. -> change subject to ella.",
+        "Base: Nosotros estudiariamos mas si tuvieramos tiempo. -> change condition to si no trabajaramos tanto.",
+        "Base: Ellos trabajarian aqui. -> make it negative.",
+        "Base: Usted aprenderia espanol rapidamente. -> turn into a polite question.",
+        "Base: Yo escribiria una carta. -> change object to plural dos correos.",
+        "Base: Tu abririas la ventana. -> turn into polite request question.",
+        "Base: Yo tendria mas tiempo si pudiera. -> change subject to nosotros.",
+        "Base: El diria la verdad. -> change subject to ellos.",
+        "Base: Nosotros saldriamos temprano. -> change adverb to mas tarde.",
+        "Base: Ella lo haria manana. -> change time to hoy.",
+        "Base: Yo querria ir contigo. -> change to second person tu.",
+        "Base: Juan dijo que llegaria a las cinco. -> change speaker to Maria and time to a las seis.",
+        "Base: Yo me mudaria a Mexico si fuera rico. -> change country to Espana."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the correct Spanish form.",
+      "prompts": [
+        "Could you help me? (Podrias ayudarme? vs Puedes ayudarme? for conditional target)",
+        "I would like to speak with you. (Me gustaria hablar contigo. vs Me gusta hablar contigo.)",
+        "He said he would come early. (Dijo que vendria temprano. vs Dijo que vendra temprano.)",
+        "We knew it would be expensive. (Sabiamos que seria caro. vs Sabiamos que es caro.)",
+        "They would come if they had time. (Vendrian si tuvieran tiempo. vs Vendran si tienen tiempo.)",
+        "I would have more time if I could. (Tendria mas tiempo si pudiera. vs Tendre mas tiempo si puedo.)",
+        "She would do it tomorrow. (Lo haria manana. vs Lo hizo manana.)",
+        "Would it be possible to change the appointment? (Seria posible cambiar la cita? vs Es posible cambiar la cita?)",
+        "We would leave early. (Saldriamos temprano. vs Salimos temprano.)",
+        "You said you would arrive at five. (Dijiste que llegarias a las cinco. vs Dijiste que llegaste a las cinco.)"
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific meaning.",
+      "prompts": [
+        "Write that you would move to another city if you found a better job.",
+        "Write that your team would finish faster with more staff.",
+        "Write that you would like to speak with a manager.",
+        "Write a polite question asking if they could send the file today.",
+        "Write that your colleague said she would call at 4.",
+        "Write that you thought it would be easier.",
+        "Write that your friends would come if they had a car.",
+        "Write that you would reserve a table for two.",
+        "Write a polite question asking if they would wait five minutes.",
+        "Write that your company would expand if sales increased.",
+        "Write that you would help if you knew the answer.",
+        "Write that you would buy that apartment if it were cheaper.",
+        "Write that your client said he would review the contract tomorrow.",
+        "Write that it would be ideal to start earlier.",
+        "Write that you would change the appointment if possible."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish, not literal English.",
+      "prompts_en": [
+        "I would like a coffee, please.",
+        "Could you open the window?",
+        "She said she would do it later.",
+        "We thought it would be difficult.",
+        "They promised they would arrive on time.",
+        "I would go with you if I had time.",
+        "He would help if he could.",
+        "It would be better to wait.",
+        "Would you send me the documents today?",
+        "We would try it if it were possible."
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "Using future instead of conditional in reported speech",
+        "why_it_happens": "Direct transfer of English will.",
+        "correct_spanish": "Use dijo que llegaria."
+      },
+      {
+        "mistake": "podia ayudarme for polite request",
+        "why_it_happens": "Imperfect ability confused with conditional politeness.",
+        "correct_spanish": "Use podria or podrias ayudarme."
+      },
+      {
+        "mistake": "me gustaria que hablar contigo",
+        "why_it_happens": "Unnecessary que before infinitive complement.",
+        "correct_spanish": "Use me gustaria hablar contigo."
+      },
+      {
+        "mistake": "teneria or haceria",
+        "why_it_happens": "Regularizing irregular stems.",
+        "correct_spanish": "Use tendria and haria."
+      },
+      {
+        "mistake": "Present used in hypothetical result clause",
+        "why_it_happens": "Pattern transfer from English logic.",
+        "correct_spanish": "Use conditional result with si plus imperfect subjunctive."
+      },
+      {
+        "mistake": "Missing accent marks in conditional spelling",
+        "why_it_happens": "Orthography oversight under writing speed.",
+        "correct_spanish": "Write standard accented forms in normal orthography."
+      },
+      {
+        "mistake": "si podria in if-clause",
+        "why_it_happens": "Both clauses set in conditional.",
+        "correct_spanish": "Use si pudiera then podria."
+      },
+      {
+        "mistake": "Changing future-in-past line into preterite",
+        "why_it_happens": "Overusing completed-event past forms.",
+        "correct_spanish": "Keep conditional for projected action from past viewpoint."
+      },
+      {
+        "mistake": "queria used when hypothetical wish is intended",
+        "why_it_happens": "Imperfect desire confused with conditional intent.",
+        "correct_spanish": "Use querria for would want."
+      },
+      {
+        "mistake": "gustaria used without me",
+        "why_it_happens": "Literal mapping of would like phrase.",
+        "correct_spanish": "Use me gustaria."
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "Yo hablaria contigo manana.",
+        "Tu comerias mas verduras.",
+        "El viviria en Mexico.",
+        "Nosotros estudiariamos mas si tuvieramos tiempo.",
+        "Ellos trabajarian aqui.",
+        "Usted aprenderia espanol rapidamente.",
+        "Yo escribiria una carta.",
+        "Tu abririas la ventana.",
+        "Yo tendria mas tiempo si pudiera.",
+        "Podrias ayudarme, por favor?",
+        "El diria la verdad.",
+        "Nosotros saldriamos temprano.",
+        "Ella lo haria manana.",
+        "Yo querria ir contigo.",
+        "Ellos vendrian mas tarde.",
+        "Usted pondria el documento en la mesa.",
+        "Dijiste que llegarias a las cinco.",
+        "Sabiamos que seria dificil.",
+        "Me dijeron que llegarian tarde.",
+        "Seria posible cambiar la cita?"
+      ],
+      "pattern_mutation": [
+        "Nosotros hablariamos contigo manana.",
+        "Tu comerias mas fruta.",
+        "Ella viviria en Mexico.",
+        "Nosotros estudiariamos mas si no trabajaramos tanto.",
+        "Ellos no trabajarian aqui.",
+        "Usted aprenderia espanol rapidamente?",
+        "Yo escribiria dos correos.",
+        "Podrias abrir la ventana?",
+        "Nosotros tendriamos mas tiempo si pudieramos.",
+        "Ellos dirian la verdad.",
+        "Nosotros saldriamos mas tarde.",
+        "Ella lo haria hoy.",
+        "Tu querrias ir conmigo.",
+        "Maria dijo que llegaria a las seis.",
+        "Yo me mudaria a Espana si fuera rico."
+      ],
+      "contrastive_discrimination": [
+        "Podrias ayudarme?",
+        "Me gustaria hablar contigo.",
+        "Dijo que vendria temprano.",
+        "Sabiamos que seria caro.",
+        "Vendrian si tuvieran tiempo.",
+        "Tendria mas tiempo si pudiera.",
+        "Lo haria manana.",
+        "Seria posible cambiar la cita?",
+        "Saldriamos temprano.",
+        "Dijiste que llegarias a las cinco."
+      ],
+      "reverse_conceptual_expression": [
+        "Me gustaria un cafe, por favor.",
+        "Podrias abrir la ventana?",
+        "Ella dijo que lo haria mas tarde.",
+        "Pensamos que seria dificil.",
+        "Prometieron que llegarian a tiempo.",
+        "Yo iria contigo si tuviera tiempo.",
+        "El ayudaria si pudiera.",
+        "Seria mejor esperar.",
+        "Me mandaria los documentos hoy?",
+        "Lo intentariamos si fuera posible."
+      ]
+    }
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "saber-vs-conocer",
+    "saber-como",
+    "personal-a",
+    "adult-learners"
+  ],
+  "difficulty": "A2-B1",
+  "pattern_id": "SABER_CONOCER_PROCESS_14",
+  "source_files": [
+    "lessons/lesson-14/saber summary2.pdf",
+    "lessons/lesson-14/saber conocer exercise.pdf",
+    "lessons/lesson-14/saber como.pdf"
+  ],
+  "target_pattern": "Differentiate saber (facts, information, skills), saber cómo (method/process), and conocer (familiarity with people/places/things), including personal a with people.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Translating every know as one verb.",
+      "spanish_logic": "Spanish splits know by meaning: saber for facts/skills, conocer for familiarity, and saber cómo for process.",
+      "target_pattern_formula": [
+        "saber + dato / si / dónde / quién",
+        "saber + infinitivo (general skill)",
+        "saber cómo + infinitivo (method/steps)",
+        "conocer + (a + persona) / conocer + lugar-cosa"
+      ],
+      "natural_examples": [
+        "¿Sabes dónde está el hotel?",
+        "Sé cocinar, pero no sé cómo hacer paella.",
+        "¿Conoces a María?",
+        "No conozco esa ciudad.",
+        "¿Sabes si Juan quiere venir?"
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each in Spanish using saber, saber cómo, or conocer naturally. No answer key until the end.",
+      "prompts_en": [
+        "Do you know Juan?",
+        "Do you want to meet Juan?",
+        "Can I meet Juan?",
+        "Do you know how to swim?",
+        "Do you know how to write in Spanish?",
+        "Do you know where the bathroom is?",
+        "Do you know if María has to work tomorrow?",
+        "I know how to cook.",
+        "I do not know how to start.",
+        "Do you know how to explain this process?",
+        "I know this city very well.",
+        "Do you know my sister Ana?",
+        "We know a good restaurant near here.",
+        "I do not know the answer.",
+        "Do you know the movie Coco?",
+        "I know how to drive, but I do not know this area.",
+        "Do you know who she is?",
+        "I have to meet this person.",
+        "We do not know how to get to the office.",
+        "Do you know if they can come today?"
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as instructed.",
+      "drills": [
+        "Base: ¿Conoces a Juan? -> change to first-person statement.",
+        "Base: Sé cocinar. -> make it negative.",
+        "Base: No sé cómo empezar. -> make it affirmative.",
+        "Base: ¿Sabes dónde está el hotel? -> change hotel to banco.",
+        "Base: Conozco la ciudad. -> make it negative.",
+        "Base: ¿Sabes nadar? -> change to nosotros.",
+        "Base: ¿Conoces a mi hermana? -> change to plural object mis hermanos.",
+        "Base: Sé hablar español. -> turn into question (tú).",
+        "Base: No conocemos ese restaurante. -> make it affirmative.",
+        "Base: ¿Sabes si Juan viene? -> change Juan to María.",
+        "Base: Sé cómo explicar esto. -> make it negative.",
+        "Base: ¿Quieres conocer a mi amigo? -> change to tengo que.",
+        "Base: No sé la respuesta. -> change to question form.",
+        "Base: Conozco la canción. -> change meaning to know the lyrics.",
+        "Base: Sabemos cómo llegar a la casa de Ana. -> change to singular yo."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the most natural pattern and write in Spanish.",
+      "prompts": [
+        "I know Juan. (sé vs conozco)",
+        "I know the answer. (sé vs conozco)",
+        "Do you know how to cook? (¿sabes cocinar? vs ¿conoces cocinar?)",
+        "Do you know how to solve this? method focus (sabes cómo vs sabes)",
+        "I know this city. (conozco vs sé)",
+        "Do you know where she is? (sabes dónde vs conoces dónde)",
+        "I know this movie. familiarity context (conozco vs sé)",
+        "I know the lyrics. factual content (sé vs conozco)",
+        "Do you know María? (conoces a vs sabes a)",
+        "I do not know how to begin. (no sé cómo empezar vs no conozco empezar)"
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific meaning.",
+      "prompts": [
+        "You know a colleague named Carlos.",
+        "You do not know how to solve a problem at work.",
+        "You know how to use one app well.",
+        "You do not know this neighborhood.",
+        "You know where the nearest pharmacy is.",
+        "You want to meet one person from your team.",
+        "You know if your manager is available today.",
+        "You do not know how to explain something in Spanish yet.",
+        "You know a good restaurant near your home.",
+        "You do not know the answer to one question.",
+        "You know how to cook one basic meal.",
+        "You do not know that movie.",
+        "You know who that person is.",
+        "You have to meet a client tomorrow.",
+        "You do not know how to get to one location."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish (not literal English).",
+      "prompts_en": [
+        "I know him, but I do not know him well.",
+        "Do you happen to know where this is?",
+        "I know how to do it, but I cannot do it now.",
+        "I do not know what to say.",
+        "I know this place from before.",
+        "I do not know how to get started.",
+        "Do you know if they are open today?",
+        "I know that song, but I do not know the lyrics.",
+        "I need to meet her in person.",
+        "I know exactly who you are talking about."
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "Using saber with people",
+        "why_it_happens": "English uses know for both meanings.",
+        "correct_spanish": "Conozco a Juan."
+      },
+      {
+        "mistake": "Using conocer for facts",
+        "why_it_happens": "One-word translation strategy.",
+        "correct_spanish": "Sé la respuesta."
+      },
+      {
+        "mistake": "Forgetting personal a with people after conocer",
+        "why_it_happens": "No equivalent marker in English.",
+        "correct_spanish": "¿Conoces a María?"
+      },
+      {
+        "mistake": "Overusing saber cómo for general skills",
+        "why_it_happens": "Method structure is applied everywhere.",
+        "correct_spanish": "Sé nadar."
+      },
+      {
+        "mistake": "Using plain saber + infinitive when method is key",
+        "why_it_happens": "Method vs ability distinction is blurred.",
+        "correct_spanish": "No sé cómo empezar."
+      },
+      {
+        "mistake": "Using conocer with si/dónde clauses",
+        "why_it_happens": "Literal transfer from English clause logic.",
+        "correct_spanish": "¿Sabes si...? ¿Sabes dónde...?"
+      },
+      {
+        "mistake": "Wrong first person conjugation yo sabe",
+        "why_it_happens": "Irregular sé and conozco not automated.",
+        "correct_spanish": "Yo sé / Yo conozco"
+      },
+      {
+        "mistake": "Dropping accent in sé",
+        "why_it_happens": "Fast typing.",
+        "correct_spanish": "Sé cocinar."
+      },
+      {
+        "mistake": "Using conocer + infinitive directly",
+        "why_it_happens": "Pattern confusion with modal + infinitive structures.",
+        "correct_spanish": "Sé cocinar."
+      },
+      {
+        "mistake": "Using saber for familiarity with city/movie",
+        "why_it_happens": "Facts and familiarity are not separated.",
+        "correct_spanish": "Conozco la ciudad / Conozco la película."
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "¿Conoces a Juan?",
+        "¿Quieres conocer a Juan?",
+        "¿Puedo conocer a Juan?",
+        "¿Sabes nadar?",
+        "¿Sabes escribir en español?",
+        "¿Sabes dónde está el baño?",
+        "¿Sabes si María tiene que trabajar mañana?",
+        "Sé cocinar.",
+        "No sé cómo empezar.",
+        "¿Sabes cómo explicar este proceso?",
+        "Conozco muy bien esta ciudad.",
+        "¿Conoces a mi hermana Ana?",
+        "Conocemos un buen restaurante cerca de aquí.",
+        "No sé la respuesta.",
+        "¿Conoces la película Coco?",
+        "Sé manejar, pero no conozco esta zona.",
+        "¿Sabes quién es ella?",
+        "Tengo que conocer a esta persona.",
+        "No sabemos cómo llegar a la oficina.",
+        "¿Sabes si pueden venir hoy?"
+      ],
+      "pattern_mutation": [
+        "Conozco a Juan.",
+        "No sé cocinar.",
+        "Sé cómo empezar.",
+        "¿Sabes dónde está el banco?",
+        "No conozco la ciudad.",
+        "¿Sabemos nadar?",
+        "¿Conoces a mis hermanos?",
+        "¿Sabes hablar español?",
+        "Conocemos ese restaurante.",
+        "¿Sabes si María viene?",
+        "No sé cómo explicar esto.",
+        "¿Tienes que conocer a mi amigo?",
+        "¿Sabes la respuesta?",
+        "Sé la letra de la canción.",
+        "Sé cómo llegar a la casa de Ana."
+      ],
+      "contrastive_discrimination": [
+        "Conozco a Juan.",
+        "Sé la respuesta.",
+        "¿Sabes cocinar?",
+        "¿Sabes cómo resolver esto?",
+        "Conozco esta ciudad.",
+        "¿Sabes dónde está ella?",
+        "Conozco esta película.",
+        "Sé la letra.",
+        "¿Conoces a María?",
+        "No sé cómo empezar."
+      ],
+      "reverse_conceptual_expression": [
+        "Lo conozco, pero no lo conozco bien.",
+        "¿Sabes por casualidad dónde está esto?",
+        "Sé hacerlo, pero no puedo hacerlo ahora.",
+        "No sé qué decir.",
+        "Conozco este lugar de antes.",
+        "No sé cómo empezar.",
+        "¿Sabes si hoy están abiertos?",
+        "Conozco esa canción, pero no sé la letra.",
+        "Necesito conocerla en persona.",
+        "Sé exactamente de quién hablas."
+      ]
+    }
+  }
+}

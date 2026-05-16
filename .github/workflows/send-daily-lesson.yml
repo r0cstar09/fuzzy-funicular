@@ -1,0 +1,45 @@
+name: Send Daily Spanish Lesson
+
+on:
+  schedule:
+    - cron: "0 12 * * *"
+  workflow_dispatch:
+    inputs:
+      lesson_number:
+        description: "Optional specific lesson number to send"
+        required: false
+        type: string
+
+jobs:
+  email-lesson:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    env:
+      ICLOUD_EMAIL: ${{ secrets.ICLOUD_EMAIL }}
+      ICLOUD_APP_PASSWORD: ${{ secrets.ICLOUD_APP_PASSWORD }}
+      RECIPIENT_EMAIL: ${{ secrets.RECIPIENT_EMAIL }}
+      LESSON_START_DATE: ${{ vars.LESSON_START_DATE }}
+      LESSON_NO_WRAP: ${{ vars.LESSON_NO_WRAP }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Python dependencies
+        run: python -m pip install -r requirements.txt
+
+      - name: Validate all lesson JSON files
+        run: python scripts/send_daily_lesson.py --validate-all
+
+      - name: Send selected daily lesson
+        if: ${{ github.event.inputs.lesson_number == '' || github.event.inputs.lesson_number == null }}
+        run: python scripts/send_daily_lesson.py
+
+      - name: Send manually selected lesson
+        if: ${{ github.event.inputs.lesson_number != '' && github.event.inputs.lesson_number != null }}
+        run: python scripts/send_daily_lesson.py --lesson-number "${{ github.event.inputs.lesson_number }}"

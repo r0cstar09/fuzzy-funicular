@@ -1,0 +1,251 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "preterite-vs-imperfect",
+    "past-narration",
+    "meaning-shifts",
+    "adult-learners"
+  ],
+  "difficulty": "B1",
+  "pattern_id": "PRETERITE_IMPERFECT_INTERPLAY_41",
+  "source_files": [
+    "lessons/lesson-41/Deep 3 Summary (1).pdf",
+    "lessons/lesson-41/DD exercise 3 rev492026.pdf",
+    "lessons/lesson-41/imperfect tense conjugation (1).pdf",
+    "lessons/lesson-41/preterit tense Conjugations (1).pdf"
+  ],
+  "target_pattern": "Choose preterite for completed events and imperfect for background, habitual, and ongoing context, including verbs whose meaning shifts by tense.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Using one past form for every situation and translating was, knew, could directly.",
+      "spanish_logic": "Spanish separates completed story events from background context, and several high-frequency verbs shift meaning depending on preterite vs imperfect.",
+      "target_pattern_formula": [
+        "completed event uses preterite",
+        "background, habit, and ongoing state use imperfect",
+        "interruption pattern: imperfect plus cuando plus preterite",
+        "meaning shifts: conoci and conocia, supe and sabia, quise and queria, pude and podia, tuve and tenia"
+      ],
+      "natural_examples": [
+        "Cuando era nino, iba a la playa cada verano.",
+        "Ayer lei un libro interesante.",
+        "Estabamos en el parque cuando empezo a llover.",
+        "Conoci a Juan en 2010, pero Maria ya lo conocia.",
+        "Yo podia trabajar el sabado, pero no pude ir."
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each in Spanish using preterite or imperfect based on meaning.",
+      "prompts_en": [
+        "When I was a child, I always played in the park.",
+        "Yesterday I read a very interesting article.",
+        "While you were cooking, the phone rang.",
+        "We were at the office when the lights went out.",
+        "Juan was in the army when he met Maria.",
+        "She wanted to go out, but she could not because she had to work.",
+        "When I arrived at the party, everyone had already started dancing.",
+        "My father used to smoke every day.",
+        "We visited our grandparents last Sunday.",
+        "While he was talking, he heard a strange noise.",
+        "Did you know that Ana lied?",
+        "I did not know that you wanted to go to the concert.",
+        "I met Carlos in 2015.",
+        "Maria said that she knew Carlos.",
+        "When I heard the news, I wanted to scream.",
+        "I refused to tell him my name.",
+        "I managed to lift the box myself.",
+        "Juan told me he could work on Saturday.",
+        "There was a lot of traffic when I left home.",
+        "It was cold and the sky looked like snow was coming."
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as instructed.",
+      "drills": [
+        "Base: Era nino cuando viviamos en Lima. -> change subject to nosotros for first clause.",
+        "Base: Lei un libro ayer. -> change object to plural dos articulos.",
+        "Base: Cocinabas cuando sono el telefono. -> change pronoun to yo.",
+        "Base: Estabamos en el parque cuando empezo a llover. -> change location to la playa.",
+        "Base: Juan estaba en el ejercito cuando conocio a Maria. -> change conocio to imperfect meaning.",
+        "Base: Queria salir, pero no podia. -> change second verb to successful preterite result.",
+        "Base: Llegue a la reunion y todos hablaban. -> change first verb to llegaste.",
+        "Base: Mi papa fumaba todos los dias. -> make it negative habitual.",
+        "Base: Visitamos a nuestros abuelos el domingo pasado. -> change subject to ellas.",
+        "Base: Hablaba con su amigo cuando escucho un ruido. -> change subject to nosotros first verb.",
+        "Base: No sabia que querias ir. -> change sabia to preterite find-out meaning.",
+        "Base: Conoci a Laura en 2020. -> change to imperfect know meaning.",
+        "Base: Pude terminar el informe. -> change to imperfect capability only.",
+        "Base: Tuve la impresion de que no queria venir. -> change tuve to imperfect.",
+        "Base: Hacia frio y el cielo parecia gris. -> add completed interruption with entonces."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the correct option for the intended meaning.",
+      "prompts": [
+        "I met Juan in 2010. (Conoci a Juan en 2010. vs Conocia a Juan en 2010.)",
+        "I knew Juan. (Conocia a Juan. vs Conoci a Juan.)",
+        "When did you find out? (Cuando supiste? vs Cuando sabias?)",
+        "I did not know you wanted to go. (No sabia que querias ir. vs No supe que querias ir. for ongoing ignorance)",
+        "I managed to finish. (Pude terminar. vs Podia terminar.)",
+        "I was able to work Saturdays in general. (Podia trabajar los sabados. vs Pude trabajar los sabados.)",
+        "I got the impression. (Tuve la impresion. vs Tenia la impresion. for a specific moment)",
+        "I had the impression. (Tenia la impresion. vs Tuve la impresion. for ongoing state)",
+        "I wanted to scream at that moment. (Quise gritar. vs Queria gritar.)",
+        "I refused to tell him. (No quise decirle. vs No queria decirle.)"
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific meaning.",
+      "prompts": [
+        "Write that when you were a child, you used to visit your grandparents on Sundays.",
+        "Write that yesterday you finished an important report.",
+        "Write that while you were driving, someone called you.",
+        "Write that you were at work when the internet went down.",
+        "Write that you did not know your client wanted to reschedule.",
+        "Write that you found out the meeting changed.",
+        "Write that you met your business partner in 2018.",
+        "Write that you already knew that person.",
+        "Write that you wanted to call, but you could not.",
+        "Write that you managed to solve the problem yesterday.",
+        "Write that there was heavy traffic when you left home.",
+        "Write that it was raining and people were running.",
+        "Write that your colleague told you he could work Saturday.",
+        "Write that you got the impression they were not interested.",
+        "Write that you had that impression for weeks."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish, not literal English.",
+      "prompts_en": [
+        "I was reading when Maria called me.",
+        "We were talking when the lights went out.",
+        "I found out he lied.",
+        "I did not know you were here.",
+        "I met her at a conference.",
+        "I knew her from before.",
+        "I could not go yesterday.",
+        "I used to be very shy.",
+        "It was very cold that night.",
+        "They were sleeping when I arrived."
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "Using preterite for repeated habits",
+        "why_it_happens": "Habitual meaning is not identified as ongoing pattern.",
+        "correct_spanish": "Use imperfect, for example fumaba todos los dias."
+      },
+      {
+        "mistake": "Using imperfect for one finished event",
+        "why_it_happens": "Direct translation from English simple past.",
+        "correct_spanish": "Use preterite for completed event, for example fui a la tienda ayer."
+      },
+      {
+        "mistake": "Conocia when meaning met",
+        "why_it_happens": "Missing tense-based meaning shift.",
+        "correct_spanish": "Use conoci for met."
+      },
+      {
+        "mistake": "Sabia when meaning found out",
+        "why_it_happens": "State meaning confused with discovery event.",
+        "correct_spanish": "Use supe for found out."
+      },
+      {
+        "mistake": "Podia when meaning managed to do it",
+        "why_it_happens": "Capability and successful completion are mixed.",
+        "correct_spanish": "Use pude for completed successful action."
+      },
+      {
+        "mistake": "No queria when meaning refused",
+        "why_it_happens": "Literal transfer of did not want.",
+        "correct_spanish": "Use no quise for refusal in a concrete moment."
+      },
+      {
+        "mistake": "Scene description in preterite",
+        "why_it_happens": "Background details treated as events.",
+        "correct_spanish": "Use imperfect for setting: hacia frio, parecia."
+      },
+      {
+        "mistake": "No interruption frame with cuando",
+        "why_it_happens": "Event structure not separated.",
+        "correct_spanish": "Use imperfect for ongoing action and preterite for interruption."
+      },
+      {
+        "mistake": "Always using tenia la impresion",
+        "why_it_happens": "Nuance of specific moment vs ongoing state ignored.",
+        "correct_spanish": "Use tuve la impresion for single moment, tenia for ongoing state."
+      },
+      {
+        "mistake": "No time anchors in narrative practice",
+        "why_it_happens": "Context cues for tense choice are missing.",
+        "correct_spanish": "Add markers like ayer, anoche, cuando, mientras."
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "Cuando era nino, siempre jugaba en el parque.",
+        "Ayer lei un articulo muy interesante.",
+        "Mientras cocinabas, sono el telefono.",
+        "Estabamos en la oficina cuando se fueron las luces.",
+        "Juan estaba en el ejercito cuando conocio a Maria.",
+        "Ella queria salir, pero no pudo porque tenia que trabajar.",
+        "Cuando llegue a la fiesta, todos ya habian empezado a bailar.",
+        "Mi papa fumaba todos los dias.",
+        "Visitamos a nuestros abuelos el domingo pasado.",
+        "Mientras el hablaba, escucho un ruido extrano.",
+        "Sabias que Ana mintio?",
+        "No sabia que querias ir al concierto.",
+        "Conoci a Carlos en 2015.",
+        "Maria dijo que conocia a Carlos.",
+        "Al escuchar la noticia, quise gritar.",
+        "No quise decirle mi nombre.",
+        "Pude levantar la caja yo mismo.",
+        "Juan me dijo que podia trabajar el sabado.",
+        "Habia mucho trafico cuando sali de casa.",
+        "Hacia frio y el cielo parecia que iba a nevar."
+      ],
+      "pattern_mutation": [
+        "Eramos ninos cuando viviamos en Lima.",
+        "Lei dos articulos ayer.",
+        "Cocinaba cuando sono el telefono.",
+        "Estabamos en la playa cuando empezo a llover.",
+        "Juan estaba en el ejercito cuando conocia a Maria.",
+        "Queria salir, pero no pudo.",
+        "Llegaste a la reunion y todos hablaban.",
+        "Mi papa no fumaba todos los dias.",
+        "Ellas visitaron a sus abuelos el domingo pasado.",
+        "Hablabamos con su amigo cuando escucho un ruido.",
+        "No supe que querias ir.",
+        "Conocia a Laura.",
+        "Podia terminar el informe.",
+        "Tenia la impresion de que no queria venir.",
+        "Hacia frio y el cielo parecia gris, entonces empezo a nevar."
+      ],
+      "contrastive_discrimination": [
+        "Conoci a Juan en 2010.",
+        "Conocia a Juan.",
+        "Cuando supiste?",
+        "No sabia que querias ir.",
+        "Pude terminar.",
+        "Podia trabajar los sabados.",
+        "Tuve la impresion.",
+        "Tenia la impresion.",
+        "Quise gritar.",
+        "No quise decirle."
+      ],
+      "reverse_conceptual_expression": [
+        "Estaba leyendo cuando Maria me llamo.",
+        "Estabamos hablando cuando se fueron las luces.",
+        "Supe que el mintio.",
+        "No sabia que estabas aqui.",
+        "La conoci en una conferencia.",
+        "La conocia de antes.",
+        "No pude ir ayer.",
+        "Yo era muy timido antes.",
+        "Hacia mucho frio esa noche.",
+        "Ellos dormian cuando llegue."
+      ]
+    }
+  }
+}

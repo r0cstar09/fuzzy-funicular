@@ -1,0 +1,248 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "double-object-pronouns",
+    "dar-preterite",
+    "se-lo-rule",
+    "adult-learners"
+  ],
+  "difficulty": "B1",
+  "pattern_id": "DOUBLE_OBJECT_PRONOUNS_DAR_18",
+  "source_files": [
+    "lessons/lesson-18/master 18 summary rev 72125.pdf",
+    "lessons/lesson-18/Exercise18b.pdf"
+  ],
+  "target_pattern": "Combine indirect and direct object pronouns with dar in preterite, using fixed order (IO -> DO -> verb) and mandatory le/les to se shift before lo/la/los/las.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Building gave it to her word-by-word with English pronoun order.",
+      "spanish_logic": "Spanish uses a fixed pronoun sequence and transforms le/les to se before direct object pronouns.",
+      "target_pattern_formula": [
+        "IO + DO + preterite of dar",
+        "le/les + lo/la/los/las -> se + lo/la/los/las",
+        "Optional clarifier remains possible: Se lo di a María"
+      ],
+      "natural_examples": [
+        "Se lo di.",
+        "Te los di.",
+        "Me la diste.",
+        "Se las dieron.",
+        "¿Se lo diste a tu mamá?"
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each in Spanish using combined object pronouns with dar in preterite. No answer key until the end.",
+      "prompts_en": [
+        "I gave it to her.",
+        "They gave them to him.",
+        "We gave it to her.",
+        "You gave them to me.",
+        "She gave it to us.",
+        "I gave it to you (tú).",
+        "They gave it to her.",
+        "We gave them to him.",
+        "Did you give it to her?",
+        "Did they give them to him?",
+        "I gave them to you (tú).",
+        "She gave them to me.",
+        "We gave it to them.",
+        "You gave it to me.",
+        "He gave it to her.",
+        "They gave it to us.",
+        "I gave it to him yesterday.",
+        "We gave them to her this morning.",
+        "You gave it to them last week.",
+        "Did she give it to you (tú)?"
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as instructed.",
+      "drills": [
+        "Base: Le di el libro a María. -> rewrite only with pronouns.",
+        "Base: Les dimos las llaves a ellos. -> rewrite only with pronouns.",
+        "Base: Te di el dinero. -> change direct object to plural (los boletos).",
+        "Base: Me diste la receta. -> change subject to nosotros.",
+        "Base: Se lo dio. -> change direct object to feminine singular.",
+        "Base: Se la dimos. -> change indirect recipient from third person to te.",
+        "Base: Nos lo dieron. -> change direct object to feminine plural.",
+        "Base: Te las di. -> make it a yes/no question.",
+        "Base: Se los diste. -> change tense person to yo preterite.",
+        "Base: Le dio el examen a los estudiantes. -> rewrite only pronouns.",
+        "Base: Me lo dio. -> make it negative.",
+        "Base: Se la di. -> add clarifier a Juan.",
+        "Base: Se los dieron. -> change direct object to singular masculine.",
+        "Base: Te los di. -> change indirect to nos.",
+        "Base: Nos lo dio. -> change verb to plural subject ellos."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the correct Spanish form.",
+      "prompts": [
+        "I gave it to her. (se lo di vs le lo di)",
+        "We gave them to him. (se los dimos vs los se dimos)",
+        "She gave it to me. (me lo dio vs lo me dio)",
+        "You gave them to us. (nos los diste vs los nos diste)",
+        "They gave it to her. (se lo dieron vs le lo dieron)",
+        "Did you give it to him? (¿se lo diste? vs ¿lo se diste?)",
+        "I gave it to you. (te lo di vs lo te di)",
+        "He gave them to her. (se las dio vs le las dio)",
+        "We gave it to them. (se lo dimos vs les lo dimos)",
+        "You gave it to me. (me lo diste vs lo me diste)"
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific meaning.",
+      "prompts": [
+        "You gave the report to your manager (with pronouns in final sentence).",
+        "You gave the keys to your coworker yesterday.",
+        "Your friend gave you a useful tip.",
+        "You gave your team the schedule this morning.",
+        "They gave you the documents late.",
+        "You gave your sister the book she wanted.",
+        "Your boss gave you a new task.",
+        "You gave your client the information by email.",
+        "Someone gave you bad news.",
+        "You gave your neighbors the package.",
+        "Your colleague gave you the password.",
+        "You gave your parents the photos.",
+        "They gave your team the budget.",
+        "You gave your professor the homework.",
+        "Your friend gave you a gift last week."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish (not literal English).",
+      "prompts_en": [
+        "I handed it to her already.",
+        "Can you pass it to me?",
+        "They gave it back to us.",
+        "I forgot to give it to him.",
+        "She gave them to me in person.",
+        "We gave it to them by mistake.",
+        "He never gave it to me.",
+        "I gave it to you, remember?",
+        "Did they give it to her or to him?",
+        "Do not give it to me now."
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "Using le lo or les la combinations",
+        "why_it_happens": "Literal pronoun stacking from separate sets.",
+        "correct_spanish": "se lo, se la, se los, se las"
+      },
+      {
+        "mistake": "Wrong order lo me dio",
+        "why_it_happens": "English object order transfer.",
+        "correct_spanish": "me lo dio"
+      },
+      {
+        "mistake": "Dropping indirect pronoun when recipient is named",
+        "why_it_happens": "Learner assumes a Juan is enough.",
+        "correct_spanish": "Le di el libro a Juan."
+      },
+      {
+        "mistake": "Keeping only direct object pronoun in double-object sentences",
+        "why_it_happens": "Partial mapping from English.",
+        "correct_spanish": "Include both roles when both are present."
+      },
+      {
+        "mistake": "Confusing recipient and thing pronouns",
+        "why_it_happens": "Role tracking under load is difficult.",
+        "correct_spanish": "recipient: me-te-le-nos-les; thing: lo-la-los-las"
+      },
+      {
+        "mistake": "Wrong gender or number in direct object pronoun",
+        "why_it_happens": "English neutral it/them influence.",
+        "correct_spanish": "la receta, los boletos, etc."
+      },
+      {
+        "mistake": "Using present forms while narrating past giving",
+        "why_it_happens": "Tense drift due to pronoun complexity.",
+        "correct_spanish": "di, diste, dio, dimos, dieron"
+      },
+      {
+        "mistake": "Interpreting se only as reflexive in this pattern",
+        "why_it_happens": "Se has many functions in Spanish.",
+        "correct_spanish": "Here se replaces le/les before DO pronouns."
+      },
+      {
+        "mistake": "Attaching pronouns to finite conjugated forms",
+        "why_it_happens": "Mixing finite and infinitive placement rules.",
+        "correct_spanish": "Keep them before conjugated preterite in this pattern."
+      },
+      {
+        "mistake": "Skipping repetition because pattern feels unnatural",
+        "why_it_happens": "Cognitive overload early on.",
+        "correct_spanish": "Drill short frames: se lo di, te la dio."
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "Se lo di.",
+        "Se los dieron.",
+        "Se la dimos.",
+        "Me los diste.",
+        "Nos lo dio.",
+        "Te lo di.",
+        "Se lo dieron.",
+        "Se las dimos.",
+        "¿Se lo diste?",
+        "¿Se los dieron?",
+        "Te los di.",
+        "Me los dio.",
+        "Se lo dimos.",
+        "Me lo diste.",
+        "Se lo dio.",
+        "Nos lo dieron.",
+        "Se lo di ayer.",
+        "Se los dimos esta mañana.",
+        "Se lo diste la semana pasada.",
+        "¿Me lo dio?"
+      ],
+      "pattern_mutation": [
+        "Se lo di.",
+        "Se las dimos.",
+        "Te los di.",
+        "Nos la diste.",
+        "Se la dio.",
+        "Te la dimos.",
+        "Nos las dieron.",
+        "¿Te las di?",
+        "Se los di.",
+        "Se lo dio.",
+        "No me lo dio.",
+        "Se la di a Juan.",
+        "Se lo dieron.",
+        "Nos los di.",
+        "Nos lo dieron."
+      ],
+      "contrastive_discrimination": [
+        "Se lo di.",
+        "Se los dimos.",
+        "Me lo dio.",
+        "Nos los diste.",
+        "Se lo dieron.",
+        "¿Se lo diste?",
+        "Te lo di.",
+        "Se las dio.",
+        "Se lo dimos.",
+        "Me lo diste."
+      ],
+      "reverse_conceptual_expression": [
+        "Ya se lo di.",
+        "¿Me lo puedes pasar?",
+        "Nos lo devolvieron.",
+        "Se me olvidó dárselo.",
+        "Ella me los dio en persona.",
+        "Se lo dimos por error.",
+        "Él nunca me lo dio.",
+        "Te lo di, ¿te acuerdas?",
+        "¿Se lo dieron a ella o a él?",
+        "No me lo des ahora."
+      ]
+    }
+  }
+}

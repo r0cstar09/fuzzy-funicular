@@ -1,0 +1,249 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "hay-vs-estar",
+    "prepositions-of-place",
+    "location-language",
+    "adult-learners"
+  ],
+  "difficulty": "A1-A2",
+  "pattern_id": "HAY_ESTAR_PREPOSITIONS_09",
+  "source_files": [
+    "lessons/lesson-9/hay.pdf",
+    "lessons/lesson-9/9 exercise.pdf",
+    "lessons/lesson-9/vocabrooms.pdf"
+  ],
+  "target_pattern": "Distinguish existence (hay) from location of known objects (está/están), and place objects naturally using core Spanish prepositions of place.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Using one is/are structure for everything.",
+      "spanish_logic": "Spanish separates existence (hay) from location of known things (está/están).",
+      "target_pattern_formula": [
+        "Hay + noun (there is / there are)",
+        "El/La + noun + está ... (specific singular thing is located)",
+        "Los/Las + noun + están ... (specific plural things are located)"
+      ],
+      "natural_examples": [
+        "Hay una mesa en la cocina.",
+        "La mesa está en la cocina.",
+        "Hay llaves en el pasillo.",
+        "Las llaves están en el pasillo.",
+        "¿Hay una silla cerca de la ventana?"
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each in Spanish using hay vs está/están correctly. No answer key until the end.",
+      "prompts_en": [
+        "There is a dog in the yard.",
+        "The dog is in the yard.",
+        "There are shoes in the hallway.",
+        "The shoes are in the hallway.",
+        "There is a table in the kitchen.",
+        "The table is in the kitchen.",
+        "There are two chairs in the dining room.",
+        "The chairs are next to the table.",
+        "There is a lamp on the desk.",
+        "The lamp is on the desk.",
+        "There is a mirror in the bathroom.",
+        "The mirror is behind the door.",
+        "There are keys in my room.",
+        "The keys are inside the backpack.",
+        "There is a window in the office.",
+        "The window is to the right of the desk.",
+        "There are books on the bookshelf.",
+        "The books are near the bed.",
+        "There is no chair in the room.",
+        "The chair is outside the room."
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as instructed.",
+      "drills": [
+        "Base: Hay una lámpara en la sala. -> change to plural.",
+        "Base: La lámpara está sobre la mesa. -> make it a question.",
+        "Base: Hay zapatos en el pasillo. -> make it negative.",
+        "Base: Los zapatos están en el pasillo. -> change location to debajo de la cama.",
+        "Base: Hay una mesa en la cocina. -> ask where is the table in a second sentence.",
+        "Base: La mesa está en la cocina. -> change subject to plural las mesas.",
+        "Base: Hay un gato dentro de la caja. -> replace dentro de with fuera de.",
+        "Base: El gato está dentro de la caja. -> make it negative.",
+        "Base: Hay un banco enfrente de la iglesia. -> change banco to plural.",
+        "Base: El banco está entre el supermercado y la farmacia. -> change to los bancos.",
+        "Base: Hay un teléfono en el escritorio. -> change object to dos teléfonos.",
+        "Base: El teléfono está sobre el escritorio. -> rewrite with en.",
+        "Base: Hay una silla al lado de la ventana. -> turn into question.",
+        "Base: La silla está al lado de la ventana. -> move it to a la izquierda de la puerta.",
+        "Base: Hay una computadora en la oficina. -> follow with a location sentence for that same computer."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the most natural pattern and write in Spanish.",
+      "prompts": [
+        "There is a table in the kitchen. (hay vs está)",
+        "The table is in the kitchen. (hay vs está)",
+        "There are books on the desk. (hay vs están)",
+        "The books are on the desk. (hay vs están)",
+        "Is there a pharmacy near here? (¿hay...? vs ¿está... una farmacia...?)",
+        "Where is the pharmacy? (¿dónde hay...? vs ¿dónde está...?) known specific place.",
+        "There is no bank on this street. (no hay vs no está) generic existence.",
+        "The bank is across from the church. (está vs hay) known location.",
+        "There are no keys in the bag. (no hay vs no están) unknown existence there.",
+        "The keys are not in the bag. (no están vs no hay) known keys."
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific meaning.",
+      "prompts": [
+        "There is a supermarket near your home.",
+        "Your keys are on the table.",
+        "There are two chairs in your room.",
+        "Your phone is inside your backpack.",
+        "There is no coffee in your kitchen.",
+        "Your laptop is on your desk.",
+        "There is a mirror in your bathroom.",
+        "Your shoes are under your bed.",
+        "There are books in your office.",
+        "The books are next to the window.",
+        "There is a pharmacy near your office.",
+        "The pharmacy is across from a bank.",
+        "There is a chair outside your room.",
+        "Your bag is behind the door.",
+        "There are no people in the living room right now."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish (not literal English).",
+      "prompts_en": [
+        "Is there Wi-Fi here?",
+        "The bathroom is to the right.",
+        "There is nothing in the fridge.",
+        "My keys are nowhere.",
+        "There are a lot of people outside.",
+        "My phone is not where it should be.",
+        "There is a chair free near the window.",
+        "The bank is right in front of the church.",
+        "There is not any space on the desk.",
+        "The dog is outside, not inside."
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "Using está for existence",
+        "why_it_happens": "There is is translated as is.",
+        "correct_spanish": "Hay una mesa en la cocina."
+      },
+      {
+        "mistake": "Using hay for known object location",
+        "why_it_happens": "Single strategy for all location sentences.",
+        "correct_spanish": "La mesa está en la cocina."
+      },
+      {
+        "mistake": "Using está with plural subjects",
+        "why_it_happens": "Agreement with subject is missed.",
+        "correct_spanish": "Los libros están en el escritorio."
+      },
+      {
+        "mistake": "Overusing hay + definite noun for specific referent",
+        "why_it_happens": "Pattern from there is overextended.",
+        "correct_spanish": "El libro está en la mesa."
+      },
+      {
+        "mistake": "Missing contractions in de el / a el",
+        "why_it_happens": "Chunking of contractions is not automatic.",
+        "correct_spanish": "del pasillo, al lado del sofá"
+      },
+      {
+        "mistake": "Literal preposition transfer from English",
+        "why_it_happens": "Word-by-word mapping.",
+        "correct_spanish": "enfrente de, debajo de, al lado de"
+      },
+      {
+        "mistake": "Dropping article with room nouns",
+        "why_it_happens": "English article omission transfer.",
+        "correct_spanish": "en la cocina, en el baño"
+      },
+      {
+        "mistake": "Confusing dentro de and detrás de",
+        "why_it_happens": "Similar sounding preposition chunks.",
+        "correct_spanish": "dentro de la caja vs detrás de la caja"
+      },
+      {
+        "mistake": "hay no instead of no hay",
+        "why_it_happens": "Negation order copied from English.",
+        "correct_spanish": "No hay sillas aquí."
+      },
+      {
+        "mistake": "Using estar infinitive in finite sentence",
+        "why_it_happens": "Dictionary form used under pressure.",
+        "correct_spanish": "La silla está..."
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "Hay un perro en el jardín.",
+        "El perro está en el jardín.",
+        "Hay zapatos en el pasillo.",
+        "Los zapatos están en el pasillo.",
+        "Hay una mesa en la cocina.",
+        "La mesa está en la cocina.",
+        "Hay dos sillas en el comedor.",
+        "Las sillas están al lado de la mesa.",
+        "Hay una lámpara sobre el escritorio.",
+        "La lámpara está sobre el escritorio.",
+        "Hay un espejo en el baño.",
+        "El espejo está detrás de la puerta.",
+        "Hay llaves en mi cuarto.",
+        "Las llaves están dentro de la mochila.",
+        "Hay una ventana en la oficina.",
+        "La ventana está a la derecha del escritorio.",
+        "Hay libros en el librero.",
+        "Los libros están cerca de la cama.",
+        "No hay una silla en el cuarto.",
+        "La silla está fuera del cuarto."
+      ],
+      "pattern_mutation": [
+        "Hay lámparas en la sala.",
+        "¿La lámpara está sobre la mesa?",
+        "No hay zapatos en el pasillo.",
+        "Los zapatos están debajo de la cama.",
+        "Hay una mesa en la cocina. ¿Dónde está la mesa?",
+        "Las mesas están en la cocina.",
+        "Hay un gato fuera de la caja.",
+        "El gato no está dentro de la caja.",
+        "Hay bancos enfrente de la iglesia.",
+        "Los bancos están entre el supermercado y la farmacia.",
+        "Hay dos teléfonos en el escritorio.",
+        "El teléfono está en el escritorio.",
+        "¿Hay una silla al lado de la ventana?",
+        "La silla está a la izquierda de la puerta.",
+        "Hay una computadora en la oficina. La computadora está sobre el escritorio."
+      ],
+      "contrastive_discrimination": [
+        "Hay una mesa en la cocina.",
+        "La mesa está en la cocina.",
+        "Hay libros sobre el escritorio.",
+        "Los libros están sobre el escritorio.",
+        "¿Hay una farmacia cerca de aquí?",
+        "¿Dónde está la farmacia?",
+        "No hay banco en esta calle.",
+        "El banco está enfrente de la iglesia.",
+        "No hay llaves en la bolsa.",
+        "Las llaves no están en la bolsa."
+      ],
+      "reverse_conceptual_expression": [
+        "¿Hay wifi aquí?",
+        "El baño está a la derecha.",
+        "No hay nada en el refrigerador.",
+        "Mis llaves no están por ningún lado.",
+        "Hay mucha gente afuera.",
+        "Mi teléfono no está donde debe estar.",
+        "Hay una silla libre cerca de la ventana.",
+        "El banco está justo enfrente de la iglesia.",
+        "No hay espacio en el escritorio.",
+        "El perro está afuera, no adentro."
+      ]
+    }
+  }
+}

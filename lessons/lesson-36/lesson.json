@@ -1,0 +1,249 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "que-tal",
+    "suggestion-patterns",
+    "conversation",
+    "adult-learners"
+  ],
+  "difficulty": "A1-A2",
+  "pattern_id": "QUE_TAL_CHECKIN_SUGGESTION_36",
+  "source_files": [
+    "lessons/lesson-36/Summary 36.pdf",
+    "lessons/lesson-36/Exercise 36.pdf"
+  ],
+  "target_pattern": "Use que tal plus noun for how is or was check-ins and que tal si plus present tense for natural how about suggestions.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Building full questions with extra verbs for every how is or how was sentence.",
+      "spanish_logic": "Spanish often uses compact frames: que tal plus noun for check-ins and que tal si plus present for suggestions.",
+      "target_pattern_formula": [
+        "que tal plus noun",
+        "que tal plus possessive plus noun",
+        "que tal si plus present nosotros",
+        "short response chunks such as bien, muy bien, regular, fatal"
+      ],
+      "natural_examples": [
+        "Que tal la comida?",
+        "Que tal tu dia?",
+        "Que tal el concierto?",
+        "Que tal si vamos en taxi?",
+        "Que tal si practicamos espanol?"
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each in Spanish using que tal or que tal si.",
+      "prompts_en": [
+        "How are the tacos?",
+        "How is the movie?",
+        "How was your trip?",
+        "How is the hotel?",
+        "How was the class?",
+        "How is the soup?",
+        "How was the concert?",
+        "How is your day going?",
+        "How was dinner?",
+        "How is the coffee?",
+        "How about we go to the beach?",
+        "How about we stay home today?",
+        "How about we watch a movie?",
+        "How about we eat tacos?",
+        "How about we practice Spanish?",
+        "How about we invite your friend?",
+        "How about we take a taxi?",
+        "How about we cook something?",
+        "How about we go to the store?",
+        "How about we cancel the reservation?"
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as instructed.",
+      "drills": [
+        "Base: Que tal la comida? -> change noun to la reunion.",
+        "Base: Que tal tu dia? -> change possessive to tu semana.",
+        "Base: Que tal el concierto? -> change noun to plural los conciertos.",
+        "Base: Que tal la clase? -> change noun to el curso.",
+        "Base: Que tal si vamos a la playa? -> change destination to el centro.",
+        "Base: Que tal si nos quedamos en casa? -> change to salimos a cenar.",
+        "Base: Que tal si practicamos espanol? -> change activity to revisamos el informe.",
+        "Base: Que tal si tomamos un taxi? -> change transport to el metro.",
+        "Base: Que tal si cocinamos algo? -> make it negative suggestion.",
+        "Base: Que tal si invitamos a Ana? -> change person to plural a tus amigos.",
+        "Base: Que tal la sopa? -> change noun to el cafe.",
+        "Base: Que tal si cancelamos la reservacion? -> change verb to confirmamos.",
+        "Base: Que tal el hotel? -> change to past-context noun el viaje.",
+        "Base: Que tal si vemos una pelicula? -> change object to una serie.",
+        "Base: Que tal la cena? -> turn into suggestion with same noun."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the more natural option for this lesson pattern.",
+      "prompts": [
+        "How is the food? (Que tal la comida? vs Como es la comida?)",
+        "How was your day? (Que tal tu dia? vs Como fue tu dia?)",
+        "How about we go now? (Que tal si vamos ahora? vs Como si vamos ahora?)",
+        "How about we stay home? (Que tal si nos quedamos en casa? vs Que tal nos quedamos en casa?)",
+        "How is the coffee? (Que tal el cafe? vs Que tal es el cafe?)",
+        "How was the concert? (Que tal el concierto? vs Como estuvo el concierto?)",
+        "How about we invite Luis? (Que tal si invitamos a Luis? vs Que tal invitamos a Luis?)",
+        "How is your week? (Que tal tu semana? vs Como es tu semana?)",
+        "How about we cook? (Que tal si cocinamos? vs Como tal si cocinamos?)",
+        "How about we take a taxi? (Que tal si tomamos un taxi? vs Que tal tomamos un taxi?)"
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific meaning.",
+      "prompts": [
+        "Ask a coworker how the meeting is going.",
+        "Ask a friend how their day was.",
+        "Ask how the new restaurant is.",
+        "Ask how the presentation was.",
+        "Suggest going out for coffee now.",
+        "Suggest staying in and cooking tonight.",
+        "Suggest reviewing the report together.",
+        "Suggest taking a taxi because it is late.",
+        "Ask how the project is going this week.",
+        "Suggest canceling a reservation and rebooking tomorrow.",
+        "Ask how the movie was last night.",
+        "Suggest calling the client before lunch.",
+        "Ask how the hotel is near the office.",
+        "Suggest practicing Spanish for fifteen minutes now.",
+        "Ask how dinner was with the team."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish, not literal English.",
+      "prompts_en": [
+        "How was your flight?",
+        "How is the new office?",
+        "How about we leave early?",
+        "How about we order food instead?",
+        "How is your Monday going?",
+        "How about we talk after the meeting?",
+        "How was the event yesterday?",
+        "How about we keep it simple?",
+        "How is your coffee?",
+        "How about we try again tomorrow?"
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "Como tal la comida?",
+        "why_it_happens": "Mixing two different question starters.",
+        "correct_spanish": "Que tal la comida?"
+      },
+      {
+        "mistake": "Que tal es la comida?",
+        "why_it_happens": "Adding an unnecessary verb in the fixed frame.",
+        "correct_spanish": "Que tal la comida?"
+      },
+      {
+        "mistake": "Using subjunctive in every que tal si suggestion",
+        "why_it_happens": "Overapplying formal suggestion grammar.",
+        "correct_spanish": "Use que tal si plus present tense naturally."
+      },
+      {
+        "mistake": "Que tal vamos a la playa?",
+        "why_it_happens": "Forgetting si in the suggestion pattern.",
+        "correct_spanish": "Que tal si vamos a la playa?"
+      },
+      {
+        "mistake": "Forcing explicit tense words in every check-in",
+        "why_it_happens": "Literal tense translation habits.",
+        "correct_spanish": "Que tal plus noun can be present or past by context."
+      },
+      {
+        "mistake": "Que tal si ir a la tienda?",
+        "why_it_happens": "Using infinitive after si in this pattern.",
+        "correct_spanish": "Que tal si vamos a la tienda?"
+      },
+      {
+        "mistake": "Que tal tu dia es?",
+        "why_it_happens": "English word order transfer.",
+        "correct_spanish": "Que tal tu dia?"
+      },
+      {
+        "mistake": "Writing suggestion lines without question marks",
+        "why_it_happens": "Treating it as a plain statement.",
+        "correct_spanish": "Write it as a question: Que tal si...?"
+      },
+      {
+        "mistake": "Que tal de la cena?",
+        "why_it_happens": "Adding unnecessary preposition.",
+        "correct_spanish": "Que tal la cena?"
+      },
+      {
+        "mistake": "Avoiding short responses like bien or fatal",
+        "why_it_happens": "Belief that full sentences are mandatory.",
+        "correct_spanish": "Short chunks are natural and common."
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "Que tal los tacos?",
+        "Que tal la pelicula?",
+        "Que tal tu viaje?",
+        "Que tal el hotel?",
+        "Que tal la clase?",
+        "Que tal la sopa?",
+        "Que tal el concierto?",
+        "Que tal tu dia?",
+        "Que tal la cena?",
+        "Que tal el cafe?",
+        "Que tal si vamos a la playa?",
+        "Que tal si nos quedamos en casa hoy?",
+        "Que tal si vemos una pelicula?",
+        "Que tal si comemos tacos?",
+        "Que tal si practicamos espanol?",
+        "Que tal si invitamos a tu amigo?",
+        "Que tal si tomamos un taxi?",
+        "Que tal si cocinamos algo?",
+        "Que tal si vamos a la tienda?",
+        "Que tal si cancelamos la reservacion?"
+      ],
+      "pattern_mutation": [
+        "Que tal la reunion?",
+        "Que tal tu semana?",
+        "Que tal los conciertos?",
+        "Que tal el curso?",
+        "Que tal si vamos al centro?",
+        "Que tal si salimos a cenar?",
+        "Que tal si revisamos el informe?",
+        "Que tal si tomamos el metro?",
+        "Que tal si no cocinamos nada?",
+        "Que tal si invitamos a tus amigos?",
+        "Que tal el cafe?",
+        "Que tal si confirmamos la reservacion?",
+        "Que tal el viaje?",
+        "Que tal si vemos una serie?",
+        "Que tal si cenamos?"
+      ],
+      "contrastive_discrimination": [
+        "Que tal la comida?",
+        "Que tal tu dia?",
+        "Que tal si vamos ahora?",
+        "Que tal si nos quedamos en casa?",
+        "Que tal el cafe?",
+        "Que tal el concierto?",
+        "Que tal si invitamos a Luis?",
+        "Que tal tu semana?",
+        "Que tal si cocinamos?",
+        "Que tal si tomamos un taxi?"
+      ],
+      "reverse_conceptual_expression": [
+        "Que tal tu vuelo?",
+        "Que tal la oficina nueva?",
+        "Que tal si salimos temprano?",
+        "Que tal si pedimos comida mejor?",
+        "Que tal tu lunes?",
+        "Que tal si hablamos despues de la reunion?",
+        "Que tal el evento de ayer?",
+        "Que tal si lo hacemos simple?",
+        "Que tal tu cafe?",
+        "Que tal si lo intentamos otra vez manana?"
+      ]
+    }
+  }
+}

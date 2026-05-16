@@ -1,0 +1,248 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "subjunctive-triggers",
+    "para-que",
+    "purpose-clauses",
+    "adult-learners"
+  ],
+  "difficulty": "B1",
+  "pattern_id": "PARA_QUE_PURPOSE_SUBJUNCTIVE_48",
+  "source_files": [
+    "lessons/lesson-48/summary 48.pdf"
+  ],
+  "target_pattern": "Use para plus infinitive with same subject and para que plus subjunctive with subject change, including imperfect subjunctive after past main clauses for intended outcomes.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Using one to plus verb structure for every purpose expression.",
+      "spanish_logic": "Spanish purpose clauses split by subject continuity and tense alignment across clauses.",
+      "target_pattern_formula": [
+        "same subject: para plus infinitive",
+        "subject change present or future meaning: para que plus present subjunctive",
+        "subject change after past main verb with would meaning: para que plus imperfect subjunctive",
+        "commands can take para que plus subjunctive purpose clauses"
+      ],
+      "natural_examples": [
+        "Trabajo todos los dias para ahorrar dinero.",
+        "Hago videos para que mejores tu espanol.",
+        "Cierra la puerta para que el gato no se escape.",
+        "Pinte la casa para que se vendiera mas rapido.",
+        "Le explique todo para que supiera la verdad."
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each in Spanish using para or para que correctly.",
+      "prompts_en": [
+        "I make videos like this so that you improve your Spanish.",
+        "I give my wife flowers so that she knows I love her.",
+        "I work every day to go on vacation in summer.",
+        "I work hard so that my wife and I can go on vacation twice a year.",
+        "Close the door so that the cat does not escape.",
+        "Put the meat in the freezer so that it does not go bad.",
+        "I want to sit near the entrance so that Juan sees me when he arrives.",
+        "We left early so that they do not start without us.",
+        "I called you so that you know the plan.",
+        "He is studying more so that he gets a better job.",
+        "I painted the house so that it would sell faster.",
+        "I told Juan what happened so that he would know the truth.",
+        "We changed the schedule so that everyone would arrive on time.",
+        "She wrote the instructions so that no one would get confused.",
+        "They lowered prices so that customers would buy more.",
+        "I saved that email to show it later.",
+        "We reviewed everything to avoid mistakes.",
+        "I turned on the lights so that you could see better.",
+        "She spoke slowly so that we would understand clearly.",
+        "I brought a jacket so that you would not be cold."
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as instructed.",
+      "drills": [
+        "Base: Trabajo duro para ahorrar dinero. -> change to subject-change version with mi familia.",
+        "Base: Estudio todas las noches para aprobar. -> change to para que with mis padres.",
+        "Base: Cierra la puerta para que el gato no se escape. -> change noun to los perros.",
+        "Base: Hago ejercicio para sentirme mejor. -> change to subject-change with mi medico.",
+        "Base: Te llamo para que sepas el plan. -> change recipient to plural ustedes.",
+        "Base: Nos fuimos temprano para que no empezaran sin nosotros. -> change to present-time version.",
+        "Base: Pinte la casa para que se vendiera mas rapido. -> change object to el coche.",
+        "Base: Le conte todo para que supiera la verdad. -> change person to plural ellos.",
+        "Base: Cambiamos el horario para que todos llegaran a tiempo. -> change noun to singular Juan.",
+        "Base: Escribio instrucciones para que nadie se confundiera. -> change to present-time version.",
+        "Base: Bajaron los precios para que los clientes compraran mas. -> change tense to present main clause.",
+        "Base: Guarde ese correo para mostrarlo despues. -> change infinitive to revisarlo.",
+        "Base: Revisamos todo para evitar errores. -> change purpose noun to problemas.",
+        "Base: Encendi las luces para que pudieras ver mejor. -> change to present command with tu.",
+        "Base: Traje una chaqueta para que no tuvieras frio. -> change to first person plural main clause."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the correct Spanish form.",
+      "prompts": [
+        "I study to learn. (Estudio para aprender. vs Estudio para que aprenda.)",
+        "I study so that my son learns. (Estudio para que mi hijo aprenda. vs Estudio para aprender mi hijo.)",
+        "We left early so they would not start. (Nos fuimos temprano para que no empezaran. vs Nos fuimos temprano para no empezar.)",
+        "She called me so that I know. (Me llamo para que sepa. vs Me llamo para saber.)",
+        "I painted it so that it would sell faster. (Lo pinte para que se vendiera mas rapido. vs Lo pinte para venderse mas rapido.)",
+        "I am saving for travel. (Ahorro para viajar. vs Ahorro para que viaje.)",
+        "Turn on the light so that we can read. (Enciende la luz para que podamos leer. vs Enciende la luz para leer podamos.)",
+        "I explained it so they would understand. (Lo explique para que entendieran. vs Lo explique para entender.)",
+        "We organized everything so nobody gets confused. (Organizamos todo para que nadie se confunda. vs Organizamos todo para no confundir.)",
+        "I brought coffee to wake up. (Traje cafe para despertarme. vs Traje cafe para que me despierte.)"
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific meaning.",
+      "prompts": [
+        "Write that you wake up early to exercise.",
+        "Write that you wake up early so that your kids get to school on time.",
+        "Write that you send reminders so that your team does not forget deadlines.",
+        "Write that you prepare lunch to save money.",
+        "Write that you cooked extra food so that your guests would eat well.",
+        "Write that you spoke with HR so that they would clarify your benefits.",
+        "Write that you closed the window so that the room would stay warm.",
+        "Write that you reviewed the contract to avoid legal issues.",
+        "Write that you changed your route so that you would arrive faster.",
+        "Write that you practice every day to improve pronunciation.",
+        "Write that you practiced every day so that your clients would trust your Spanish.",
+        "Write that you turned off notifications to focus better.",
+        "Write that you left early so that no one would wait for you.",
+        "Write that you saved receipts so that accounting would process reimbursement.",
+        "Write that you bought a gift so that your friend would feel appreciated."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish, not literal English.",
+      "prompts_en": [
+        "I wrote it down so that I would not forget.",
+        "We should leave now so that we can arrive early.",
+        "He called me so that I know the update.",
+        "I stayed quiet to listen better.",
+        "She repeated it so that everyone would understand.",
+        "I opened the file to review it.",
+        "They moved the meeting so that the director could attend.",
+        "I made coffee so that we stay awake.",
+        "We planned ahead so that nothing would fail.",
+        "I brought cash so that we could pay quickly."
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "Always using para plus infinitive",
+        "why_it_happens": "Direct English to plus verb transfer.",
+        "correct_spanish": "Use para que plus subjunctive when subjects differ."
+      },
+      {
+        "mistake": "Using para que with same subject",
+        "why_it_happens": "Trigger overgeneralization.",
+        "correct_spanish": "Use para plus infinitive when subject stays the same."
+      },
+      {
+        "mistake": "para que plus indicative",
+        "why_it_happens": "Mood switch not applied.",
+        "correct_spanish": "Use subjunctive after para que."
+      },
+      {
+        "mistake": "Present subjunctive after past main clause with would meaning",
+        "why_it_happens": "No tense backshifting in purpose clause.",
+        "correct_spanish": "Use imperfect subjunctive after past main clause."
+      },
+      {
+        "mistake": "Dropping que in subject-change purpose clause",
+        "why_it_happens": "Hybrid compression of two structures.",
+        "correct_spanish": "Keep para que plus subjunctive."
+      },
+      {
+        "mistake": "Wrong person in subordinate verb",
+        "why_it_happens": "Second subject not tracked carefully.",
+        "correct_spanish": "Match person and number in subordinate clause."
+      },
+      {
+        "mistake": "Literal English order in purpose clauses",
+        "why_it_happens": "Chunk-by-chunk translation habit.",
+        "correct_spanish": "Use natural Spanish clause order."
+      },
+      {
+        "mistake": "Missing reflexive pronouns in infinitive purpose clauses",
+        "why_it_happens": "Incomplete infinitive form production.",
+        "correct_spanish": "Keep pronoun in infinitive when required."
+      },
+      {
+        "mistake": "Future tense after para que",
+        "why_it_happens": "Future meaning interpreted as future morphology.",
+        "correct_spanish": "Use subjunctive, not future, after para que."
+      },
+      {
+        "mistake": "Avoiding purpose clauses due to subjunctive fear",
+        "why_it_happens": "Overthinking abstract definitions.",
+        "correct_spanish": "Apply subject same-or-different rule first."
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "Hago videos como este para que mejores tu espanol.",
+        "Le regalo flores a mi esposa para que sepa que la amo.",
+        "Trabajo todos los dias para irme de vacaciones en verano.",
+        "Trabajo duro para que mi esposa y yo podamos irnos de vacaciones dos veces al ano.",
+        "Cierra la puerta para que el gato no se escape.",
+        "Pon la carne en el congelador para que no se eche a perder.",
+        "Quiero sentarme cerca de la entrada para que Juan me vea cuando llegue.",
+        "Nos fuimos temprano para que no empezaran sin nosotros.",
+        "Te llame para que sepas el plan.",
+        "El estudia mas para que consiga un mejor trabajo.",
+        "Pinte la casa para que se vendiera mas rapido.",
+        "Le conte a Juan lo que paso para que supiera la verdad.",
+        "Cambiamos el horario para que todos llegaran a tiempo.",
+        "Ella escribio las instrucciones para que nadie se confundiera.",
+        "Bajaron los precios para que los clientes compraran mas.",
+        "Guarde ese correo para mostrarlo despues.",
+        "Revisamos todo para evitar errores.",
+        "Encendi las luces para que pudieras ver mejor.",
+        "Ella hablo despacio para que entendieramos claramente.",
+        "Traje una chaqueta para que no tuvieras frio."
+      ],
+      "pattern_mutation": [
+        "Trabajo duro para que mi familia ahorre dinero.",
+        "Estudio todas las noches para que mis padres esten orgullosos.",
+        "Cierra la puerta para que los perros no se escapen.",
+        "Hago ejercicio para que mi medico vea progreso.",
+        "Te llamo para que sepan el plan.",
+        "Nos vamos temprano para que no empiecen sin nosotros.",
+        "Pinte el coche para que se vendiera mas rapido.",
+        "Les conte todo para que supieran la verdad.",
+        "Cambiamos el horario para que Juan llegara a tiempo.",
+        "Escribe instrucciones para que nadie se confunda.",
+        "Bajan los precios para que los clientes compren mas.",
+        "Guarde ese correo para revisarlo despues.",
+        "Revisamos todo para evitar problemas.",
+        "Enciende las luces para que puedas ver mejor.",
+        "Trajimos una chaqueta para que no tuvieras frio."
+      ],
+      "contrastive_discrimination": [
+        "Estudio para aprender.",
+        "Estudio para que mi hijo aprenda.",
+        "Nos fuimos temprano para que no empezaran.",
+        "Me llamo para que sepa.",
+        "Lo pinte para que se vendiera mas rapido.",
+        "Ahorro para viajar.",
+        "Enciende la luz para que podamos leer.",
+        "Lo explique para que entendieran.",
+        "Organizamos todo para que nadie se confunda.",
+        "Traje cafe para despertarme."
+      ],
+      "reverse_conceptual_expression": [
+        "Lo anote para que no se me olvidara.",
+        "Debemos salir ahora para que podamos llegar temprano.",
+        "El me llamo para que sepa la novedad.",
+        "Me quede callado para escuchar mejor.",
+        "Ella lo repitio para que todos entendieran.",
+        "Abri el archivo para revisarlo.",
+        "Cambiaron la reunion para que el director pudiera asistir.",
+        "Hice cafe para que nos mantengamos despiertos.",
+        "Planeamos con tiempo para que nada fallara.",
+        "Traje efectivo para que pudieramos pagar rapido."
+      ]
+    }
+  }
+}

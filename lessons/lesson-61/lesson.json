@@ -1,0 +1,249 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "ir-vs-irse-vs-salir",
+    "movement-verbs",
+    "phrasal-patterns",
+    "adult-learners"
+  ],
+  "difficulty": "B1",
+  "pattern_id": "IR_IRSE_SALIR_CONTRAST_61",
+  "source_files": [
+    "lessons/lesson-61/Summary 61.pdf"
+  ],
+  "target_pattern": "Distinguish ir for destination, irse for departure, and salir for exiting, going out, release events, and outcome expressions like me salio bien.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Using one leave/go translation for all movement meanings.",
+      "spanish_logic": "Spanish separates movement verbs by focus: destination ir, departure irse, and exit or outcome salir.",
+      "target_pattern_formula": [
+        "destination: ir plus a plus place",
+        "departure: irse with reflexive pronoun",
+        "origin or exit: salir de plus place",
+        "social and activity: salir a plus infinitive and salir con plus person",
+        "outcome: indirect object pronoun plus salir plus adjective or adverb"
+      ],
+      "natural_examples": [
+        "Voy a la oficina.",
+        "Ya me voy.",
+        "Salgo de casa a las ocho.",
+        "Quieres salir a cenar?",
+        "La entrevista me salio bien."
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each in natural Spanish choosing ir irse or salir correctly.",
+      "prompts_en": [
+        "I am going to the store.",
+        "I am leaving now.",
+        "We are leaving the office at six.",
+        "Maria left for the United States.",
+        "What time does the train leave?",
+        "Do you want to go out to eat?",
+        "She is going out with my friend.",
+        "How long have they been dating?",
+        "The new movie comes out in June.",
+        "The report turned out better than expected.",
+        "The exam was difficult for me.",
+        "How did your interview go?",
+        "Please leave now informal.",
+        "Please do not leave formal.",
+        "We are going to Mexico next month.",
+        "He is heading out now.",
+        "I leave the house at seven every day.",
+        "Are you going out tonight?",
+        "Everything turned out badly for us.",
+        "The plan came out well in the end."
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as instructed.",
+      "drills": [
+        "Base: Voy a la tienda. -> change destination to el banco.",
+        "Base: Me voy ahora. -> change subject to plural nosotros.",
+        "Base: Salgo de la casa a las ocho. -> change place to la oficina.",
+        "Base: Maria se fue a Estados Unidos. -> change destination to Espana.",
+        "Base: Quieres salir a cenar? -> change infinitive to caminar.",
+        "Base: Mi ex sale con mi mejor amigo. -> change subject to plural mis amigos.",
+        "Base: Cuanto tiempo llevan saliendo? -> change to singular ella with tu primo.",
+        "Base: La nueva pelicula sale en junio. -> change month to septiembre.",
+        "Base: El informe salio mejor de lo esperado. -> change adjective to peor.",
+        "Base: El examen me salio dificil. -> change pronoun to nos.",
+        "Base: Como te salio la entrevista? -> change noun to presentacion.",
+        "Base: Vete. -> change to formal imperative positive.",
+        "Base: No te vayas. -> change to formal negative command.",
+        "Base: Se va ahora. -> change to first person singular.",
+        "Base: Salimos a cenar esta noche. -> change to yesterday past form."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the best option.",
+      "prompts": [
+        "I am going to the office. (Voy a la oficina. vs Me voy la oficina.)",
+        "I am leaving now. (Me voy ahora. vs Voy ahora.)",
+        "I leave the house at seven. (Salgo de la casa a las siete. vs Me voy de la casa a las siete.)",
+        "Maria headed out to Peru. (Maria se fue a Peru. vs Maria fue a Peru.)",
+        "What time does the bus leave? (A que hora sale el autobus? vs A que hora se va el autobus?)",
+        "Do you want to go out to eat? (Quieres salir a comer? vs Quieres irse a comer?)",
+        "She is dating Juan. (Ella sale con Juan. vs Ella va con Juan.)",
+        "The movie comes out in May. (La pelicula sale en mayo. vs La pelicula va en mayo.)",
+        "The exam went badly for me. (El examen me salio mal. vs El examen fui mal.)",
+        "How did the meeting go for you? (Como te salio la reunion? vs Como te fue la reunion?)"
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific meaning.",
+      "prompts": [
+        "Write that you are going to the gym after work.",
+        "Write that you are leaving now because you are tired.",
+        "Write that you leave home at seven thirty every weekday.",
+        "Write that your friend went to Colombia last year.",
+        "Write that you want to go out to have coffee.",
+        "Write that two coworkers are dating.",
+        "Write that the new app comes out in July.",
+        "Write that your presentation went well for you.",
+        "Write that the interview went badly for your friend.",
+        "Write that you are going to Spain in December.",
+        "Write that your team is heading out now.",
+        "Write that you are going out tonight with friends.",
+        "Write that your report turned out better than expected.",
+        "Write that your exam was difficult for you.",
+        "Write that you want someone not to leave yet informal."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish, not literal English.",
+      "prompts_en": [
+        "I am heading out, see you tomorrow.",
+        "We are going to a client meeting.",
+        "The project turned out better than we thought.",
+        "How did the call go for you?",
+        "She left the office at nine.",
+        "They are going out to celebrate.",
+        "The new season comes out next month.",
+        "He is going out with someone from work.",
+        "The trip went badly for us.",
+        "Do not leave yet."
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "Ir used when departure meaning is intended",
+        "why_it_happens": "English go covers both destination and leaving.",
+        "correct_spanish": "Use irse for heading out."
+      },
+      {
+        "mistake": "Reflexive pronoun dropped with irse",
+        "why_it_happens": "Pronominal pattern not automated.",
+        "correct_spanish": "Use me voy te vas se va and related forms."
+      },
+      {
+        "mistake": "Salir overused for all movement contexts",
+        "why_it_happens": "One broad translation for leave.",
+        "correct_spanish": "Choose verb by focus destination departure exit or outcome."
+      },
+      {
+        "mistake": "Voy de casa used for leaving a place habitually",
+        "why_it_happens": "Literal mapping from English.",
+        "correct_spanish": "Use salgo de casa."
+      },
+      {
+        "mistake": "Salir a plus infinitive confused with ir a plus infinitive",
+        "why_it_happens": "Both involve future action.",
+        "correct_spanish": "Salir a means go out to do something."
+      },
+      {
+        "mistake": "Con omitted in dating construction",
+        "why_it_happens": "Direct translation of date someone.",
+        "correct_spanish": "Use salir con alguien."
+      },
+      {
+        "mistake": "Outcome use of salir avoided",
+        "why_it_happens": "Salir learned only as physical movement.",
+        "correct_spanish": "Use me te le salio bien mal dificil and similar patterns."
+      },
+      {
+        "mistake": "Wrong imperative forms for irse",
+        "why_it_happens": "Pronoun placement and command forms mixed.",
+        "correct_spanish": "Use vete vayase no te vayas no se vaya."
+      },
+      {
+        "mistake": "Ir used for media release dates",
+        "why_it_happens": "Confusion from English come out phrasing.",
+        "correct_spanish": "Use salir for release timing."
+      },
+      {
+        "mistake": "Fue and salio treated as identical outcome expressions",
+        "why_it_happens": "Both can describe events loosely.",
+        "correct_spanish": "High-frequency outcome frame is me salio bien or mal."
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "Voy a la tienda.",
+        "Me voy ahora.",
+        "Salimos de la oficina a las seis.",
+        "Maria se fue a Estados Unidos.",
+        "A que hora sale el tren?",
+        "Quieres salir a cenar?",
+        "Ella sale con mi amigo.",
+        "Cuanto tiempo llevan saliendo?",
+        "La nueva pelicula sale en junio.",
+        "El informe salio mejor de lo esperado.",
+        "El examen me salio dificil.",
+        "Como te salio la entrevista?",
+        "Vete ahora, por favor.",
+        "No se vaya, por favor.",
+        "Vamos a Mexico el proximo mes.",
+        "El se va ahora.",
+        "Salgo de la casa a las siete todos los dias.",
+        "Sales esta noche?",
+        "Todo nos salio mal.",
+        "El plan salio bien al final."
+      ],
+      "pattern_mutation": [
+        "Voy al banco.",
+        "Nos vamos ahora.",
+        "Salgo de la oficina a las ocho.",
+        "Maria se fue a Espana.",
+        "Quieres salir a caminar?",
+        "Mis amigos salen con mi mejor amigo.",
+        "Cuanto tiempo lleva saliendo con tu primo?",
+        "La nueva pelicula sale en septiembre.",
+        "El informe salio peor de lo esperado.",
+        "El examen nos salio dificil.",
+        "Como te salio la presentacion?",
+        "Vayase.",
+        "No se vaya.",
+        "Me voy ahora.",
+        "Salimos a cenar anoche."
+      ],
+      "contrastive_discrimination": [
+        "Voy a la oficina.",
+        "Me voy ahora.",
+        "Salgo de la casa a las siete.",
+        "Maria se fue a Peru.",
+        "A que hora sale el autobus?",
+        "Quieres salir a comer?",
+        "Ella sale con Juan.",
+        "La pelicula sale en mayo.",
+        "El examen me salio mal.",
+        "Como te fue la reunion?"
+      ],
+      "reverse_conceptual_expression": [
+        "Ya me voy, te veo manana.",
+        "Vamos a una reunion con un cliente.",
+        "El proyecto salio mejor de lo que pensabamos.",
+        "Como te salio la llamada?",
+        "Ella salio de la oficina a las nueve.",
+        "Ellos salen a celebrar.",
+        "La nueva temporada sale el proximo mes.",
+        "El sale con alguien del trabajo.",
+        "El viaje nos salio mal.",
+        "No te vayas todavia."
+      ]
+    }
+  }
+}

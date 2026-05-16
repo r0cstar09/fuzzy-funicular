@@ -1,0 +1,248 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "periphrastic-future",
+    "ir-a-infinitive",
+    "modal-contrast",
+    "adult-learners"
+  ],
+  "difficulty": "A1-A2",
+  "pattern_id": "IR_A_INFINITIVE_FUTURE_08",
+  "source_files": [
+    "lessons/lesson-8/Summary 8.pdf",
+    "lessons/lesson-8/patterns.pdf"
+  ],
+  "target_pattern": "Use ir a + infinitive to express near-future intention, and contrast it with querer, poder, and tener que + infinitive.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Translating future ideas with direct present only, or mixing going to with go to a place.",
+      "spanish_logic": "Near-future intention is expressed with ir a + infinitive as a stable action frame.",
+      "target_pattern_formula": [
+        "Voy/Vas/Va/Vamos + a + infinitivo",
+        "¿Qué vas a ...? / ¿Cuándo vas a ...? / ¿Dónde vas a ...?",
+        "Contrast with quiero + infinitivo, puedo + infinitivo, tengo que + infinitivo"
+      ],
+      "natural_examples": [
+        "Voy a descansar después del trabajo.",
+        "¿Vas a estudiar esta noche?",
+        "Vamos a comprar comida ahora.",
+        "¿Qué vas a hacer mañana?",
+        "Voy a confirmar la información hoy."
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each in Spanish using ir a + infinitivo. No answer key until the end.",
+      "prompts_en": [
+        "I am going to rest now.",
+        "Are you going to study tonight?",
+        "I am going to buy food after work.",
+        "What are you going to do tomorrow?",
+        "Where are you going to work this week?",
+        "I am going to practice Spanish every day.",
+        "Are you going to drink water now?",
+        "I am going to write an email.",
+        "When are you going to travel?",
+        "I am going to read this report tonight.",
+        "Are you going to run in the morning?",
+        "I am going to walk to the park.",
+        "What are you going to buy at the supermarket?",
+        "I am going to listen to a podcast.",
+        "Are you going to confirm the reservation?",
+        "I am going to draw a quick plan.",
+        "Where are you going to eat today?",
+        "I am going to sell my old computer.",
+        "Are you going to work this weekend?",
+        "I am going to call my manager in ten minutes."
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as instructed.",
+      "drills": [
+        "Base: Voy a estudiar. -> make it negative.",
+        "Base: ¿Vas a trabajar hoy? -> answer yes in full sentence.",
+        "Base: Voy a comprar pan. -> change object to leche.",
+        "Base: Vamos a descansar. -> change to singular yo.",
+        "Base: ¿Qué vas a hacer? -> change to cuándo.",
+        "Base: Voy a viajar el viernes. -> change day to lunes.",
+        "Base: ¿Vas a beber agua? -> rewrite using tomar.",
+        "Base: Voy a escribir un correo. -> turn into question.",
+        "Base: Voy a correr mañana. -> change to nosotros.",
+        "Base: ¿Dónde vas a trabajar? -> answer with la oficina.",
+        "Base: Voy a practicar español. -> add frequency todos los días.",
+        "Base: No voy a comprar nada. -> make it affirmative with algo.",
+        "Base: Voy a leer un libro. -> change tense to desire (querer).",
+        "Base: Voy a descansar ahora. -> change to obligation (tener que).",
+        "Base: Vas a confirmar la información. -> make it a question with qué."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the best pattern in Spanish.",
+      "prompts": [
+        "I am going to study tonight. (voy a estudiar vs estudio) for planned near future.",
+        "I want to study tonight. (quiero estudiar vs voy a estudiar)",
+        "I can study tonight. (puedo estudiar vs voy a estudiar)",
+        "I have to study tonight. (tengo que estudiar vs voy a estudiar)",
+        "What are you going to do? (¿qué vas a hacer? vs ¿qué quieres hacer?) intention now.",
+        "Are you going to buy water? (¿vas a comprar...? vs ¿fuiste a comprar...?)",
+        "I am going to confirm the reservation now. (voy a confirmar vs confirmo) immediate plan.",
+        "When are you going to travel? (¿cuándo vas a viajar? vs ¿cuándo viajaste?)",
+        "We are going to rest later. (vamos a descansar vs descansamos) for future plan.",
+        "I am not going to work this weekend. (no voy a trabajar vs no trabajo) future intent."
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific meaning.",
+      "prompts": [
+        "You are going to work early tomorrow.",
+        "You are going to confirm an appointment this afternoon.",
+        "You are going to study Spanish for one hour tonight.",
+        "You are going to buy groceries after work.",
+        "You are going to call a client in 15 minutes.",
+        "You are going to travel next month.",
+        "You are going to practice pronunciation today.",
+        "You are going to rest after a long meeting.",
+        "You are going to read an important document now.",
+        "You are going to write three emails before lunch.",
+        "You are going to walk in the park this evening.",
+        "You are not going to work on Sunday.",
+        "You are going to drink more water this week.",
+        "You are going to organize your schedule tonight.",
+        "You are going to sell something you no longer use."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish (not literal English).",
+      "prompts_en": [
+        "I am about to leave.",
+        "What are you going to do about this?",
+        "I am going to take a short break.",
+        "Are you going to join us later?",
+        "I am not going to wait any longer.",
+        "When are you going to let me know?",
+        "I am going to handle this first.",
+        "Where are you going to park?",
+        "I am going to get started now.",
+        "We are going to keep practicing."
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "Using only present for all future plans",
+        "why_it_happens": "English present can indicate future too.",
+        "correct_spanish": "Voy a estudiar esta noche."
+      },
+      {
+        "mistake": "Forgetting a in the frame",
+        "why_it_happens": "Learner focuses only on main verb.",
+        "correct_spanish": "Voy a comprar pan."
+      },
+      {
+        "mistake": "Confusing voy a (future) with voy a la (destination)",
+        "why_it_happens": "Same surface words with different structures.",
+        "correct_spanish": "Voy a descansar / Voy a la tienda."
+      },
+      {
+        "mistake": "Adding conjugated verb after voy a",
+        "why_it_happens": "Finite clause transfer from English.",
+        "correct_spanish": "Voy a estudiar."
+      },
+      {
+        "mistake": "Mixing vas with yo meaning",
+        "why_it_happens": "Subject-verb mismatch under speed.",
+        "correct_spanish": "Yo voy / Tú vas"
+      },
+      {
+        "mistake": "Broken interrogative frame",
+        "why_it_happens": "Literal question ordering from English.",
+        "correct_spanish": "¿Qué vas a hacer?"
+      },
+      {
+        "mistake": "Using ayer with voy a",
+        "why_it_happens": "Timeline mismatch between past marker and future frame.",
+        "correct_spanish": "Voy a trabajar mañana."
+      },
+      {
+        "mistake": "Using ir a + infinitive for obligation",
+        "why_it_happens": "Modal-like structures feel interchangeable.",
+        "correct_spanish": "Tengo que estudiar."
+      },
+      {
+        "mistake": "Using ir a + infinitive for desire",
+        "why_it_happens": "Intention and desire meanings are mixed.",
+        "correct_spanish": "Quiero estudiar."
+      },
+      {
+        "mistake": "Dropping opening question mark",
+        "why_it_happens": "English punctuation habit.",
+        "correct_spanish": "¿Vas a estudiar hoy?"
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "Voy a descansar ahora.",
+        "¿Vas a estudiar esta noche?",
+        "Voy a comprar comida después del trabajo.",
+        "¿Qué vas a hacer mañana?",
+        "¿Dónde vas a trabajar esta semana?",
+        "Voy a practicar español todos los días.",
+        "¿Vas a beber agua ahora?",
+        "Voy a escribir un correo.",
+        "¿Cuándo vas a viajar?",
+        "Voy a leer este informe esta noche.",
+        "¿Vas a correr por la mañana?",
+        "Voy a caminar al parque.",
+        "¿Qué vas a comprar en el supermercado?",
+        "Voy a escuchar un pódcast.",
+        "¿Vas a confirmar la reserva?",
+        "Voy a dibujar un plan rápido.",
+        "¿Dónde vas a comer hoy?",
+        "Voy a vender mi computadora vieja.",
+        "¿Vas a trabajar este fin de semana?",
+        "Voy a llamar a mi gerente en diez minutos."
+      ],
+      "pattern_mutation": [
+        "No voy a estudiar.",
+        "Sí, voy a trabajar hoy.",
+        "Voy a comprar leche.",
+        "Voy a descansar.",
+        "¿Cuándo vas a hacer eso?",
+        "Voy a viajar el lunes.",
+        "¿Vas a tomar agua?",
+        "¿Vas a escribir un correo?",
+        "Vamos a correr mañana.",
+        "Voy a trabajar en la oficina.",
+        "Voy a practicar español todos los días.",
+        "Voy a comprar algo.",
+        "Quiero leer un libro.",
+        "Tengo que descansar ahora.",
+        "¿Qué vas a confirmar?"
+      ],
+      "contrastive_discrimination": [
+        "Voy a estudiar esta noche.",
+        "Quiero estudiar esta noche.",
+        "Puedo estudiar esta noche.",
+        "Tengo que estudiar esta noche.",
+        "¿Qué vas a hacer?",
+        "¿Vas a comprar agua?",
+        "Voy a confirmar la reserva ahora.",
+        "¿Cuándo vas a viajar?",
+        "Vamos a descansar más tarde.",
+        "No voy a trabajar este fin de semana."
+      ],
+      "reverse_conceptual_expression": [
+        "Estoy por salir.",
+        "¿Qué vas a hacer con esto?",
+        "Voy a tomar un descanso corto.",
+        "¿Vas a unirte más tarde?",
+        "No voy a esperar más.",
+        "¿Cuándo me vas a avisar?",
+        "Voy a resolver esto primero.",
+        "¿Dónde vas a estacionar?",
+        "Voy a empezar ahora.",
+        "Vamos a seguir practicando."
+      ]
+    }
+  }
+}

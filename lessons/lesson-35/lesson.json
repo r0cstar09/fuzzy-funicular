@@ -1,0 +1,253 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "sentence-starters",
+    "infinitive-patterns",
+    "pronominal-verbs",
+    "adult-learners"
+  ],
+  "difficulty": "A1-A2",
+  "pattern_id": "STARTER_PLUS_INFINITIVE_ME_TE_35",
+  "source_files": [
+    "lessons/lesson-35/Summary 35.pdf",
+    "lessons/lesson-35/Exercise 35.pdf"
+  ],
+  "target_pattern": "Use high-frequency starter frames with one conjugated first verb plus infinitive, and adjust pronominal endings from se to me or te based on subject.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Conjugating both verbs when expressing want, have to, can, should, could, going to, or just did.",
+      "spanish_logic": "Only the first verb is conjugated in these frames; the second verb remains infinitive. With pronominal verbs, replace se with me or te and attach it to the infinitive.",
+      "target_pattern_formula": [
+        "quiero plus infinitive",
+        "tengo que plus infinitive",
+        "puedo plus infinitive",
+        "deberia or deberias plus infinitive",
+        "podria or podrias plus infinitive",
+        "voy a or vas a plus infinitive",
+        "acabo de or acabas de plus infinitive",
+        "pronominal shift: se to me or te"
+      ],
+      "natural_examples": [
+        "Quiero terminar este informe.",
+        "Tengo que llamar al cliente.",
+        "Puedo salir mas tarde.",
+        "Voy a acostarme temprano.",
+        "Acabas de levantarte."
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each in Spanish using the target starter plus infinitive pattern.",
+      "prompts_en": [
+        "I want to work from home today.",
+        "I have to send that email now.",
+        "I can join the meeting at 3.",
+        "Can I leave early today?",
+        "I just canceled the reservation.",
+        "I am going to confirm the details.",
+        "You should go to bed earlier.",
+        "You should get up now.",
+        "You should practice Spanish every day.",
+        "You could call your manager.",
+        "You could change the schedule.",
+        "You should go to the gym today.",
+        "Can I eat now?",
+        "I want to go to bed.",
+        "I am going to work tomorrow.",
+        "I just got up.",
+        "I want to collaborate with the team.",
+        "You should wake up early.",
+        "I am going to drink more water.",
+        "I have to go to the store."
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as instructed.",
+      "drills": [
+        "Base: Quiero trabajar hoy. -> change subject to tu.",
+        "Base: Tengo que estudiar ahora. -> change to question form with yo and puedo.",
+        "Base: Puedo salir temprano. -> make it negative.",
+        "Base: Voy a confirmar la informacion. -> change time to manana.",
+        "Base: Acabo de cancelar la reserva. -> change subject to tu.",
+        "Base: Deberias acostarte temprano. -> change advice verb to podrias.",
+        "Base: Quiero levantarme a las seis. -> change subject to tu.",
+        "Base: Tienes que despertarte ahora. -> change to yo form.",
+        "Base: Puedo ir a la tienda. -> change destination to el banco.",
+        "Base: Voy a acostarme temprano. -> change to question with tu.",
+        "Base: Acabas de levantarte. -> change to yo form.",
+        "Base: Deberia llamar al cliente. -> change to past-recent frame with acabo de.",
+        "Base: Podrias revisar el documento. -> change object to plural los documentos.",
+        "Base: Quieres colaborar con el equipo? -> make it a statement in yo form.",
+        "Base: Tengo que ir a la oficina. -> change to future intention with voy a."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the correct Spanish form.",
+      "prompts": [
+        "I want to call now. (Quiero llamar ahora. vs Quiero llamo ahora.)",
+        "I have to study. (Tengo que estudiar. vs Tengo estudio.)",
+        "Can I leave? (Puedo salir? vs Puedo salgo?)",
+        "I am going to rest. (Voy a descansar. vs Voy descanso.)",
+        "I just woke up. (Acabo de levantarme. vs Acabo levantarme.)",
+        "You should go to bed early. (Deberias acostarte temprano. vs Deberias te acostar temprano.)",
+        "You could help me. (Podrias ayudarme. vs Podrias me ayudar.)",
+        "I want to go to bed. (Quiero acostarme. vs Quiero me acostar.)",
+        "You just went to bed. (Acabas de acostarte. vs Acabas acostarte.)",
+        "I can talk later. (Puedo hablar mas tarde. vs Puedo hablo mas tarde.)"
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific meaning.",
+      "prompts": [
+        "Write that you want to finish your tasks before lunch.",
+        "Write that you have to call a client in ten minutes.",
+        "Write that you can join after 4 p.m.",
+        "Write that you are going to review the contract tonight.",
+        "Write that you just sent the invoice.",
+        "Write that your colleague should rest this weekend.",
+        "Write that your friend could apply for that position.",
+        "Write that you want to go to bed early today.",
+        "Write that you have to get up at 6 tomorrow.",
+        "Write that you are going to wake up earlier next week.",
+        "Write that you can meet at the office tomorrow morning.",
+        "Write that you just changed the plan.",
+        "Write that your teammate should focus on the presentation.",
+        "Write that you could help after lunch.",
+        "Write that you are going to drink more water during work hours."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish, not literal English.",
+      "prompts_en": [
+        "I have to leave now.",
+        "Can you help me for a minute?",
+        "I am going to sit down.",
+        "You just woke up, right?",
+        "I should call her today.",
+        "You could send that now.",
+        "I want to go to bed; I am exhausted.",
+        "We can talk later.",
+        "I just got home.",
+        "Are you going to get up early tomorrow?"
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "Quiero trabajo.",
+        "why_it_happens": "English transfer after want.",
+        "correct_spanish": "Quiero trabajar."
+      },
+      {
+        "mistake": "Tengo que estudio.",
+        "why_it_happens": "Second verb is incorrectly conjugated.",
+        "correct_spanish": "Tengo que estudiar."
+      },
+      {
+        "mistake": "Puedo salgo?",
+        "why_it_happens": "Double conjugation in modal frame.",
+        "correct_spanish": "Puedo salir?"
+      },
+      {
+        "mistake": "Voy descanso.",
+        "why_it_happens": "Missing a plus infinitive after voy.",
+        "correct_spanish": "Voy a descansar."
+      },
+      {
+        "mistake": "Acabo levantarme.",
+        "why_it_happens": "Missing de in acabo de frame.",
+        "correct_spanish": "Acabo de levantarme."
+      },
+      {
+        "mistake": "Quiero me acostar.",
+        "why_it_happens": "Reflexive pronoun not attached to infinitive.",
+        "correct_spanish": "Quiero acostarme."
+      },
+      {
+        "mistake": "Deberias te acostar temprano.",
+        "why_it_happens": "Wrong pronoun placement with infinitive.",
+        "correct_spanish": "Deberias acostarte temprano."
+      },
+      {
+        "mistake": "Podrias me ayudar.",
+        "why_it_happens": "Object pronoun in unnatural position.",
+        "correct_spanish": "Podrias ayudarme."
+      },
+      {
+        "mistake": "Tienes que levantarse.",
+        "why_it_happens": "Keeping dictionary se with tu subject.",
+        "correct_spanish": "Tienes que levantarte."
+      },
+      {
+        "mistake": "Tengo que levantarte.",
+        "why_it_happens": "Confusing me and te for reflexive meaning.",
+        "correct_spanish": "Tengo que levantarme."
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "Quiero trabajar desde casa hoy.",
+        "Tengo que enviar ese correo ahora.",
+        "Puedo unirme a la reunion a las tres.",
+        "Puedo salir temprano hoy?",
+        "Acabo de cancelar la reservacion.",
+        "Voy a confirmar los detalles.",
+        "Deberias acostarte mas temprano.",
+        "Deberias levantarte ahora.",
+        "Deberias practicar espanol todos los dias.",
+        "Podrias llamar a tu gerente.",
+        "Podrias cambiar el horario.",
+        "Deberias ir al gimnasio hoy.",
+        "Puedo comer ahora?",
+        "Quiero acostarme.",
+        "Voy a trabajar manana.",
+        "Acabo de levantarme.",
+        "Quiero colaborar con el equipo.",
+        "Deberias despertarte temprano.",
+        "Voy a tomar mas agua.",
+        "Tengo que ir a la tienda."
+      ],
+      "pattern_mutation": [
+        "Quieres trabajar hoy.",
+        "Puedo estudiar ahora?",
+        "No puedo salir temprano.",
+        "Voy a confirmar la informacion manana.",
+        "Acabas de cancelar la reserva.",
+        "Podrias acostarte temprano.",
+        "Quieres levantarte a las seis.",
+        "Tengo que despertarme ahora.",
+        "Puedo ir al banco.",
+        "Vas a acostarte temprano?",
+        "Acabo de levantarme.",
+        "Acabo de llamar al cliente.",
+        "Podrias revisar los documentos.",
+        "Quiero colaborar con el equipo.",
+        "Voy a ir a la oficina."
+      ],
+      "contrastive_discrimination": [
+        "Quiero llamar ahora.",
+        "Tengo que estudiar.",
+        "Puedo salir?",
+        "Voy a descansar.",
+        "Acabo de levantarme.",
+        "Deberias acostarte temprano.",
+        "Podrias ayudarme.",
+        "Quiero acostarme.",
+        "Acabas de acostarte.",
+        "Puedo hablar mas tarde."
+      ],
+      "reverse_conceptual_expression": [
+        "Tengo que salir ahora.",
+        "Puedes ayudarme un minuto?",
+        "Voy a sentarme.",
+        "Acabas de despertarte, verdad?",
+        "Deberia llamarla hoy.",
+        "Podrias enviar eso ahora.",
+        "Quiero acostarme; estoy agotado.",
+        "Podemos hablar mas tarde.",
+        "Acabo de llegar a casa.",
+        "Vas a levantarte temprano manana?"
+      ]
+    }
+  }
+}

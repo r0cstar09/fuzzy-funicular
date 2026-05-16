@@ -1,0 +1,249 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "soler",
+    "habitual-actions",
+    "imperfect",
+    "adult-learners"
+  ],
+  "difficulty": "A2-B1",
+  "pattern_id": "SOLER_PRESENT_AND_IMPERFECT_64",
+  "source_files": [
+    "lessons/lesson-64/summary 64.pdf"
+  ],
+  "target_pattern": "Use soler plus infinitive to express present routines and past used-to habits with minimal conjugation load.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Overbuilding habitual meaning with adverbs and fully conjugated second verbs.",
+      "spanish_logic": "Spanish compresses routine meaning through soler plus infinitive, with present forms for usually and imperfect forms for used to.",
+      "target_pattern_formula": [
+        "present routine: suelo sueles suele solemos suelen plus infinitive",
+        "past routine: solia solias solia soliamos solian plus infinitive",
+        "main action stays infinitive after soler",
+        "subject pronoun often omitted in present",
+        "subject may be included in imperfect when context is ambiguous"
+      ],
+      "natural_examples": [
+        "Suelo desayunar temprano.",
+        "Mi hermano suele levantarse a las seis.",
+        "Solemos cocinar en casa.",
+        "Solia leer todas las noches.",
+        "Mis padres solian viajar mucho."
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each in natural Spanish using soler plus infinitive.",
+      "prompts_en": [
+        "I usually wake up early.",
+        "You usually drink coffee in the morning.",
+        "She usually works from home.",
+        "We usually eat at home on weekdays.",
+        "They usually arrive on time.",
+        "I used to read every night.",
+        "You used to play soccer on Saturdays.",
+        "He used to call his mother every day.",
+        "We used to live near the office.",
+        "They used to travel a lot for work.",
+        "I usually go out to walk after dinner.",
+        "She usually studies before sleeping.",
+        "We used to watch that series together.",
+        "He usually forgets his keys.",
+        "I used to cook with my grandmother.",
+        "You all usually finish late.",
+        "My friends used to come on Sundays.",
+        "I usually listen to podcasts while driving.",
+        "My boss used to arrive very early.",
+        "We usually talk about work at lunch."
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as instructed.",
+      "drills": [
+        "Base: Suelo fumar. -> change infinitive to correr.",
+        "Base: Mi hermano suele levantarse temprano. -> change subject to plural mis hermanos.",
+        "Base: Solemos cocinar en casa. -> change infinitive to comer.",
+        "Base: Solia leer todas las noches. -> change infinitive to escribir.",
+        "Base: Juan solia tocar la guitarra. -> change instrument to el piano.",
+        "Base: Mis padres solian viajar mucho. -> change adverb to poco.",
+        "Base: Sueles tomar cafe por la manana. -> change drink to te.",
+        "Base: Ella suele estudiar antes de dormir. -> change infinitive to meditar.",
+        "Base: Soliamos ver esa serie juntos. -> change noun to esa pelicula.",
+        "Base: El suele olvidar sus llaves. -> change object to su cartera.",
+        "Base: Yo solia cocinar con mi abuela. -> change person to nosotros.",
+        "Base: Ustedes suelen terminar tarde. -> change adverb to temprano.",
+        "Base: Mis amigos solian venir los domingos. -> change day to los viernes.",
+        "Base: Suelo escuchar podcasts mientras conduzco. -> change infinitive to leer noticias.",
+        "Base: Mi jefe solia llegar muy temprano. -> change tense to present habitual."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the best option.",
+      "prompts": [
+        "I usually read at night. (Suelo leer por la noche. vs Estoy leyendo por la noche.)",
+        "We used to travel a lot. (Soliamos viajar mucho. vs Viajabamos mucho ahora.)",
+        "She usually studies before bed. (Suele estudiar antes de dormir. vs Suele estudia antes de dormir.)",
+        "They used to arrive late. (Solian llegar tarde. vs Suelen llegar tarde ayer.)",
+        "You usually exercise in the morning. (Sueles hacer ejercicio por la manana. vs Soles hacer ejercicio por la manana.)",
+        "My father used to cook on Sundays. (Mi padre solia cocinar los domingos. vs Mi padre suele cocinar los domingos antes.)",
+        "We usually eat outside on Fridays. (Solemos comer fuera los viernes. vs Comemos solemos fuera los viernes.)",
+        "I used to listen to that band a lot. (Yo solia escuchar mucho esa banda. vs Yo suelo escuchar mucho esa banda cuando era nino.)",
+        "They usually call at night. (Suelen llamar por la noche. vs Solen llamar por la noche.)",
+        "You all used to work together. (Ustedes solian trabajar juntos. vs Ustedes suelen trabajar juntos antes.)"
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific meaning.",
+      "prompts": [
+        "Write that you usually check your email before breakfast.",
+        "Write that your team usually meets on Mondays.",
+        "Write that you usually study Spanish at night.",
+        "Write that your friend usually arrives early.",
+        "Write that you usually cook on weekends.",
+        "Write that you used to go to bed very late.",
+        "Write that your family used to live in another city.",
+        "Write that you used to drink too much coffee.",
+        "Write that your coworkers used to work in person every day.",
+        "Write that you usually call your parents on Sunday.",
+        "Write that your manager usually asks many questions.",
+        "Write that you used to play an instrument.",
+        "Write that you usually walk after lunch.",
+        "Write that your friends used to visit more often.",
+        "Write that you usually read before sleeping."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish, not literal English.",
+      "prompts_en": [
+        "I usually start work at 8.",
+        "She used to text me every day.",
+        "We usually spend weekends at home.",
+        "He used to run in the mornings.",
+        "They usually complain about traffic.",
+        "I used to watch less TV.",
+        "You usually forget your charger.",
+        "My grandparents used to travel by train.",
+        "We usually finish meetings late.",
+        "I used to think differently."
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "Both verbs conjugated after soler",
+        "why_it_happens": "Pressure to mark tense twice.",
+        "correct_spanish": "Conjugate soler and keep second verb infinitive."
+      },
+      {
+        "mistake": "Present soler used for past routine meaning",
+        "why_it_happens": "Timeline distinction not encoded.",
+        "correct_spanish": "Use imperfect soler forms for used-to meaning."
+      },
+      {
+        "mistake": "Soler avoided in favor of only adverbs",
+        "why_it_happens": "Learner relies on normalmente and usually equivalents.",
+        "correct_spanish": "Use soler as a core habitual frame."
+      },
+      {
+        "mistake": "Extra preposition inserted after soler",
+        "why_it_happens": "Analogy with other verb-preposition chunks.",
+        "correct_spanish": "Soler takes infinitive directly."
+      },
+      {
+        "mistake": "Non-standard forms like soles or solen",
+        "why_it_happens": "Irregular stem pattern generalized incorrectly.",
+        "correct_spanish": "Memorize present and imperfect forms accurately."
+      },
+      {
+        "mistake": "Subject pronoun forced in every sentence",
+        "why_it_happens": "English subject expression habit.",
+        "correct_spanish": "Drop subject when context is clear."
+      },
+      {
+        "mistake": "Ambiguous imperfect subject left unclear",
+        "why_it_happens": "Sole form overlap not resolved by context.",
+        "correct_spanish": "Add explicit subject when needed for clarity."
+      },
+      {
+        "mistake": "Soler used for one-time events",
+        "why_it_happens": "Habitual and punctual events are mixed.",
+        "correct_spanish": "Use soler for repeated actions only."
+      },
+      {
+        "mistake": "Progressive forms mixed with habitual meaning",
+        "why_it_happens": "Current action and routine action confused.",
+        "correct_spanish": "Use soler for routine, progressive for ongoing action."
+      },
+      {
+        "mistake": "Soler avoided due to irregularity fear",
+        "why_it_happens": "Low confidence with stem changes and accent marks.",
+        "correct_spanish": "Automate chunk templates with daily repetition."
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "Suelo despertarme temprano.",
+        "Sueles tomar cafe por la manana.",
+        "Ella suele trabajar desde casa.",
+        "Solemos comer en casa entre semana.",
+        "Suelen llegar a tiempo.",
+        "Solia leer todas las noches.",
+        "Solias jugar futbol los sabados.",
+        "El solia llamar a su madre todos los dias.",
+        "Soliamos vivir cerca de la oficina.",
+        "Solian viajar mucho por trabajo.",
+        "Suelo salir a caminar despues de cenar.",
+        "Ella suele estudiar antes de dormir.",
+        "Soliamos ver esa serie juntos.",
+        "El suele olvidar sus llaves.",
+        "Solia cocinar con mi abuela.",
+        "Ustedes suelen terminar tarde.",
+        "Mis amigos solian venir los domingos.",
+        "Suelo escuchar podcasts mientras conduzco.",
+        "Mi jefe solia llegar muy temprano.",
+        "Solemos hablar del trabajo en el almuerzo."
+      ],
+      "pattern_mutation": [
+        "Suelo correr.",
+        "Mis hermanos suelen levantarse temprano.",
+        "Solemos comer en casa.",
+        "Solia escribir todas las noches.",
+        "Juan solia tocar el piano.",
+        "Mis padres solian viajar poco.",
+        "Sueles tomar te por la manana.",
+        "Ella suele meditar antes de dormir.",
+        "Soliamos ver esa pelicula juntos.",
+        "El suele olvidar su cartera.",
+        "Nosotros soliamos cocinar con mi abuela.",
+        "Ustedes suelen terminar temprano.",
+        "Mis amigos solian venir los viernes.",
+        "Suelo leer noticias mientras conduzco.",
+        "Mi jefe suele llegar muy temprano."
+      ],
+      "contrastive_discrimination": [
+        "Suelo leer por la noche.",
+        "Soliamos viajar mucho.",
+        "Suele estudiar antes de dormir.",
+        "Solian llegar tarde.",
+        "Sueles hacer ejercicio por la manana.",
+        "Mi padre solia cocinar los domingos.",
+        "Solemos comer fuera los viernes.",
+        "Yo solia escuchar mucho esa banda.",
+        "Suelen llamar por la noche.",
+        "Ustedes solian trabajar juntos."
+      ],
+      "reverse_conceptual_expression": [
+        "Suelo empezar a trabajar a las ocho.",
+        "Ella solia escribirme todos los dias.",
+        "Solemos pasar los fines de semana en casa.",
+        "El solia correr por las mananas.",
+        "Suelen quejarse del trafico.",
+        "Solia ver menos television.",
+        "Sueles olvidar tu cargador.",
+        "Mis abuelos solian viajar en tren.",
+        "Solemos terminar las reuniones tarde.",
+        "Solia pensar diferente."
+      ]
+    }
+  }
+}
