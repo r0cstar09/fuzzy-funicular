@@ -90,7 +90,12 @@ def select_lesson_file(
             f"Requested lesson-{requested_lesson_number} not found with {LESSON_FILE_NAME}."
         )
 
-    start_date_value = os.getenv("LESSON_START_DATE", dt.date.today().isoformat())
+    raw_start_date_value = os.getenv("LESSON_START_DATE")
+    start_date_value = (
+        raw_start_date_value.strip()
+        if raw_start_date_value and raw_start_date_value.strip()
+        else dt.date.today().isoformat()
+    )
     start_date = dt.date.fromisoformat(start_date_value)
     today = dt.date.today()
     day_offset = max((today - start_date).days, 0)
