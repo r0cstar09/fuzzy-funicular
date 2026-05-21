@@ -19,7 +19,9 @@ jobs:
       ICLOUD_EMAIL: ${{ secrets.ICLOUD_EMAIL }}
       ICLOUD_APP_PASSWORD: ${{ secrets.ICLOUD_APP_PASSWORD }}
       RECIPIENT_EMAIL: ${{ secrets.RECIPIENT_EMAIL }}
-      LESSON_START_DATE: "2026-05-16"
+      LESSON_START_DATE: "2026-05-24"
+      LESSON_START_LESSON_NUMBER: "7"
+      LESSON_CADENCE_DAYS: "2"
       LESSON_NO_WRAP: ${{ vars.LESSON_NO_WRAP }}
     steps:
       - name: Checkout

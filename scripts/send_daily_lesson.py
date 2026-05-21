@@ -76,7 +76,7 @@ def discover_lesson_files(lessons_root: Path) -> list[tuple[int, Path]]:
 
 def select_lesson_file(
     lesson_files: list[tuple[int, Path]], requested_lesson_number: int | None
-) -> tuple[int, Path]:
+) -> tuple[int, Path] | None:
     if not lesson_files:
         raise RuntimeError(
             "No lesson JSON files found. Add files like lessons/lesson-1/lesson.json."
@@ -98,15 +98,42 @@ def select_lesson_file(
     )
     start_date = dt.date.fromisoformat(start_date_value)
     today = dt.date.today()
-    day_offset = max((today - start_date).days, 0)
+    day_delta = (today - start_date).days
+    if day_delta < 0:
+        return None
+
+    cadence_days_raw = os.getenv("LESSON_CADENCE_DAYS", "1").strip()
+    cadence_days = int(cadence_days_raw)
+    if cadence_days <= 0:
+        raise RuntimeError("LESSON_CADENCE_DAYS must be a positive integer.")
+
+    start_lesson_number_raw = os.getenv("LESSON_START_LESSON_NUMBER", "1").strip()
+    start_lesson_number = int(start_lesson_number_raw)
+    if start_lesson_number <= 0:
+        raise RuntimeError("LESSON_START_LESSON_NUMBER must be a positive integer.")
+
+    start_index = None
+    for index, (lesson_number, _) in enumerate(lesson_files):
+        if lesson_number == start_lesson_number:
+            start_index = index
+            break
+    if start_index is None:
+        raise RuntimeError(
+            f"Configured LESSON_START_LESSON_NUMBER={start_lesson_number} not found."
+        )
+
+    if day_delta % cadence_days != 0:
+        return None
+
+    lesson_offset = day_delta // cadence_days
 
     no_wrap = os.getenv("LESSON_NO_WRAP", "false").lower() == "true"
-    if no_wrap and day_offset >= len(lesson_files):
+    if no_wrap and start_index + lesson_offset >= len(lesson_files):
         raise RuntimeError(
             "All lessons have already been sent and LESSON_NO_WRAP=true is enabled."
         )
 
-    selected_index = day_offset % len(lesson_files)
+    selected_index = (start_index + lesson_offset) % len(lesson_files)
     return lesson_files[selected_index]
 
 
@@ -444,7 +471,12 @@ def main() -> int:
         validate_all(lesson_files)
         return 0
 
-    lesson_number, lesson_file = select_lesson_file(lesson_files, args.lesson_number)
+    selected_lesson = select_lesson_file(lesson_files, args.lesson_number)
+    if selected_lesson is None:
+        print("No lesson scheduled for today based on LESSON_START_DATE/LESSON_CADENCE_DAYS.")
+        return 0
+
+    lesson_number, lesson_file = selected_lesson
     payload = load_json(lesson_file)
     validate_lesson_schema(payload, str(lesson_file))
     markdown_content = render_markdown_lesson(lesson_number, payload)
