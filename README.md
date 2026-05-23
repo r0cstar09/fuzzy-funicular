@@ -2,6 +2,17 @@
 
 Daily Spanish lesson emailer using Python + GitHub Actions.
 
+## License
+
+This repository is licensed under `CC BY-NC 4.0` (Creative Commons
+Attribution-NonCommercial 4.0 International).
+
+- You can copy, share, and adapt the project.
+- You must provide attribution.
+- You cannot use it for commercial purposes.
+
+See `LICENSE` for details.
+
 ## Lesson JSON format
 
 Each lesson folder should contain:
