@@ -1,0 +1,251 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "pronominal-verbs",
+    "se-structures",
+    "meaning-change",
+    "adult-learners"
+  ],
+  "difficulty": "A2-B1",
+  "pattern_id": "PRONOMINAL_VERBS_FUNCTION_MAP_25",
+  "source_files": [
+    "lessons/lesson-25/Summary 25.pdf",
+    "lessons/lesson-25/Lesson 25 Exercise.pdf",
+    "lessons/lesson-25/Lesson 19 Pronominal Verbs.pdf"
+  ],
+  "target_pattern": "Choose the right pronominal function in context: true reflexive with body-part articles, reciprocal in plural subjects, inherently pronominal chunks (quejarse de, arrepentirse de), passive se for impersonal/public statements, and meaning-change pairs like ir/irse and dormir/dormirse.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Treating every se verb as the same and translating word-for-word from English pronoun logic.",
+      "spanish_logic": "Spanish uses pronominal forms for different functions. You choose the pattern by meaning, not by memorizing one English equivalent for se.",
+      "target_pattern_formula": [
+        "true reflexive: pronoun + verb + definite article body part (me lavo las manos)",
+        "reciprocal: plural subject + se + plural verb (nos ayudamos)",
+        "inherently pronominal chunk: quejarse de, arrepentirse de",
+        "passive se: se + third-person verb agreeing with noun (se venden boletos)",
+        "meaning shift pairs: dormir vs dormirse, ir vs irse"
+      ],
+      "natural_examples": [
+        "Me lavo la cara antes de salir.",
+        "Nos ayudamos cuando hay mucho trabajo.",
+        "Me quejo del ruido del trafico.",
+        "Se venden boletos en linea.",
+        "Me dormi en el sofa y luego me fui tarde."
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each in Spanish using the target pattern that best matches the meaning.",
+      "prompts_en": [
+        "I wash my hands before lunch.",
+        "She brushes her teeth after coffee.",
+        "We hug each other when we meet.",
+        "They help each other during the project.",
+        "I complain about the noise every night.",
+        "He regrets his decision.",
+        "Tickets are sold here.",
+        "Spanish is spoken in this office.",
+        "I sleep seven hours.",
+        "I fall asleep on the couch.",
+        "We go to the gym at six.",
+        "We leave at six.",
+        "You all call each other every day.",
+        "My coworkers complain about the software.",
+        "Used cars are sold in this area.",
+        "I wash my face quickly.",
+        "She gets angry when she is hungry.",
+        "We are happy when the client says yes.",
+        "You regret that message.",
+        "I am going to sit down here."
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as directed.",
+      "drills": [
+        "Base: Me lavo las manos. -> change subject to nosotros.",
+        "Base: Se cepilla los dientes. -> change subject to ustedes.",
+        "Base: Nos abrazamos. -> change to past (preterite).",
+        "Base: Se ayudan en clase. -> make it negative.",
+        "Base: Me quejo del ruido. -> change subject to ella.",
+        "Base: Nos arrepentimos del error. -> change to singular yo in preterite.",
+        "Base: Se venden boletos. -> change noun to singular la entrada.",
+        "Base: Se habla espanol aqui. -> change location to en mi empresa.",
+        "Base: Duermo ocho horas. -> change to fall asleep on the sofa.",
+        "Base: Me duermo tarde. -> change to nosotros and add casi siempre.",
+        "Base: Vamos al centro. -> change meaning to we leave now.",
+        "Base: Se van temprano. -> change to question with ustedes.",
+        "Base: Ellos se llaman por telefono. -> change to nosotros in present progressive.",
+        "Base: Me enojo facilmente. -> change to question with tu.",
+        "Base: Voy a sentarme aqui. -> change to can I sit here?"
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the more natural option for each meaning.",
+      "prompts": [
+        "I wash my hands. (Me lavo las manos. vs Lavo mis manos.)",
+        "We hug each other. (Nos abrazamos. vs Abrazamos.)",
+        "I complain about the delay. (Me quejo del retraso. vs Quejo del retraso.)",
+        "She regrets the decision. (Se arrepiente de la decision. vs Arrepiente la decision.)",
+        "Tickets are sold here. (Se venden boletos aqui. vs Venden boletos aqui.)",
+        "I sleep on the sofa. (Duermo en el sofa. vs Me duermo en el sofa.)",
+        "I fell asleep on the sofa. (Me dormi en el sofa. vs Dormi en el sofa.)",
+        "We go to the office at 8. (Vamos a la oficina a las ocho. vs Nos vamos a la oficina a las ocho.)",
+        "We are leaving now. (Nos vamos ahora. vs Vamos ahora.)",
+        "You all call each other every week. (Ustedes se llaman cada semana. vs Ustedes llaman cada semana.)"
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific meaning.",
+      "prompts": [
+        "Write that you wash your face before your first meeting.",
+        "Write that your partner brushes their teeth after dinner.",
+        "Write that you and your team help each other during difficult weeks.",
+        "Write that you complain about traffic on Mondays.",
+        "Write that your manager regrets sending a late email.",
+        "Write that classes are offered online in your company.",
+        "Write that Spanish is spoken at your client site.",
+        "Write that you usually sleep little on workdays.",
+        "Write that you fell asleep on the couch yesterday.",
+        "Write that you go to the gym before work.",
+        "Write that you are leaving now because you have a call.",
+        "Write that your friends call each other every Friday.",
+        "Write that you get angry when meetings start late.",
+        "Write that you are happy when a project closes well.",
+        "Write that you ask if you can sit near the window."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish; avoid literal English mapping.",
+      "prompts_en": [
+        "I have to wash my hands quickly.",
+        "We always help each other in this team.",
+        "He complains about everything.",
+        "I regret saying that.",
+        "No tickets are sold after 8 p.m.",
+        "I sleep badly when I am stressed.",
+        "I fell asleep during the movie.",
+        "We are leaving now, not later.",
+        "They call each other every night.",
+        "Can I sit down here for a minute?"
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "Lavo mis manos before eating",
+        "why_it_happens": "Direct transfer of English possessive body-part pattern.",
+        "correct_spanish": "Me lavo las manos antes de comer."
+      },
+      {
+        "mistake": "Nosotros abrazamos when meaning each other",
+        "why_it_happens": "Reciprocal se is omitted.",
+        "correct_spanish": "Nosotros nos abrazamos."
+      },
+      {
+        "mistake": "Quejo del ruido",
+        "why_it_happens": "Inherently pronominal verb is treated as non-pronominal.",
+        "correct_spanish": "Me quejo del ruido."
+      },
+      {
+        "mistake": "Se arrepiente la decision",
+        "why_it_happens": "Required preposition de is missing.",
+        "correct_spanish": "Se arrepiente de la decision."
+      },
+      {
+        "mistake": "Se vende boletos",
+        "why_it_happens": "Verb agreement with plural noun is ignored.",
+        "correct_spanish": "Se venden boletos."
+      },
+      {
+        "mistake": "Me duermo ocho horas",
+        "why_it_happens": "Dormir and dormirse meanings are mixed.",
+        "correct_spanish": "Duermo ocho horas."
+      },
+      {
+        "mistake": "Voy ahora for I am leaving now",
+        "why_it_happens": "Ir and irse meaning contrast not applied.",
+        "correct_spanish": "Me voy ahora."
+      },
+      {
+        "mistake": "Se van a la oficina a las ocho used for we go there habitually",
+        "why_it_happens": "Leaving and going are confused.",
+        "correct_spanish": "Vamos a la oficina a las ocho."
+      },
+      {
+        "mistake": "Ustedes llaman cada semana when meaning each other",
+        "why_it_happens": "Reciprocal action is expressed without pronoun.",
+        "correct_spanish": "Ustedes se llaman cada semana."
+      },
+      {
+        "mistake": "Puedo sentar aqui?",
+        "why_it_happens": "Reflexive infinitive is dropped in set chunk.",
+        "correct_spanish": "Puedo sentarme aqui?"
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "Me lavo las manos antes del almuerzo.",
+        "Se cepilla los dientes despues del cafe.",
+        "Nos abrazamos cuando nos vemos.",
+        "Se ayudan durante el proyecto.",
+        "Me quejo del ruido cada noche.",
+        "Se arrepiente de su decision.",
+        "Se venden boletos aqui.",
+        "Se habla espanol en esta oficina.",
+        "Duermo siete horas.",
+        "Me duermo en el sofa.",
+        "Vamos al gimnasio a las seis.",
+        "Nos vamos a las seis.",
+        "Ustedes se llaman todos los dias.",
+        "Mis companeros de trabajo se quejan del software.",
+        "Se venden coches usados en esta zona.",
+        "Me lavo la cara rapido.",
+        "Se enoja cuando tiene hambre.",
+        "Nos alegramos cuando el cliente dice que si.",
+        "Te arrepientes de ese mensaje.",
+        "Voy a sentarme aqui."
+      ],
+      "pattern_mutation": [
+        "Nos lavamos las manos.",
+        "Se cepillan los dientes.",
+        "Nos abrazamos.",
+        "No se ayudan en clase.",
+        "Ella se queja del ruido.",
+        "Me arrepenti del error.",
+        "Se vende la entrada.",
+        "Se habla espanol en mi empresa.",
+        "Me duermo en el sofa.",
+        "Nos dormimos tarde casi siempre.",
+        "Nos vamos ahora.",
+        "Se van temprano?",
+        "Nos estamos llamando por telefono.",
+        "Te enojas facilmente?",
+        "Puedo sentarme aqui?"
+      ],
+      "contrastive_discrimination": [
+        "Me lavo las manos.",
+        "Nos abrazamos.",
+        "Me quejo del retraso.",
+        "Se arrepiente de la decision.",
+        "Se venden boletos aqui.",
+        "Duermo en el sofa.",
+        "Me dormi en el sofa.",
+        "Vamos a la oficina a las ocho.",
+        "Nos vamos ahora.",
+        "Ustedes se llaman cada semana."
+      ],
+      "reverse_conceptual_expression": [
+        "Tengo que lavarme las manos rapido.",
+        "Siempre nos ayudamos en este equipo.",
+        "El se queja de todo.",
+        "Me arrepiento de decir eso.",
+        "No se venden boletos despues de las ocho de la noche.",
+        "Duermo mal cuando estoy estresado.",
+        "Me dormi durante la pelicula.",
+        "Nos vamos ahora, no mas tarde.",
+        "Se llaman todas las noches.",
+        "Puedo sentarme aqui un minuto?"
+      ]
+    }
+  }
+}
