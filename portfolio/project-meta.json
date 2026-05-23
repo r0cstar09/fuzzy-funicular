@@ -1,0 +1,54 @@
+{
+  "projectName": "fuzzy-funicular",
+  "slug": "fuzzy-funicular-spanish-lesson-automation",
+  "repoUrl": "https://github.com/r0cstar09/fuzzy-funicular",
+  "tagline": "Automated daily Spanish lesson delivery with structured writing drills and GitHub Actions scheduling.",
+  "summary": "A Python + GitHub Actions project that validates structured lesson JSON files, selects lessons by date/cadence, renders Markdown/HTML email content, and sends daily Spanish writing drills through iCloud SMTP.",
+  "problem": "Manual lesson delivery is inconsistent and hard to scale. The project automates cadence, sequencing, and content formatting so learners receive repeatable, high-quality practice without manual prep each day.",
+  "solution": [
+    "Structured each lesson as JSON with strict sections for drill-based language practice.",
+    "Built a sender script to validate lesson schemas, choose the correct lesson, and generate rich email output.",
+    "Automated delivery with GitHub Actions, secrets, and configurable scheduling variables.",
+    "Added cadence controls to support non-daily pacing and restart windows."
+  ],
+  "techStack": [
+    "Python",
+    "GitHub Actions",
+    "JSON",
+    "Markdown",
+    "SMTP (iCloud)",
+    "Cron scheduling"
+  ],
+  "highlights": [
+    "63 lesson folders currently include `lesson.json` and `lesson.md` content.",
+    "Daily workflow validates all lessons before sending to prevent broken runs.",
+    "Date-based selector supports configurable start date, start lesson number, and cadence days.",
+    "Content pipeline separates source lesson PDFs from normalized drill-ready JSON."
+  ],
+  "keyFiles": [
+    ".github/workflows/send-daily-lesson.yml",
+    "scripts/send_daily_lesson.py",
+    "lessons/lesson-1/lesson.json",
+    "lessons/lesson-25/lesson.json",
+    "lessons/lesson-40/lesson.json",
+    "README.md"
+  ],
+  "metrics": {
+    "lessonCountWithJson": 63,
+    "lessonNumberRange": "1-64",
+    "knownMissingLessonNumbers": [
+      11
+    ],
+    "deliveryCadenceConfigurable": true,
+    "automatedValidationInWorkflow": true
+  },
+  "portfolioAngles": [
+    "workflow automation",
+    "content modeling",
+    "developer tooling",
+    "education product systems"
+  ],
+  "status": "active",
+  "lastPreparedForPortfolio": "2026-05-23"
+}
+

@@ -2,6 +2,15 @@
 
 Daily Spanish lesson emailer using Python + GitHub Actions.
 
+## Portfolio pack
+
+If you want to document this project in another site (e.g., Astro portfolio),
+use the prepared files in `portfolio/`:
+
+- `portfolio/project-meta.json` -> structured project metadata
+- `portfolio/PORTFOLIO_ENTRY_DRAFT.md` -> draft case-study copy
+- `portfolio/SCREENSHOT_PLAN.md` -> screenshot checklist and commands
+
 ## License
 
 This repository is licensed under `CC BY-NC 4.0` (Creative Commons
