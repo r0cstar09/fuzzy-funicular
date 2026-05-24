@@ -1,0 +1,250 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "lo-replacement",
+    "short-responses",
+    "adjective-reference",
+    "adult-learners"
+  ],
+  "difficulty": "B1",
+  "pattern_id": "LO_ADJECTIVE_ABSTRACT_REFERENCE_74",
+  "source_files": [
+    "lessons/lesson-74/LO summary.pdf"
+  ],
+  "target_pattern": "Use lo + ser/estar to refer back to adjective qualities (lo es/lo son/lo estan); use lo + hacer for manner or completed abstract actions; do not use lo for bare profession/nationality/religion answers unless the attribute is elaborated.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Repeating the full adjective or saying only si/no without a natural back-reference pronoun.",
+      "spanish_logic": "Lo stands in for the already-mentioned quality or action. It stays invariable and pairs with ser, estar, or hacer depending on what you are referring back to.",
+      "target_pattern_formula": [
+        "quality with ser: ¿Es interesante? -> Si, lo es. / No, no lo es.",
+        "plural quality: ¿Son caros? -> Si, lo son. / No, no lo son.",
+        "state with estar: ¿Estan listos? -> Si, lo estan.",
+        "manner/action: ¿Lo haces bien? -> Si, lo hago.",
+        "abstract completed action: Hizo buen trabajo. -> Si, lo hizo.",
+        "no lo for bare identity: ¿Es mexicana? -> Si, es."
+      ],
+      "natural_examples": [
+        "¿Es interesante el informe? Si, lo es.",
+        "¿Son caros los vuelos? No, no lo son.",
+        "¿Estan listos los documentos? Si, lo estan.",
+        "¿Es mexicana? Si, es.",
+        "¿Es un buen candidato? Si, lo es."
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write the natural Spanish response using lo where appropriate.",
+      "prompts_en": [
+        "Is the book interesting? — Yes, it is.",
+        "Is the movie boring? — No, it is not.",
+        "Are the tickets expensive? — Yes, they are.",
+        "Are the shoes comfortable? — No, they are not.",
+        "Is the city dangerous? — Yes, it is.",
+        "Are the clients satisfied? — Yes, they are.",
+        "Is the contract ready? — Yes, it is.",
+        "Are the files ready? — No, they are not.",
+        "Is she tired today? — Yes, she is.",
+        "Are the teams prepared? — Yes, they are.",
+        "Is he a good engineer? — Yes, he is.",
+        "Is the presentation clear? — No, it is not.",
+        "Is she Mexican? — Yes, she is.",
+        "Is Juan Catholic? — Yes, he is.",
+        "Is he a good Catholic? — Yes, he is.",
+        "Do you explain the concepts well? — Yes, I do.",
+        "Does Maria swim often? — Yes, she does.",
+        "Miguel did an excellent job. — Yes, he did.",
+        "Maria gave a good presentation. — Yes, she did.",
+        "Is the new policy fair? — No, it is not."
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base exchange as directed.",
+      "drills": [
+        "Base: ¿Es interesante el libro? Si, lo es. -> change to negative.",
+        "Base: ¿Son caros los boletos? No, no lo son. -> change to singular ticket.",
+        "Base: ¿Esta listo el informe? Si, lo esta. -> change to plural reports.",
+        "Base: ¿Estan cansados? Si, lo estan. -> change to singular and use ser with inteligente.",
+        "Base: ¿Es aburrida la reunion? No, no lo es. -> change adjective to util.",
+        "Base: ¿Es mexicana? Si, es. -> add elaboration: a good Mexican chef.",
+        "Base: ¿Es catolico? Si, es. -> add elaboration: a good Catholic.",
+        "Base: ¿Lo haces bien? Si, lo hago. -> change subject to ellos.",
+        "Base: Si, lo hizo. (referring to excellent work) -> change subject to nosotros.",
+        "Base: ¿Son comodos los asientos? Si, lo son. -> change to question with no.",
+        "Base: ¿Es peligroso el barrio? Si, lo es. -> change to usted response.",
+        "Base: ¿Estan ocupados? No, no lo estan. -> change verb frame to listos.",
+        "Base: ¿Es un buen manager? Si, lo es. -> change to plural managers.",
+        "Base: ¿Es profesora? Si, es. -> change to engineer without lo.",
+        "Base: ¿Es justa la decision? No, no lo es. -> change to affirmative."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the natural Spanish response.",
+      "prompts": [
+        "Is the report interesting? Yes. (Si, lo es. vs Si, es interesante.)",
+        "Is she Mexican? Yes. (Si, lo es. vs Si, es.)",
+        "Are the flights expensive? No. (No, no lo son. vs No, no son caros.)",
+        "Is he Catholic? Yes. (Si, lo es. vs Si, es.)",
+        "Is he a good Catholic? Yes. (Si, lo es. vs Si, es.)",
+        "Are the documents ready? Yes. (Si, lo estan. vs Si, lo son.)",
+        "Is the team tired? Yes. (Si, lo estan. vs Si, lo son.)",
+        "Do you explain it well? Yes. (Si, lo hago. vs Si, lo es.)",
+        "She did a good job. Yes. (Si, lo hizo. vs Si, lo es.)",
+        "Is the contract valid? No. (No, no lo es. vs No, no es.)"
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one natural Spanish response for each specific meaning.",
+      "prompts": [
+        "Write that you agree the new software is useful (short response with lo).",
+        "Write that the hotel rooms are not comfortable (short response with lo).",
+        "Write that the meeting was not boring (short response with lo).",
+        "Write that your colleagues are prepared for the launch (short response with lo).",
+        "Write that the client is satisfied with the proposal (short response with lo).",
+        "Write that the files are not ready yet (short response with lo).",
+        "Write that your coworker is Brazilian — confirm nationality without lo.",
+        "Write that your coworker is a good engineer — confirm with lo.",
+        "Write that you explain the process clearly when asked (short response with lo + hacer).",
+        "Write that your manager did an excellent job on the review (short response with lo + hacer).",
+        "Write that the prices are expensive (short negative response with lo).",
+        "Write that the neighborhood is dangerous (short affirmative with lo).",
+        "Write that the candidates are qualified (short affirmative with lo).",
+        "Write that she is a doctor — confirm profession without lo.",
+        "Write that the decision is fair (short negative response with lo)."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write a natural short Spanish response; use lo only when Spanish requires it.",
+      "prompts_en": [
+        "They ask if the training is useful. You agree.",
+        "They ask if your boss is Argentine. You confirm.",
+        "They ask if the invoices are correct. They are not.",
+        "They ask if you handle complaints well. You do.",
+        "They say Ana gave a strong presentation. You agree she did.",
+        "They ask if he is a good lawyer. You agree.",
+        "They ask if he is a lawyer. You confirm.",
+        "They ask if the apartments are available. They are.",
+        "They ask if everyone is tired after the trip. Yes.",
+        "They ask if the terms are acceptable. No."
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "¿Es interesante? Si, es interesante.",
+        "why_it_happens": "Full adjective is repeated instead of using lo back-reference.",
+        "correct_spanish": "Si, lo es."
+      },
+      {
+        "mistake": "¿Es mexicana? Si, lo es.",
+        "why_it_happens": "Lo is overused for bare nationality/profession/religion identity.",
+        "correct_spanish": "Si, es."
+      },
+      {
+        "mistake": "¿Son caros? Si, lo es.",
+        "why_it_happens": "Singular lo is used with plural subject.",
+        "correct_spanish": "Si, lo son."
+      },
+      {
+        "mistake": "¿Estan listos? Si, lo son.",
+        "why_it_happens": "Ser form lo son is used instead of estar back-reference.",
+        "correct_spanish": "Si, lo estan."
+      },
+      {
+        "mistake": "¿Es aburrida? Si, la es.",
+        "why_it_happens": "Gender agreement is applied to lo.",
+        "correct_spanish": "Si, lo es."
+      },
+      {
+        "mistake": "¿Es un buen catolico? Si, es.",
+        "why_it_happens": "Elaborated quality answer drops lo.",
+        "correct_spanish": "Si, lo es."
+      },
+      {
+        "mistake": "¿Lo explicas bien? Si, lo es.",
+        "why_it_happens": "Manner/adverb response uses ser instead of hacer.",
+        "correct_spanish": "Si, lo hago."
+      },
+      {
+        "mistake": "Hizo buen trabajo. Si, lo es.",
+        "why_it_happens": "Completed abstract action is answered with ser.",
+        "correct_spanish": "Si, lo hizo."
+      },
+      {
+        "mistake": "¿Son comodos? No, no son.",
+        "why_it_happens": "Bare ser/estar repetition without lo sounds incomplete in short answers.",
+        "correct_spanish": "No, no lo son."
+      },
+      {
+        "mistake": "¿Es profesor? Si, lo es.",
+        "why_it_happens": "Bare profession triggers lo incorrectly.",
+        "correct_spanish": "Si, es."
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "Si, lo es.",
+        "No, no lo es.",
+        "Si, lo son.",
+        "No, no lo son.",
+        "Si, lo es.",
+        "Si, lo son.",
+        "Si, lo esta.",
+        "No, no lo estan.",
+        "Si, lo esta.",
+        "Si, lo estan.",
+        "Si, lo es.",
+        "No, no lo es.",
+        "Si, es.",
+        "Si, es.",
+        "Si, lo es.",
+        "Si, lo hago.",
+        "Si, lo hace.",
+        "Si, lo hizo.",
+        "Si, lo hizo.",
+        "No, no lo es."
+      ],
+      "pattern_mutation": [
+        "No, no lo es.",
+        "No, no lo es.",
+        "Si, lo estan.",
+        "Si, lo es.",
+        "Si, lo es.",
+        "Si, lo es.",
+        "Si, lo es.",
+        "Si, lo hacen.",
+        "Si, lo hicimos.",
+        "No, no lo son.",
+        "Si, lo es.",
+        "No, no lo estan.",
+        "Si, lo son.",
+        "Si, es.",
+        "Si, lo es."
+      ],
+      "contrastive_discrimination": [
+        "Si, lo es.",
+        "Si, es.",
+        "No, no lo son.",
+        "Si, es.",
+        "Si, lo es.",
+        "Si, lo estan.",
+        "Si, lo estan.",
+        "Si, lo hago.",
+        "Si, lo hizo.",
+        "No, no lo es."
+      ],
+      "reverse_conceptual_expression": [
+        "Si, lo es.",
+        "Si, es.",
+        "No, no lo son.",
+        "Si, lo hago.",
+        "Si, lo hizo.",
+        "Si, lo es.",
+        "Si, es.",
+        "Si, lo estan.",
+        "Si, lo estan.",
+        "No, no lo son."
+      ]
+    }
+  }
+}

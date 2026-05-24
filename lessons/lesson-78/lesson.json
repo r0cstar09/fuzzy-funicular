@@ -1,0 +1,249 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "pero-sino-sino-que",
+    "contrast-connectors",
+    "corrective-contrast",
+    "adult-learners"
+  ],
+  "difficulty": "B1",
+  "pattern_id": "PERO_SINO_SINO_QUE_CONTRAST_78",
+  "source_files": [
+    "lessons/lesson-78/Práctica_ Pero, Sino, Sino que.pdf"
+  ],
+  "target_pattern": "Use pero for general contrast between ideas; use sino to correct/replace a noun, adjective, or infinitive after negation; use sino que when the correction is a full clause with its own conjugated verb.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Using pero for every but, including not X but Y corrections.",
+      "spanish_logic": "Pero adds contrast between coexisting ideas. Sino corrects or replaces what was negated (not this, but that). Sino que does the same when the replacement is an entire clause with a new verb.",
+      "target_pattern_formula": [
+        "general contrast: idea + pero + contrasting idea",
+        "correct noun/adjective after no: No quiero X, sino Y.",
+        "correct infinitive after no: No quieren estudiar, sino dormir.",
+        "correct full clause after no: No compramos casa, sino que alquilamos.",
+        "simple quality contrast (no correction frame): es bueno, pero caro"
+      ],
+      "natural_examples": [
+        "Este restaurante es bueno, pero es muy caro.",
+        "No quiero pizza, sino pasta.",
+        "No compramos una casa, sino que alquilamos un departamento.",
+        "Su perro no es negro, sino dorado.",
+        "Queremos reunirnos hoy, pero el cliente prefiere manana."
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each sentence in Spanish using pero, sino, or sino que as appropriate.",
+      "prompts_en": [
+        "This restaurant is good but very expensive.",
+        "I do not want pizza, but pasta instead.",
+        "We did not buy a house; instead we rented a condo.",
+        "Their dog is not black, but golden.",
+        "We do not like the cold; rather we prefer the heat.",
+        "The movie is interesting, but too long.",
+        "The dog did not attack the ducks; instead it swam with them.",
+        "They do not want to study, but rather to sleep.",
+        "We want to go to the beach, but they want to go shopping.",
+        "The proposal is solid, but the timeline is unrealistic.",
+        "I did not call the client; instead I sent an email.",
+        "She is not angry, but tired.",
+        "We do not need more staff, but better tools.",
+        "He did not reject the offer; instead he asked for more time.",
+        "The app is useful, but confusing at first.",
+        "They do not want a meeting, but a written summary.",
+        "I do not work on Fridays, but I do check email.",
+        "The issue is not the price, but the delivery date.",
+        "We did not cancel the trip; instead we postponed it.",
+        "I want the basic plan, not the premium one."
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as directed.",
+      "drills": [
+        "Base: El restaurante es bueno, pero es caro. -> change to: not cheap, but expensive (corrective).",
+        "Base: No quiero pizza, sino pasta. -> change food to cafe/te.",
+        "Base: No compramos casa, sino que alquilamos. -> change to past tense.",
+        "Base: Su perro no es negro, sino dorado. -> change color to blanco.",
+        "Base: No nos gusta el frio, sino que preferimos el calor. -> change to simple pero contrast about weather.",
+        "Base: La pelicula es interesante, pero demasiado larga. -> make negative about length with sino que.",
+        "Base: Ellos no quieren estudiar, sino dormir. -> change verbs to work/travel.",
+        "Base: Queremos ir a la playa, pero ellos quieren ir de compras. -> change to we want Monday but they want Tuesday.",
+        "Base: No llame al cliente, sino que envie un correo. -> change to noun correction: not a call, but an email.",
+        "Base: Ella no esta enojada, sino cansada. -> change to full clause correction with sino que.",
+        "Base: No necesitamos mas personal, sino mejores herramientas. -> change tools to training.",
+        "Base: La app es util, pero confusa. -> change to: not confusing, but simple.",
+        "Base: No quieren reunion, sino resumen escrito. -> add sino que with full clause.",
+        "Base: El problema no es el precio, sino la fecha. -> change to general contrast with pero.",
+        "Base: No cancelamos el viaje, sino que lo pospusimos. -> change to infinitive correction: not cancel, but postpone."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the natural connector: pero, sino, or sino que.",
+      "prompts": [
+        "Not pizza, but pasta. (No quiero pizza, pero pasta. vs No quiero pizza, sino pasta.)",
+        "Good but expensive. (Es bueno, sino caro. vs Es bueno, pero caro.)",
+        "We did not buy; we rented. (No compramos, sino alquilamos. vs No compramos, sino que alquilamos.)",
+        "Not black, but golden. (No es negro, pero dorado. vs No es negro, sino dorado.)",
+        "Not study, but sleep. (No quieren estudiar, pero dormir. vs No quieren estudiar, sino dormir.)",
+        "We want beach; they want shopping. (Queremos playa, sino que quieren compras. vs Queremos playa, pero quieren compras.)",
+        "Not angry, but tired. (No esta enojada, pero cansada. vs No esta enojada, sino cansada.)",
+        "I did not call; I emailed. (No llame, sino envie un correo. vs No llame, sino que envie un correo.)",
+        "Interesting but long. (Es interesante, sino larga. vs Es interesante, pero larga.)",
+        "Not the price, but the date. (No es el precio, pero la fecha. vs No es el precio, sino la fecha.)"
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific meaning.",
+      "prompts": [
+        "Write that your hotel is clean but noisy.",
+        "Write that you do not want tea, but coffee instead.",
+        "Write that you did not reject the offer; you asked for more time.",
+        "Write that the report is not incomplete, but too detailed.",
+        "Write that you do not dislike the client; you prefer working async.",
+        "Write that the laptop is fast but the battery is weak.",
+        "Write that they do not want to cancel, but to reschedule.",
+        "Write that your team wants a call today, but the client wants email.",
+        "Write that you did not forget the task; you deprioritized it.",
+        "Write that the problem is not budget, but scope.",
+        "Write that you do not need a new hire, but a clearer process.",
+        "Write that the training was useful, but too long.",
+        "Write that she is not unavailable, but in another meeting.",
+        "Write that you want the annual plan, not the monthly one.",
+        "Write that we did not lose the file; we saved it in the wrong folder."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish; choose pero, sino, or sino que by correction type.",
+      "prompts_en": [
+        "The office is close but parking is impossible.",
+        "I don't want a refund — I want a replacement.",
+        "We didn't skip the review; we moved it to next week.",
+        "He's not rude, just direct.",
+        "They don't hate the idea; they need more data.",
+        "The contract is fair but hard to read.",
+        "She didn't quit; she transferred teams.",
+        "I don't want to lead the call; I want to listen first.",
+        "It's not too early; it's too late.",
+        "We want hybrid work, but management wants everyone in office."
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "No quiero pizza, pero pasta",
+        "why_it_happens": "Pero is used for corrective replacement after negation.",
+        "correct_spanish": "No quiero pizza, sino pasta."
+      },
+      {
+        "mistake": "Es bueno, sino caro",
+        "why_it_happens": "Sino is used for simple additive contrast without correction frame.",
+        "correct_spanish": "Es bueno, pero caro."
+      },
+      {
+        "mistake": "No compramos, sino alquilamos",
+        "why_it_happens": "Full clause correction keeps sino without que.",
+        "correct_spanish": "No compramos, sino que alquilamos."
+      },
+      {
+        "mistake": "No es negro, pero dorado",
+        "why_it_happens": "Corrective adjective replacement after negation uses pero.",
+        "correct_spanish": "No es negro, sino dorado."
+      },
+      {
+        "mistake": "No quieren estudiar, pero dormir",
+        "why_it_happens": "Corrective infinitive after negation uses pero.",
+        "correct_spanish": "No quieren estudiar, sino dormir."
+      },
+      {
+        "mistake": "Queremos playa, sino quieren compras",
+        "why_it_happens": "Two independent contrasting clauses are forced into sino frame.",
+        "correct_spanish": "Queremos ir a la playa, pero quieren ir de compras."
+      },
+      {
+        "mistake": "No llame, sino envie un correo",
+        "why_it_happens": "Conjugated verb clause after negation lacks que.",
+        "correct_spanish": "No llame, sino que envie un correo."
+      },
+      {
+        "mistake": "No es el precio, pero la fecha",
+        "why_it_happens": "Not-X-but-Y noun correction uses general contrast connector.",
+        "correct_spanish": "No es el precio, sino la fecha."
+      },
+      {
+        "mistake": "No cancelamos, sino posponemos",
+        "why_it_happens": "Sino que is omitted before second conjugated verb.",
+        "correct_spanish": "No cancelamos, sino que posponemos."
+      },
+      {
+        "mistake": "Quiero el plan basico, pero no el premium",
+        "why_it_happens": "Replacement noun after implicit negation should use sino.",
+        "correct_spanish": "Quiero el plan basico, no el premium / no quiero el premium, sino el basico."
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "Este restaurante es bueno, pero es muy caro.",
+        "No quiero pizza, sino pasta.",
+        "No compramos una casa, sino que alquilamos un condominio.",
+        "Su perro no es negro, sino dorado.",
+        "No nos gusta el frio, sino que preferimos el calor.",
+        "La pelicula es interesante, pero demasiado larga.",
+        "El perro no ataco a los patos, sino que nado con ellos.",
+        "Ellos no quieren estudiar, sino dormir.",
+        "Queremos ir a la playa, pero ellos quieren ir de compras.",
+        "La propuesta es solida, pero el cronograma es poco realista.",
+        "No llame al cliente, sino que envie un correo.",
+        "Ella no esta enojada, sino cansada.",
+        "No necesitamos mas personal, sino mejores herramientas.",
+        "El no rechazo la oferta, sino que pidio mas tiempo.",
+        "La app es util, pero confusa al principio.",
+        "No quieren una reunion, sino un resumen escrito.",
+        "No trabajo los viernes, pero si reviso el correo.",
+        "El problema no es el precio, sino la fecha de entrega.",
+        "No cancelamos el viaje, sino que lo pospusimos.",
+        "No quiero el plan premium, sino el basico."
+      ],
+      "pattern_mutation": [
+        "El restaurante no es barato, sino caro.",
+        "No quiero cafe, sino te.",
+        "No compramos una casa, sino que alquilamos un departamento.",
+        "Su perro no es negro, sino blanco.",
+        "No nos gusta el frio, pero hoy hace buen tiempo.",
+        "La pelicula no es aburrida, sino que es demasiado larga.",
+        "Ellos no quieren trabajar, sino viajar.",
+        "Queremos reunirnos el lunes, pero prefieren el martes.",
+        "No quiero una llamada, sino un correo.",
+        "Ella no esta enojada, sino que esta cansada.",
+        "No necesitamos mas personal, sino mejor capacitacion.",
+        "La app no es confusa, sino simple.",
+        "No quieren una reunion, sino que quieren un resumen escrito.",
+        "El problema es el precio, pero tambien la fecha.",
+        "No quieren cancelar, sino posponer."
+      ],
+      "contrastive_discrimination": [
+        "No quiero pizza, sino pasta.",
+        "Es bueno, pero caro.",
+        "No compramos, sino que alquilamos.",
+        "No es negro, sino dorado.",
+        "No quieren estudiar, sino dormir.",
+        "Queremos ir a la playa, pero quieren ir de compras.",
+        "No esta enojada, sino cansada.",
+        "No llame, sino que envie un correo.",
+        "Es interesante, pero larga.",
+        "No es el precio, sino la fecha."
+      ],
+      "reverse_conceptual_expression": [
+        "La oficina esta cerca, pero es imposible estacionar.",
+        "No quiero un reembolso, sino un reemplazo.",
+        "No saltamos la revision, sino que la movimos a la proxima semana.",
+        "No es grosero, sino directo.",
+        "No odian la idea, sino que necesitan mas datos.",
+        "El contrato es justo, pero dificil de leer.",
+        "Ella no renuncio, sino que se cambio de equipo.",
+        "No quiero liderar la llamada, sino escuchar primero.",
+        "No es demasiado temprano, sino demasiado tarde.",
+        "Queremos trabajo hibrido, pero la gerencia quiere a todos en la oficina."
+      ]
+    }
+  }
+}

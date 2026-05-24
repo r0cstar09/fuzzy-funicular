@@ -1,0 +1,250 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "imperfect-subjunctive",
+    "past-subjunctive-triggers",
+    "si-clauses",
+    "adult-learners"
+  ],
+  "difficulty": "B1",
+  "pattern_id": "IMPERFECT_SUBJUNCTIVE_PAST_TRIGGERS_71",
+  "source_files": [
+    "lessons/lesson-71/Deep 7 summary.pdf",
+    "lessons/lesson-71/Imperfect Subjunctive Conjugations.pdf"
+  ],
+  "target_pattern": "Use imperfect subjunctive (-ra form) after the same triggers as present subjunctive in past narrative: reported commands/desires, emotion/hope in the past, pending time clauses, and si + conditional hypotheticals.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Keeping indicative forms in past subordinate clauses because English rarely marks mood this way.",
+      "spanish_logic": "When the main clause is in the past and the trigger appears, shift the subordinate verb to imperfect subjunctive (-ra) to show influence, emotion, doubt, or pending action from that past viewpoint.",
+      "target_pattern_formula": [
+        "past command/desire: dijo/queria/insistio en que + imperfect subjunctive",
+        "past hope/emotion: esperaba/me preocupaba que + imperfect subjunctive",
+        "pending time from past frame: en cuanto/antes de que + imperfect subjunctive",
+        "hypothetical: si + imperfect subjunctive, conditional",
+        "form: preterite ellos stem + -ra endings"
+      ],
+      "natural_examples": [
+        "Juan me dijo que fuera a la tienda.",
+        "Ella esperaba que terminaramos a tiempo.",
+        "Me pidio que le llamara en cuanto tuviera la informacion.",
+        "Si fuera posible, me mudaria a otra ciudad.",
+        "Queria salir antes de que lloviera."
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each sentence in Spanish using imperfect subjunctive where the trigger requires it.",
+      "prompts_en": [
+        "Juan told me to go to the store.",
+        "Maria said she wanted me to call her tonight.",
+        "She was hoping the team had enough time to finish.",
+        "My boss insisted that we arrive early.",
+        "They asked us to send the report before Friday.",
+        "He told me to call him as soon as I had the information.",
+        "I wanted to leave before it started raining.",
+        "If I were rich, I would buy a house by the beach.",
+        "If it were possible, I would move to Mexico.",
+        "The manager said he did not think Juan was at the office.",
+        "It bothered her that we did not answer the email.",
+        "We were looking for someone who could speak English.",
+        "She preferred that I stay home that day.",
+        "He avoided telling us until we had the final numbers.",
+        "Unless you told me, I did not know what to do.",
+        "I was going to wait until you finished the task.",
+        "They told me to review the contract before signing.",
+        "If we had more budget, we would hire another person.",
+        "My coworker hoped that the client would accept the proposal.",
+        "She told me to notify her when the package arrived."
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as directed.",
+      "drills": [
+        "Base: Juan me dijo que fuera a la tienda. -> change destination to la oficina.",
+        "Base: Ella queria que llamara esta noche. -> change subject receiver to nosotros.",
+        "Base: Esperaba que tuvieramos tiempo. -> change verb to terminar el informe.",
+        "Base: Mi jefe insistio en que llegaramos temprano. -> change to singular tu.",
+        "Base: Me pidio que le llamara en cuanto tuviera la informacion. -> change time trigger to antes de que.",
+        "Base: Queria salir antes de que lloviera. -> make it negative with no queria.",
+        "Base: Si fuera posible, me mudaria a Mexico. -> change destination to otro pais.",
+        "Base: Si tuviera mas dinero, compraria un coche nuevo. -> change subject to nosotros.",
+        "Base: No creia que Juan estuviera en casa. -> change to affirmative creia que with indicative.",
+        "Base: Me molestaba que no contestaran el correo. -> change emotion to me preocupaba.",
+        "Base: Buscabamos a alguien que hablara ingles. -> add tambien espanol.",
+        "Base: Prefirio que me quedara en casa. -> change to ustedes.",
+        "Base: Iba a esperar hasta que terminaras. -> change subject to ellos.",
+        "Base: Me dijo que revisara el contrato antes de firmar. -> change object to propuesta.",
+        "Base: Si pudieramos trabajar remoto, viajariamos mas. -> change consequence verb to mudarnos."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the option that matches the past narrative meaning.",
+      "prompts": [
+        "Juan told me to go. (Juan me dijo que voy. vs Juan me dijo que fuera.)",
+        "She wanted me to call. (Queria que llamo. vs Queria que llamara.)",
+        "She was hoping we had time. (Esperaba que tenemos tiempo. vs Esperaba que tuvieramos tiempo.)",
+        "Call me when you have the info (past request frame). (Me pidio que le llame cuando tengo la informacion. vs Me pidio que le llamara cuando tuviera la informacion.)",
+        "I wanted to leave before it rained. (Queria salir antes de que llueve. vs Queria salir antes de que lloviera.)",
+        "If I were rich, I would buy a boat. (Si soy rico, compraria un barco. vs Si fuera rico, compraria un barco.)",
+        "I did not think he was home. (No creia que esta en casa. vs No creia que estuviera en casa.)",
+        "She insisted we arrive early. (Insistio en que llegamos temprano. vs Insistio en que llegaramos temprano.)",
+        "Unless you told me, I did not know. (A menos que me dices, no sabia. vs A menos que me dijeras, no sabia.)",
+        "I was looking for someone who spoke French. (Buscaba alguien que habla frances. vs Buscaba alguien que hablara frances.)"
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific meaning.",
+      "prompts": [
+        "Write that your manager told you to send the file before noon yesterday.",
+        "Write that your client wanted you to call as soon as you had an update.",
+        "Write that your team was hoping everyone had enough time to finish.",
+        "Write that your boss insisted that you join the call early.",
+        "Write that you wanted to leave before the meeting started.",
+        "Write that if you had more time, you would learn Portuguese.",
+        "Write that if it were possible, you would work remotely full-time.",
+        "Write that you did not think your coworker was in the office yesterday.",
+        "Write that it worried you that the client did not respond.",
+        "Write that you were looking for someone who could fix the software issue.",
+        "Write that your director preferred that you review the contract first.",
+        "Write that you were going to wait until your teammate finished the slide deck.",
+        "Write that they told you to notify them when the shipment arrived.",
+        "Write that your manager hoped the client would accept the proposal.",
+        "Write that you told your assistant to call you before leaving the office."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish using imperfect subjunctive trigger patterns in past narrative.",
+      "prompts_en": [
+        "She told me to wait until she had an answer.",
+        "He wanted us to send the update before the meeting.",
+        "I was hoping they could join the call.",
+        "If I had your schedule, I would travel more.",
+        "Unless you warned me, I would not have known.",
+        "My boss insisted that I review everything first.",
+        "It bothered me that nobody replied.",
+        "We needed someone who could handle clients in Spanish.",
+        "Tell me when you had the final version.",
+        "If we were closer to the office, we would walk to work."
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "Juan me dijo que voy a la tienda",
+        "why_it_happens": "Past reporting frame is ignored and present indicative is used.",
+        "correct_spanish": "Juan me dijo que fuera a la tienda."
+      },
+      {
+        "mistake": "Queria que llamo esta noche",
+        "why_it_happens": "Desire trigger in past does not shift to imperfect subjunctive.",
+        "correct_spanish": "Queria que llamara esta noche."
+      },
+      {
+        "mistake": "Esperaba que tenemos tiempo",
+        "why_it_happens": "Past hope clause keeps indicative endings.",
+        "correct_spanish": "Esperaba que tuvieramos tiempo."
+      },
+      {
+        "mistake": "Me pidio que le llame cuando tengo la informacion",
+        "why_it_happens": "Pending subordinate action in past narrative is not shifted.",
+        "correct_spanish": "Me pidio que le llamara cuando tuviera la informacion."
+      },
+      {
+        "mistake": "Queria salir antes de que llueve",
+        "why_it_happens": "Antes de que trigger keeps present indicative.",
+        "correct_spanish": "Queria salir antes de que lloviera."
+      },
+      {
+        "mistake": "Si soy rico, compraria una casa",
+        "why_it_happens": "Hypothetical si clause uses present instead of imperfect subjunctive.",
+        "correct_spanish": "Si fuera rico, compraria una casa."
+      },
+      {
+        "mistake": "No creia que esta en casa",
+        "why_it_happens": "Negated belief in past keeps indicative mood.",
+        "correct_spanish": "No creia que estuviera en casa."
+      },
+      {
+        "mistake": "Insistio en que llegamos temprano",
+        "why_it_happens": "Past insistence trigger does not activate subjunctive.",
+        "correct_spanish": "Insistio en que llegaramos temprano."
+      },
+      {
+        "mistake": "Buscaba alguien que habla ingles",
+        "why_it_happens": "Non-specific reference in past search uses indicative.",
+        "correct_spanish": "Buscaba alguien que hablara ingles."
+      },
+      {
+        "mistake": "Si tuviera mas dinero, compro un coche",
+        "why_it_happens": "Conditional consequence is replaced by present indicative.",
+        "correct_spanish": "Si tuviera mas dinero, compraria un coche."
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "Juan me dijo que fuera a la tienda.",
+        "Maria dijo que queria que la llamara esta noche.",
+        "Esperaba que el equipo tuviera tiempo suficiente para terminar.",
+        "Mi jefe insistio en que llegaramos temprano.",
+        "Nos pidieron que enviaramos el informe antes del viernes.",
+        "Me dijo que le llamara en cuanto tuviera la informacion.",
+        "Queria salir antes de que empezara a llover.",
+        "Si fuera rico, compraria una casa en la playa.",
+        "Si fuera posible, me mudaria a Mexico.",
+        "El gerente dijo que no creia que Juan estuviera en la oficina.",
+        "Le molestaba que no contestaramos el correo.",
+        "Buscabamos a alguien que hablara ingles.",
+        "Preferia que me quedara en casa ese dia.",
+        "Evito decirnoslo hasta que tuvieramos los numeros finales.",
+        "A menos que me dijeras, no sabia que hacer.",
+        "Iba a esperar hasta que terminaras la tarea.",
+        "Me dijo que revisara el contrato antes de firmar.",
+        "Si tuvieramos mas presupuesto, contratariamos a otra persona.",
+        "Mi companero esperaba que el cliente aceptara la propuesta.",
+        "Me dijo que le avisara cuando llegara el paquete."
+      ],
+      "pattern_mutation": [
+        "Juan me dijo que fuera a la oficina.",
+        "Queria que llamaramos esta noche.",
+        "Esperaba que terminaramos el informe.",
+        "Mi jefe insistio en que llegaras temprano.",
+        "Me pidio que le llamara antes de que tuviera la informacion.",
+        "No queria salir antes de que lloviera.",
+        "Si fuera posible, me mudaria a otro pais.",
+        "Si tuvieramos mas dinero, comprariamos un coche nuevo.",
+        "Creia que Juan estaba en casa.",
+        "Me preocupaba que no contestaran el correo.",
+        "Buscabamos a alguien que hablara ingles y espanol.",
+        "Prefirio que se quedaran en casa.",
+        "Iba a esperar hasta que terminaran.",
+        "Me dijo que revisara la propuesta antes de firmar.",
+        "Si pudieramos trabajar remoto, nos mudariamos."
+      ],
+      "contrastive_discrimination": [
+        "Juan me dijo que fuera.",
+        "Queria que llamara.",
+        "Esperaba que tuvieramos tiempo.",
+        "Me pidio que le llamara cuando tuviera la informacion.",
+        "Queria salir antes de que lloviera.",
+        "Si fuera rico, compraria un barco.",
+        "No creia que estuviera en casa.",
+        "Insistio en que llegaramos temprano.",
+        "A menos que me dijeras, no sabia.",
+        "Buscaba alguien que hablara frances."
+      ],
+      "reverse_conceptual_expression": [
+        "Me dijo que esperara hasta que tuviera una respuesta.",
+        "Queria que enviaramos la actualizacion antes de la reunion.",
+        "Esperaba que pudieran unirse a la llamada.",
+        "Si tuviera tu horario, viajaria mas.",
+        "A menos que me advirtieras, no lo habria sabido.",
+        "Mi jefe insistio en que revisara todo primero.",
+        "Me molestaba que nadie respondiera.",
+        "Necesitabamos a alguien que pudiera atender clientes en espanol.",
+        "Dime cuando tuvieras la version final.",
+        "Si estuvieramos mas cerca de la oficina, iriamos caminando al trabajo."
+      ]
+    }
+  }
+}

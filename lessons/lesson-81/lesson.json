@@ -1,0 +1,251 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "reported-speech",
+    "estilo-indirecto",
+    "tense-backshift",
+    "adult-learners"
+  ],
+  "difficulty": "B1",
+  "pattern_id": "REPORTED_SPEECH_TENSE_SHIFTS_81",
+  "source_files": [
+    "lessons/lesson-81/summary reported speech.pdf",
+    "lessons/lesson-81/Reported Speech Exercise.pdf"
+  ],
+  "target_pattern": "Convert direct speech to indirect with que (or si/cuándo for questions); backshift tenses after past reporting verbs: present→imperfect, future→conditional, present perfect→past perfect, imperative→imperfect subjunctive; adjust time words when needed.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Dropping que, keeping original tenses after said/told, and translating questions with English word order.",
+      "spanish_logic": "Indirect speech frames the original message inside a reporting verb. Past reporting usually backshifts tense, commands become imperfect subjunctive, and yes/no questions use si while wh-questions keep the question word.",
+      "target_pattern_formula": [
+        "statement: X dijo/dijo que + backshifted clause",
+        "present reporting: Maria dice que quiere... (no shift)",
+        "present → imperfect: Estoy cansado → dijo que estaba cansado",
+        "future → conditional: Terminare pronto → dijo que terminaria pronto",
+        "imperative → imperfect subjunctive: Escribe → me dijo que escribiera",
+        "wh-question: pregunto cuando... / yes-no: pregunto si..."
+      ],
+      "natural_examples": [
+        "Sofia dijo que estaba muy cansada hoy.",
+        "Carlos dijo que terminaria el informe pronto.",
+        "Marta dijo que habia hablado con su jefe.",
+        "Me dijo que escribiera mi nombre en la lista.",
+        "Miguel pregunto cuando empezaba la reunion."
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Convert each direct quote to natural indirect reported speech in Spanish.",
+      "prompts_en": [
+        "Sofia said: \"I am very tired today.\"",
+        "Carlos said: \"I will finish the report soon.\"",
+        "They said: \"We went to the concert last night.\"",
+        "Marta said: \"I have spoken with my boss.\"",
+        "Pablo said: \"When I was in college, I worked in a cafe.\"",
+        "Julia said: \"I had already sent the email before the meeting.\"",
+        "He told me: \"Write your name on the list.\"",
+        "The manager said: \"Do not use phones in the meeting.\"",
+        "Miguel asked: \"When does the movie start?\"",
+        "Carmen asked: \"Have you been to Madrid?\"",
+        "Ana said: \"I need the file today.\"",
+        "Luis said: \"I will call the client tomorrow.\"",
+        "They said: \"We submitted the proposal yesterday.\"",
+        "Elena said: \"I have reviewed the contract.\"",
+        "My colleague said: \"Send me the update before noon.\"",
+        "The director said: \"Do not share this externally.\"",
+        "Pedro asked: \"Where is the conference room?\"",
+        "Laura asked: \"Do you want to join the call?\"",
+        "The client said: \"The price is too high.\"",
+        "She said: \"I would accept the offer if the timeline changed.\""
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base reported sentence as directed.",
+      "drills": [
+        "Base: Sofia dijo que estaba muy cansada hoy. -> change reporting verb to present: Sofia says...",
+        "Base: Carlos dijo que terminaria el informe pronto. -> change to direct quote with future.",
+        "Base: Ellos dijeron que fueron al concierto anoche. -> shift time expression to la noche anterior.",
+        "Base: Marta dijo que habia hablado con su jefe. -> use preterite backshift option instead of past perfect.",
+        "Base: Pablo dijo que cuando estudiaba en la universidad, trabajaba en un cafe. -> change subject to ella.",
+        "Base: Me dijo que escribiera mi nombre en la lista. -> change to negative command original: Don't write...",
+        "Base: La jefa dijo que no usaran los telefonos en la reunion. -> change to singular usted form command.",
+        "Base: Miguel pregunto cuando empezaba la pelicula. -> change to direct WH question.",
+        "Base: Carmen pregunto si habia estado en Madrid. -> change to direct yes/no question.",
+        "Base: Ana dijo que necesitaba el archivo hoy. -> change reporting to present (no backshift).",
+        "Base: Luis dijo que llamaria al cliente manana. -> change time to al dia siguiente.",
+        "Base: Elena dijo que habia revisado el contrato. -> change to present perfect in direct form first, then back again.",
+        "Base: Mi colega me dijo que le enviara la actualizacion antes del mediodia. -> change to affirmative command.",
+        "Base: El cliente dijo que el precio era demasiado alto. -> make it still-true exception with present.",
+        "Base: Laura pregunto si queria unirme a la llamada. -> change person to nosotros."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the natural indirect speech version.",
+      "prompts": [
+        "She said she is tired (reported in past). (dijo que esta cansada vs dijo que estaba cansada)",
+        "He says he wants coffee (present reporting). (dice que queria cafe vs dice que quiere cafe)",
+        "She said: Close the door. (dijo que cierra la puerta vs dijo que cerrara la puerta)",
+        "He said he will finish tomorrow. (dijo que terminara manana vs dijo que terminaria manana)",
+        "They said they went yesterday. (dijeron que iban ayer vs dijeron que fueron ayer)",
+        "She said she has finished. (dijo que ha terminado vs dijo que habia terminado)",
+        "When does it start? (pregunto cuando empieza vs pregunto cuando empezaba)",
+        "Have you been to Madrid? (pregunto cuando has estado vs pregunto si habia estado)",
+        "María said she lives in Mexico (still true). (dijo que vivia en Mexico vs dijo que vive en Mexico)",
+        "He told me write your name. (me dijo que escribes vs me dijo que escribiera)"
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence in indirect reported speech for each meaning.",
+      "prompts": [
+        "Write that your coworker said she was very busy today.",
+        "Write that your manager said he would send the report soon.",
+        "Write that they said they attended the webinar last night.",
+        "Write that your client said she had already approved the budget.",
+        "Write that your teammate said that when he worked remotely, he missed the office.",
+        "Write that your director told you not to email the client yet.",
+        "Write that someone asked when the meeting starts.",
+        "Write that a colleague asked if you had been to the Barcelona office.",
+        "Write that your boss said she needs the slides today.",
+        "Write that he said he would call you tomorrow.",
+        "Write that they said they submitted the invoice yesterday.",
+        "Write that she told you to review the contract before signing.",
+        "Write that the client asked where the project folder is.",
+        "Write that your manager asked if you wanted to join the call.",
+        "Write that your colleague said the timeline is still too tight (still true now)."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish indirect speech; apply tense backshift and que/si as needed.",
+      "prompts_en": [
+        "She said she's stuck in traffic.",
+        "He said he'll send the link in five minutes.",
+        "They said they already fixed the bug.",
+        "My boss told me not to cancel the meeting.",
+        "She asked what time the flight lands.",
+        "He asked if I had received the payment.",
+        "The client said the proposal looks good.",
+        "She said she had finished before the deadline.",
+        "He told me to update the spreadsheet.",
+        "They asked whether we wanted to postpone the launch."
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "Sofia dijo estaba muy cansada",
+        "why_it_happens": "Required connector que is dropped like optional English that.",
+        "correct_spanish": "Sofia dijo que estaba muy cansada."
+      },
+      {
+        "mistake": "Carlos dijo que terminara el informe pronto",
+        "why_it_happens": "Future backshift uses subjunctive instead of conditional.",
+        "correct_spanish": "Carlos dijo que terminaria el informe pronto."
+      },
+      {
+        "mistake": "Marta dijo que ha hablado con su jefe",
+        "why_it_happens": "Present perfect is not shifted after past reporting verb.",
+        "correct_spanish": "Marta dijo que habia hablado con su jefe."
+      },
+      {
+        "mistake": "Me dijo que escribe mi nombre",
+        "why_it_happens": "Imperative in indirect speech keeps present indicative.",
+        "correct_spanish": "Me dijo que escribiera mi nombre."
+      },
+      {
+        "mistake": "Miguel pregunto ¿cuando empezaba la pelicula?",
+        "why_it_happens": "Question marks and direct question format remain in indirect speech.",
+        "correct_spanish": "Miguel pregunto cuando empezaba la pelicula."
+      },
+      {
+        "mistake": "Carmen pregunto cuando habia estado en Madrid",
+        "why_it_happens": "Yes/no reported question uses wh-word instead of si.",
+        "correct_spanish": "Carmen pregunto si habia estado en Madrid."
+      },
+      {
+        "mistake": "Ana dijo que necesitaba el archivo (with Ana says today intended)",
+        "why_it_happens": "Present reporting verb incorrectly triggers past backshift.",
+        "correct_spanish": "Ana dice que necesita el archivo hoy."
+      },
+      {
+        "mistake": "Luis dijo que llamara al cliente manana",
+        "why_it_happens": "Future statement backshifts to subjunctive instead of conditional.",
+        "correct_spanish": "Luis dijo que llamaria al cliente al dia siguiente."
+      },
+      {
+        "mistake": "La jefa dijo que no usen los telefonos",
+        "why_it_happens": "Negative command in indirect speech keeps present subjunctive.",
+        "correct_spanish": "La jefa dijo que no usaran los telefonos."
+      },
+      {
+        "mistake": "El cliente dijo que el precio es demasiado alto (general past report)",
+        "why_it_happens": "Backshift is skipped without a still-true exception context.",
+        "correct_spanish": "El cliente dijo que el precio era demasiado alto."
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "Sofia dijo que estaba muy cansada hoy.",
+        "Carlos dijo que terminaria el informe pronto.",
+        "Ellos dijeron que fueron al concierto anoche.",
+        "Marta dijo que habia hablado con su jefe.",
+        "Pablo dijo que cuando estudiaba en la universidad, trabajaba en un cafe.",
+        "Julia dijo que ya habia enviado el correo antes de la reunion.",
+        "Me dijo que escribiera mi nombre en la lista.",
+        "La gerente dijo que no usaran los telefonos en la reunion.",
+        "Miguel pregunto cuando empezaba la pelicula.",
+        "Carmen pregunto si habia estado en Madrid.",
+        "Ana dijo que necesitaba el archivo hoy.",
+        "Luis dijo que llamaria al cliente al dia siguiente.",
+        "Ellos dijeron que enviaron la propuesta ayer.",
+        "Elena dijo que habia revisado el contrato.",
+        "Mi colega me dijo que le enviara la actualizacion antes del mediodia.",
+        "La directora dijo que no compartieramos esto externamente.",
+        "Pedro pregunto donde estaba la sala de conferencias.",
+        "Laura pregunto si queria unirme a la llamada.",
+        "El cliente dijo que el precio era demasiado alto.",
+        "Ella dijo que aceptaria la oferta si cambiaba el cronograma."
+      ],
+      "pattern_mutation": [
+        "Sofia dice que esta muy cansada hoy.",
+        "Carlos dijo: \"Terminare el informe pronto.\"",
+        "Ellos dijeron que fueron al concierto la noche anterior.",
+        "Marta dijo que hablo con su jefe.",
+        "Maria dijo que cuando estudiaba en la universidad, trabajaba en un cafe.",
+        "Me dijo que no escribiera mi nombre en la lista.",
+        "La jefa dijo que no usara el telefono en la reunion.",
+        "Miguel pregunto: \"¿Cuando empieza la pelicula?\"",
+        "Carmen pregunto: \"¿Has estado en Madrid?\"",
+        "Ana dice que necesita el archivo hoy.",
+        "Luis dijo que llamaria al cliente al dia siguiente.",
+        "Elena dijo que habia revisado el contrato.",
+        "Mi colega me dijo que le enviara la actualizacion antes del mediodia.",
+        "El cliente dijo que el precio es demasiado alto.",
+        "Laura pregunto si queriamos unirnos a la llamada."
+      ],
+      "contrastive_discrimination": [
+        "Dijo que estaba cansada.",
+        "Dice que quiere cafe.",
+        "Dijo que cerrara la puerta.",
+        "Dijo que terminaria manana.",
+        "Dijeron que fueron ayer.",
+        "Dijo que habia terminado.",
+        "Pregunto cuando empezaba.",
+        "Pregunto si habia estado.",
+        "Dijo que vive en Mexico.",
+        "Me dijo que escribiera."
+      ],
+      "reverse_conceptual_expression": [
+        "Dijo que estaba atascada en el trafico.",
+        "Dijo que enviaria el enlace en cinco minutos.",
+        "Dijeron que ya habian arreglado el error.",
+        "Mi jefe me dijo que no cancelara la reunion.",
+        "Pregunto a que hora aterriza el vuelo.",
+        "Pregunto si habia recibido el pago.",
+        "El cliente dijo que la propuesta se ve bien.",
+        "Dijo que habia terminado antes de la fecha limite.",
+        "Me dijo que actualizara la hoja de calculo.",
+        "Preguntaron si queriamos posponer el lanzamiento."
+      ]
+    }
+  }
+}

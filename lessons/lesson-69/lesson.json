@@ -1,0 +1,251 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "present-subjunctive",
+    "subjunctive-triggers",
+    "querer-que-pattern",
+    "adult-learners"
+  ],
+  "difficulty": "B1",
+  "pattern_id": "PRESENT_SUBJUNCTIVE_CORE_TRIGGERS_69",
+  "source_files": [
+    "lessons/lesson-69/Deep 5 summary.pdf",
+    "lessons/lesson-69/Present Subjunctive Conjugations.pdf"
+  ],
+  "target_pattern": "Use present subjunctive after key triggers like querer que, cuando for pending future actions, and antes de que; simplify to antes de + infinitive when the subject does not change.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Trying to translate clause by clause with indicative forms and skipping the trigger logic.",
+      "spanish_logic": "Subjunctive is a pattern response: once the trigger appears, the next clause takes subjunctive if there is a subject change.",
+      "target_pattern_formula": [
+        "querer que + subjunctive",
+        "avisame cuando + subjunctive (future/pending event)",
+        "antes de que + subjunctive",
+        "same subject: antes de + infinitive",
+        "build subjunctive from yo form base"
+      ],
+      "natural_examples": [
+        "Quiero que llegues temprano manana.",
+        "Avisame cuando tengas la informacion.",
+        "Te llamo antes de que salgas.",
+        "Siempre cierro todo antes de acostarme.",
+        "Necesitamos que el equipo responda hoy."
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each sentence in Spanish using the correct present subjunctive trigger pattern.",
+      "prompts_en": [
+        "I want you to go to the office now.",
+        "I want Marta to call me tonight.",
+        "We want them to send the report today.",
+        "My manager wants me to finish before noon.",
+        "Let me know when you get home.",
+        "Let me know when you receive my message.",
+        "Call me when you want to leave.",
+        "I will text you when I have the final version.",
+        "I want to wash the car before my son arrives.",
+        "She always leaves before I wake up.",
+        "We should review this before they decide.",
+        "I need you to explain this part again.",
+        "They want us to join the meeting.",
+        "Do you want me to bring your jacket?",
+        "Tell me when you can talk.",
+        "I brush my teeth before going to bed.",
+        "He called me before leaving the office.",
+        "I prefer that you speak with Ana first.",
+        "It is important that we arrive on time.",
+        "I am glad you are here."
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as directed.",
+      "drills": [
+        "Base: Quiero que vayas a la tienda. -> change subject receiver to nosotros.",
+        "Base: Quiero que Juan llegue temprano. -> change person to Maria and verb to llamar.",
+        "Base: Avisame cuando llegues a casa. -> change verb to tener and object to la informacion.",
+        "Base: Te llamo antes de que salgas. -> change subject to ella.",
+        "Base: Mi jefe quiere que termine hoy. -> change to plural subject nosotros.",
+        "Base: Necesito que me ayudes. -> make it negative.",
+        "Base: Prefiero que hables con Ana. -> change to ustedes.",
+        "Base: Es importante que lleguemos a tiempo. -> change to singular yo.",
+        "Base: Me alegra que estes aqui. -> change to plural ustedes.",
+        "Base: Me lavo los dientes antes de acostarme. -> change action to salir.",
+        "Base: Maria me llamo antes de acostarse. -> change infinitive action to irse.",
+        "Base: Te aviso cuando reciba tu mensaje. -> change recipient to ustedes.",
+        "Base: Quieres que te traiga tu chaqueta? -> change object to un cafe.",
+        "Base: Siempre cierro la puerta antes de salir. -> change verb cerrar to apagar las luces.",
+        "Base: Espero que podamos hablar hoy. -> change verb poder to tener."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the option that sounds natural in Spanish.",
+      "prompts": [
+        "I want you to come. (Quiero que vienes. vs Quiero que vengas.)",
+        "Let me know when you arrive home. (Avisame cuando llegas a casa. vs Avisame cuando llegues a casa.)",
+        "I call you before you leave. (Te llamo antes de que sales. vs Te llamo antes de que salgas.)",
+        "I brush my teeth before going to bed. (Me cepillo los dientes antes de que me acuesto. vs Me cepillo los dientes antes de acostarme.)",
+        "My son leaves before I wake up. (Mi hijo sale antes de que me despierte. vs Mi hijo sale antes de despertarme.)",
+        "I need you to explain this. (Necesito que explicas esto. vs Necesito que expliques esto.)",
+        "It is important that we arrive early. (Es importante que llegamos temprano. vs Es importante que lleguemos temprano.)",
+        "I am happy you are here. (Me alegra que estas aqui. vs Me alegra que estes aqui.)",
+        "Do you want me to bring your jacket? (Quieres que te traigo tu chaqueta? vs Quieres que te traiga tu chaqueta?)",
+        "Tell me when you want to go. (Dime cuando quieres ir. vs Dime cuando quieras ir.)"
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific meaning.",
+      "prompts": [
+        "Write that you want your coworker to send the file before 5 p.m.",
+        "Write that your manager wants you to join a call tomorrow.",
+        "Write that you want your team to review the proposal today.",
+        "Write that someone should notify you when they receive the contract.",
+        "Write that you will call a client when you have an update.",
+        "Write that you always check your calendar before leaving home.",
+        "Write that your partner leaves before you wake up on weekdays.",
+        "Write that you need someone to help you with a presentation.",
+        "Write that you prefer your colleague to talk to finance first.",
+        "Write that it is important that your team arrives on time.",
+        "Write that you are happy your friend can come tonight.",
+        "Write that you brush your teeth before going to work.",
+        "Write that your teammate texted you before going to bed.",
+        "Write that you want someone to bring you a coffee.",
+        "Write that you will message your friend when you want to leave."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish with trigger-based subjunctive patterns.",
+      "prompts_en": [
+        "I want you to read this now.",
+        "We want Ana to explain the plan.",
+        "Let me know when you can meet.",
+        "Call me when you finish the report.",
+        "I will wait here before you come out.",
+        "I always stretch before running.",
+        "He wrote to me before going to sleep.",
+        "I need you to send that today.",
+        "I hope we have enough time.",
+        "I am glad you remembered."
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "Quiero que vas conmigo",
+        "why_it_happens": "Indicative is reused after a subjunctive trigger.",
+        "correct_spanish": "Quiero que vayas conmigo."
+      },
+      {
+        "mistake": "Avisame cuando llegas",
+        "why_it_happens": "Future-pending action is treated as present fact.",
+        "correct_spanish": "Avisame cuando llegues."
+      },
+      {
+        "mistake": "Antes de que salir",
+        "why_it_happens": "Que-clause is mixed with infinitive structure.",
+        "correct_spanish": "Antes de salir (same subject) / antes de que salgas (different subject)."
+      },
+      {
+        "mistake": "Te llamo antes de que sales",
+        "why_it_happens": "Subjunctive is not activated after antes de que.",
+        "correct_spanish": "Te llamo antes de que salgas."
+      },
+      {
+        "mistake": "Necesito que me ayudas",
+        "why_it_happens": "Present indicative ending is used by default.",
+        "correct_spanish": "Necesito que me ayudes."
+      },
+      {
+        "mistake": "Es importante que llegamos",
+        "why_it_happens": "Impersonal trigger is followed by indicative.",
+        "correct_spanish": "Es importante que lleguemos."
+      },
+      {
+        "mistake": "Me alegra que estas aqui",
+        "why_it_happens": "Emotion trigger does not trigger subjunctive in learner model.",
+        "correct_spanish": "Me alegra que estes aqui."
+      },
+      {
+        "mistake": "Quieres que te traigo tu chaqueta?",
+        "why_it_happens": "Querer que clause keeps indicative verb.",
+        "correct_spanish": "Quieres que te traiga tu chaqueta?"
+      },
+      {
+        "mistake": "Maria me llamo antes de que acostarse",
+        "why_it_happens": "Subject-change clause incorrectly uses infinitive.",
+        "correct_spanish": "Maria me llamo antes de que me acostara (past) / antes de acostarse (same subject)."
+      },
+      {
+        "mistake": "Dime cuando quieres ir (for unknown future timing)",
+        "why_it_happens": "Known habitual meaning and pending action meaning are mixed.",
+        "correct_spanish": "Dime cuando quieras ir."
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "Quiero que vayas a la oficina ahora.",
+        "Quiero que Marta me llame esta noche.",
+        "Queremos que envien el informe hoy.",
+        "Mi gerente quiere que termine antes del mediodia.",
+        "Avisame cuando llegues a casa.",
+        "Avisame cuando recibas mi mensaje.",
+        "Llamame cuando quieras salir.",
+        "Te escribo cuando tenga la version final.",
+        "Quiero lavar el carro antes de que mi hijo llegue.",
+        "Ella siempre sale antes de que me despierte.",
+        "Debemos revisar esto antes de que decidan.",
+        "Necesito que expliques esta parte otra vez.",
+        "Quieren que nos unamos a la reunion.",
+        "Quieres que te traiga tu chaqueta?",
+        "Dime cuando puedas hablar.",
+        "Me cepillo los dientes antes de acostarme.",
+        "Me llamo antes de salir de la oficina.",
+        "Prefiero que hables con Ana primero.",
+        "Es importante que lleguemos a tiempo.",
+        "Me alegra que estes aqui."
+      ],
+      "pattern_mutation": [
+        "Quiero que vayamos a la tienda.",
+        "Quiero que Maria llame temprano.",
+        "Avisame cuando tengas la informacion.",
+        "Te llama antes de que salgas.",
+        "Nuestros jefes quieren que terminemos hoy.",
+        "No necesito que me ayudes.",
+        "Prefiero que hablen con Ana.",
+        "Es importante que llegue a tiempo.",
+        "Me alegra que esten aqui.",
+        "Me lavo los dientes antes de salir.",
+        "Maria me llamo antes de irse.",
+        "Les aviso cuando reciba su mensaje.",
+        "Quieres que te traiga un cafe?",
+        "Siempre apago las luces antes de salir.",
+        "Espero que tengamos tiempo hoy."
+      ],
+      "contrastive_discrimination": [
+        "Quiero que vengas.",
+        "Avisame cuando llegues a casa.",
+        "Te llamo antes de que salgas.",
+        "Me cepillo los dientes antes de acostarme.",
+        "Mi hijo sale antes de que me despierte.",
+        "Necesito que expliques esto.",
+        "Es importante que lleguemos temprano.",
+        "Me alegra que estes aqui.",
+        "Quieres que te traiga tu chaqueta?",
+        "Dime cuando quieras ir."
+      ],
+      "reverse_conceptual_expression": [
+        "Quiero que leas esto ahora.",
+        "Queremos que Ana explique el plan.",
+        "Avisame cuando puedas reunirte.",
+        "Llamame cuando termines el informe.",
+        "Esperare aqui antes de que salgas.",
+        "Siempre estiro antes de correr.",
+        "Me escribio antes de dormirse.",
+        "Necesito que envies eso hoy.",
+        "Espero que tengamos suficiente tiempo.",
+        "Me alegra que lo hayas recordado."
+      ]
+    }
+  }
+}
+

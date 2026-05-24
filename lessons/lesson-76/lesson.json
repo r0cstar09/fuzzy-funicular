@@ -1,0 +1,249 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "present-subjunctive",
+    "querer-que",
+    "influence-triggers",
+    "adult-learners"
+  ],
+  "difficulty": "B1",
+  "pattern_id": "QUERER_QUE_SUBJUNCTIVE_INFLUENCE_76",
+  "source_files": [
+    "lessons/lesson-76/Subjunctive Drill - ¿Qué quieres que haga_.pdf"
+  ],
+  "target_pattern": "Use querer que + present subjunctive when one person wants another person to do something; keep subjects different and conjugate the subordinate verb in subjunctive.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Using indicative or infinitive after want when another person performs the action.",
+      "spanish_logic": "Querer becomes an influence trigger when subjects differ: main clause states the desire, subordinate clause uses subjunctive for the other person's action.",
+      "target_pattern_formula": [
+        "open question: ¿Que quieres que haga?",
+        "yes/no request frame: ¿Quieres que + subjunctive?",
+        "different subjects required: Quiero que tu llames / ¿Quieres que yo llame?",
+        "same subject -> infinitive: Quiero llamar (not quiero que llame for self)",
+        "object pronouns stay with subjunctive verb: ¿Quieres que te envie el archivo?"
+      ],
+      "natural_examples": [
+        "¿Que quieres que haga?",
+        "¿Quieres que llegue temprano a la reunion?",
+        "¿Quieres que organice los archivos?",
+        "¿Quieres que te envie el informe?",
+        "¿Quieres que llamemos al cliente?"
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each sentence in Spanish using querer que + present subjunctive.",
+      "prompts_en": [
+        "What do you want me to do?",
+        "Do you want me to arrive early?",
+        "Do you want us to arrive early?",
+        "Do you want me to organize the meeting?",
+        "Do you want me to write the report?",
+        "Do you want me to review the contract?",
+        "Do you want me to call the client?",
+        "Do you want me to send the invoice today?",
+        "Do you want me to stay in the office?",
+        "Do you want me to open the presentation?",
+        "Do you want me to close the deal today?",
+        "Do you want me to pay the bill?",
+        "Do you want me to ask for more time?",
+        "Do you want me to organize the files?",
+        "Do you want me to bring you the updated version?",
+        "Do you want me to buy lunch for the team?",
+        "Do you want me to leave you alone for an hour?",
+        "What do you want me to say in the email?",
+        "What do you want me to tell the client?",
+        "Do you want us to wait for you?"
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as directed.",
+      "drills": [
+        "Base: ¿Que quieres que haga? -> change to: Do you want me to call?",
+        "Base: ¿Quieres que llegue temprano? -> change to nosotros.",
+        "Base: ¿Quieres que organice la reunion? -> change object to los archivos.",
+        "Base: ¿Quieres que escriba el informe? -> change to negative question.",
+        "Base: ¿Quieres que revise el contrato? -> change person to tu (Do you want you to... reframe as: Do you want Maria to review?).",
+        "Base: ¿Quieres que llame al cliente? -> change to past: Did you want me to call?",
+        "Base: ¿Quieres que envie la factura hoy? -> add indirect object: send it to you.",
+        "Base: ¿Quieres que me quede en la oficina? -> change to ustedes request about them staying.",
+        "Base: ¿Quieres que pague la cuenta? -> change to we pay.",
+        "Base: ¿Quieres que pida mas tiempo? -> change to statement: You want me to ask for more time.",
+        "Base: ¿Quieres que te traiga la version actualizada? -> change to plural you.",
+        "Base: ¿Quieres que te deje en paz una hora? -> shorten to leave you alone.",
+        "Base: ¿Que quieres que diga en el correo? -> change to what should I tell the client.",
+        "Base: ¿Quieres que te esperemos? -> change subject to yo waiting alone.",
+        "Base: ¿Quieres que cierre el trato hoy? -> change to open the presentation."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the natural Spanish sentence for different-subject desire.",
+      "prompts": [
+        "Do you want me to arrive early? (¿Quieres que llego temprano? vs ¿Quieres que llegue temprano?)",
+        "I want to call the client (myself). (Quiero que llame al cliente. vs Quiero llamar al cliente.)",
+        "Do you want us to wait? (¿Quieres que esperamos? vs ¿Quieres que esperemos?)",
+        "What do you want me to do? (¿Que quieres que hago? vs ¿Que quieres que haga?)",
+        "Do you want me to send the file? (¿Quieres que te envio el archivo? vs ¿Quieres que te envie el archivo?)",
+        "She wants me to review it. (Quiere que reviso esto. vs Quiere que revise esto.)",
+        "Do you want me to organize the meeting? (¿Quieres que organizo la reunion? vs ¿Quieres que organice la reunion?)",
+        "They want us to arrive early. (Quieren que llegamos temprano. vs Quieren que lleguemos temprano.)",
+        "Do you want me to tell you the truth? (¿Quieres que te digo la verdad? vs ¿Quieres que te diga la verdad?)",
+        "I want you to call. (Quiero que llamas. vs Quiero que llames.)"
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific meaning.",
+      "prompts": [
+        "Write a question asking what your manager wants you to do today.",
+        "Write that your colleague wants you to arrive early tomorrow.",
+        "Write a question asking if your boss wants you to send the report tonight.",
+        "Write that your client wants you to call before noon.",
+        "Write a question asking if they want you to review the contract again.",
+        "Write that your teammate wants you to organize the shared files.",
+        "Write a question asking if your manager wants you to stay for the call.",
+        "Write that they want you to bring the updated slides to the meeting.",
+        "Write a question asking what you should tell the client in the email.",
+        "Write that your director wants the team to wait for the final numbers.",
+        "Write a question asking if someone wants you to pay the invoice today.",
+        "Write that your partner wants you to leave them alone while they work.",
+        "Write a question asking if they want you to ask for an extension.",
+        "Write that your manager wants you to open the presentation, not close the deal yet.",
+        "Write a question asking if they want you to give them a hand with the budget."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish using querer que + subjunctive when subjects differ.",
+      "prompts_en": [
+        "Tell me what you want me to do next.",
+        "She wants me to rewrite the introduction.",
+        "Do you want me to handle the client call?",
+        "They want us to submit the form today.",
+        "What do you want me to say if they ask about the delay?",
+        "He wants me to send him the draft tonight.",
+        "Do you want me to wait here or join the meeting?",
+        "My boss wants me to ask for more time.",
+        "Do you want me to tell them the truth?",
+        "We want you to review this before we send it."
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "¿Quieres que llego temprano?",
+        "why_it_happens": "Indicative is used in the subordinate clause after querer que.",
+        "correct_spanish": "¿Quieres que llegue temprano?"
+      },
+      {
+        "mistake": "Quiero que llame al cliente.",
+        "why_it_happens": "Same-subject desire incorrectly uses querer que instead of infinitive.",
+        "correct_spanish": "Quiero llamar al cliente."
+      },
+      {
+        "mistake": "¿Quieres que esperamos?",
+        "why_it_happens": "Subjunctive ending is not applied to nosotros.",
+        "correct_spanish": "¿Quieres que esperemos?"
+      },
+      {
+        "mistake": "¿Que quieres que hago?",
+        "why_it_happens": "Subordinate yo-form keeps indicative present.",
+        "correct_spanish": "¿Que quieres que haga?"
+      },
+      {
+        "mistake": "¿Quieres que te envio el archivo?",
+        "why_it_happens": "Indicative envio is used after que with different subject frame.",
+        "correct_spanish": "¿Quieres que te envie el archivo?"
+      },
+      {
+        "mistake": "Quiere que reviso esto.",
+        "why_it_happens": "Third-person influence clause stays indicative.",
+        "correct_spanish": "Quiere que revise esto."
+      },
+      {
+        "mistake": "¿Quieres que organizo la reunion?",
+        "why_it_happens": "Regular -ar verb keeps o ending instead of subjunctive e.",
+        "correct_spanish": "¿Quieres que organice la reunion."
+      },
+      {
+        "mistake": "Quieren que llegamos temprano.",
+        "why_it_happens": "Nosotros form does not shift to subjunctive.",
+        "correct_spanish": "Quieren que lleguemos temprano."
+      },
+      {
+        "mistake": "Quiero que llamas.",
+        "why_it_happens": "Tu-form indicative replaces subjunctive after querer que.",
+        "correct_spanish": "Quiero que llames."
+      },
+      {
+        "mistake": "¿Quieres que me quedo en la oficina?",
+        "why_it_happens": "Reflexive/state verb keeps indicative in subordinate clause.",
+        "correct_spanish": "¿Quieres que me quede en la oficina?"
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "¿Que quieres que haga?",
+        "¿Quieres que llegue temprano?",
+        "¿Quieres que lleguemos temprano?",
+        "¿Quieres que organice la reunion?",
+        "¿Quieres que escriba el informe?",
+        "¿Quieres que revise el contrato?",
+        "¿Quieres que llame al cliente?",
+        "¿Quieres que envie la factura hoy?",
+        "¿Quieres que me quede en la oficina?",
+        "¿Quieres que abra la presentacion?",
+        "¿Quieres que cierre el trato hoy?",
+        "¿Quieres que pague la cuenta?",
+        "¿Quieres que pida mas tiempo?",
+        "¿Quieres que organice los archivos?",
+        "¿Quieres que te traiga la version actualizada?",
+        "¿Quieres que compre el almuerzo para el equipo?",
+        "¿Quieres que te deje en paz una hora?",
+        "¿Que quieres que diga en el correo?",
+        "¿Que quieres que le diga al cliente?",
+        "¿Quieres que te esperemos?"
+      ],
+      "pattern_mutation": [
+        "¿Quieres que llame?",
+        "¿Quieres que lleguemos temprano?",
+        "¿Quieres que organice los archivos?",
+        "¿No quieres que escriba el informe?",
+        "¿Quieres que Maria revise el contrato?",
+        "¿Querias que llamara al cliente?",
+        "¿Quieres que te envie la factura hoy?",
+        "¿Quieres que se queden en la oficina?",
+        "¿Quieres que paguemos la cuenta?",
+        "Quieres que pida mas tiempo.",
+        "¿Quieres que les traiga la version actualizada?",
+        "¿Quieres que te deje en paz?",
+        "¿Que quieres que le diga al cliente?",
+        "¿Quieres que te espere?",
+        "¿Quieres que abra la presentacion?"
+      ],
+      "contrastive_discrimination": [
+        "¿Quieres que llegue temprano?",
+        "Quiero llamar al cliente.",
+        "¿Quieres que esperemos?",
+        "¿Que quieres que haga?",
+        "¿Quieres que te envie el archivo?",
+        "Quiere que revise esto.",
+        "¿Quieres que organice la reunion?",
+        "Quieren que lleguemos temprano.",
+        "¿Quieres que te diga la verdad?",
+        "Quiero que llames."
+      ],
+      "reverse_conceptual_expression": [
+        "Dime que quieres que haga despues.",
+        "Quiere que reescriba la introduccion.",
+        "¿Quieres que me encargue de la llamada con el cliente?",
+        "Quieren que entreguemos el formulario hoy.",
+        "¿Que quieres que diga si preguntan por el retraso?",
+        "Quiere que le envie el borrador esta noche.",
+        "¿Quieres que espere aqui o que entre a la reunion?",
+        "Mi jefe quiere que pida mas tiempo.",
+        "¿Quieres que les diga la verdad?",
+        "Queremos que revises esto antes de enviarlo."
+      ]
+    }
+  }
+}

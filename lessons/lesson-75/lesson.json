@@ -1,0 +1,250 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "relative-pronouns",
+    "preposition-clauses",
+    "lo-que",
+    "adult-learners"
+  ],
+  "difficulty": "B1",
+  "pattern_id": "RELATIVE_PRONOUN_SELECTION_75",
+  "source_files": [
+    "lessons/lesson-75/relative pronouns.pdf"
+  ],
+  "target_pattern": "Use que in restrictive clauses (never omit it); place prepositions before el/la que or quien; use lo que for ideas/clauses; choose quien/quienes for people in non-restrictive or after-preposition contexts.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Dropping the relative pronoun and leaving prepositions at the end of the clause.",
+      "spanish_logic": "Spanish keeps an explicit connector (que, quien, el/la que, lo que) and puts the preposition before it. The connector type depends on whether the clause is restrictive, refers to people, or refers to an idea.",
+      "target_pattern_formula": [
+        "restrictive default: noun + que + clause (El cliente que llamo ayer...)",
+        "never omit: El informe que revise (not El informe revise)",
+        "prep + relative: de la que / con el que / sobre la que",
+        "people after prep: a quien / con quienes",
+        "ideas/clauses: lo que + verb (Lo que necesito es tiempo.)",
+        "restrictive people: la persona que trabaja (not quien)"
+      ],
+      "natural_examples": [
+        "El contrato que firmamos ayer ya esta activo.",
+        "La persona de la que hable esta en la sala.",
+        "Trabajo con un colega con quien comparto muchos proyectos.",
+        "Lo que necesito es una respuesta clara.",
+        "La candidata que recomendaste tiene mucha experiencia."
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each sentence in Spanish using the correct relative pronoun pattern.",
+      "prompts_en": [
+        "The report I reviewed yesterday is ready.",
+        "The client who called this morning wants a discount.",
+        "The apartment they bought is downtown.",
+        "The book I read on the flight was useful.",
+        "The person I talked about is here.",
+        "The woman I went to the meeting with is my manager.",
+        "The man you wrote about just arrived.",
+        "The colleague I depend on is on vacation.",
+        "The neighbors with whom we always have dinner moved away.",
+        "The woman I saw yesterday works here.",
+        "The employee who handles invoices is out today.",
+        "What I need is more time.",
+        "I want to talk about what happened yesterday.",
+        "What I like most is working with a good team.",
+        "The software that crashed caused delays.",
+        "The manager who approved the budget is traveling.",
+        "The topic we complained about was resolved.",
+        "The person I fell in love with lives in another city.",
+        "The candidates who studied more passed the exam.",
+        "She arrived late, which surprised everyone (use lo cual)."
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as directed.",
+      "drills": [
+        "Base: El informe que revise ayer esta listo. -> change to plural reports.",
+        "Base: La clienta que llamo esta manana quiere descuento. -> change to past tense (called).",
+        "Base: La persona de la que hable esta aqui. -> change preposition to sobre (about).",
+        "Base: La mujer con la que fui a la reunion es mi jefa. -> change to man.",
+        "Base: Lo que necesito es mas tiempo. -> change object to una respuesta clara.",
+        "Base: Quiero hablar de lo que paso ayer. -> change time to la semana pasada.",
+        "Base: El empleado que maneja facturas no esta. -> change to question: Who handles invoices?",
+        "Base: Trabajo con un colega con quien comparto proyectos. -> change to plural colleagues.",
+        "Base: La candidata que recomendaste tiene experiencia. -> make negative.",
+        "Base: El software que fallo causo retrasos. -> change to future: will cause delays.",
+        "Base: Los vecinos con quienes cenamos se mudaron. -> change to singular neighbor.",
+        "Base: La mujer a quien vi ayer trabaja aqui. -> change workplace to en la oficina de al lado.",
+        "Base: Lo que mas me gusta es trabajar en equipo. -> change to what bothers me most.",
+        "Base: El tema del que nos quejamos se resolvio. -> change verb to hablar de.",
+        "Base: Llego tarde, lo cual sorprendio a todos. -> change subject to ellos."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the natural Spanish sentence.",
+      "prompts": [
+        "The book I read. (El libro lei vs El libro que lei)",
+        "The woman who works here. (La mujer quien trabaja aqui vs La mujer que trabaja aqui)",
+        "The person I talked about. (La persona que hable de vs La persona de la que hable)",
+        "The colleague I work with. (El colega que trabajo con vs El colega con el que trabajo)",
+        "What I want is clarity. (Que quiero es claridad vs Lo que quiero es claridad)",
+        "The idea that you mentioned. (La idea que mencionaste vs Lo que mencionaste)",
+        "The client who called. (El cliente quien llamo vs El cliente que llamo)",
+        "The woman I saw yesterday. (La mujer que vi ayer vs La mujer a quien vi ayer)",
+        "The files I depend on. (Los archivos que dependo vs Los archivos de los que dependo)",
+        "What happened yesterday. (Que paso ayer vs Lo que paso ayer)"
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific meaning.",
+      "prompts": [
+        "Write about the email you sent this morning that the client still has not answered.",
+        "Write about the coworker you always have lunch with.",
+        "Write about the manager who approved your request.",
+        "Write about what you need right now to finish the project.",
+        "Write that you want to discuss what happened in yesterday's meeting.",
+        "Write about the apartment you looked at that is too expensive.",
+        "Write about the person you spoke with about the contract.",
+        "Write about the software that stopped working during the presentation.",
+        "Write about the topic you complained about in the review.",
+        "Write about what you like most about your current job.",
+        "Write about the candidate you recommended for the role.",
+        "Write about the report you reviewed that had several errors.",
+        "Write about the colleague with whom you share an office.",
+        "Write about the decision that surprised the whole team (use lo cual).",
+        "Write about the trainer who led the workshop you attended."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish with correct relative pronoun and preposition placement.",
+      "prompts_en": [
+        "The person I was telling you about works in finance.",
+        "The manager I went with to the conference is on leave.",
+        "What matters most is clear communication.",
+        "Let's review what we agreed on yesterday.",
+        "The tool I rely on for scheduling is down.",
+        "The employee who processes payroll called in sick.",
+        "The issue we were complaining about got fixed.",
+        "The partner I fell in love with moved abroad.",
+        "The files I need for the audit are missing.",
+        "He missed the deadline, which affected the whole timeline."
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "El informe revise ayer",
+        "why_it_happens": "English allows dropping the relative pronoun; Spanish requires que.",
+        "correct_spanish": "El informe que revise ayer."
+      },
+      {
+        "mistake": "La mujer quien trabaja aqui",
+        "why_it_happens": "Quien is used in restrictive clauses where que is required.",
+        "correct_spanish": "La mujer que trabaja aqui."
+      },
+      {
+        "mistake": "La persona que hable de",
+        "why_it_happens": "Preposition is left dangling at the end like English.",
+        "correct_spanish": "La persona de la que hable."
+      },
+      {
+        "mistake": "El colega que trabajo con",
+        "why_it_happens": "Preposition placement follows English word order.",
+        "correct_spanish": "El colega con el que trabajo."
+      },
+      {
+        "mistake": "Que necesito es tiempo",
+        "why_it_happens": "Lo que is omitted for abstract/clause reference.",
+        "correct_spanish": "Lo que necesito es tiempo."
+      },
+      {
+        "mistake": "Quiero hablar de que paso ayer",
+        "why_it_happens": "Que is used instead of lo que for an entire idea/clause.",
+        "correct_spanish": "Quiero hablar de lo que paso ayer."
+      },
+      {
+        "mistake": "Los archivos que dependo",
+        "why_it_happens": "Verb-preposition link (depender de) is not carried into the relative clause.",
+        "correct_spanish": "Los archivos de los que dependo."
+      },
+      {
+        "mistake": "El tema que nos quejamos",
+        "why_it_happens": "Quejarse de requires de before the relative pronoun.",
+        "correct_spanish": "El tema del que nos quejamos."
+      },
+      {
+        "mistake": "La persona que me enamore",
+        "why_it_happens": "Enamorarse de needs de + relative form.",
+        "correct_spanish": "La persona de la que me enamore."
+      },
+      {
+        "mistake": "Lo que cliente que llamo",
+        "why_it_happens": "Lo que and que patterns are mixed for specific noun reference.",
+        "correct_spanish": "El cliente que llamo."
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "El informe que revise ayer esta listo.",
+        "El cliente que llamo esta manana quiere un descuento.",
+        "El departamento que compraron esta en el centro.",
+        "El libro que lei en el vuelo fue util.",
+        "La persona de la que hable esta aqui.",
+        "La mujer con la que fui a la reunion es mi jefa.",
+        "El hombre sobre el que escribiste acaba de llegar.",
+        "El colega del que dependo esta de vacaciones.",
+        "Los vecinos con quienes siempre cenamos se mudaron.",
+        "La mujer a quien vi ayer trabaja aqui.",
+        "El empleado que maneja facturas no esta hoy.",
+        "Lo que necesito es mas tiempo.",
+        "Quiero hablar de lo que paso ayer.",
+        "Lo que mas me gusta es trabajar con un buen equipo.",
+        "El software que se cayo causo retrasos.",
+        "El gerente que aprobo el presupuesto esta de viaje.",
+        "El tema del que nos quejamos se resolvio.",
+        "La persona de la que me enamore vive en otra ciudad.",
+        "Los candidatos que estudiaron mas pasaron el examen.",
+        "Llego tarde, lo cual sorprendio a todos."
+      ],
+      "pattern_mutation": [
+        "Los informes que revise ayer estan listos.",
+        "La clienta que llamo ayer quiere descuento.",
+        "La persona sobre la que hable esta aqui.",
+        "El hombre con el que fui a la reunion es mi jefe.",
+        "Lo que necesito es una respuesta clara.",
+        "Quiero hablar de lo que paso la semana pasada.",
+        "Quien maneja las facturas?",
+        "Trabajo con colegas con quienes comparto proyectos.",
+        "La candidata que recomendaste no tiene experiencia.",
+        "El software que falle causara retrasos.",
+        "El vecino con quien cenamos se mudo.",
+        "La mujer a quien vi ayer trabaja en la oficina de al lado.",
+        "Lo que mas me molesta es la falta de comunicacion.",
+        "El tema del que hablamos se resolvio.",
+        "Llegaron tarde, lo cual sorprendio a todos."
+      ],
+      "contrastive_discrimination": [
+        "El libro que lei.",
+        "La mujer que trabaja aqui.",
+        "La persona de la que hable.",
+        "El colega con el que trabajo.",
+        "Lo que quiero es claridad.",
+        "La idea que mencionaste.",
+        "El cliente que llamo.",
+        "La mujer a quien vi ayer.",
+        "Los archivos de los que dependo.",
+        "Lo que paso ayer."
+      ],
+      "reverse_conceptual_expression": [
+        "La persona de la que te hablaba trabaja en finanzas.",
+        "El gerente con el que fui a la conferencia esta de licencia.",
+        "Lo que mas importa es la comunicacion clara.",
+        "Repasemos lo que acordamos ayer.",
+        "La herramienta de la que dependo para organizar horarios no funciona.",
+        "El empleado que procesa nominas llamo enfermo.",
+        "El problema del que nos quejamos se arreglo.",
+        "La persona de la que me enamore se mudo al extranjero.",
+        "Los archivos que necesito para la auditoria no estan.",
+        "Perdio la fecha limite, lo cual afecto todo el cronograma."
+      ]
+    }
+  }
+}

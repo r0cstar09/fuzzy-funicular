@@ -1,0 +1,252 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "subjunctive-vs-indicative",
+    "clause-type-decisions",
+    "weirdo-triggers",
+    "adult-learners"
+  ],
+  "difficulty": "B1",
+  "pattern_id": "SUBJUNCTIVE_CLAUSE_TYPE_DECISIONS_80",
+  "source_files": [
+    "lessons/lesson-80/subjunctive worksheet-2.pdf",
+    "lessons/lesson-80/Subjunctive Drill Lydia.pdf"
+  ],
+  "target_pattern": "Identify the dependent clause type first (adverb, adjective, noun), then choose mood: time clauses use subjunctive for pending/future and indicative for habitual facts; adjective clauses use subjunctive for non-specific referents; noun clauses use subjunctive after doubt/emotion/influence and indicative after certainty.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Choosing subjunctive or indicative word-by-word without identifying what kind of dependent clause you are in.",
+      "spanish_logic": "Spanish mood follows clause function: adverb clauses depend on timing (habitual vs pending), adjective clauses depend on reference type (known vs unknown), noun clauses depend on the main verb frame (WEIRDO/doubt vs certainty).",
+      "target_pattern_formula": [
+        "adverb time + habitual/past: cuando/tan pronto como + indicative",
+        "adverb time + pending/future: cuando/hasta que/en cuanto + subjunctive",
+        "adverb always subjunctive: a menos que / antes de que / en caso de que",
+        "adjective + unknown referent: busco/necesito + noun + que + subjunctive",
+        "adjective + known referent: conozco + noun + que + indicative",
+        "noun + doubt/emotion: no creo/me molesta + que + subjunctive",
+        "noun + certainty: creo/es cierto/no dudo + que + indicative"
+      ],
+      "natural_examples": [
+        "Siempre reviso el informe cuando llega el cliente.",
+        "Te llamo en cuanto pueda.",
+        "Busco un hotel que tenga buen wifi.",
+        "No creo que el precio sea justo.",
+        "Es cierto que el equipo trabaja mucho."
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each sentence in Spanish with the correct mood in the dependent clause.",
+      "prompts_en": [
+        "I always call my manager when he arrives.",
+        "I am going to wait for you until you finish the task.",
+        "I do not think she is right.",
+        "It is true that we live in a very big city.",
+        "My colleagues call me when they need help.",
+        "As soon as the plane lands, we will go to the hotel.",
+        "Unless you tell me, I will not know what to do.",
+        "I think this restaurant is the best in the city.",
+        "I am looking for a hotel that has an ocean view.",
+        "I know a person who speaks three languages.",
+        "I do not doubt that they work hard.",
+        "When my coworker feels sick, he goes to the doctor.",
+        "We will have lunch after you arrive.",
+        "It bothers me that you do not pay attention in meetings.",
+        "I will call you as soon as I can.",
+        "I am worried that my son is sick.",
+        "There is no doubt that she knows how to cook well.",
+        "When I have time, I will visit my grandparents.",
+        "I do not think this is a good idea.",
+        "We need a trainer who speaks English and Spanish."
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as directed; keep mood logic consistent.",
+      "drills": [
+        "Base: Siempre llamo a mi jefe cuando llega. -> change to future: I will call when he arrives.",
+        "Base: Voy a esperarte hasta que termines. -> change to habitual past: I always waited until you finished.",
+        "Base: No creo que ella tenga razon. -> change to certainty: I think she is right.",
+        "Base: Busco un hotel que tenga vista al mar. -> change to known hotel: I know a hotel that has a view.",
+        "Base: Me molesta que no pongas atencion. -> change emotion to me preocupa and subject to el cliente.",
+        "Base: Te llamo en cuanto pueda. -> change to nosotros.",
+        "Base: A menos que me avises, no sabre que hacer. -> change connector to en caso de que.",
+        "Base: Necesitamos un entrenador que hable ingles y espanol. -> change to question: Do you know anyone who...?",
+        "Base: Cuando tenga tiempo, visitare a mis abuelos. -> change to habitual: When I have time, I visit.",
+        "Base: Es cierto que vivimos en una ciudad grande. -> change to no creo que.",
+        "Base: Prefiero salir antes de que empiece a llover. -> same subject: before raining.",
+        "Base: No dudo que ellos trabajan mucho. -> change to no creo que.",
+        "Base: Tan pronto como empiece la reunion, tomaremos notas. -> change to past habitual.",
+        "Base: Hasta que me digas la verdad, no voy a ayudarte. -> change to indicative habitual frame.",
+        "Base: Me sorprende que quieran mudarse tan pronto. -> change to statement of fact with no doubt."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the sentence with the correct mood for the intended meaning.",
+      "prompts": [
+        "When he arrives (habitual). (cuando llega vs cuando llegue)",
+        "When he arrives (future pending). (cuando llega vs cuando llegue)",
+        "I do not think she is right. (No creo que tiene razon. vs No creo que tenga razon.)",
+        "I think she is right. (Creo que tenga razon. vs Creo que tiene razon.)",
+        "Looking for a designer who speaks English. (Busco un disenador que habla ingles. vs Busco un disenador que hable ingles.)",
+        "I know a designer who speaks English. (Conozco un disenador que hable ingles. vs Conozco un disenador que habla ingles.)",
+        "Unless you tell me. (A menos que me dices vs A menos que me digas)",
+        "It bothers me that you do not listen. (Me molesta que no escuchas. vs Me molesta que no escuches.)",
+        "There is no doubt they work hard. (No hay duda de que trabajen mucho. vs No hay duda de que trabajan mucho.)",
+        "As soon as the meeting starts (future). (Tan pronto como empieza vs Tan pronto como empiece)"
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific meaning with the correct mood.",
+      "prompts": [
+        "Write that you always reply when your client emails (habitual time clause).",
+        "Write that you will send the file as soon as you have the final numbers.",
+        "Write that you do not think the deadline is realistic.",
+        "Write that it is true that your team works remotely.",
+        "Write that you are looking for an apartment that allows pets.",
+        "Write that you know a lawyer who handles contracts.",
+        "Write that unless they confirm today, you will not book the room.",
+        "Write that it worries you that the shipment is delayed.",
+        "Write that there is no doubt your colleague knows the process well.",
+        "Write that when you have a free afternoon, you will call your parents.",
+        "Write that you prefer to leave before the meeting starts.",
+        "Write that it surprises you that they want to change vendors so soon.",
+        "Write that you need a developer who knows Python.",
+        "Write that you do not think this vendor is the best option.",
+        "Write that you will take notes as soon as the call begins."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish; choose mood by clause type, not English defaults.",
+      "prompts_en": [
+        "I always check Slack when my boss messages me.",
+        "I'll wait until you review the draft.",
+        "I doubt the client will accept that price.",
+        "It's true we operate in three countries.",
+        "I'm trying to find someone who can translate this today.",
+        "I know someone who can translate this.",
+        "In case you need help, call me.",
+        "It bothers me when people arrive late.",
+        "I don't think this timeline works.",
+        "When she finishes the course, she will apply for the role."
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "Siempre salgo cuando llegue",
+        "why_it_happens": "Habitual adverb clause is treated as pending future.",
+        "correct_spanish": "Siempre salgo cuando llega."
+      },
+      {
+        "mistake": "Te llamo en cuanto puedo",
+        "why_it_happens": "Future-dependent time clause keeps indicative.",
+        "correct_spanish": "Te llamo en cuanto pueda."
+      },
+      {
+        "mistake": "No creo que ella tiene razon",
+        "why_it_happens": "Doubt noun clause keeps indicative.",
+        "correct_spanish": "No creo que ella tenga razon."
+      },
+      {
+        "mistake": "Es cierto que vivamos aqui",
+        "why_it_happens": "Certainty noun clause incorrectly uses subjunctive.",
+        "correct_spanish": "Es cierto que vivimos aqui."
+      },
+      {
+        "mistake": "Busco un hotel que tiene piscina",
+        "why_it_happens": "Non-specific adjective clause uses indicative.",
+        "correct_spanish": "Busco un hotel que tenga piscina."
+      },
+      {
+        "mistake": "Conozco a alguien que hable tres idiomas",
+        "why_it_happens": "Known specific referent is pushed to subjunctive.",
+        "correct_spanish": "Conozco a alguien que habla tres idiomas."
+      },
+      {
+        "mistake": "A menos que me dices, no sabre",
+        "why_it_happens": "Always-subjunctive adverb connector is ignored.",
+        "correct_spanish": "A menos que me digas, no sabre."
+      },
+      {
+        "mistake": "Me molesta que no pones atencion",
+        "why_it_happens": "Emotion noun clause keeps indicative.",
+        "correct_spanish": "Me molesta que no pongas atencion."
+      },
+      {
+        "mistake": "No hay duda de que ella trabaje mucho",
+        "why_it_happens": "Certainty frame is confused with doubt.",
+        "correct_spanish": "No hay duda de que ella trabaja mucho."
+      },
+      {
+        "mistake": "Voy a esperar hasta que terminas",
+        "why_it_happens": "Pending hasta que clause does not shift to subjunctive.",
+        "correct_spanish": "Voy a esperar hasta que termines."
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "Siempre llamo a mi jefe cuando llega.",
+        "Voy a esperarte hasta que termines la tarea.",
+        "No creo que ella tenga razon.",
+        "Es cierto que vivimos en una ciudad muy grande.",
+        "Mis colegas me llaman cuando necesitan ayuda.",
+        "Tan pronto como el avion aterrice, iremos al hotel.",
+        "A menos que me avises, no sabre que hacer.",
+        "Creo que este restaurante es el mejor de la ciudad.",
+        "Busco un hotel que tenga vista al mar.",
+        "Conozco a una persona que habla tres idiomas.",
+        "No dudo que ellos trabajan mucho.",
+        "Cuando mi companero se siente enfermo, va al doctor.",
+        "Vamos a almorzar despues de que llegues.",
+        "Me molesta que no pongas atencion en las reuniones.",
+        "Te llamo en cuanto pueda.",
+        "Me preocupa que mi hijo este enfermo.",
+        "No hay duda de que ella sabe cocinar muy bien.",
+        "Cuando tenga tiempo, visitare a mis abuelos.",
+        "No pienso que esto sea una buena idea.",
+        "Necesitamos un entrenador que hable ingles y espanol."
+      ],
+      "pattern_mutation": [
+        "Llamare a mi jefe cuando llegue.",
+        "Siempre esperaba hasta que terminabas.",
+        "Creo que ella tiene razon.",
+        "Conozco un hotel que tiene vista al mar.",
+        "Me preocupa que el cliente no responda.",
+        "Te llamamos en cuanto podamos.",
+        "En caso de que necesites ayuda, avisame.",
+        "Conoces a alguien que pueda hablar ingles y espanol?",
+        "Cuando tengo tiempo, visito a mis abuelos.",
+        "No creo que vivamos en una ciudad tan grande.",
+        "Prefiero salir antes de llover.",
+        "No creo que ellos trabajen mucho.",
+        "Siempre tomabamos notas tan pronto como empezaba la reunion.",
+        "Siempre te ayudo cuando me dices la verdad.",
+        "No me sorprende que quieran mudarse tan pronto."
+      ],
+      "contrastive_discrimination": [
+        "Cuando llega.",
+        "Cuando llegue.",
+        "No creo que tenga razon.",
+        "Creo que tiene razon.",
+        "Busco un disenador que hable ingles.",
+        "Conozco un disenador que habla ingles.",
+        "A menos que me digas.",
+        "Me molesta que no escuches.",
+        "No hay duda de que trabajan mucho.",
+        "Tan pronto como empiece."
+      ],
+      "reverse_conceptual_expression": [
+        "Siempre reviso Slack cuando mi jefe me escribe.",
+        "Esperare hasta que revises el borrador.",
+        "Dudo que el cliente acepte ese precio.",
+        "Es cierto que operamos en tres paises.",
+        "Busco a alguien que pueda traducir esto hoy.",
+        "Conozco a alguien que puede traducir esto.",
+        "En caso de que necesites ayuda, llamame.",
+        "Me molesta que la gente llegue tarde.",
+        "No creo que este cronograma funcione.",
+        "Cuando termine el curso, aplicara al puesto."
+      ]
+    }
+  }
+}

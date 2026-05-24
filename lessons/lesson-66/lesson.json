@@ -1,0 +1,251 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "por-vs-para",
+    "prepositions",
+    "purpose-vs-cause",
+    "adult-learners"
+  ],
+  "difficulty": "B1",
+  "pattern_id": "POR_PARA_DECISION_FRAMES_66",
+  "source_files": [
+    "lessons/lesson-66/Deep 2 summary.pdf",
+    "lessons/lesson-66/Dive 2 exercise.pdf"
+  ],
+  "target_pattern": "Choose para for purpose, destination, deadlines, and intended recipient; choose por for cause, exchange, duration, means, movement through, and fixed chunks like gracias por.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Translating both por and para as for without checking function.",
+      "spanish_logic": "Pick the preposition by meaning role: para points forward to goal or destination, por points backward to reason, method, exchange, or path.",
+      "target_pattern_formula": [
+        "para + infinitive for purpose",
+        "para + person for recipient/benefit",
+        "para + date/time for deadline",
+        "por + noun for cause/reason",
+        "por + duration/means/path/exchange"
+      ],
+      "natural_examples": [
+        "Estudio espanol para trabajar con clientes globales.",
+        "Sali para la oficina a las siete.",
+        "Necesito el informe para el viernes.",
+        "No fuimos por la lluvia.",
+        "Viajamos por tren y pagamos poco por los boletos."
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each in Spanish using por or para based on the intended meaning.",
+      "prompts_en": [
+        "I am studying Spanish to get a better job.",
+        "We left for the airport at 5 a.m.",
+        "This report is for you.",
+        "The meeting was canceled because of traffic.",
+        "I need the proposal by Monday.",
+        "She worked extra hours to finish on time.",
+        "Thank you for your help.",
+        "We traveled by bus.",
+        "I stayed at home for two hours.",
+        "He bought that car for twenty thousand dollars.",
+        "I did it for my family.",
+        "I did it out of fear.",
+        "This laptop is for editing video.",
+        "They entered through the back door.",
+        "My brother works for a software company.",
+        "I came to talk with you.",
+        "I came because of you.",
+        "We are fighting for better salaries.",
+        "Ask for Ana at reception.",
+        "This jacket is too expensive for me."
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as directed.",
+      "drills": [
+        "Base: Estudio espanol para trabajar mejor. -> change purpose verb to viajar.",
+        "Base: Sali para la oficina. -> change destination to el aeropuerto.",
+        "Base: Necesito el informe para el viernes. -> move deadline to manana a las nueve.",
+        "Base: No salimos por la lluvia. -> change cause to el trafico.",
+        "Base: Viajamos por tren. -> change means to autobus.",
+        "Base: Me quede en casa por dos horas. -> change duration to media hora.",
+        "Base: Pague cien dolares por el libro. -> change amount to cincuenta.",
+        "Base: Gracias por tu ayuda. -> change helper to ustedes.",
+        "Base: Trabajo para una startup. -> change employer to una empresa internacional.",
+        "Base: Lo hice por amor. -> make it negative and switch motive to dinero.",
+        "Base: Estoy aqui para hablar con el gerente. -> make it a question with tu.",
+        "Base: Entramos por la ventana. -> change path to la puerta principal.",
+        "Base: Compre flores para mi madre. -> change recipient to mi abuela.",
+        "Base: Lucho por mis derechos. -> change subject to nosotros.",
+        "Base: Este curso es para principiantes. -> change audience to profesionales."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the correct option in each pair.",
+      "prompts": [
+        "I work for my wife (she is my boss). (Trabajo para mi esposa. vs Trabajo por mi esposa.)",
+        "I work because of my wife (to support her). (Trabajo por mi esposa. vs Trabajo para mi esposa.)",
+        "I am here to help. (Estoy aqui para ayudar. vs Estoy aqui por ayudar.)",
+        "We could not travel because of snow. (No pudimos viajar por la nieve. vs No pudimos viajar para la nieve.)",
+        "I need this by 6 p.m. (Lo necesito para las seis. vs Lo necesito por las seis.)",
+        "We stayed there for three days. (Nos quedamos alli por tres dias. vs Nos quedamos alli para tres dias.)",
+        "Thanks for the message. (Gracias por el mensaje. vs Gracias para el mensaje.)",
+        "This gift is for Carlos. (Este regalo es para Carlos. vs Este regalo es por Carlos.)",
+        "She entered through the side door. (Entro por la puerta lateral. vs Entro para la puerta lateral.)",
+        "I paid a lot for this phone. (Pague mucho por este telefono. vs Pague mucho para este telefono.)"
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific meaning.",
+      "prompts": [
+        "Write that you are taking a course to improve your writing at work.",
+        "Write that you are leaving for the office in ten minutes.",
+        "Write that you need a client update by 4 p.m.",
+        "Write that a call was delayed because of internet issues.",
+        "Write that you worked on Saturday to finish a deadline.",
+        "Write that you bought a birthday gift for your sister.",
+        "Write that you traveled by train to a nearby city.",
+        "Write that you waited for forty minutes at the clinic.",
+        "Write that you paid a lot for your laptop.",
+        "Write that you did something important for your family.",
+        "Write that you made a bad decision out of stress.",
+        "Write that you are here to speak with HR.",
+        "Write that your company fights for better customer service.",
+        "Write that a package came through the back entrance.",
+        "Write that a service is too expensive for your budget."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish and force a clear por/para choice.",
+      "prompts_en": [
+        "I am learning Spanish to lead meetings better.",
+        "We left for Madrid this morning.",
+        "I need the contract by tomorrow.",
+        "The event was canceled because of bad weather.",
+        "Thanks for calling me.",
+        "I stayed in the office for one more hour.",
+        "We paid too much for that service.",
+        "I did it for my team, not for money.",
+        "She came to ask for help.",
+        "They walked in through the garage."
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "Estoy estudiando por mejorar mi espanol",
+        "why_it_happens": "Purpose with infinitive is mapped to por from English for.",
+        "correct_spanish": "Estoy estudiando para mejorar mi espanol."
+      },
+      {
+        "mistake": "Gracias para tu ayuda",
+        "why_it_happens": "Set expression is translated literally.",
+        "correct_spanish": "Gracias por tu ayuda."
+      },
+      {
+        "mistake": "Necesito el reporte por el viernes",
+        "why_it_happens": "Deadline meaning is confused with cause.",
+        "correct_spanish": "Necesito el reporte para el viernes."
+      },
+      {
+        "mistake": "No fuimos para la lluvia",
+        "why_it_happens": "Cause/reason context incorrectly uses para.",
+        "correct_spanish": "No fuimos por la lluvia."
+      },
+      {
+        "mistake": "Viajamos para tren",
+        "why_it_happens": "Means of transport pattern is unknown.",
+        "correct_spanish": "Viajamos por tren."
+      },
+      {
+        "mistake": "Me quede para dos horas",
+        "why_it_happens": "Duration in past is marked with wrong preposition.",
+        "correct_spanish": "Me quede por dos horas."
+      },
+      {
+        "mistake": "Pague mucho para ese coche",
+        "why_it_happens": "Price/exchange is mixed with purpose.",
+        "correct_spanish": "Pague mucho por ese coche."
+      },
+      {
+        "mistake": "Trabajo por Google (when employer meaning is intended)",
+        "why_it_happens": "Employer and motive meanings are not separated.",
+        "correct_spanish": "Trabajo para Google."
+      },
+      {
+        "mistake": "Entro para la puerta trasera",
+        "why_it_happens": "Movement through a place uses por, not para.",
+        "correct_spanish": "Entro por la puerta trasera."
+      },
+      {
+        "mistake": "Lo hice para amor",
+        "why_it_happens": "Motive expressions are overgeneralized to para.",
+        "correct_spanish": "Lo hice por amor."
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "Estoy estudiando espanol para conseguir un mejor trabajo.",
+        "Salimos para el aeropuerto a las cinco de la manana.",
+        "Este informe es para ti.",
+        "La reunion fue cancelada por el trafico.",
+        "Necesito la propuesta para el lunes.",
+        "Trabajo horas extra para terminar a tiempo.",
+        "Gracias por tu ayuda.",
+        "Viajamos por autobus.",
+        "Me quede en casa por dos horas.",
+        "Compro ese coche por veinte mil dolares.",
+        "Lo hice por mi familia.",
+        "Lo hice por miedo.",
+        "Esta laptop es para editar video.",
+        "Entraron por la puerta trasera.",
+        "Mi hermano trabaja para una empresa de software.",
+        "Vine para hablar contigo.",
+        "Vine por ti.",
+        "Luchamos por mejores salarios.",
+        "Pregunta por Ana en recepcion.",
+        "Esta chaqueta es demasiado cara para mi."
+      ],
+      "pattern_mutation": [
+        "Estudio espanol para viajar mejor.",
+        "Sali para el aeropuerto.",
+        "Necesito el informe para manana a las nueve.",
+        "No salimos por el trafico.",
+        "Viajamos por autobus.",
+        "Me quede en casa por media hora.",
+        "Pague cincuenta dolares por el libro.",
+        "Gracias por su ayuda.",
+        "Trabajo para una empresa internacional.",
+        "No lo hice por dinero.",
+        "Estas aqui para hablar con el gerente?",
+        "Entramos por la puerta principal.",
+        "Compre flores para mi abuela.",
+        "Nosotros luchamos por nuestros derechos.",
+        "Este curso es para profesionales."
+      ],
+      "contrastive_discrimination": [
+        "Trabajo para mi esposa.",
+        "Trabajo por mi esposa.",
+        "Estoy aqui para ayudar.",
+        "No pudimos viajar por la nieve.",
+        "Lo necesito para las seis.",
+        "Nos quedamos alli por tres dias.",
+        "Gracias por el mensaje.",
+        "Este regalo es para Carlos.",
+        "Entro por la puerta lateral.",
+        "Pague mucho por este telefono."
+      ],
+      "reverse_conceptual_expression": [
+        "Estoy aprendiendo espanol para dirigir reuniones mejor.",
+        "Salimos para Madrid esta manana.",
+        "Necesito el contrato para manana.",
+        "El evento fue cancelado por el mal tiempo.",
+        "Gracias por llamarme.",
+        "Me quede en la oficina por una hora mas.",
+        "Pagamos demasiado por ese servicio.",
+        "Lo hice por mi equipo, no por dinero.",
+        "Vino para pedir ayuda.",
+        "Entraron por el garaje."
+      ]
+    }
+  }
+}
+

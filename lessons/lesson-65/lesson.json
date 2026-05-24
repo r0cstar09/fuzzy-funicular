@@ -1,0 +1,251 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "object-pronouns",
+    "iop-dop-combination",
+    "pronoun-placement",
+    "adult-learners"
+  ],
+  "difficulty": "B1",
+  "pattern_id": "DIRECT_INDIRECT_OBJECT_PRONOUN_STACK_65",
+  "source_files": [
+    "lessons/lesson-65/Deep 1 summary.pdf",
+    "lessons/lesson-65/worksheet IOP.pdf"
+  ],
+  "target_pattern": "Replace repeated nouns with direct and indirect object pronouns, keep IOP + DOP order, change le/les to se before lo/la/los/las, and place pronouns correctly with conjugated verbs, infinitives, and gerunds.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Keeping full nouns in every sentence or placing pronouns in English-like positions.",
+      "spanish_logic": "Spanish sounds natural when you compress repeated objects into pronouns and follow a fixed stack: indirect first, direct second.",
+      "target_pattern_formula": [
+        "single object replacement: lo/la/los/las",
+        "recipient replacement: me/te/le/nos/les",
+        "double pronouns: IOP + DOP",
+        "le/les + lo/la/los/las -> se + lo/la/los/las",
+        "placement: before conjugated verb or attached to infinitive/gerund"
+      ],
+      "natural_examples": [
+        "Veo a Marta cada dia. La veo cada dia.",
+        "Le di el informe a Juan. Se lo di.",
+        "Te voy a mandar el archivo. Te lo voy a mandar.",
+        "Estoy escribiendo la carta para ella. Se la estoy escribiendo.",
+        "Puedes pasarme la sal? Puedes pasarmela?"
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each in Spanish using object pronouns naturally.",
+      "prompts_en": [
+        "I gave the keys to Ana.",
+        "We sent the photos to them.",
+        "She is writing the report for me.",
+        "I am going to explain the plan to you.",
+        "Can you pass the salt to us?",
+        "They told the truth to their parents.",
+        "I bought the tickets for you.",
+        "He is showing the apartment to his clients.",
+        "We left the message for her.",
+        "I am going to lend the car to my brother.",
+        "You brought coffee to me this morning.",
+        "I told the news to Carlos.",
+        "We are preparing dinner for them.",
+        "Can you send the document to her?",
+        "I offered my help to my neighbor.",
+        "They gave the answer to us.",
+        "I am going to read the email to you.",
+        "She explained the problem to the teacher.",
+        "We are looking for the keys.",
+        "I saw Marta yesterday."
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as directed.",
+      "drills": [
+        "Base: Le di el libro a Juan. -> replace objects with pronouns.",
+        "Base: Te voy a mandar la foto. -> move pronouns to attached infinitive position.",
+        "Base: Estoy escribiendo la carta para ella. -> rewrite with pronouns before the conjugated verb.",
+        "Base: Les explicamos las reglas. -> change to singular recipient ella and keep pronoun stack.",
+        "Base: Se lo dije. -> change direct object to feminine singular.",
+        "Base: Me prestaron el coche. -> change recipient to tu.",
+        "Base: Voy a mostrar el proyecto a mis jefes. -> replace with double pronouns.",
+        "Base: Puedes pasarme la cuenta? -> change recipient to nosotros.",
+        "Base: Se la enviaron. -> expand to full nouns: la invitacion to my grandparents.",
+        "Base: Te las traje. -> change direct object to singular masculine.",
+        "Base: Le estamos preparando la cena. -> move pronouns to attached gerund.",
+        "Base: Se lo voy a contar. -> make it negative in yo form with no voy a frame.",
+        "Base: Nos ofrecieron el contrato. -> change to recipient ellos.",
+        "Base: Le deje un mensaje. -> change tense to future with yo and keep pronouns.",
+        "Base: La estamos buscando. -> change direct object to plural feminine."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the most natural pronoun form.",
+      "prompts": [
+        "I gave it to her. (Le lo di. vs Se lo di.)",
+        "I am going to send it to you. (Te lo voy a enviar. vs Voy a te lo enviar.)",
+        "We are writing it for them. (Se la estamos escribiendo. vs Estamos se la escribiendo.)",
+        "Can you pass it to me? (Puedes pasarmelo? vs Puedes me lo pasar?)",
+        "They told it to us. (Nos lo dijeron. vs Lo nos dijeron.)",
+        "I explained it to him. (Se lo explique. vs Le lo explique.)",
+        "She is showing it to her clients. (Se lo esta mostrando. vs Esta mostrando se lo.)",
+        "We left it for you all. (Se lo dejamos. vs Les lo dejamos.)",
+        "I brought them to you. (Te las traje. vs Las te traje.)",
+        "I am reading it to her. (Se lo estoy leyendo. vs Estoy le lo leyendo.)"
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific meaning.",
+      "prompts": [
+        "Write that you sent the contract to your manager this morning.",
+        "Write that your coworker explained the process to you yesterday.",
+        "Write that you are going to show the presentation to your client.",
+        "Write that your team gave the updated numbers to finance.",
+        "Write that you are writing a follow-up email for your colleague.",
+        "Write that you left the apartment keys for your partner.",
+        "Write that you can pass the report to your director now.",
+        "Write that your friend lent you a laptop for the weekend.",
+        "Write that you offered your help to a new teammate.",
+        "Write that you are preparing dinner for your parents tonight.",
+        "Write that your assistant brought you the signed documents.",
+        "Write that you told the truth to your boss.",
+        "Write that you are going to read the message to your family.",
+        "Write that you are looking for your sunglasses.",
+        "Write that you saw your old professor yesterday."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish and avoid literal pronoun placement.",
+      "prompts_en": [
+        "I gave it to them yesterday.",
+        "She is writing it for me right now.",
+        "We are going to explain it to you tomorrow.",
+        "Can you send it to us before noon?",
+        "They told it to him in private.",
+        "I left it for her on the table.",
+        "I am bringing them to you this afternoon.",
+        "We are reading it to them now.",
+        "I cannot lend it to you today.",
+        "I looked for them everywhere and found them."
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "Le lo di",
+        "why_it_happens": "Learner stacks pronouns in English-like order.",
+        "correct_spanish": "Se lo di."
+      },
+      {
+        "mistake": "Lo le dije",
+        "why_it_happens": "Direct pronoun is placed before indirect pronoun.",
+        "correct_spanish": "Se lo dije."
+      },
+      {
+        "mistake": "Voy a te lo enviar",
+        "why_it_happens": "Pronouns are inserted in a non-Spanish position.",
+        "correct_spanish": "Te lo voy a enviar / Voy a enviartelo."
+      },
+      {
+        "mistake": "Estoy se la escribiendo",
+        "why_it_happens": "Attached/preceding options are mixed incorrectly.",
+        "correct_spanish": "Se la estoy escribiendo / Estoy escribiendosela."
+      },
+      {
+        "mistake": "Las te traje",
+        "why_it_happens": "Direct pronoun placed before indirect pronoun.",
+        "correct_spanish": "Te las traje."
+      },
+      {
+        "mistake": "Puedes me lo pasar?",
+        "why_it_happens": "Question structure copied from English order.",
+        "correct_spanish": "Puedes pasarmelo? / Me lo puedes pasar?"
+      },
+      {
+        "mistake": "Le explique lo",
+        "why_it_happens": "Pronouns split around the verb.",
+        "correct_spanish": "Se lo explique."
+      },
+      {
+        "mistake": "Se la voy explicar",
+        "why_it_happens": "Missing preposition a in infinitive frame.",
+        "correct_spanish": "Se la voy a explicar."
+      },
+      {
+        "mistake": "No voy a contarselo for direct negative command idea",
+        "why_it_happens": "Negation scope and verb frame are confused.",
+        "correct_spanish": "No se lo cuento."
+      },
+      {
+        "mistake": "Using full nouns every time after first mention",
+        "why_it_happens": "Avoiding pronoun compression due to low confidence.",
+        "correct_spanish": "Reuse object pronouns: Se lo di, Te la mande, Nos las mostraron."
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "Se las di a Ana.",
+        "Se las enviamos.",
+        "Me lo esta escribiendo.",
+        "Te lo voy a explicar / Voy a explicartelo.",
+        "Puedes pasarnosla? / Nos la puedes pasar?",
+        "Se la dijeron a sus padres.",
+        "Te los compre.",
+        "Se lo esta mostrando a sus clientes.",
+        "Se lo dejamos.",
+        "Se lo voy a prestar a mi hermano.",
+        "Me lo trajiste esta manana.",
+        "Se la dije a Carlos.",
+        "Se la estamos preparando.",
+        "Se lo puedes enviar? / Puedes enviarselo?",
+        "Se la ofreci a mi vecino.",
+        "Nos la dieron.",
+        "Te lo voy a leer / Voy a leertelo.",
+        "Se lo explico al profesor.",
+        "Las estamos buscando.",
+        "La vi ayer."
+      ],
+      "pattern_mutation": [
+        "Se lo di.",
+        "Voy a mandartela.",
+        "Se la estoy escribiendo.",
+        "Se las explicamos.",
+        "Se la dije.",
+        "Te prestaron el coche.",
+        "Se lo voy a mostrar / Voy a mostrarselo.",
+        "Puedes pasarnosla?",
+        "Se la enviaron a mis abuelos.",
+        "Te lo traje.",
+        "Estamos preparandosela.",
+        "No se lo cuento.",
+        "Les ofrecieron el contrato.",
+        "Se lo dejare.",
+        "Las estamos buscando."
+      ],
+      "contrastive_discrimination": [
+        "Se lo di.",
+        "Te lo voy a enviar.",
+        "Se la estamos escribiendo.",
+        "Puedes pasarmelo?",
+        "Nos lo dijeron.",
+        "Se lo explique.",
+        "Se lo esta mostrando.",
+        "Se lo dejamos.",
+        "Te las traje.",
+        "Se lo estoy leyendo."
+      ],
+      "reverse_conceptual_expression": [
+        "Se lo di ayer.",
+        "Me lo esta escribiendo ahora mismo.",
+        "Te lo vamos a explicar manana.",
+        "Puedes enviarnoslo antes del mediodia?",
+        "Se lo dijeron en privado.",
+        "Se lo deje en la mesa.",
+        "Te las traigo esta tarde.",
+        "Se lo estamos leyendo ahora.",
+        "No puedo prestartelo hoy.",
+        "Las busque por todas partes y las encontre."
+      ]
+    }
+  }
+}
+

@@ -1,0 +1,249 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "adjective-position",
+    "meaning-shifts",
+    "restrictive-vs-non-restrictive",
+    "adult-learners"
+  ],
+  "difficulty": "B1",
+  "pattern_id": "ADJECTIVE_POSITION_MEANING_SHIFTS_73",
+  "source_files": [
+    "lessons/lesson-73/adjectives 2 summary.pdf"
+  ],
+  "target_pattern": "Place adjectives after the noun for objective/restrictive description; place them before (or use buen/mal/gran) when the adjective shifts meaning, adds subjective emphasis, or belongs to fixed pre-noun patterns (mucho, poco, ambos, ordinals).",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Always putting adjectives after the noun in Spanish because that was the first classroom rule.",
+      "spanish_logic": "Position is a meaning signal. After the noun = objective quality. Before the noun = subjective view, emphasis, or a different sense of the same adjective (nuevo, viejo, pobre, grande/gran, mismo, bueno/buen, malo/mal).",
+      "target_pattern_formula": [
+        "restrictive/objective: noun + adjective (casa grande, coche nuevo)",
+        "subjective/emphasis: adjective + noun (hermosa ciudad, deliciosa cena)",
+        "meaning shift before: nuevo/viejo/antiguo/pobre/gran/mismo/unico/simple/diferente",
+        "bueno/malo before masculine singular: buen medico / mal resultado",
+        "fixed pre-noun: mucho/poco/ambos + noun; primero/segundo/tercero + noun"
+      ],
+      "natural_examples": [
+        "Compre un nuevo coche, pero no es un coche nuevo.",
+        "Es un viejo amigo, no un amigo viejo.",
+        "Es un buen abogado, pero no un abogado bueno en lo personal.",
+        "Tenemos poco tiempo y mucho trabajo.",
+        "Vivimos en la misma calle, pero en casas diferentes."
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each sentence in Spanish with adjective placement that matches the intended meaning.",
+      "prompts_en": [
+        "It is a large apartment (physical size).",
+        "It is a great apartment (excellent quality).",
+        "I bought a new laptop (new to me, maybe used).",
+        "They sell brand-new phones at that store.",
+        "He is an old friend from college (longtime friend).",
+        "He is an old friend who is eighty years old.",
+        "She is a poor woman (without money).",
+        "The poor woman lost her wallet again (unfortunate woman).",
+        "We need a simple solution (not complicated).",
+        "It was only a simple decoration (nothing more than that).",
+        "It is the same contract we reviewed yesterday.",
+        "We discussed the contract itself, not the appendix.",
+        "He is a good engineer (skilled at his job).",
+        "He is a good engineer (kind and ethical person).",
+        "That was a bad result (poor outcome).",
+        "He is a bad manager (unethical person).",
+        "We have little time before the meeting.",
+        "Both managers approved the budget.",
+        "This is the first version of the report.",
+        "They proposed different ideas (not the same ideas)."
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as directed.",
+      "drills": [
+        "Base: Es un libro grande. -> change to great book (quality, not size).",
+        "Base: Compre un coche nuevo. -> change meaning to brand-new car.",
+        "Base: Es un viejo companero. -> change meaning to coworker who is old in age.",
+        "Base: Un hombre pobre vive aqui. -> change meaning to unfortunate man.",
+        "Base: Propusieron ideas diferentes. -> change to various ideas.",
+        "Base: Es un buen analista. -> change to morally good analyst.",
+        "Base: Es un mal director. -> change to director who is unethical as a person.",
+        "Base: Tenemos poco tiempo. -> change to mucho trabajo.",
+        "Base: Ambos clientes firmaron. -> change to both documents.",
+        "Base: Es el primer borrador. -> change to second version.",
+        "Base: Una casa antigua en el centro. -> change antiguo to mean former/old friend style with amigo.",
+        "Base: Mi unico problema es el horario. -> change to unique problem.",
+        "Base: Una oficina grande. -> make plural: large offices.",
+        "Base: Es una buena propuesta. -> change to bad proposal (poor quality).",
+        "Base: La misma persona llamo dos veces. -> change to the person herself."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the Spanish sentence that matches the intended meaning.",
+      "prompts": [
+        "A brand-new car. (un coche nuevo vs un nuevo coche)",
+        "A car that is new to me. (un coche nuevo vs un nuevo coche)",
+        "A longtime friend. (un amigo viejo vs un viejo amigo)",
+        "A friend who is elderly. (un amigo viejo vs un viejo amigo)",
+        "A poor man without money. (un pobre hombre vs un hombre pobre)",
+        "An unfortunate man. (un pobre hombre vs un hombre pobre)",
+        "A large project. (un gran proyecto vs un proyecto grande)",
+        "A great project. (un gran proyecto vs un proyecto grande)",
+        "A skilled doctor. (un doctor bueno vs un buen doctor)",
+        "The same report. (el mismo informe vs el informe mismo)"
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific meaning.",
+      "prompts": [
+        "Write that your apartment is physically small but in a great location (use gran for great).",
+        "Write that you bought a new phone (new to you, not necessarily brand-new).",
+        "Write that the store sells brand-new computers.",
+        "Write that a longtime coworker is leaving the company.",
+        "Write that your neighbor is an elderly man (old in age).",
+        "Write that you have little time to finish the presentation.",
+        "Write that both candidates accepted the offer.",
+        "Write that this is the first draft of your email.",
+        "Write that your boss is a good lawyer (skilled professionally).",
+        "Write that the poor guy missed his flight again (unfortunate sense).",
+        "Write that they proposed various ideas in the meeting.",
+        "Write that you live on the same street as your colleague.",
+        "Write that you discussed the policy itself, not the exceptions.",
+        "Write that it was only a simple mistake (mere/only sense).",
+        "Write that you need a simple process (not complicated)."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish; choose adjective position for the intended nuance.",
+      "prompts_en": [
+        "I need a different approach, not the same one.",
+        "We reviewed the same document twice.",
+        "She is a good accountant (very competent).",
+        "He is a bad technician (not skilled).",
+        "It is a unique opportunity (one of a kind).",
+        "It is my only opportunity this year.",
+        "They live in a big house (physical size).",
+        "It was a great presentation (excellent quality).",
+        "An ancient building downtown.",
+        "A former boss helped me with the reference."
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "Compre un coche nuevo (meaning new to me, but brand-new intended)",
+        "why_it_happens": "Nuevo after noun is read as physically brand-new; before-noun sense is not applied.",
+        "correct_spanish": "Compre un nuevo coche."
+      },
+      {
+        "mistake": "Es un amigo viejo (meaning longtime friend)",
+        "why_it_happens": "Viejo after noun signals age, not long-standing relationship.",
+        "correct_spanish": "Es un viejo amigo."
+      },
+      {
+        "mistake": "Un pobre hombre (meaning without money, but unfortunate sense intended)",
+        "why_it_happens": "Pobre before noun shifts to unfortunate/pitiable meaning.",
+        "correct_spanish": "Un hombre pobre."
+      },
+      {
+        "mistake": "Un gran departamento (meaning large apartment)",
+        "why_it_happens": "Gran before noun signals greatness/quality, not size.",
+        "correct_spanish": "Un departamento grande."
+      },
+      {
+        "mistake": "Es un doctor bueno (meaning skilled doctor)",
+        "why_it_happens": "Bueno after noun often reads as moral goodness, not professional skill.",
+        "correct_spanish": "Es un buen doctor."
+      },
+      {
+        "mistake": "Es un buen director (meaning unethical director as a person)",
+        "why_it_happens": "Buen before noun is used for skill, not personal morality.",
+        "correct_spanish": "Es un director malo."
+      },
+      {
+        "mistake": "Ideas diferentes (meaning various ideas)",
+        "why_it_happens": "Diferente after noun means not the same; before noun can mean various.",
+        "correct_spanish": "Diferentes ideas."
+      },
+      {
+        "mistake": "Tiempo mucho",
+        "why_it_happens": "Mucho/poco are forced after the noun by default adjective rule.",
+        "correct_spanish": "Mucho tiempo."
+      },
+      {
+        "mistake": "La version primera",
+        "why_it_happens": "Ordinal numbers are placed after noun like English.",
+        "correct_spanish": "La primera version."
+      },
+      {
+        "mistake": "Un adorno simple (meaning mere decoration)",
+        "why_it_happens": "Simple after noun describes style; before noun can minimize to only/mere.",
+        "correct_spanish": "Un simple adorno."
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "Es un apartamento grande.",
+        "Es un gran apartamento.",
+        "Compre una nueva laptop.",
+        "Venden telefonos nuevos en esa tienda.",
+        "Es un viejo amigo de la universidad.",
+        "Es un amigo viejo de ochenta anos.",
+        "Es una mujer pobre.",
+        "La pobre mujer perdio su cartera otra vez.",
+        "Necesitamos una solucion simple.",
+        "Era solo un simple adorno.",
+        "Es el mismo contrato que revisamos ayer.",
+        "Discutimos el contrato mismo, no el anexo.",
+        "Es un buen ingeniero.",
+        "Es un ingeniero bueno.",
+        "Fue un mal resultado.",
+        "Es un manager malo.",
+        "Tenemos poco tiempo antes de la reunion.",
+        "Ambos gerentes aprobaron el presupuesto.",
+        "Esta es la primera version del informe.",
+        "Propusieron ideas diferentes."
+      ],
+      "pattern_mutation": [
+        "Es un gran libro.",
+        "Compre un coche nuevo.",
+        "Es un companero viejo.",
+        "Un pobre hombre vive aqui.",
+        "Propusieron diferentes ideas.",
+        "Es un analista bueno.",
+        "Es un director malo.",
+        "Tenemos mucho trabajo.",
+        "Ambos documentos estan listos.",
+        "Es la segunda version.",
+        "Un antiguo amigo vive en el centro.",
+        "Es un problema unico.",
+        "Son oficinas grandes.",
+        "Es una mala propuesta.",
+        "La persona misma llamo dos veces."
+      ],
+      "contrastive_discrimination": [
+        "Un coche nuevo.",
+        "Un nuevo coche.",
+        "Un viejo amigo.",
+        "Un amigo viejo.",
+        "Un hombre pobre.",
+        "Un pobre hombre.",
+        "Un proyecto grande.",
+        "Un gran proyecto.",
+        "Un buen doctor.",
+        "El mismo informe."
+      ],
+      "reverse_conceptual_expression": [
+        "Necesito un enfoque diferente, no el mismo.",
+        "Revisamos el mismo documento dos veces.",
+        "Es una buena contadora.",
+        "Es un mal tecnico.",
+        "Es una oportunidad unica.",
+        "Es mi unica oportunidad este ano.",
+        "Viven en una casa grande.",
+        "Fue una gran presentacion.",
+        "Un edificio antiguo en el centro.",
+        "Un antiguo jefe me ayudo con la referencia."
+      ]
+    }
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "tags": [
+    "spanish",
+    "daily-lesson",
+    "writing-drills",
+    "accidental-se",
+    "dativo-de-interes",
+    "olvidarse-caerse-romperse",
+    "adult-learners"
+  ],
+  "difficulty": "B1",
+  "pattern_id": "ACCIDENTAL_SE_IO_PRONOUN_77",
+  "source_files": [
+    "lessons/lesson-77/Traducciones con Olvidársele, Caérsele, Rompérsele, Perdérsele, y Acabársele.pdf"
+  ],
+  "target_pattern": "Frame unplanned loss, drops, breaks, forgetfulness, and running out with se + IO pronoun (me/te/le/nos/les) + verb; the affected thing is the grammatical subject and controls verb number.",
+  "lesson": {
+    "cognitive_shift": {
+      "english_trap": "Using I forgot / I dropped / I broke with the person as subject, as if the event were fully intentional.",
+      "spanish_logic": "Spanish often externalizes the event: the thing happens to you. Se marks unplanned occurrence, the IO pronoun marks who is affected, and the lost/broken/forgotten item is the subject.",
+      "target_pattern_formula": [
+        "forget: Se me olvido / Se me olvidaron + thing + (place)",
+        "drop: Se me cayo / Se me cayeron + thing",
+        "break: Se me rompio / Se nos rompieron + thing",
+        "lose/misplace: Se le perdio / Se me perdieron + thing + (place)",
+        "run out: Se me acabo / Se nos acabaron + thing",
+        "optional clarifier: A Maria se le perdio el pasaporte."
+      ],
+      "natural_examples": [
+        "Se me olvido el celular en casa.",
+        "Se le cayo la tarjeta de credito.",
+        "Se nos rompio la ventana.",
+        "A Maria se le perdio el pasaporte en el aeropuerto.",
+        "Se nos acabaron las excusas."
+      ]
+    },
+    "controlled_recombination": {
+      "instructions": "Write each sentence in Spanish using the accidental se + IO pronoun pattern.",
+      "prompts_en": [
+        "I forgot my cellphone at home.",
+        "She forgot her keys at work.",
+        "You dropped your credit card.",
+        "They dropped their cameras.",
+        "Our window broke.",
+        "Javier's headphones broke.",
+        "Maria lost her passport at the airport.",
+        "I lost my gloves.",
+        "The team ran out of space in their suitcases.",
+        "We ran out of excuses.",
+        "I forgot the meeting link at the office.",
+        "He dropped his phone on the stairs.",
+        "Their laptop broke during the trip.",
+        "We lost the receipt for the expense report.",
+        "She ran out of battery on her phone.",
+        "You forgot your badge at home.",
+        "They broke the projector remote.",
+        "I dropped the contract pages in the hallway.",
+        "The client lost the signed copy at the hotel.",
+        "We ran out of time in the presentation."
+      ]
+    },
+    "pattern_mutation": {
+      "instructions": "Transform each base sentence as directed.",
+      "drills": [
+        "Base: Se me olvido el celular en casa. -> change to plural keys at work.",
+        "Base: Se le cayo la tarjeta de credito. -> change to they dropped cameras.",
+        "Base: Se nos rompio la ventana. -> name Javier and use headphones.",
+        "Base: A Maria se le perdio el pasaporte en el aeropuerto. -> change to I lost gloves.",
+        "Base: Se nos acabaron las excusas. -> change to team ran out of suitcase space.",
+        "Base: Se me olvido el enlace de la reunion. -> change to negative: I did not forget...",
+        "Base: Se le cayo el telefono en las escaleras. -> change subject to you (tu).",
+        "Base: Se les rompio la laptop durante el viaje. -> change to present: the screen is breaking.",
+        "Base: Se nos perdio el recibo. -> add place: at the restaurant.",
+        "Base: Se le acabo la bateria del telefono. -> change to we ran out of time.",
+        "Base: Se te olvido la credencial en casa. -> change to question: Did you forget...?",
+        "Base: Se les cayeron las paginas del contrato. -> change to singular page.",
+        "Base: Se le perdio la copia firmada en el hotel. -> clarify client with A el cliente.",
+        "Base: Se me cayeron los guantes. -> change verb to break.",
+        "Base: Se nos acabo el tiempo. -> change to run out of coffee."
+      ]
+    },
+    "contrastive_discrimination": {
+      "instructions": "Choose the natural Spanish sentence for unplanned/affected-party framing.",
+      "prompts": [
+        "I forgot my phone at home. (Olvide mi celular en casa. vs Se me olvido el celular en casa.)",
+        "I dropped the card. (Cai la tarjeta. vs Se me cayo la tarjeta.)",
+        "The window broke on us. (Rompimos la ventana. vs Se nos rompio la ventana.)",
+        "She lost her passport. (Perdio su pasaporte. vs Se le perdio el pasaporte.)",
+        "We ran out of time. (Acabamos el tiempo. vs Se nos acabo el tiempo.)",
+        "I forgot the keys (plural). (Se me olvido las llaves. vs Se me olvidaron las llaves.)",
+        "They dropped the cameras. (Se les cayo las camaras. vs Se les cayeron las camaras.)",
+        "I fell down the stairs. (Se me cai en las escaleras. vs Me cai en las escaleras.)",
+        "I broke the phone on purpose. (Se me rompio el telefono. vs Rompi el telefono.)",
+        "Maria lost her passport. (A Maria le perdio el pasaporte. vs A Maria se le perdio el pasaporte.)"
+      ]
+    },
+    "guided_personal_writing": {
+      "instructions": "Write one Spanish sentence for each specific meaning.",
+      "prompts": [
+        "Write that you forgot your laptop charger at the office.",
+        "Write that your colleague forgot the access code at home.",
+        "Write that you dropped your transit card on the platform.",
+        "Write that their team dropped several files in the hallway.",
+        "Write that your apartment window broke during the storm.",
+        "Write that a coworker's monitor broke yesterday.",
+        "Write that you lost your umbrella at the restaurant.",
+        "Write that your manager lost an important folder at the airport.",
+        "Write that your team ran out of slides before the end.",
+        "Write that you ran out of patience in the meeting.",
+        "Write that you forgot the video call link this morning.",
+        "Write that he dropped his badge near the elevator.",
+        "Write that the printer ran out of paper during your print job.",
+        "Write that you lost the receipt you needed for reimbursement.",
+        "Write that they ran out of seats in the conference room."
+      ]
+    },
+    "reverse_conceptual_expression": {
+      "instructions": "Write natural Spanish with accidental se framing; do not use literal I-forgot/I-dropped subject patterns.",
+      "prompts_en": [
+        "My wallet stayed at home — I didn't mean to leave it.",
+        "Her ID fell out of her bag on the bus.",
+        "Our microwave stopped working unexpectedly.",
+        "He can't find the USB drive he had this morning.",
+        "We have no more coffee in the office.",
+        "I left the documents at the client site by mistake.",
+        "Your pen fell on the floor just now.",
+        "Their rental car got a flat tire.",
+        "She's out of phone storage again.",
+        "The team used up all the budget for this quarter."
+      ]
+    },
+    "common_errors": [
+      {
+        "mistake": "Olvide mi celular en casa",
+        "why_it_happens": "English puts the person as intentional subject instead of accidental se frame.",
+        "correct_spanish": "Se me olvido el celular en casa."
+      },
+      {
+        "mistake": "Se me olvido las llaves",
+        "why_it_happens": "Plural subject does not trigger plural verb agreement.",
+        "correct_spanish": "Se me olvidaron las llaves."
+      },
+      {
+        "mistake": "Se me cai la tarjeta",
+        "why_it_happens": "Caerse reflexive for person falling is mixed with thing dropping.",
+        "correct_spanish": "Se me cayo la tarjeta."
+      },
+      {
+        "mistake": "Rompimos la ventana",
+        "why_it_happens": "Active we-broke framing is used for an unplanned break.",
+        "correct_spanish": "Se nos rompio la ventana."
+      },
+      {
+        "mistake": "Perdio su pasaporte",
+        "why_it_happens": "Simple transitive lose replaces affected-party se pattern.",
+        "correct_spanish": "Se le perdio el pasaporte."
+      },
+      {
+        "mistake": "Se les cayo las camaras",
+        "why_it_happens": "Singular verb with plural subject.",
+        "correct_spanish": "Se les cayeron las camaras."
+      },
+      {
+        "mistake": "Se me olvido mi celular",
+        "why_it_happens": "Possessive is added even though affected item is already the subject.",
+        "correct_spanish": "Se me olvido el celular."
+      },
+      {
+        "mistake": "A Maria le perdio el pasaporte",
+        "why_it_happens": "Accidental se is omitted before IO pronoun.",
+        "correct_spanish": "A Maria se le perdio el pasaporte."
+      },
+      {
+        "mistake": "Acabamos el tiempo",
+        "why_it_happens": "Run-out event is expressed as direct transitive action.",
+        "correct_spanish": "Se nos acabo el tiempo."
+      },
+      {
+        "mistake": "Me cai el telefono",
+        "why_it_happens": "IO pattern for thing dropping is confused with person falling (me cai).",
+        "correct_spanish": "Se me cayo el telefono."
+      }
+    ],
+    "answer_key": {
+      "controlled_recombination": [
+        "Se me olvido el celular en casa.",
+        "Se le olvidaron las llaves en el trabajo.",
+        "Se te cayo la tarjeta de credito.",
+        "Se les cayeron las camaras.",
+        "Se nos rompio la ventana.",
+        "A Javier se le rompieron los audifonos.",
+        "A Maria se le perdio el pasaporte en el aeropuerto.",
+        "Se me perdieron los guantes.",
+        "Al equipo se le acabo el espacio en las maletas.",
+        "Se nos acabaron las excusas.",
+        "Se me olvido el enlace de la reunion en la oficina.",
+        "Se le cayo el telefono en las escaleras.",
+        "Se les rompio la laptop durante el viaje.",
+        "Se nos perdio el recibo del informe de gastos.",
+        "Se le acabo la bateria del telefono.",
+        "Se te olvido la credencial en casa.",
+        "Se les rompio el control remoto del proyector.",
+        "Se me cayeron las paginas del contrato en el pasillo.",
+        "A el cliente se le perdio la copia firmada en el hotel.",
+        "Se nos acabo el tiempo en la presentacion."
+      ],
+      "pattern_mutation": [
+        "Se me olvidaron las llaves en el trabajo.",
+        "Se les cayeron las camaras.",
+        "A Javier se le rompieron los audifonos.",
+        "Se me perdieron los guantes.",
+        "Al equipo se le acabo el espacio en las maletas.",
+        "No se me olvido el enlace de la reunion.",
+        "Se te cayo el telefono en las escaleras.",
+        "Se les esta rompiendo la pantalla de la laptop.",
+        "Se nos perdio el recibo en el restaurante.",
+        "Se nos acabo el tiempo.",
+        "¿Se te olvido la credencial en casa?",
+        "Se me cayo la pagina del contrato.",
+        "A el cliente se le perdio la copia firmada en el hotel.",
+        "Se me rompieron los guantes.",
+        "Se nos acabo el cafe."
+      ],
+      "contrastive_discrimination": [
+        "Se me olvido el celular en casa.",
+        "Se me cayo la tarjeta.",
+        "Se nos rompio la ventana.",
+        "Se le perdio el pasaporte.",
+        "Se nos acabo el tiempo.",
+        "Se me olvidaron las llaves.",
+        "Se les cayeron las camaras.",
+        "Me cai en las escaleras.",
+        "Rompi el telefono.",
+        "A Maria se le perdio el pasaporte."
+      ],
+      "reverse_conceptual_expression": [
+        "Se me olvido la cartera en casa.",
+        "Se le cayo la identificacion en el autobus.",
+        "Se nos rompio el microondas.",
+        "Se le perdio la memoria USB esta manana.",
+        "Se nos acabo el cafe en la oficina.",
+        "Se me olvidaron los documentos en la oficina del cliente.",
+        "Se te cayo el boligrafo al suelo.",
+        "Se les pincho una llanta al coche de renta.",
+        "Se le acabo el espacio en el telefono otra vez.",
+        "Al equipo se le acabo todo el presupuesto del trimestre."
+      ]
+    }
+  }
+}
