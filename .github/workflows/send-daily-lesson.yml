@@ -2,7 +2,9 @@ name: Send Daily Spanish Lesson
 
 on:
   schedule:
-    - cron: "0 12 * * *"
+    # GitHub cron uses UTC. Run at both 09:00 and 10:00 UTC, then gate to 05:00 America/New_York.
+    - cron: "0 9 * * *"
+    - cron: "0 10 * * *"
   workflow_dispatch:
     inputs:
       lesson_number:
@@ -24,24 +26,41 @@ jobs:
       LESSON_CADENCE_DAYS: "2"
       LESSON_NO_WRAP: ${{ vars.LESSON_NO_WRAP }}
     steps:
+      - name: Skip unless it is 5am Eastern
+        if: github.event_name == 'schedule'
+        id: eastern_time
+        run: |
+          hour="$(TZ=America/New_York date +%H)"
+          if [ "$hour" != "05" ]; then
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+            echo "Current Eastern hour is ${hour}; expected 05."
+          else
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+            echo "Running at 5am Eastern."
+          fi
+
       - name: Checkout
+        if: github.event_name != 'schedule' || steps.eastern_time.outputs.skip != 'true'
         uses: actions/checkout@v4
 
       - name: Set up Python
+        if: github.event_name != 'schedule' || steps.eastern_time.outputs.skip != 'true'
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
       - name: Install Python dependencies
+        if: github.event_name != 'schedule' || steps.eastern_time.outputs.skip != 'true'
         run: python -m pip install -r requirements.txt
 
       - name: Validate all lesson JSON files
+        if: github.event_name != 'schedule' || steps.eastern_time.outputs.skip != 'true'
         run: python scripts/send_daily_lesson.py --validate-all
 
       - name: Send selected daily lesson
-        if: ${{ github.event.inputs.lesson_number == '' || github.event.inputs.lesson_number == null }}
+        if: ${{ (github.event_name != 'schedule' || steps.eastern_time.outputs.skip != 'true') && (github.event.inputs.lesson_number == '' || github.event.inputs.lesson_number == null) }}
         run: python scripts/send_daily_lesson.py
 
       - name: Send manually selected lesson
-        if: ${{ github.event.inputs.lesson_number != '' && github.event.inputs.lesson_number != null }}
+        if: ${{ (github.event_name != 'schedule' || steps.eastern_time.outputs.skip != 'true') && (github.event.inputs.lesson_number != '' && github.event.inputs.lesson_number != null) }}
         run: python scripts/send_daily_lesson.py --lesson-number "${{ github.event.inputs.lesson_number }}"

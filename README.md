@@ -71,7 +71,7 @@ Optional repository **Variables**:
 
 The workflow:
 
-- Runs daily at 12:00 UTC
+- Runs daily at 5:00 AM US Eastern (`America/New_York`, handles daylight saving)
 - Supports manual dispatch with an optional `lesson_number`
 - Validates all lesson JSON files before sending
 
