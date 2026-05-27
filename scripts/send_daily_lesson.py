@@ -473,7 +473,13 @@ def main() -> int:
 
     selected_lesson = select_lesson_file(lesson_files, args.lesson_number)
     if selected_lesson is None:
-        print("No lesson scheduled for today based on LESSON_START_DATE/LESSON_CADENCE_DAYS.")
+        start_date = os.getenv("LESSON_START_DATE", dt.date.today().isoformat())
+        cadence_days = os.getenv("LESSON_CADENCE_DAYS", "1")
+        print(
+            "No lesson scheduled for today based on "
+            f"LESSON_START_DATE={start_date}, LESSON_CADENCE_DAYS={cadence_days}, "
+            f"and today={dt.date.today().isoformat()}."
+        )
         return 0
 
     lesson_number, lesson_file = selected_lesson
